@@ -1,189 +1,283 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2024-05-21T12:00:00Z",
+  "generated_at": "2026-10-24T22:54:23.827005+08:00",
   "posts": [
     {
-      "id": "post_1",
+      "id": "post_20261024_1",
       "selected": true,
-      "category": "Oncology",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-      "original_title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-      "theme_color": "#1A237E",
-      "accent_color": "#F9A825",
-      "caption": "【膠質母細胞瘤 (Glioblastoma) 的物理性侵襲機制】\n\n近期一項基礎研究揭示了膠質母細胞瘤 (Glioblastoma, GBM) 微環境的物理特性如何驅動腫瘤細胞的侵襲性。研究發現，GBM 周圍富含玻尿酸 (Hyaluronan) 的黏稠細胞外基質 (Extracellular Matrix, ECM) 會對癌細胞施加物理壓力。\n\n這種物理壓力會誘導癌細胞發生形態學上的改變，使其體積縮小、細胞核更具可塑性，從而增強其穿透周圍腦組織的能力。更重要的是，研究觀察到，即使細胞脫離了高黏稠度的環境，這些有利於侵襲的表型特徵（phenotypic changes）仍會持續存在，顯示此過程可能涉及穩定的表觀遺傳學或細胞骨架重塑。\n\n此發現揭示了一個過去被忽略的腫瘤進展機制，即腫瘤微環境的物理力學特性可直接調控癌細胞的侵襲行為。這為開發針對 GBM 的新療法提供了潛在靶點，例如，干預 ECM 的組成或破壞癌細胞對物理壓力的適應性反應，可能成為抑制 GBM 擴散的策略。\n\n■ 資料來源 (References)：\nChen, A. et al. (2026). Mechanical confinement in the glioblastoma microenvironment induces a persistent invasive phenotype. Nature Cell Biology. DOI: 10.1038/s41556-026-01234-5\n\n#Oncology #Glioblastoma #GBM #BrainCancer #TumorMicroenvironment #TME #CellMechanics #CancerResearch #BasicScience #NeuroOncology #腦癌 #膠質母細胞瘤 #腫瘤微環境 #細胞力學",
-      "slides": [
-        {
-          "slide_number": 1,
-          "header": "GBM 侵襲性新發現：微環境的物理作用",
-          "content": "研究指出，膠質母細胞瘤 (Glioblastoma, GBM) 周圍的腫瘤微環境 (TME) 不僅提供生化信號，其物理特性亦是驅動癌細胞侵襲性的關鍵因素。",
-          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
-        },
-        {
-          "slide_number": 2,
-          "header": "細胞外基質的黏稠度改變細胞形態",
-          "content": "GBM 周圍富含玻尿酸 (Hyaluronan) 的黏稠細胞外基質 (ECM) 會對癌細胞施加物理壓力，迫使細胞縮小體積、增加其細胞核與整體的變形能力 (deformability)。",
-          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
-        },
-        {
-          "slide_number": 3,
-          "header": "具「記憶性」的侵襲表型",
-          "content": "研究發現，即使癌細胞離開高黏稠度環境，其縮小的體積和增強的柔韌性等侵襲性表型仍會持續存在，顯示此為一種穩定的細胞狀態轉變。",
-          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
-        },
-        {
-          "slide_number": 4,
-          "header": "轉譯醫學意義與潛在治療策略",
-          "content": "此發現揭示了 TME 的物理力學特性可作為潛在治療靶點。未來或可開發干預 ECM 物理性質或阻斷癌細胞力學傳感 (mechanosensing) 通路的藥物，以抑制 GBM 的局部侵襲。",
-          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
-        }
-      ]
-    },
-    {
-      "id": "post_2",
-      "selected": true,
-      "category": "Oncology",
+      "category": "小細胞肺癌",
       "source_name": "ScienceDaily Cancer News",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
       "original_title": "Scientists discover a hidden immune weapon against deadly lung cancer",
-      "theme_color": "#004D40",
-      "accent_color": "#B2DFDB",
-      "caption": "【小細胞肺癌 (SCLC) 的新型免疫防禦機制】\n\n小細胞肺癌 (Small Cell Lung Cancer, SCLC) 是一種極具侵襲性的惡性腫瘤，其特徵之一是經常透過下調主要組織相容性複合體 (MHC) 表現來逃避免疫系統的T細胞辨識，導致現有的免疫檢查點抑制劑治療效果有限。\n\n一項新研究發現了一群特殊的免疫細胞，能夠在 SCLC 細胞偽裝自身（即 MHC 表現量低）的情況下，仍能有效辨識並予以毒殺。研究指出，這群細胞可能屬於非典型的 T 細胞或自然殺手 (NK) 細胞亞群。\n\n其辨識機制不依賴傳統的 MHC 抗原呈現路徑，而是透過辨識 SCLC 細胞表面因高度複製壓力而表現的特定壓力配體 (stress ligands)。一旦結合，這些免疫細胞便能釋放穿孔素 (perforin) 與顆粒酶 (granzyme)，誘導癌細胞凋亡。\n\n此發現為 SCLC 的免疫治療開闢了新途徑。未來策略可能包括：開發能增強這群特殊免疫細胞活性與數量的藥物，或設計基於此辨識機制的嵌合抗原受體 (CAR) 細胞療法，以克服 SCLC 的免疫逃脫問題。\n\n■ 資料來源 (References)：\nValdez, R. et al. (2026). A specialized immune cell subset overcomes MHC downregulation to target small cell lung cancer. Cancer Cell. DOI: 10.1016/j.ccell.2026.10.005\n\n#Oncology #LungCancer #SCLC #SmallCellLungCancer #Immunotherapy #ImmunoOncology #CancerImmunology #NKcells #Tcells #MHC #CancerResearch #肺癌 #小細胞肺癌 #免疫治療 #癌症研究",
+      "doi": "10.1016/j.ccell.2026.08.015",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【隱藏的免疫武器：γδ T細胞對抗小細胞肺癌】\n\n研究背景：\n小細胞肺癌（SCLC）是全球最具侵襲性的肺癌類型之一，患者診斷後五年存活率低於7%。儘管免疫療法在多種癌症中取得顯著成功，但其對SCLC的成效卻相當有限，僅有少數患者能獲得持久的臨床效益。其主要挑戰在於SCLC腫瘤細胞極擅長躲避免疫系統的監視，使其能逃脫常規免疫細胞的攻擊。\n\n■ 關鍵發現：\nWEHI的研究人員在SCLC腫瘤中，鑑定出一種過去被忽略的特殊免疫細胞——γδ T細胞（gamma delta T cells）。數據分析顯示，腫瘤中含有較多這類細胞的患者，通常有較佳的治療結果與存活期。這項發現提供了強而有力的證據，證實γδ T細胞不僅存在於SCLC腫瘤微環境中，且似乎具備對抗此疾病的能力。\n\n■ 學術意義：\n此研究揭示，γδ T細胞能夠辨識並摧毀那些已「偽裝」起來以逃避常規免疫系統偵測的癌細胞，為免疫系統提供了一條攻擊SCLC的替代路徑。此外，研究團隊亦證實，某些已在臨床使用的藥物，或可增強這些γδ T細胞的抗癌能力，為未來開發更有效的免疫治療策略帶來新契機。\n\n■ 資料來源 (References)：\n1. Ng J, You Y, Zhang TZ, Hess JB, Best SA, Caneborg A, et al. γδ T cells modulate anti-tumor immunity in small cell lung cancer. Cancer Cell. 2026. https://doi.org/10.1016/j.ccell.2026.08.015\n2. ScienceDaily Cancer News. Scientists discover a hidden immune weapon against deadly lung cancer. https://www.sciencedaily.com/releases/2026/10/261021231232.htm\n\n#腫瘤學 #癌症研究 #免疫治療 #肺癌 #小細胞肺癌",
       "slides": [
         {
-          "slide_number": 1,
-          "header": "小細胞肺癌 (SCLC) 的免疫逃脫挑戰",
-          "content": "SCLC 常透過下調 MHC 分子表現，逃避傳統細胞毒性 T 細胞的攻擊，導致免疫檢查點抑制劑反應率偏低，是臨床治療的主要瓶頸。",
-          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "基礎研究",
+          "headline": "新型免疫細胞現蹤\n對抗致命性肺癌",
+          "footer": "資料來源：Ng et al. Cancer Cell (2026)",
+          "subheadline": "研究發現γδ T細胞能辨識並摧毀小細胞肺癌，即使腫瘤已躲過常規免疫系統的偵測。",
+          "meta_badge": "WEHI 研究所"
         },
         {
-          "slide_number": 2,
-          "header": "發現隱藏的抗癌免疫細胞",
-          "content": "研究人員發現了一群特殊的免疫細胞亞群，它們能夠在 SCLC 細胞缺乏 MHC 表現的情況下，依然能精準辨識並發動攻擊。",
-          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景",
+          "headline": "小細胞肺癌的\n免疫治療困境",
+          "footer": "資料來源：Ng et al. Cancer Cell (2026)",
+          "points": [
+            "小細胞肺癌（SCLC）是全球最具侵襲性的肺癌類型，五年存活率低於7%。",
+            "免疫療法對SCLC的成效有限，僅少數患者能獲得持久的效益。",
+            "主要挑戰在於SCLC腫瘤擅長躲避免疫系統的偵測，使常規免疫細胞無法發揮作用。"
+          ]
         },
         {
-          "slide_number": 3,
-          "header": "非典型辨識機制",
-          "content": "這些免疫細胞不依賴傳統的抗原呈現路徑，而是辨識 SCLC 細胞表面因致癌壓力而異常表現的特定分子標記 (stress ligands)，從而觸發毒殺反應。",
-          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵發現",
+          "headline": "γδ T細胞：\n另闢蹊徑的攻擊者",
+          "footer": "資料來源：Ng et al. Cancer Cell (2026)",
+          "points": [
+            "研究人員在SCLC腫瘤中發現一種過去被忽略的γδ T細胞。",
+            "腫瘤中含有較多這類特殊免疫細胞的患者，通常有較佳的治療結果與存活期。",
+            "研究證實，γδ T細胞有能力辨識並摧毀那些能躲過常規免疫攻擊的癌細胞。"
+          ]
         },
         {
-          "slide_number": 4,
-          "header": "未來免疫治療新方向",
-          "content": "此發現為 SCLC 提供了新的治療契機，未來可望開發針對此機制的細胞療法（如 CAR-T/NK）或藥物，以喚醒免疫系統對抗這種頑固的癌症。",
-          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義",
+          "headline": "免疫治療新策略",
+          "footer": "資料來源：Ng et al. Cancer Cell (2026)",
+          "summary": "此發現揭示了一條對抗SCLC的全新免疫途徑，為開發能克服腫瘤免疫逃脫機制的療法提供理論基礎，未來或可增強現有免疫治療效果。",
+          "cta": "後續研究重點在於探索如何利用現有藥物增強γδ T細胞的抗癌活性。"
         }
       ]
     },
     {
-      "id": "post_3",
+      "id": "post_20261024_2",
       "selected": true,
-      "category": "Oncology",
+      "category": "血液腫瘤學",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+      "original_title": "Scientists discover a surprising link between vitamin C and cancer survival",
+      "doi": "10.1002/cncr.70549",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#60A5FA",
+      "caption": "【維生素C補充劑與血液癌前期病變的存活關聯】\n\n研究背景：\n癌前期血液疾病與血液癌症患者體內，經常觀察到持續性的維生素C水平低下。為探討校正此一缺失是否能改善臨床結果，Van Andel Institute-Stand Up To Cancer® Epigenetics Dream Team主導了EVITA臨床試驗。\n\n■ 關鍵數據：\n此為一項隨機、雙盲、安慰劑對照的二期臨床試驗。患者每日口服1,000毫克維生素C或安慰劑，持續一年。\n\n■ 核心機制：\n數據顯示，維生素C補充劑改變了體內某些與免疫訊號傳遞相關的分子（細胞激素）水平，而這些變化與較佳的臨床預後相關。此現象暗示，維生素C可能透過影響與異常血球生長和進展相關的發炎過程，從而發揮其潛在效益。\n\n■ 資料來源 (References)：\n1. Mikkelsen SU, Al‐Mousawi A, Puglisi AB, Vallentin AP, Mortensen AØ, Madaj Z, et al. Oral vitamin C supplementation in patients with clonal cytopenia of undetermined significance or lower‐risk myeloid malignancies: Results from EVITA, a phase 2 randomized, placebo‐controlled trial. Cancer. 2026. https://doi.org/10.1002/cncr.70549\n2. ScienceDaily Cancer News. Scientists discover a surprising link between vitamin C and cancer survival. https://www.sciencedaily.com/releases/2026/10/261019093437.htm\n\n#腫瘤學 #癌症研究 #血液癌 #白血病 #臨床試驗",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "臨床二期",
+          "headline": "維生素C補充劑\n或可改善血液癌存活",
+          "footer": "資料來源：Mikkelsen et al. Cancer (2026)",
+          "subheadline": "一項二期臨床試驗顯示，每日補充維生素C可能為癌前期血液疾病與早期血癌患者帶來存活優勢。",
+          "meta_badge": "EVITA 臨床試驗"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景",
+          "headline": "血液疾病中的\n維生素C缺乏現象",
+          "footer": "資料來源：Mikkelsen et al. Cancer (2026)",
+          "points": [
+            "癌前期血液疾病與血液癌症患者體內，經常觀察到持續性的維生素C水平低下。",
+            "EVITA臨床試驗旨在探討，補充維生素C是否能改善這類患者的健康與治療結果。",
+            "此研究為一項隨機、雙盲、安慰劑對照的二期臨床試驗。"
+          ]
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵發現",
+          "headline": "試驗數據顯示\n潛在存活優勢",
+          "footer": "資料來源：Mikkelsen et al. Cancer (2026)",
+          "points": [
+            "患者每日口服1,000毫克維生素C，持續一年。相較於安慰劑組，維生素C組的不良事件較少。",
+            "補充維生素C改變了與較佳預後相關的免疫訊號分子（細胞激素）水平。"
+          ]
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義",
+          "headline": "癌症攔截新概念",
+          "footer": "資料來源：Mikkelsen et al. Cancer (2026)",
+          "summary": "研究結果為「癌症攔截」（cancer interception）策略提供支持，即在癌症完全形成前進行干預。維生素C可能透過調節發炎反應影響疾病進程。",
+          "cta": "此潛在的存活益處，仍須透過更大規模的三期臨床試驗來進行最終驗證。"
+        }
+      ]
+    },
+    {
+      "id": "post_20261024_3",
+      "selected": true,
+      "category": "膠質母細胞瘤",
       "source_name": "National Cancer Institute (NCI)",
       "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
       "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "theme_color": "#1A237E",
-      "accent_color": "#8C9EFF",
-      "caption": "【雄性素在膠質母細胞瘤 (GBM) 中扮演腫瘤抑制角色】\n\n流行病學數據顯示膠質母細胞瘤 (Glioblastoma, GBM) 在男性中的發生率高於女性，但其背後的生物學機制尚不完全清楚。一項由美國國家衛生研究院 (NIH) 資助的研究，在臨床前模型中發現了雄性素（如睪固酮）可能扮演著抑制 GBM 生長的角色。\n\n研究團隊在 GBM 的動物模型中發現，雄性素的缺失會顯著促進腫瘤的生長。進一步的分子機制探討顯示，雄性素透過與雄性素受體 (Androgen Receptor, AR) 結合，能抑制腫瘤微環境中的局部發炎反應，特別是某些促腫瘤生長的細胞激素 (cytokines) 的分泌。\n\n當雄性素水平下降或 AR 信號被阻斷時，這種抑制作用消失，導致發炎加劇，進而觸發一系列促進腫瘤細胞增殖與存活的下游信號通路。\n\n這項研究結果挑戰了過去對性激素在癌症中單純促進生長的傳統觀念，揭示了雄性素在特定癌症類型（如 GBM）中可能具有意想不到的腫瘤抑制功能。此發現不僅有助於解釋 GBM 的性別差異，也為未來探索以 AR 信號通路為靶點的 GBM 治療策略提供了新的理論基礎。\n\n■ 資料來源 (References)：\nWu, H., et al. (2026). Androgen signaling suppresses glioblastoma growth by mitigating tumor-associated inflammation. Journal of Clinical Investigation. DOI: 10.1172/JCI189022\n\n#Oncology #Glioblastoma #GBM #NeuroOncology #Testosterone #Androgen #Hormones #CancerResearch #BasicScience #SexDifferences #腦癌 #膠質母細胞瘤 #睪固酮 #雄性素 #癌症研究",
+      "doi": "10.1038/s41586-026-10451-5",
+      "theme_color": "#7C3AED",
+      "accent_color": "#A78BFA",
+      "caption": "【睪固酮或能抑制男性腦瘤生長】\n\n研究背景：\n膠質母細胞瘤在男性中的致死率較高，而雄性激素（如睪固酮）在男性體內濃度較高，因此許多研究者曾懷疑雄性激素是促使腫瘤惡化的因素之一。然而，過去的研究未能充分探討雄性激素在大腦此一獨特的免疫微環境中對腫瘤的具體影響。\n\n■ 關鍵發現：\n在一項膠質母細胞瘤的臨床前模型中，研究人員發現雄性激素的喪失反而驅動了腫瘤生長。此現象與局部發炎反應及壓力荷爾蒙的產生有關。此外，透過分析超過1,300名男性膠質母細胞瘤患者的數據，研究發現補充睪固酮與存活率的顯著改善具有相關性，此結果與臨床前實驗的發現一致。\n\n■ 核心機制：\n研究指出，在小鼠模型中降低雄性激素水平，會使下視丘-腦下垂體-腎上腺（HPA）軸過度活化，導致壓力荷爾蒙急遽升高。這進而促使一部分細胞強化了大腦的免疫屏障，形成一個免疫抑制的微環境，使得外周免疫細胞更難進入腦部攻擊腫瘤，從而為腫瘤生長創造了有利條件。\n\n■ 資料來源 (References)：\n1. Lee J, Chung YM, Silver DJ, Hao Y, Harwood DSL, Ealy A, et al. Androgen loss accelerates brain tumour growth via HPA axis activation. Nature. 2026. https://doi.org/10.1038/s41586-026-10451-5\n2. National Cancer Institute (NCI). NIH-funded study suggests that testosterone suppresses brain tumor growth in males. https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth\n\n#腫瘤學 #癌症研究 #腦瘤 #膠質母細胞瘤 #內分泌學",
       "slides": [
         {
-          "slide_number": 1,
-          "header": "雄性素對膠質母細胞瘤 (GBM) 的抑制作用",
-          "content": "一項臨床前研究發現，與傳統認知不同，雄性素（如睪固酮）在男性 GBM 模型中可能發揮腫瘤抑制功能，此發現有助於解釋 GBM 的性別差異。",
-          "footer": "資料來源：Wu, H., et al. JCI"
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "轉譯研究",
+          "headline": "睪固酮新角色：\n抑制膠質母細胞瘤生長",
+          "footer": "資料來源：Lee et al. Nature (2026)",
+          "subheadline": "研究發現，與男性發育相關的雄性激素，可能在抑制男性腦瘤生長中扮演關鍵角色，顛覆了過去的假設。",
+          "meta_badge": "臨床前模型與數據分析"
         },
         {
-          "slide_number": 2,
-          "header": "雄性素缺失加速腫瘤生長",
-          "content": "在 GBM 動物模型中，去除雄性素（例如透過去勢）會導致腫瘤生長速度顯著加快，顯示雄性素信號通路對控制腫瘤進程具有重要性。",
-          "footer": "資料來源：Wu, H., et al. JCI"
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景",
+          "headline": "膠質母細胞瘤的\n性別差異謎團",
+          "footer": "資料來源：Lee et al. Nature (2026)",
+          "points": [
+            "膠質母細胞瘤在男性中更為致命，許多研究曾懷疑雄性激素是促使腫瘤惡化的因素之一。",
+            "然而，過去的研究未能充分探討雄性激素在大腦此一特殊微環境中對腫瘤的影響。",
+            "大腦具有免疫屏障，其免疫反應機制與身體其他部位不同。"
+          ]
         },
         {
-          "slide_number": 3,
-          "header": "分子機制：抑制局部發炎反應",
-          "content": "機制研究顯示，雄性素透過其受體 (AR) 發揮作用，能有效抑制腫瘤微環境中的促癌發炎信號，從而限制腫瘤細胞的增殖。",
-          "footer": "資料來源：Wu, H., et al. JCI"
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵發現",
+          "headline": "雄性激素缺乏\n反致腫瘤惡化",
+          "footer": "資料來源：Lee et al. Nature (2026)",
+          "points": [
+            "在膠質母細胞瘤的臨床前模型中，雄性激素的喪失反而驅動了腫瘤生長。",
+            "數據分析顯示，在超過1300名男性患者中，補充睪固酮與存活率顯著改善相關。",
+            "雄性激素減少會過度活化下視丘-腦下垂體-腎上腺軸（HPA），導致壓力荷爾蒙飆升。"
+          ]
         },
         {
-          "slide_number": 4,
-          "header": "對臨床的啟示",
-          "content": "此研究揭示了雄性素信號在 GBM 中的複雜角色，提示雄性素受體 (AR) 可能成為一個潛在的治療靶點，為開發 GBM 新療法提供了不同於傳統化放療的思路。",
-          "footer": "資料來源：Wu, H., et al. JCI"
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義",
+          "headline": "重塑內分泌與腦瘤關係",
+          "footer": "資料來源：Lee et al. Nature (2026)",
+          "summary": "此研究揭示雄性激素在大腦中可能具有調節免疫抑制環境的功能。雄性激素的減少反而為腫瘤創造了有利的生長條件。",
+          "cta": "此發現為膠質母細胞瘤的治療提供了潛在的新方向，但仍需進一步的臨床研究證實。"
         }
       ]
     },
     {
-      "id": "post_4",
+      "id": "post_20261024_4",
       "selected": true,
-      "category": "Oncology",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival",
-      "original_title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
-      "theme_color": "#37474F",
-      "accent_color": "#80CBC4",
-      "caption": "【AI 模型透過單細胞數據預測癌症存活率】\n\n在精準醫療時代，準確評估患者預後並識別治療抗性的細胞亞群至關重要。由美國國家衛生研究院 (NIH) 資助的研究團隊開發了一種名為 scSurvival 的人工智慧 (AI) 模型，能從單細胞轉錄組數據中預測癌症患者的存活風險。\n\nscSurvival 是一個基於機器學習的框架，專為分析大規模單細胞解析度數據（如 scRNA-seq）而設計。該模型不僅能根據腫瘤的基因表現特徵將患者分為高風險或低風險群體，還能進一步 pinpoint 造成不良預後的特定癌細胞亞群。\n\n透過解析這些高風險細胞的分子特徵，研究人員可以深入了解導致腫瘤侵襲、轉移及治療抗性的關鍵生物學通路。此模型已在多種癌症類型中進行了測試，並展現出優於傳統臨床病理指標的預後預測能力。\n\nscSurvival 的應用潛力巨大，未來可望用於：\n1.  更精準的患者風險分層，指導個人化治療決策。\n2.  在臨床試驗中篩選合適的受試者。\n3.  識別可作為新型藥物開發靶點的高風險細胞族群。\n\n■ 資料來源 (References)：\nLi, Y., et al. (2026). A single-cell-based machine learning framework for cancer survival prediction. Nature Medicine. DOI: 10.1038/s41591-026-01456-x\n\n#Oncology #ArtificialIntelligence #AI #MachineLearning #SingleCell #scRNAseq #Prognosis #PrecisionOncology #Bioinformatics #CancerResearch #人工智慧 #機器學習 #單細胞 #精準醫療 #癌症研究",
+      "category": "膠質母細胞瘤",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "original_title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+      "doi": "10.1038/s41378-026-01241-0",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【物理力學新發現：流體黏度助長膠質母細胞瘤侵襲】\n\n研究背景：\n膠質母細胞瘤是最致命的腦癌之一，其高度侵襲性是治療上的主要挑戰。傳統的癌症研究多半聚焦於化學訊號與周圍組織的硬度，對於癌細胞移動路徑上流體的物理特性，特別是黏度（viscosity），則較少關注。\n\n■ 核心機制：\n研究人員發現，膠質母細胞瘤前緣的流體黏度，約為其中心壞死組織處的八倍。這種高黏度的環境並非單純阻礙癌細胞移動，反而像是一種物理性的刺激，迫使癌細胞產生適應性變化。長時間處於這種黏稠流體中的癌細胞，會變得體積更小、更具柔韌性，使其能更輕易地穿過周圍腦組織的狹窄間隙。\n\n■ 研究方法與意義：\n為釐清流體黏度的獨立作用，研究團隊開發了一種創新的開放式微流控晶片平台，精準地重現了癌細胞所遭遇的物理條件。此研究揭示了一個過去被忽略的機制：腫瘤微環境的物理特性可以直接影響癌細胞的行為，甚至使其更具侵襲性。更重要的是，部分由高黏度誘導的惡性表型，在細胞離開該環境後仍會持續存在。\n\n■ 資料來源 (References)：\n1. Jiang H, Xu C, Zeng C, Liu X, Deng L, Jian Y, et al. Open micro-valley chip reveals long-term viscosity-induced glioblastoma cellular invasion states. Microsystems & Nanoengineering. 2026. https://doi.org/10.1038/s41378-026-01241-0\n2. ScienceDaily Cancer News. Glioblastoma breakthrough reveals how brain cancer cells become more aggressive. https://www.sciencedaily.com/releases/2026/10/261022081300.htm\n\n#腫瘤學 #癌症研究 #腦瘤 #膠質母細胞瘤 #腫瘤微環境",
       "slides": [
         {
-          "slide_number": 1,
-          "header": "AI 預後模型：scSurvival 的開發",
-          "content": "研究人員開發了一款名為 scSurvival 的 AI 模型，該模型利用機器學習分析單細胞基因表現數據，以預測癌症患者的存活風險。",
-          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "基礎研究",
+          "headline": "腫瘤周圍的黏稠流體\n竟是癌細胞侵襲的推手",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)",
+          "subheadline": "研究揭示膠質母細胞瘤周圍的高黏度流體，能促使癌細胞變得更小、更具彈性，從而增強其侵襲能力。",
+          "meta_badge": "微流控晶片體外研究"
         },
         {
-          "slide_number": 2,
-          "header": "雙重功能：預測風險與識別細胞",
-          "content": "scSurvival 不僅能將患者進行精準的風險分層，其核心優勢在於能同時識別出與不良預後直接相關的特定腫瘤細胞亞群。",
-          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景",
+          "headline": "被忽略的物理因素：\n腫瘤微環境的流體黏度",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)",
+          "points": [
+            "膠質母細胞瘤是最致命的腦癌之一，其侵襲機制是研究重點。",
+            "過去癌症研究多集中於化學訊號與周圍組織的硬度，較少關注癌細胞移動路徑上的流體黏度。",
+            "在膠質母細胞瘤中，腫瘤前緣的流體黏度約為其中心壞死組織的八倍。"
+          ]
         },
         {
-          "slide_number": 3,
-          "header": "超越傳統預後指標",
-          "content": "在多種癌症類型的數據集驗證中，scSurvival 在預測患者總體存活期 (Overall Survival) 方面的表現，優於傳統的臨床病理分期與分子標記。",
-          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵發現",
+          "headline": "高黏度環境下的\n癌細胞惡性轉變",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)",
+          "points": [
+            "研究發現，高黏度環境並非單純阻礙細胞移動，反而會誘導其適應性變化。",
+            "長時間處於黏稠流體中的膠質母細胞瘤細胞，會變得體積更小、更具柔韌性。",
+            "這些改變使癌細胞更容易穿過狹窄的間隙，且部分惡性特徵在離開高黏度環境後仍會持續存在。"
+          ]
         },
         {
-          "slide_number": 4,
-          "header": "精準醫療的臨床應用潛力",
-          "content": "此工具可望輔助臨床決策，實現更個人化的治療策略，並透過鎖定高風險細胞亞群的獨特弱點，加速新型抗癌藥物的開發。",
-          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義",
+          "headline": "腫瘤物理學新視角",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)",
+          "summary": "此研究強調了腫瘤微環境的物理特性在驅動癌症惡性進程中的重要作用，為理解癌細胞侵襲提供了超越傳統化學觀點的新機制。",
+          "cta": "未來研究可探討靶向調控腫瘤微環境物理特性的策略，是否能成為新的治療方向。"
         }
       ]
     },
     {
-      "id": "post_5",
+      "id": "post_20261024_5",
       "selected": true,
-      "category": "Oncology",
+      "category": "肺腺癌",
       "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection",
-      "original_title": "Researchers identify new blood markers that may detect early pancreatic cancer",
-      "theme_color": "#BF360C",
-      "accent_color": "#FFCCBC",
-      "caption": "【胰腺癌早期檢測的新型血液生物標記】\n\n胰腺導管腺癌 (Pancreatic Ductal Adenocarcinoma, PDAC) 因早期症狀不明顯，多數患者確診時已是晚期，導致預後極差。開發有效的早期檢測工具是改善 PDAC 存活率的關鍵。一項發表於《Clinical Cancer Research》的研究，鑑定出一組可用於早期檢測 PDAC 的新型血液生物標記。\n\n研究團隊開發了一種多標記組合的血液檢測方法。此檢測 panel 可能整合了循環腫瘤 DNA (ctDNA) 的特定甲基化模式以及一組與腫瘤相關的蛋白質標記物。透過結合不同來源的分子信號，該檢測旨在提高對早期 PDAC 的檢測靈敏度 (sensitivity) 與特異度 (specificity)。\n\n在初步研究中，該血液檢測 panel 在區分早期 PDAC 患者與健康對照組，以及與良性胰腺疾病（如胰腺炎）患者方面，展現出高度的準確性。例如，在區分 I/II 期 PDAC 患者與健康個體時，其 AUC (Area Under the Curve) 值達到顯著水平。\n\n此研究成果為 PDAC 的非侵入性篩檢提供了極具前景的工具。下一步將是在更大規模的前瞻性隊列中進行驗證，特別是針對高風險族群（如具家族史、特定基因突變或新發糖尿病患者），以確立其在臨床篩檢中的實用價值。\n\n■ 資料來源 (References)：\nPatel, S. K., et al. (2026). A multi-analyte blood-based biomarker panel for the detection of early-stage pancreatic ductal adenocarcinoma. Clinical Cancer Research. DOI: 10.1158/1078-0432.CCR-26-1234\n\n#Oncology #PancreaticCancer #PDAC #EarlyDetection #LiquidBiopsy #Biomarker #ctDNA #CancerScreening #CancerResearch #胰臟癌 #胰腺癌 #早期診斷 #液態活檢 #生物標記",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2025/mobile-dna-lung-cancer",
+      "original_title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
+      "doi": "10.1038/s41586-025-09825-y",
+      "theme_color": "#BE123C",
+      "accent_color": "#FB7185",
+      "caption": "【移動DNA元件：驅動侵襲性肺癌的新機制】\n\n研究背景：\n為深入了解驅動肺癌演化與影響臨床預後的關鍵因素，Sherlock-Lung研究計畫利用全基因組定序技術，對542例肺腺癌的生物檢體進行了深入分析，旨在描繪其基因體結構變異與腫瘤演化軌跡。\n\n■ 關鍵發現：\n研究團隊鑑定出一群具高度侵襲性的肺腺癌亞型，其特徵為富含ID2突變標記（mutational signature）。令人意外的是，此突變標記與一種名為LINE-1（L1）的移動DNA元件被重新活化（reactivation）有關。L1是人類基因組中的古老片段，在正常細胞中通常處於沉默狀態，一旦被活化，便可能在基因組中隨意插入，引發基因體不穩定。L1的活化，可能解釋了此肺癌亞型快速演化與高度侵襲性的根本原因。\n\n■ 演化路徑差異：\n此外，研究亦發現不同的驅動基因突變會導致相異的腫瘤演化路徑。帶有KRAS突變的腫瘤（在吸菸者中較常見）呈現快速的複製群演化（clonal evolution）；相比之下，富含EGFR突變的腫瘤（在非吸菸者中較常見）則具有較多的亞複製群結構（sub-clonal architecture），解釋了其較為漫長的演化過程。\n\n■ 資料來源 (References)：\n1. Zhang T, Zhao W, Wirth C, Díaz-Gay M, Yin J, Cecati M, et al. Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma. Nature. 2026. https://doi.org/10.1038/s41586-025-09825-y\n2. National Cancer Institute (NCI). NIH-led study reveals role of mobile DNA elements in lung cancer progression. https://www.cancer.gov/news-events/press-releases/2025/mobile-dna-lung-cancer\n\n#腫瘤學 #癌症研究 #肺癌 #基因體學 #肺腺癌",
       "slides": [
         {
-          "slide_number": 1,
-          "header": "胰腺癌 (PDAC) 早期檢測的迫切需求",
-          "content": "胰腺導管腺癌 (PDAC) 的高死亡率主要歸因於晚期診斷。一項新研究開發了一種血液檢測方法，旨在發現早期 PDAC，有望改變此困境。",
-          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "基因體學研究",
+          "headline": "沉睡的古老基因甦醒\n驅動侵襲性肺癌演化",
+          "footer": "資料來源：Zhang et al. Nature (2026)",
+          "subheadline": "研究發現，一種名為LINE-1的移動DNA元件被重新活化，可能是部分肺腺癌快速演化與高度侵襲性的根源。",
+          "meta_badge": "Sherlock-Lung 研究"
         },
         {
-          "slide_number": 2,
-          "header": "多標記組合血液檢測 panel",
-          "content": "研究人員整合了循環腫瘤 DNA (ctDNA) 的甲基化特徵與多種血漿蛋白質標記，創建了一個多維度的檢測 panel，以提升檢測的準確性。",
-          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景",
+          "headline": "探究肺癌的\n演化驅動因子",
+          "footer": "資料來源：Zhang et al. Nature (2026)",
+          "points": [
+            "肺癌的腫瘤演化與侵襲性背後的關鍵因素，是基因體學研究的重要課題。",
+            "Sherlock-Lung研究利用全基因組定序技術，分析了542例肺腺癌的生物檢體。",
+            "研究旨在找出影響腫瘤演化軌跡與臨床預後的分子特徵。"
+          ]
         },
         {
-          "slide_number": 3,
-          "header": "優異的初步檢測效能",
-          "content": "在病例對照研究中，該檢測 panel 在區分早期 PDAC 患者與健康個體及良性胰腺疾病患者方面，表現出很高的靈敏度與特異度。",
-          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵發現",
+          "headline": "LINE-1活化與\nID2突變特徵",
+          "footer": "資料來源：Zhang et al. Nature (2026)",
+          "points": [
+            "研究人員發現，一群具侵襲性的腫瘤富含ID2突變特徵。",
+            "此特徵與一種稱為LINE-1（L1）的移動DNA元件被重新活化有關。",
+            "L1在正常細胞中通常處於沉默狀態，其活化可能導致基因組不穩定，解釋了此亞型的快速演化。"
+          ]
         },
         {
-          "slide_number": 4,
-          "header": "未來展望：高風險族群篩檢",
-          "content": "此檢測技術的最終目標是應用於高風險人群的常規篩檢。目前，研究正進入大規模前瞻性臨床試驗階段，以驗證其臨床實用性。",
-          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義",
+          "headline": "基因體學的臨床啟示",
+          "footer": "資料來源：Zhang et al. Nature (2026)",
+          "summary": "此發現揭示了一個先前未知的侵襲性肺癌起源機制，並依據驅動基因（如KRAS vs. EGFR）描繪了不同的腫瘤演化路徑。",
+          "cta": "了解不同突變背景下的演化速度，有助於指導早期檢測與治療策略的制定。"
         }
       ]
     }
