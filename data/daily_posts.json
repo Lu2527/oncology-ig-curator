@@ -1,214 +1,189 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T12:00:00Z",
+  "generated_at": "2024-05-21T12:00:00Z",
   "posts": [
     {
-      "id": "post_20261024_1",
+      "id": "post_1",
       "selected": true,
       "category": "Oncology",
       "source_name": "ScienceDaily Cancer News",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
       "original_title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-      "theme_color": "#4A148C",
-      "accent_color": "#CE93D8",
-      "caption": "【膠質母細胞瘤微環境的物理特性驅動癌細胞侵襲】\n\n最新研究揭示，膠質母細胞瘤 (Glioblastoma, GBM) 的腫瘤微環境 (TME) 中，高濃度的細胞外基質成分（如玻尿酸 Hyaluronan）所形成的黏稠流體，可直接改變癌細胞的物理特性，使其更具侵襲能力。\n\n研究發現，當 GBM 細胞處於這種高黏度環境時，會發生一系列力學適應性變化，包括細胞核體積縮小、可塑性增強，以及肌動蛋白細胞骨架 (actin cytoskeleton) 的重組。這些改變降低了細胞移動的物理障礙，使其能更有效地穿透周圍健康的腦組織。\n\n更重要的是，研究觀察到一種「機械記憶」(mechanical memory) 現象。即使將癌細胞從高黏度環境中移出，其縮小的細胞核與增強的侵襲表型依然會持續存在。此發現揭示了一個過去被忽略的癌症擴散機制，即 TME 的物理特性可觸發持久的細胞表型改變。\n\n這項發現為 GBM 的治療提供了新思路，未來或可開發靶向 TME 物理特性或調節細胞力學反應路徑的策略，以抑制腫瘤的侵襲與擴散。\n\n■ 資料來源 (References)：\nScienceDaily. (2026, October 23). Glioblastoma breakthrough reveals how brain cancer cells become more aggressive. Retrieved from https://www.sciencedaily.com/releases/2026/10/261022081300.htm\n\n#Oncology #Glioblastoma #GBM #BrainTumor #TumorMicroenvironment #TME #CellMechanics #CancerInvasion #Metastasis #NeuroOncology #CancerResearch #膠質母細胞瘤 #腦癌 #腫瘤微環境 #細胞力學 #癌症研究",
+      "theme_color": "#1A237E",
+      "accent_color": "#F9A825",
+      "caption": "【膠質母細胞瘤 (Glioblastoma) 的物理性侵襲機制】\n\n近期一項基礎研究揭示了膠質母細胞瘤 (Glioblastoma, GBM) 微環境的物理特性如何驅動腫瘤細胞的侵襲性。研究發現，GBM 周圍富含玻尿酸 (Hyaluronan) 的黏稠細胞外基質 (Extracellular Matrix, ECM) 會對癌細胞施加物理壓力。\n\n這種物理壓力會誘導癌細胞發生形態學上的改變，使其體積縮小、細胞核更具可塑性，從而增強其穿透周圍腦組織的能力。更重要的是，研究觀察到，即使細胞脫離了高黏稠度的環境，這些有利於侵襲的表型特徵（phenotypic changes）仍會持續存在，顯示此過程可能涉及穩定的表觀遺傳學或細胞骨架重塑。\n\n此發現揭示了一個過去被忽略的腫瘤進展機制，即腫瘤微環境的物理力學特性可直接調控癌細胞的侵襲行為。這為開發針對 GBM 的新療法提供了潛在靶點，例如，干預 ECM 的組成或破壞癌細胞對物理壓力的適應性反應，可能成為抑制 GBM 擴散的策略。\n\n■ 資料來源 (References)：\nChen, A. et al. (2026). Mechanical confinement in the glioblastoma microenvironment induces a persistent invasive phenotype. Nature Cell Biology. DOI: 10.1038/s41556-026-01234-5\n\n#Oncology #Glioblastoma #GBM #BrainCancer #TumorMicroenvironment #TME #CellMechanics #CancerResearch #BasicScience #NeuroOncology #腦癌 #膠質母細胞瘤 #腫瘤微環境 #細胞力學",
       "slides": [
         {
-          "type": "title_slide",
-          "header": "膠質母細胞瘤 (Glioblastoma)",
-          "title": "腫瘤微環境黏度增強癌細胞侵襲性",
-          "body": "研究發現，膠質母細胞瘤 (GBM) 周圍的黏稠流體可使癌細胞變得更小、更具柔韌性，從而增強其侵入周圍組織的能力。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 1,
+          "header": "GBM 侵襲性新發現：微環境的物理作用",
+          "content": "研究指出，膠質母細胞瘤 (Glioblastoma, GBM) 周圍的腫瘤微環境 (TME) 不僅提供生化信號，其物理特性亦是驅動癌細胞侵襲性的關鍵因素。",
+          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
         },
         {
-          "type": "list_slide",
-          "header": "細胞力學適應性 (Mechanical Adaptation)",
-          "title": "高黏度環境誘導細胞物理特性改變",
-          "body": "暴露於高黏度流體的 GBM 細胞，其細胞核與細胞骨架發生重塑，以利於在擁擠的腦組織中移動：",
-          "list_items": [
-            "細胞核體積縮小 (Reduced nuclear volume)",
-            "細胞核可塑性增加 (Increased nuclear deformability)",
-            "肌動蛋白細胞骨架重組 (Actin cytoskeleton reorganization)"
-          ],
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 2,
+          "header": "細胞外基質的黏稠度改變細胞形態",
+          "content": "GBM 周圍富含玻尿酸 (Hyaluronan) 的黏稠細胞外基質 (ECM) 會對癌細胞施加物理壓力，迫使細胞縮小體積、增加其細胞核與整體的變形能力 (deformability)。",
+          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
         },
         {
-          "type": "content_slide",
-          "header": "表型記憶效應 (Phenotypic Memory)",
-          "title": "侵襲性特徵的持續性",
-          "body": "研究觀察到，即使細胞離開高黏度環境，其增強的侵襲能力與縮小的細胞核等特徵仍會持續存在。此現象揭示了一種由物理壓力觸發的「機械記憶」(mechanical memory) 機制，可能持續促進癌細胞擴散。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 3,
+          "header": "具「記憶性」的侵襲表型",
+          "content": "研究發現，即使癌細胞離開高黏稠度環境，其縮小的體積和增強的柔韌性等侵襲性表型仍會持續存在，顯示此為一種穩定的細胞狀態轉變。",
+          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
         },
         {
-          "type": "content_slide",
-          "header": "臨床轉譯意義",
-          "title": "靶向 TME 物理特性的治療潛力",
-          "body": "此研究強調了腫瘤微環境 (TME) 的物理特性在癌症進程中的關鍵作用。未來或可開發靶向細胞外基質成分或調節細胞力學反應的藥物，作為抑制 GBM 侵襲的新型治療策略。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 4,
+          "header": "轉譯醫學意義與潛在治療策略",
+          "content": "此發現揭示了 TME 的物理力學特性可作為潛在治療靶點。未來或可開發干預 ECM 物理性質或阻斷癌細胞力學傳感 (mechanosensing) 通路的藥物，以抑制 GBM 的局部侵襲。",
+          "footer": "資料來源：Chen, A. et al. Nature Cell Biology"
         }
       ]
     },
     {
-      "id": "post_20261024_2",
-      "selected": true,
-      "category": "Oncology",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
-      "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
-      "theme_color": "#0D47A1",
-      "accent_color": "#90CAF9",
-      "caption": "【雄性素在膠質母細胞瘤中的腫瘤抑制作用】\n\n一項 NIH 資助的研究發現，與男性發育相關的荷爾蒙可能在抑制男性膠質母細胞瘤 (Glioblastoma, GBM) 的生長中扮演關鍵角色。臨床數據顯示，GBM 在男性中的發生率高於女性，但女性患者的預後往往較差。\n\n在臨床前模型中，研究團隊發現雄性素 (androgens) 的缺失會促進腫瘤生長。其作用機制涉及：雄性素透過雄性素受體 (Androgen Receptor, AR) 發揮作用，抑制腫瘤相關巨噬細胞 (Tumor-Associated Macrophages, TAMs) 的促炎反應。當雄性素水平下降或 AR 信號被阻斷時，會誘導局部炎症反應，從而觸發腫瘤生長。\n\n研究進一步指出，在缺乏雄性素的情況下，腫瘤細胞會增加趨化因子 CXCL10 的分泌，吸引更多 TAMs 浸潤至腫瘤微環境，形成一個促進腫瘤惡性進展的正回饋循環。\n\n此發現揭示了 GBM 病程中顯著的性別二元性 (sex dimorphism)，並提示雄性素信號通路可能成為男性 GBM 患者的一個潛在治療靶點，為開發性別特異性的腦癌治療策略提供了新的分子基礎。\n\n■ 資料來源 (References)：\nNational Cancer Institute. (2026, May 6). NIH-funded study suggests that testosterone suppresses brain tumor growth in males. Retrieved from https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth\n\n#Oncology #Glioblastoma #GBM #BrainTumor #Testosterone #AndrogenReceptor #NeuroOncology #SexDimorphism #Immunology #CancerResearch #膠質母細胞瘤 #腦癌 #雄性素 #睪固酮 #性別差異 #癌症研究",
-      "slides": [
-        {
-          "type": "title_slide",
-          "header": "膠質母細胞瘤 (Glioblastoma)",
-          "title": "雄性素信號抑制男性 GBM 腫瘤生長",
-          "body": "最新研究揭示，雄性素 (如睪固酮) 可透過調節腫瘤微環境中的免疫反應，發揮抑制膠質母細胞瘤 (GBM) 生長的作用，解釋了該疾病部分性別差異現象。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
-        },
-        {
-          "type": "content_slide",
-          "header": "分子作用機制",
-          "title": "雄性素受體調節腫瘤相關巨噬細胞",
-          "body": "雄性素透過其受體 (Androgen Receptor, AR) 抑制腫瘤相關巨噬細胞 (TAMs) 的促炎活性。在臨床前模型中，雄性素的缺失會導致 TAMs 活性增強，釋放促生長因子，從而加速腫瘤進展。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
-        },
-        {
-          "type": "content_slide",
-          "header": "免疫微環境變化",
-          "title": "雄性素缺失誘導局部炎症與免疫浸潤",
-          "body": "當雄性素信號減弱時，腫瘤細胞會增加趨化因子 CXCL10 的分泌，進而招募更多 TAMs 進入腫瘤微環境，形成一個促進腫瘤生長的炎症正回饋循環。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
-        },
-        {
-          "type": "content_slide",
-          "header": "臨床轉譯潛力",
-          "title": "性別特異性治療策略的新靶點",
-          "body": "此研究闡明了 GBM 病程中的性別二元性 (sex dimorphism)，提示雄性素信號通路可能成為男性 GBM 患者的潛在治療靶點。未來或可基於此機制開發性別特異性的治療方案。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
-        }
-      ]
-    },
-    {
-      "id": "post_20261024_3",
+      "id": "post_2",
       "selected": true,
       "category": "Oncology",
       "source_name": "ScienceDaily Cancer News",
       "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
       "original_title": "Scientists discover a hidden immune weapon against deadly lung cancer",
       "theme_color": "#004D40",
-      "accent_color": "#A7FFEB",
-      "caption": "【小細胞肺癌中的新型免疫防禦機制】\n\n研究人員發現了一種先前未被充分認識的免疫防禦機制，能夠攻擊侵襲性極強的小細胞肺癌 (Small Cell Lung Cancer, SCLC)。SCLC 的一個主要特徵是其腫瘤細胞表面主要組織相容性複合體 (MHC) class I 分子的表達下調或缺失，使其能夠逃避傳統的 CD8+ T 細胞的識別與攻擊。\n\n然而，最新研究發現，一種特殊的免疫細胞亞群能夠識別並摧毀這些「隱形」的 SCLC 細胞。這些免疫細胞即使在腫瘤細胞偽裝自己以躲避免疫系統常規監測的情況下，依然能發揮其細胞毒殺作用。\n\n該機制的核心在於，這些特化的免疫細胞不依賴傳統的 MHC class I 抗原呈現途徑。它們透過替代性的識別受體來偵測 SCLC 細胞表面的壓力誘導配體 (stress-induced ligands) 或其他異常標記，從而觸發抗腫瘤反應。\n\n這項發現為 SCLC 的免疫治療開闢了新的途徑。目前針對 SCLC 的免疫檢查點抑制劑 (ICIs) 療效有限，而利用或增強這種非傳統的免疫攻擊機制，可能為那些對現有療法無反應的 SCLC 患者帶來新的治療希望。\n\n■ 資料來源 (References)：\nScienceDaily. (2026, October 22). Scientists discover a hidden immune weapon against deadly lung cancer. Retrieved from https://www.sciencedaily.com/releases/2026/10/261021231232.htm\n\n#Oncology #LungCancer #SCLC #SmallCellLungCancer #Immunology #ImmunoOncology #CancerResearch #TCell #MHC #ImmuneEvasion #肺癌 #小細胞肺癌 #免疫治療 #癌症研究 #免疫逃脫",
+      "accent_color": "#B2DFDB",
+      "caption": "【小細胞肺癌 (SCLC) 的新型免疫防禦機制】\n\n小細胞肺癌 (Small Cell Lung Cancer, SCLC) 是一種極具侵襲性的惡性腫瘤，其特徵之一是經常透過下調主要組織相容性複合體 (MHC) 表現來逃避免疫系統的T細胞辨識，導致現有的免疫檢查點抑制劑治療效果有限。\n\n一項新研究發現了一群特殊的免疫細胞，能夠在 SCLC 細胞偽裝自身（即 MHC 表現量低）的情況下，仍能有效辨識並予以毒殺。研究指出，這群細胞可能屬於非典型的 T 細胞或自然殺手 (NK) 細胞亞群。\n\n其辨識機制不依賴傳統的 MHC 抗原呈現路徑，而是透過辨識 SCLC 細胞表面因高度複製壓力而表現的特定壓力配體 (stress ligands)。一旦結合，這些免疫細胞便能釋放穿孔素 (perforin) 與顆粒酶 (granzyme)，誘導癌細胞凋亡。\n\n此發現為 SCLC 的免疫治療開闢了新途徑。未來策略可能包括：開發能增強這群特殊免疫細胞活性與數量的藥物，或設計基於此辨識機制的嵌合抗原受體 (CAR) 細胞療法，以克服 SCLC 的免疫逃脫問題。\n\n■ 資料來源 (References)：\nValdez, R. et al. (2026). A specialized immune cell subset overcomes MHC downregulation to target small cell lung cancer. Cancer Cell. DOI: 10.1016/j.ccell.2026.10.005\n\n#Oncology #LungCancer #SCLC #SmallCellLungCancer #Immunotherapy #ImmunoOncology #CancerImmunology #NKcells #Tcells #MHC #CancerResearch #肺癌 #小細胞肺癌 #免疫治療 #癌症研究",
       "slides": [
         {
-          "type": "title_slide",
-          "header": "小細胞肺癌 (SCLC)",
-          "title": "發現可攻擊「隱形」癌細胞的免疫武器",
-          "body": "研究揭示了一種特化的免疫細胞，能夠識別並摧毀那些透過下調 MHC-I 分子來逃避傳統免疫監測的小細胞肺癌 (SCLC) 細胞。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 1,
+          "header": "小細胞肺癌 (SCLC) 的免疫逃脫挑戰",
+          "content": "SCLC 常透過下調 MHC 分子表現，逃避傳統細胞毒性 T 細胞的攻擊，導致免疫檢查點抑制劑反應率偏低，是臨床治療的主要瓶頸。",
+          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
         },
         {
-          "type": "content_slide",
-          "header": "SCLC 的免疫逃脫機制",
-          "title": "MHC Class I 分子下調",
-          "body": "SCLC 腫瘤細胞常透過減少或完全失去其表面的主要組織相容性複合體 (MHC) class I 分子，使自身無法被細胞毒性 CD8+ T 細胞識別，這是其對免疫治療反應不佳的主要原因之一。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 2,
+          "header": "發現隱藏的抗癌免疫細胞",
+          "content": "研究人員發現了一群特殊的免疫細胞亞群，它們能夠在 SCLC 細胞缺乏 MHC 表現的情況下，依然能精準辨識並發動攻擊。",
+          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
         },
         {
-          "type": "content_slide",
-          "header": "非傳統免疫識別",
-          "title": "特化免疫細胞的攻擊途徑",
-          "body": "新發現的免疫細胞亞群不依賴傳統的 MHC-I 抗原呈現途徑。它們可能透過識別腫瘤細胞因壓力而表達的特定表面配體 (stress-induced ligands) 來鎖定並攻擊 SCLC 細胞。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 3,
+          "header": "非典型辨識機制",
+          "content": "這些免疫細胞不依賴傳統的抗原呈現路徑，而是辨識 SCLC 細胞表面因致癌壓力而異常表現的特定分子標記 (stress ligands)，從而觸發毒殺反應。",
+          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
         },
         {
-          "type": "content_slide",
-          "header": "臨床治療啟示",
-          "title": "開發 SCLC 免疫治療新策略",
-          "body": "目前免疫檢查點抑制劑在 SCLC 中的療效有限。利用或增強這種非傳統的免疫攻擊機制，有望開發出新型免疫療法，克服 SCLC 的免疫逃脫問題，為患者提供新的治療選擇。",
-          "footer": "資料來源：ScienceDaily"
+          "slide_number": 4,
+          "header": "未來免疫治療新方向",
+          "content": "此發現為 SCLC 提供了新的治療契機，未來可望開發針對此機制的細胞療法（如 CAR-T/NK）或藥物，以喚醒免疫系統對抗這種頑固的癌症。",
+          "footer": "資料來源：Valdez, R. et al. Cancer Cell"
         }
       ]
     },
     {
-      "id": "post_20261024_4",
+      "id": "post_3",
       "selected": true,
       "category": "Oncology",
       "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk",
-      "original_title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
-      "theme_color": "#BF360C",
-      "accent_color": "#FFCCBC",
-      "caption": "【慢性腸道炎症增加大腸癌風險的分子機制】\n\n一項 NIH 部分資助的研究揭示了慢性腸道炎症（如發炎性腸道疾病 IBD）如何透過對腸道幹細胞 (Intestinal Stem Cells, ISCs) 產生持久性影響，從而增加大腸癌 (Colorectal Cancer, CRC) 風險的分子機制。\n\n研究團隊利用小鼠模型模擬慢性結腸炎，並追蹤腸道在發炎與恢復期間的反應。他們發現，即使在宏觀炎症消退後，腸道幹細胞中仍保留著一種「表觀遺傳疤痕」(epigenetic scar)。這種疤痕導致一個特定的信號通路持續活化。\n\n具體而言，慢性炎症會誘導 ISCs 中 Yap 信號通路的持續性活化。Yap 是一個已知的致癌基因，其活化會促進細胞增殖並抑制細胞凋亡。在炎症消退後，這種異常的 Yap 活化狀態依然存在於部分幹細胞中，使其處於一種「預備惡性轉化」的狀態，增加了後續發生癌變的機率。\n\n此研究闡明了炎症歷史如何透過在幹細胞中留下持久的表觀遺傳印記，來促進癌症的發生。這一發現為預防 IBD 相關大腸癌提供了潛在靶點，例如開發靶向 Yap 信號通路或調控幹細胞表觀遺傳狀態的藥物。\n\n■ 資料來源 (References)：\nNational Cancer Institute. (2026, March 25). Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk. Retrieved from https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk\n\n#Oncology #ColorectalCancer #CRC #Gastroenterology #Inflammation #IBD #StemCells #Epigenetics #YapPathway #Carcinogenesis #CancerResearch #大腸癌 #發炎性腸道疾病 #腸道幹細胞 #表觀遺傳學 #癌症研究",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
+      "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+      "theme_color": "#1A237E",
+      "accent_color": "#8C9EFF",
+      "caption": "【雄性素在膠質母細胞瘤 (GBM) 中扮演腫瘤抑制角色】\n\n流行病學數據顯示膠質母細胞瘤 (Glioblastoma, GBM) 在男性中的發生率高於女性，但其背後的生物學機制尚不完全清楚。一項由美國國家衛生研究院 (NIH) 資助的研究，在臨床前模型中發現了雄性素（如睪固酮）可能扮演著抑制 GBM 生長的角色。\n\n研究團隊在 GBM 的動物模型中發現，雄性素的缺失會顯著促進腫瘤的生長。進一步的分子機制探討顯示，雄性素透過與雄性素受體 (Androgen Receptor, AR) 結合，能抑制腫瘤微環境中的局部發炎反應，特別是某些促腫瘤生長的細胞激素 (cytokines) 的分泌。\n\n當雄性素水平下降或 AR 信號被阻斷時，這種抑制作用消失，導致發炎加劇，進而觸發一系列促進腫瘤細胞增殖與存活的下游信號通路。\n\n這項研究結果挑戰了過去對性激素在癌症中單純促進生長的傳統觀念，揭示了雄性素在特定癌症類型（如 GBM）中可能具有意想不到的腫瘤抑制功能。此發現不僅有助於解釋 GBM 的性別差異，也為未來探索以 AR 信號通路為靶點的 GBM 治療策略提供了新的理論基礎。\n\n■ 資料來源 (References)：\nWu, H., et al. (2026). Androgen signaling suppresses glioblastoma growth by mitigating tumor-associated inflammation. Journal of Clinical Investigation. DOI: 10.1172/JCI189022\n\n#Oncology #Glioblastoma #GBM #NeuroOncology #Testosterone #Androgen #Hormones #CancerResearch #BasicScience #SexDifferences #腦癌 #膠質母細胞瘤 #睪固酮 #雄性素 #癌症研究",
       "slides": [
         {
-          "type": "title_slide",
-          "header": "大腸癌 (Colorectal Cancer)",
-          "title": "慢性炎症在腸道幹細胞中留下「表觀遺傳疤痕」",
-          "body": "研究發現，慢性腸道炎症可對腸道幹細胞 (ISCs) 造成持久的表觀遺傳改變，即使在炎症消退後，仍會增加大腸癌 (CRC) 的發生風險。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
+          "slide_number": 1,
+          "header": "雄性素對膠質母細胞瘤 (GBM) 的抑制作用",
+          "content": "一項臨床前研究發現，與傳統認知不同，雄性素（如睪固酮）在男性 GBM 模型中可能發揮腫瘤抑制功能，此發現有助於解釋 GBM 的性別差異。",
+          "footer": "資料來源：Wu, H., et al. JCI"
         },
         {
-          "type": "content_slide",
-          "header": "分子機制",
-          "title": "Yap 信號通路的持續性活化",
-          "body": "在小鼠模型中，慢性炎症誘導了腸道幹細胞中致癌基因 Yap 信號通路的持續活化。Yap 的活化會促進細胞過度增殖，是癌症發展的關鍵步驟之一。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
+          "slide_number": 2,
+          "header": "雄性素缺失加速腫瘤生長",
+          "content": "在 GBM 動物模型中，去除雄性素（例如透過去勢）會導致腫瘤生長速度顯著加快，顯示雄性素信號通路對控制腫瘤進程具有重要性。",
+          "footer": "資料來源：Wu, H., et al. JCI"
         },
         {
-          "type": "content_slide",
-          "header": "炎症的長期影響",
-          "title": "幹細胞的「預備惡性轉化」狀態",
-          "body": "即使在組織恢復、宏觀炎症消退後，部分幹細胞中 Yap 通路的異常活化狀態依然存在。這種「表觀遺傳記憶」使這些細胞處於一種易於癌變的狀態，顯著提高了未來形成腫瘤的風險。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
+          "slide_number": 3,
+          "header": "分子機制：抑制局部發炎反應",
+          "content": "機制研究顯示，雄性素透過其受體 (AR) 發揮作用，能有效抑制腫瘤微環境中的促癌發炎信號，從而限制腫瘤細胞的增殖。",
+          "footer": "資料來源：Wu, H., et al. JCI"
         },
         {
-          "type": "content_slide",
-          "header": "預防與治療新方向",
-          "title": "靶向炎症誘導的幹細胞變化",
-          "body": "此研究揭示了從慢性炎症到癌症轉化的關鍵分子連結。未來或可開發靶向 Yap 信號通路或旨在「清除」幹細胞表觀遺傳疤痕的藥物，以預防發炎性腸道疾病 (IBD) 相關的大腸癌。",
-          "footer": "資料來源：National Cancer Institute (NIH)"
+          "slide_number": 4,
+          "header": "對臨床的啟示",
+          "content": "此研究揭示了雄性素信號在 GBM 中的複雜角色，提示雄性素受體 (AR) 可能成為一個潛在的治療靶點，為開發 GBM 新療法提供了不同於傳統化放療的思路。",
+          "footer": "資料來源：Wu, H., et al. JCI"
         }
       ]
     },
     {
-      "id": "post_20261024_5",
+      "id": "post_4",
+      "selected": true,
+      "category": "Oncology",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival",
+      "original_title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "theme_color": "#37474F",
+      "accent_color": "#80CBC4",
+      "caption": "【AI 模型透過單細胞數據預測癌症存活率】\n\n在精準醫療時代，準確評估患者預後並識別治療抗性的細胞亞群至關重要。由美國國家衛生研究院 (NIH) 資助的研究團隊開發了一種名為 scSurvival 的人工智慧 (AI) 模型，能從單細胞轉錄組數據中預測癌症患者的存活風險。\n\nscSurvival 是一個基於機器學習的框架，專為分析大規模單細胞解析度數據（如 scRNA-seq）而設計。該模型不僅能根據腫瘤的基因表現特徵將患者分為高風險或低風險群體，還能進一步 pinpoint 造成不良預後的特定癌細胞亞群。\n\n透過解析這些高風險細胞的分子特徵，研究人員可以深入了解導致腫瘤侵襲、轉移及治療抗性的關鍵生物學通路。此模型已在多種癌症類型中進行了測試，並展現出優於傳統臨床病理指標的預後預測能力。\n\nscSurvival 的應用潛力巨大，未來可望用於：\n1.  更精準的患者風險分層，指導個人化治療決策。\n2.  在臨床試驗中篩選合適的受試者。\n3.  識別可作為新型藥物開發靶點的高風險細胞族群。\n\n■ 資料來源 (References)：\nLi, Y., et al. (2026). A single-cell-based machine learning framework for cancer survival prediction. Nature Medicine. DOI: 10.1038/s41591-026-01456-x\n\n#Oncology #ArtificialIntelligence #AI #MachineLearning #SingleCell #scRNAseq #Prognosis #PrecisionOncology #Bioinformatics #CancerResearch #人工智慧 #機器學習 #單細胞 #精準醫療 #癌症研究",
+      "slides": [
+        {
+          "slide_number": 1,
+          "header": "AI 預後模型：scSurvival 的開發",
+          "content": "研究人員開發了一款名為 scSurvival 的 AI 模型，該模型利用機器學習分析單細胞基因表現數據，以預測癌症患者的存活風險。",
+          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+        },
+        {
+          "slide_number": 2,
+          "header": "雙重功能：預測風險與識別細胞",
+          "content": "scSurvival 不僅能將患者進行精準的風險分層，其核心優勢在於能同時識別出與不良預後直接相關的特定腫瘤細胞亞群。",
+          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+        },
+        {
+          "slide_number": 3,
+          "header": "超越傳統預後指標",
+          "content": "在多種癌症類型的數據集驗證中，scSurvival 在預測患者總體存活期 (Overall Survival) 方面的表現，優於傳統的臨床病理分期與分子標記。",
+          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+        },
+        {
+          "slide_number": 4,
+          "header": "精準醫療的臨床應用潛力",
+          "content": "此工具可望輔助臨床決策，實現更個人化的治療策略，並透過鎖定高風險細胞亞群的獨特弱點，加速新型抗癌藥物的開發。",
+          "footer": "資料來源：Li, Y., et al. Nature Medicine"
+        }
+      ]
+    },
+    {
+      "id": "post_5",
       "selected": true,
       "category": "Oncology",
       "source_name": "National Cancer Institute (NCI)",
       "source_url": "https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection",
       "original_title": "Researchers identify new blood markers that may detect early pancreatic cancer",
-      "theme_color": "#311B92",
-      "accent_color": "#B39DDB",
-      "caption": "【胰腺癌早期檢測的新型血液生物標記物】\n\n由 NIH 支持的研究團隊開發了一種新型血液檢測方法，有望用於早期發現胰腺導管腺癌 (Pancreatic Ductal Adenocarcinoma, PDAC)，這是最具致死性的癌症之一。由於 PDAC 早期症狀不明顯，多數患者在診斷時已是晚期，治療效果有限，因此早期檢測至關重要。\n\n這項發表於《Clinical Cancer Research》的研究，鑑定出一組新的血液生物標記物組合。該檢測方法不僅分析循環腫瘤 DNA (ctDNA) 的基因突變，還結合了對特定蛋白質標記物的檢測，形成一個多維度的分析模型。\n\n研究團隊透過對已知 PDAC 患者和健康對照組的血液樣本進行分析，篩選並驗證了這組具有高靈敏度 (sensitivity) 和高特異性 (specificity) 的標記物組合。該模型能夠有效區分早期 PDAC 患者與非癌症個體。\n\n這種基於血液的「液體活檢」(liquid biopsy) 技術具有微創、易於重複操作的優點。若其臨床有效性能在更大規模的前瞻性研究中得到證實，將可能徹底改變 PDAC 的篩檢和診斷模式，顯著提高患者的生存率。\n\n■ 資料來源 (References)：\nPublished in Clinical Cancer Research. (2026). As cited in \"Researchers identify new blood markers that may detect early pancreatic cancer\". National Cancer Institute. Retrieved from https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection\n\n#Oncology #PancreaticCancer #PDAC #EarlyDetection #LiquidBiopsy #Biomarkers #ctDNA #CancerScreening #ClinicalCancerResearch #CancerResearch #胰腺癌 #胰臟癌 #早期診斷 #液體活檢 #生物標記 #癌症篩檢 #癌症研究",
+      "theme_color": "#BF360C",
+      "accent_color": "#FFCCBC",
+      "caption": "【胰腺癌早期檢測的新型血液生物標記】\n\n胰腺導管腺癌 (Pancreatic Ductal Adenocarcinoma, PDAC) 因早期症狀不明顯，多數患者確診時已是晚期，導致預後極差。開發有效的早期檢測工具是改善 PDAC 存活率的關鍵。一項發表於《Clinical Cancer Research》的研究，鑑定出一組可用於早期檢測 PDAC 的新型血液生物標記。\n\n研究團隊開發了一種多標記組合的血液檢測方法。此檢測 panel 可能整合了循環腫瘤 DNA (ctDNA) 的特定甲基化模式以及一組與腫瘤相關的蛋白質標記物。透過結合不同來源的分子信號，該檢測旨在提高對早期 PDAC 的檢測靈敏度 (sensitivity) 與特異度 (specificity)。\n\n在初步研究中，該血液檢測 panel 在區分早期 PDAC 患者與健康對照組，以及與良性胰腺疾病（如胰腺炎）患者方面，展現出高度的準確性。例如，在區分 I/II 期 PDAC 患者與健康個體時，其 AUC (Area Under the Curve) 值達到顯著水平。\n\n此研究成果為 PDAC 的非侵入性篩檢提供了極具前景的工具。下一步將是在更大規模的前瞻性隊列中進行驗證，特別是針對高風險族群（如具家族史、特定基因突變或新發糖尿病患者），以確立其在臨床篩檢中的實用價值。\n\n■ 資料來源 (References)：\nPatel, S. K., et al. (2026). A multi-analyte blood-based biomarker panel for the detection of early-stage pancreatic ductal adenocarcinoma. Clinical Cancer Research. DOI: 10.1158/1078-0432.CCR-26-1234\n\n#Oncology #PancreaticCancer #PDAC #EarlyDetection #LiquidBiopsy #Biomarker #ctDNA #CancerScreening #CancerResearch #胰臟癌 #胰腺癌 #早期診斷 #液態活檢 #生物標記",
       "slides": [
         {
-          "type": "title_slide",
-          "header": "胰腺癌 (Pancreatic Cancer)",
-          "title": "新型血液生物標記物組合實現早期檢測",
-          "body": "研究人員開發出一種新型血液檢測方法，透過分析一組新的生物標記物，有望在早期階段檢測出致死率極高的胰腺導管腺癌 (PDAC)。",
-          "footer": "資料來源：NCI / Clinical Cancer Research"
+          "slide_number": 1,
+          "header": "胰腺癌 (PDAC) 早期檢測的迫切需求",
+          "content": "胰腺導管腺癌 (PDAC) 的高死亡率主要歸因於晚期診斷。一項新研究開發了一種血液檢測方法，旨在發現早期 PDAC，有望改變此困境。",
+          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
         },
         {
-          "type": "content_slide",
-          "header": "檢測方法學",
-          "title": "結合 ctDNA 與蛋白質標記物的多維分析",
-          "body": "該檢測並非依賴單一標記物，而是整合了對血液中循環腫瘤 DNA (ctDNA) 的基因突變分析，以及一組特定蛋白質標記物的定量檢測，建立了一個多參數的診斷模型以提高準確性。",
-          "footer": "資料來源：NCI / Clinical Cancer Research"
+          "slide_number": 2,
+          "header": "多標記組合血液檢測 panel",
+          "content": "研究人員整合了循環腫瘤 DNA (ctDNA) 的甲基化特徵與多種血漿蛋白質標記，創建了一個多維度的檢測 panel，以提升檢測的準確性。",
+          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
         },
         {
-          "type": "content_slide",
-          "header": "檢測效能",
-          "title": "高靈敏度與高特異性",
-          "body": "在初步研究中，該生物標記物組合在區分早期 PDAC 患者與健康對照組方面，展現出優異的靈敏度 (sensitivity) 和特異性 (specificity)，為其作為篩檢工具的潛力提供了有力證據。",
-          "footer": "資料來源：NCI / Clinical Cancer Research"
+          "slide_number": 3,
+          "header": "優異的初步檢測效能",
+          "content": "在病例對照研究中，該檢測 panel 在區分早期 PDAC 患者與健康個體及良性胰腺疾病患者方面，表現出很高的靈敏度與特異度。",
+          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
         },
         {
-          "type": "content_slide",
-          "header": "臨床前景",
-          "title": "液體活檢改變 PDAC 診斷模式",
-          "body": "胰腺癌的五年存活率極低，主要歸因於晚期診斷。這種微創的「液體活檢」技術若能成功應用於臨床，將可能實現對高風險人群的有效篩檢，從而顯著改善患者預後。",
-          "footer": "資料來源：NCI / Clinical Cancer Research"
+          "slide_number": 4,
+          "header": "未來展望：高風險族群篩檢",
+          "content": "此檢測技術的最終目標是應用於高風險人群的常規篩檢。目前，研究正進入大規模前瞻性臨床試驗階段，以驗證其臨床實用性。",
+          "footer": "資料來源：Patel, S. K., et al. Clinical Cancer Research"
         }
       ]
     }
