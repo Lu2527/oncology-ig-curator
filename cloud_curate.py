@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """
-雲端自動化癌症研究抓取與 Gemini API 專業知識摘要腳本 (供 GitHub Actions 每日 08:00 執行)
-1. 從 NCI、ScienceDaily、Medical News Today、Medscape 抓取最新癌症研究
-2. 進入每篇原文頁擷取期刊 DOI，並以 Crossref 官方資料庫驗證作者 / 題目 / 期刊（不交給 AI 產生）
-3. 呼叫 Gemini API 篩選最重要的 5 則，依「專業知識傳遞、無推銷、無醫療建議」規範撰寫內文與圖卡
-4. 由程式（而非 AI）在每篇文末組裝確切的「■ 資料來源 (References)」與圖卡頁尾出處
-5. 輸出不符格式時保留前一天資料，避免網站壞掉
+雲端自動化癌症研究抓取與 Gemini API 專業知識編譯腳本 (供 GitHub Actions 每日 08:00 執行)
+- 嚴格對齊「Today Oncology IG Posts」與「IG Curator Dashboard」之黃金品質標準
+- 透過原文頁 DOI 擷取 + Crossref 官方 API 驗證確切期刊 Reference（作者、篇名、期刊、年份、DOI）
+- 使用 Gemini responseSchema 強制鎖定 4 張圖卡結構（cover / points / points / takeaway），杜絕格式跑掉
 """
 import datetime
 import json
@@ -19,45 +17,114 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-pro")
 
 BANNED_PHRASES = [
-    "往左滑", "左滑", "留言", "收藏", "分享", "追蹤", "按讚", "小盒子", "點擊連結",
-    "主治醫師", "諮詢醫師", "請教醫師", "與醫師討論", "建議定期", "定期篩檢", "就醫", "尋求醫療",
+    "往左滑", "左滑", "歡迎留言", "留言分享", "收藏＋分享", "收藏", "追蹤我們", "按讚", "小盒子",
+    "主治醫師", "諮詢醫師", "請教醫師", "與醫師討論", "建議定期篩檢", "尋求醫療建議",
 ]
 
 PALETTES = [
-    ("#0F766E", "#14B8A6"), ("#1D4ED8", "#60A5FA"), ("#7C3AED", "#A78BFA"),
-    ("#B45309", "#F59E0B"), ("#BE123C", "#FB7185"),
+    ("#0F766E", "#14B8A6"),
+    ("#1D4ED8", "#3B82F6"),
+    ("#6D28D9", "#8B5CF6"),
+    ("#B45309", "#F59E0B"),
+    ("#BE123C", "#F43F5E"),
 ]
 
-SYSTEM_PROMPT = """你是一位專業的腫瘤學（Oncology）學術編譯專家，以繁體中文（台灣用語）撰寫。
-請從提供的候選清單中，篩選出最具臨床與科學價值的 5 則癌症研究（優先選擇 has_verified_reference 為 true 者），
-轉換為 Instagram 1080x1350 多圖輪播（每則 4 張圖卡）的內容。
+SYSTEM_PROMPT = """你是一位頂尖的腫瘤學（Oncology）學術編譯專家，專門為專業醫療知識社群撰寫「Today Oncology IG Posts」等級的高深度繁體中文（台灣醫學慣用語）研究解析與 1080x1350 輪播圖卡。
 
-【嚴格內容規範】
-1. 純專業知識傳遞：聚焦分子機制、臨床試驗數據（HR、PFS、OS、ORR 等）、流行病學與學術轉譯意義。
-2. 只能使用候選資料（title、summary、page_excerpt）中明確出現的事實與數字，絕對不可自行補充或推測任何數據、作者、期刊、試驗編號。
-3. 嚴禁推銷與社群互動引導：不可出現「往左滑、留言、收藏、分享、追蹤」等字眼。
-4. 嚴禁醫療建議：不可出現「找主治醫師、建議定期篩檢、就醫」等對個人的建議。
-5. 不要撰寫任何參考文獻、DOI 或資料來源段落（系統會自動附上經過驗證的確切出處）。
+請從候選清單中，挑選 5 則最具臨床突破性或基礎腫瘤學價值的癌症研究（優先挑選 has_verified_reference 為 true 且屬於重大臨床試驗、免疫/標靶新機制、液態切片/生物標記、抗藥性演化或大型流行病學之研究）。
 
-【輸出格式】只輸出一個 JSON 物件，結構必須完全如下：
-{
-  "posts": [
-    {
-      "source_index": 0,
-      "category": "4~8 字繁中分類，例如：膠質母細胞瘤",
-      "body": "貼文內文（繁中，含【標題】、研究背景、■ 核心機制 / ■ 關鍵數據 等段落，300~600 字，不含參考文獻與 hashtag）",
-      "hashtags": ["#腫瘤學", "#癌症研究"],
-      "slides": [
-        {"type": "cover", "tag": "研究類型（例如：基礎研究 / 臨床三期）", "headline": "封面主標題，可用 \\n 換行，每行不超過 12 字，最多 3 行", "subheadline": "副標題 40 字內", "meta_badge": "研究設計或機構，20 字內"},
-        {"type": "points", "tag": "研究背景", "headline": "本頁標題，可用 \\n 換行", "points": ["要點一 45 字內", "要點二 45 字內", "要點三 45 字內"]},
-        {"type": "points", "tag": "關鍵發現", "headline": "本頁標題，可用 \\n 換行", "points": ["要點一 45 字內", "要點二 45 字內", "要點三 45 字內"]},
-        {"type": "takeaway", "tag": "學術意義", "headline": "本頁標題，可用 \\n 換行", "summary": "學術與臨床意義 90 字內", "cta": "後續研究觀察重點 40 字內（不可為醫療建議）"}
-      ]
-    }
-  ]
-}
-source_index 為候選清單中的 index，5 則必須來自不同的 source_index。
+【黃金品質標準（必須 100% 對齊以下範例之深度與格式）】
+1. **分類標籤 (`category`)**：必須為精準的 4～6 字腫瘤學次領域（例如：`mRNA 癌症疫苗`、`液態切片檢測`、`抗藥性演化`、`細胞工程免疫`、`腫瘤微環境`、`單細胞預後模型`），**嚴禁填寫籠統的 `Oncology` 或 `癌症研究`**。
+2. **第 1 張封面圖卡 (`cover`)**：
+   - `tag`：6～10 字研究性質（如 `臨床三期研究更新`、`分子診斷研究`、`演化腫瘤學研究`、`細胞免疫工程`）。
+   - `headline`：必須以 `\\n` 分成 **3 行**，每行 8～13 字，直接點出核心療法/機制與量化成果（例如：`個人化 mRNA 癌症疫苗\\n降低高風險黑色素瘤\\n復發與死亡風險達 42%`）。
+   - `subheadline`：22～34 字專業副標題（例如：`mRNA-4157 (V940) 合併 PD-1 抑制劑之術後輔助治療研究解析`）。
+   - `meta_badge`：14～22 字研究屬性（例如：`研究設計：多中心隨機對照臨床試驗` 或 `研究焦點：非小細胞肺癌 (NSCLC) 生物標記`）。
+3. **第 2 張機制圖卡 (`points_mechanism`) 與第 3 張數據圖卡 (`points_data`)**：
+   - `tag`：4～6 字（如 `分子機制`、`評估限制`、`臨床數據`、`研究數據`、`實驗驗證`）。
+   - `headline`：以 `\\n` 分成 **2 行**（每行 9～14 字），提出具體科學問題或核心結論（例如：`個人化新抗原疫苗\\n如何精準誘導抗腫瘤免疫？`）。
+   - `points`：固定 **3 點**，每一點都**必須以「四至六字專有名詞小標：」開頭**，後接 28～42 字的具體分子機制或實驗/臨床數據說明！
+     範例：
+     - `"基因體比對：對患者切除之腫瘤進行全外顯子定序，鑑定多達 34 種特異性突變新抗原"`
+     - `"序列編碼：將新抗原序列編碼至單一 mRNA 分子中，轉譯後由樹突細胞呈現予免疫系統"`
+     - `"T 細胞擴增：專一性活化 CD4+ 與 CD8+ T 細胞，針對微量殘存癌細胞建立免疫記憶"`
+4. **第 4 張總結圖卡 (`takeaway`)**：
+   - `tag`：固定為 `學術意義與展望` 或 `臨床轉譯意義`。
+   - `headline`：以 `\\n` 分成 **2 行**（每行 9～14 字），凝練出領域典範轉移（例如：`從廣譜免疫激活邁向\\n個體化新抗原精準標靶`）。
+   - `summary`：65～95 字深度學術與臨床轉譯意義總結。
+   - `cta`：必須以 `後續觀察：` 開頭（30～42 字），指出下一階段值得關注的科學指標或臨床終點（例如：`後續觀察：非小細胞肺癌與胰臟癌三期試驗之整體存活期（OS）數據`）。
+5. **IG 專業貼文內文 (`body`)**：
+   - 第一行必須為 `【具高度專業資訊量之研究標題】`
+   - 第一段完整敘述研究發表機構/期刊、研究對象與核心發現（附英文專有名詞與縮寫括號對照，如 `循環腫瘤 DNA（ctDNA）`、`無惡化存活期（PFS）`）。
+   - 第二段以 `■ 核心作用機制：` 或 `■ 研究核心發現：` 為小標，下列 `1.`、`2.`、`3.` 三點，每點皆以「專有名詞小標：」開頭深入剖析。
+   - 第三段（選填）以 `■ 臨床轉譯與研究展望：` 簡述跨癌種或未來應用。
+   - **不要在 `body` 裡自己寫參考文獻或 DOI**（系統會自動將經過 Crossref 驗證的確切 `■ 資料來源 (References)：` 附加在最後一段）。
+6. **嚴格禁令**：
+   - 嚴禁任何推銷或社群互動語（不可出現「往左滑、歡迎留言、收藏＋分享、追蹤我們」）。
+   - 嚴禁任何對個人的醫療建議（不可出現「與主治醫師討論評估、建議定期篩檢」）。
+   - 嚴禁編造候選資料中未提及的數據。
 """
+
+RESPONSE_SCHEMA = {
+    "type": "OBJECT",
+    "required": ["posts"],
+    "properties": {
+        "posts": {
+            "type": "ARRAY",
+            "items": {
+                "type": "OBJECT",
+                "required": [
+                    "source_index", "category", "body", "hashtags",
+                    "cover", "points_mechanism", "points_data", "takeaway"
+                ],
+                "properties": {
+                    "source_index": {"type": "INTEGER"},
+                    "category": {"type": "STRING"},
+                    "body": {"type": "STRING"},
+                    "hashtags": {"type": "ARRAY", "items": {"type": "STRING"}},
+                    "cover": {
+                        "type": "OBJECT",
+                        "required": ["tag", "headline", "subheadline", "meta_badge"],
+                        "properties": {
+                            "tag": {"type": "STRING"},
+                            "headline": {"type": "STRING"},
+                            "subheadline": {"type": "STRING"},
+                            "meta_badge": {"type": "STRING"},
+                        },
+                    },
+                    "points_mechanism": {
+                        "type": "OBJECT",
+                        "required": ["tag", "headline", "points"],
+                        "properties": {
+                            "tag": {"type": "STRING"},
+                            "headline": {"type": "STRING"},
+                            "points": {"type": "ARRAY", "items": {"type": "STRING"}},
+                        },
+                    },
+                    "points_data": {
+                        "type": "OBJECT",
+                        "required": ["tag", "headline", "points"],
+                        "properties": {
+                            "tag": {"type": "STRING"},
+                            "headline": {"type": "STRING"},
+                            "points": {"type": "ARRAY", "items": {"type": "STRING"}},
+                        },
+                    },
+                    "takeaway": {
+                        "type": "OBJECT",
+                        "required": ["tag", "headline", "summary", "cta"],
+                        "properties": {
+                            "tag": {"type": "STRING"},
+                            "headline": {"type": "STRING"},
+                            "summary": {"type": "STRING"},
+                            "cta": {"type": "STRING"},
+                        },
+                    },
+                },
+            },
+        }
+    },
+}
 
 
 def call_gemini(candidates: list, today_str: str) -> dict:
@@ -66,13 +133,19 @@ def call_gemini(candidates: list, today_str: str) -> dict:
         f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
     )
     user_content = (
-        f"今日日期：{today_str}\n候選清單：\n"
-        f"{json.dumps(candidates, ensure_ascii=False, indent=2)}"
+        f"今日日期：{today_str}\n"
+        f"以下為今日抓取並附帶原文頁面摘錄與驗證出處之國際醫藥網站癌症研究候選清單：\n"
+        f"{json.dumps(candidates, ensure_ascii=False, indent=2)}\n\n"
+        "請嚴格依照黃金品質標準，挑選 5 則不同 source_index 的研究，輸出 JSON。"
     )
     payload = {
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "contents": [{"parts": [{"text": user_content}]}],
-        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+        "generationConfig": {
+            "temperature": 0.2,
+            "responseMimeType": "application/json",
+            "responseSchema": RESPONSE_SCHEMA,
+        },
     }
     req = urllib.request.Request(
         url,
@@ -87,7 +160,6 @@ def call_gemini(candidates: list, today_str: str) -> dict:
 
 
 def scrub(text: str) -> str:
-    """移除含禁用字眼的句子（推銷互動語 / 醫療建議）"""
     if not text:
         return ""
     lines = []
@@ -106,47 +178,72 @@ def build_references(article: dict) -> str:
     return "\n".join(f"{i}. {r}" for i, r in enumerate(refs, 1))
 
 
-def assemble_post(raw: dict, article: dict, n: int, today_compact: str) -> dict:
-    slides_in = raw.get("slides") or []
-    if len(slides_in) != 4:
-        raise ValueError("slides 數量不是 4 張")
-    expected = ["cover", "points", "points", "takeaway"]
-    slides = []
-    for i, (s, t) in enumerate(zip(slides_in, expected), 1):
-        slide = {"slide_num": i, "type": t, "tag": scrub(s.get("tag", "")),
-                 "headline": scrub(s.get("headline", "")), "footer": article["footer_citation"]}
-        if not slide["headline"]:
-            raise ValueError(f"第 {i} 張缺少 headline")
-        if t == "cover":
-            slide["subheadline"] = scrub(s.get("subheadline", ""))
-            slide["meta_badge"] = scrub(s.get("meta_badge", "")) or f"研究來源：{article['source_name']}"
-        elif t == "points":
-            pts = [scrub(p) for p in (s.get("points") or []) if scrub(p)]
-            if len(pts) < 2:
-                raise ValueError(f"第 {i} 張要點不足")
-            slide["points"] = pts[:3]
-        else:
-            slide["summary"] = scrub(s.get("summary", ""))
-            slide["cta"] = scrub(s.get("cta", ""))
-        slides.append(slide)
+def assemble_post(raw: dict, article: dict, n: int) -> dict:
+    footer = article.get("footer_citation") or f"資料來源：{article['source_name']}"
+    cover = raw["cover"]
+    pm = raw["points_mechanism"]
+    pd = raw["points_data"]
+    tk = raw["takeaway"]
 
-    hashtags = " ".join(h if h.startswith("#") else "#" + h for h in (raw.get("hashtags") or []))
+    slides = [
+        {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": scrub(cover.get("tag", "重點研究解析")),
+            "headline": scrub(cover.get("headline", "")),
+            "subheadline": scrub(cover.get("subheadline", "")),
+            "meta_badge": scrub(cover.get("meta_badge", "")) or f"研究來源：{article['source_name']}",
+            "footer": footer,
+        },
+        {
+            "slide_num": 2,
+            "type": "points",
+            "tag": scrub(pm.get("tag", "分子機制")),
+            "headline": scrub(pm.get("headline", "")),
+            "points": [scrub(p) for p in (pm.get("points") or []) if scrub(p)][:3],
+            "footer": footer,
+        },
+        {
+            "slide_num": 3,
+            "type": "points",
+            "tag": scrub(pd.get("tag", "關鍵數據")),
+            "headline": scrub(pd.get("headline", "")),
+            "points": [scrub(p) for p in (pd.get("points") or []) if scrub(p)][:3],
+            "footer": footer,
+        },
+        {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": scrub(tk.get("tag", "學術意義與展望")),
+            "headline": scrub(tk.get("headline", "")),
+            "summary": scrub(tk.get("summary", "")),
+            "cta": scrub(tk.get("cta", "")),
+            "footer": footer,
+        },
+    ]
+
+    for s in slides:
+        if not s["headline"]:
+            raise ValueError("圖卡缺少 headline")
+        if s["type"] == "points" and len(s["points"]) < 3:
+            raise ValueError("要點圖卡不足 3 點")
+
+    hashtags = " ".join(
+        h if h.startswith("#") else "#" + h
+        for h in (raw.get("hashtags") or ["#腫瘤學", "#癌症研究", "#精準醫學"])
+    )
     body = scrub(raw.get("body", ""))
-    # 若 AI 仍自行寫了參考文獻段落，一律移除，改用經驗證的出處
     body = re.split(r"■\s*資料來源|參考文獻|References", body)[0].strip()
-    caption = f"{body}\n\n■ 資料來源 (References)：\n{build_references(article)}"
-    if hashtags:
-        caption += f"\n\n{hashtags}"
+    caption = f"{body}\n\n■ 資料來源 (References)：\n{build_references(article)}\n\n{hashtags}"
 
     theme, accent = PALETTES[(n - 1) % len(PALETTES)]
     return {
-        "id": f"post_{today_compact}_{n}",
+        "id": f"post-{n}",
         "selected": True,
-        "category": scrub(raw.get("category", "")) or "癌症研究",
+        "category": scrub(raw.get("category", "")) or "腫瘤學研究",
         "source_name": article["source_name"],
         "source_url": article["url"],
         "original_title": article["title"],
-        "doi": article.get("doi", ""),
         "theme_color": theme,
         "accent_color": accent,
         "caption": caption,
@@ -174,10 +271,10 @@ if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.abspath(__file__))
     tz = datetime.timezone(datetime.timedelta(hours=8))
     now = datetime.datetime.now(tz)
-    today_str, today_compact = now.strftime("%Y-%m-%d"), now.strftime("%Y%m%d")
+    today_str = now.strftime("%Y-%m-%d")
 
     if not GEMINI_API_KEY:
-        print("ℹ️ 未提供 GEMINI_API_KEY，保留現有資料")
+        print("ℹ️ 未提供 GEMINI_API_KEY，保留現有黃金標準資料並同步至 docs/data/daily_posts.json")
         sync_existing(base_dir)
         sys.exit(0)
 
@@ -194,6 +291,7 @@ if __name__ == "__main__":
             "title": a["title"],
             "summary": a.get("summary", ""),
             "page_excerpt": a.get("page_excerpt", ""),
+            "verified_reference": a.get("verified_reference", ""),
             "has_verified_reference": bool(a.get("verified_reference")),
         }
         for i, a in enumerate(articles)
@@ -207,16 +305,16 @@ if __name__ == "__main__":
             if not isinstance(idx, int) or idx in used or not (0 <= idx < len(articles)):
                 continue
             try:
-                posts.append(assemble_post(raw, articles[idx], len(posts) + 1, today_compact))
+                posts.append(assemble_post(raw, articles[idx], len(posts) + 1))
                 used.add(idx)
-            except ValueError as exc:
+            except Exception as exc:
                 print(f"[WARN] 略過一則格式不符的貼文：{exc}")
             if len(posts) == 5:
                 break
-        if len(posts) < 3:
-            raise ValueError(f"有效貼文僅 {len(posts)} 則")
+        if len(posts) < 5:
+            raise ValueError(f"有效貼文僅 {len(posts)} 則，未達 5 則標準")
     except Exception as exc:
-        print(f"⚠️ 本次產生失敗（{exc}），保留前一次的資料以免網站壞掉")
+        print(f"⚠️ 本次產生未達 5 則黃金標準（{exc}），保留現有高品質資料")
         sync_existing(base_dir)
         sys.exit(0)
 
@@ -225,4 +323,4 @@ if __name__ == "__main__":
         "generated_at": now.isoformat(),
         "posts": posts,
     })
-    print(f"✅ 已完成 {today_str} 共 {len(posts)} 則癌症研究專業編譯（出處皆由原文頁 / Crossref 驗證）")
+    print(f"✅ 已完成 {today_str} 共 5 則黃金標準癌症研究專業編譯！")
