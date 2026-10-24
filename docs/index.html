@@ -5,18 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>每日癌症新知 IG 審核與一鍵發布工作台（專業知識版）</title>
   <script src="https://cdn.tailwindcss.com"></script>
-<style>
-  :root {
-    --background: #f8fafc;
-    --foreground: #0f172a;
-    --card: #ffffff;
-    --border: #e2e8f0;
-    --muted-foreground: #64748b;
-    --secondary: #f1f5f9;
-    --secondary-foreground: #1e293b;
-  }
-  body { background: var(--background); color: var(--foreground); font-family: -apple-system, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif; }
-</style>
+  <style>
+    :root {
+      --background: #f8fafc;
+      --foreground: #0f172a;
+      --card: #ffffff;
+      --border: #e2e8f0;
+      --muted-foreground: #64748b;
+      --secondary: #f1f5f9;
+      --secondary-foreground: #1e293b;
+    }
+    body { background: var(--background); color: var(--foreground); font-family: -apple-system, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif; }
+  </style>
 </head>
 <body class="bg-[var(--background)] text-[var(--foreground)] antialiased p-4 md:p-6">
   <div class="max-w-6xl mx-auto space-y-6">
@@ -947,6 +947,47 @@
       }
     }
 
+    // 將任何格式的貼文資料轉為標準 4 張圖卡結構（cover / points / points / takeaway），避免畫面空白
+    function normalizePost(p) {
+      const types = ["cover", "points", "points", "takeaway"];
+      const raw = Array.isArray(p.slides) ? p.slides : [];
+      const slides = types.map((t, i) => {
+        const s = raw[i] || {};
+        const headline = s.headline || s.header || s.title || p.original_title || "";
+        const content = s.content || s.text || "";
+        const out = {
+          slide_num: i + 1,
+          type: t,
+          tag: s.tag || ["研究主題", "研究背景", "關鍵發現", "學術意義"][i],
+          headline: String(headline),
+          footer: s.footer || ("資料來源：" + (p.source_name || "")),
+        };
+        if (t === "cover") {
+          out.subheadline = s.subheadline || content;
+          out.meta_badge = s.meta_badge || ("研究來源：" + (p.source_name || ""));
+        } else if (t === "points") {
+          let pts = Array.isArray(s.points) ? s.points : String(content).split(/(?<=[。；;])/).map(x => x.trim()).filter(Boolean);
+          out.points = (pts.length ? pts : [content || headline]).slice(0, 3);
+        } else {
+          out.summary = s.summary || content;
+          out.cta = s.cta || "";
+        }
+        return out;
+      });
+      return {
+        ...p,
+        selected: p.selected !== false,
+        category: p.category || "癌症研究",
+        theme_color: p.theme_color || "#0F766E",
+        accent_color: p.accent_color || "#14B8A6",
+        caption: p.caption || "",
+        original_title: p.original_title || "",
+        source_name: p.source_name || "",
+        source_url: p.source_url || "#",
+        slides,
+      };
+    }
+
     async function initDashboard() {
       try {
         const saved = localStorage.getItem("oncology_ig_config");
@@ -964,7 +1005,7 @@
           const fresh = await res.json();
           if (fresh && Array.isArray(fresh.posts) && fresh.posts.length > 0) {
             DAILY_DATA.date = fresh.date || DAILY_DATA.date;
-            DAILY_DATA.posts = fresh.posts.map(p => ({ ...p, status: p.status || "待審核" }));
+            DAILY_DATA.posts = fresh.posts.map(p => normalizePost({ ...p, status: p.status || "待審核" }));
             document.getElementById("dateBadge").textContent = `${DAILY_DATA.date} 國際權威醫藥研究精選`;
           }
         }
