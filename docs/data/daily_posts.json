@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T21:20:30+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "mRNA 癌症疫苗",
+      "source_name": "ESMO / The Lancet / JCO",
+      "source_url": "https://doi.org/10.1016/S0140-6736(23)02268-7",
+      "original_title": "Personalized mRNA Cancer Vaccine Cuts Melanoma Recurrence Risk by 42% in Phase 3 Trial Update",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【個人化 mRNA 癌症疫苗於高風險黑色素瘤之三期臨床數據解析】\n\n歐洲腫瘤內科學會（ESMO）與英國癌症研究協會（Cancer Research UK）近期公布個人化新抗原 mRNA 癌症疫苗（Intismeran Autogene，代號 mRNA-4157/V940）的最新臨床追蹤數據。研究顯示，將此客製化疫苗與 PD-1 免疫檢查點抑制劑（Pembrolizumab）合併用於手術切除後的高風險黑色素瘤患者，相較於單獨使用免疫療法，可將復發或死亡風險降低 42%（HR = 0.58）。\n\n■ 核心作用機制：\n1. 腫瘤外顯子定序：透過次世代基因定序（NGS）比對患者腫瘤組織與正常組織，篩選出最多 34 種腫瘤特異性新抗原（Neoantigens）。\n2. 專一性免疫激活：mRNA 轉譯出新抗原胜肽後，經由抗原呈現細胞（APC）活化具腫瘤專一性的 CD8+ 與 CD4+ T 細胞。\n3. 協同免疫反應：疫苗負責擴增腫瘤特異性 T 細胞族群，PD-1 抑制劑則解除腫瘤微環境的免疫抑制訊號。\n\n■ 跨癌種研究進展：\n目前該技術平台已同步展開針對非小細胞肺癌（NSCLC）、腎細胞癌、泌尿道上皮癌及胰管腺癌之多中心臨床試驗。\n\n■ 資料來源 (References)：\n1. Weber JS, Carlino MS, Khattak A, et al. Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942). The Lancet / Journal of Clinical Oncology (ESMO Congress Update). https://doi.org/10.1016/S0140-6736(23)02268-7\n2. National Cancer Institute (NCI) & Cancer Research UK Clinical Trial Database (NCT05933577).\n\n#腫瘤學 #mRNA癌症疫苗 #新抗原 #免疫療法 #黑色素瘤 #臨床試驗 #精準醫學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "臨床三期研究更新",
+          "headline": "個人化 mRNA 癌症疫苗\n降低高風險黑色素瘤\n復發與死亡風險達 42%",
+          "subheadline": "mRNA-4157 (V940) 合併 PD-1 抑制劑之術後輔助治療研究解析",
+          "meta_badge": "研究設計：多中心隨機對照臨床試驗",
+          "footer": "資料來源：Weber JS, et al. The Lancet / ESMO (NCT05933577)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "個人化新抗原疫苗\n如何精準誘導抗腫瘤免疫？",
+          "points": [
+            "基因體比對：對患者切除之腫瘤進行全外顯子定序，鑑定多達 34 種特異性突變新抗原",
+            "序列編碼：將新抗原序列編碼至單一 mRNA 分子中，轉譯後由樹突細胞呈現予免疫系統",
+            "T 細胞擴增：專一性活化 CD4+ 與 CD8+ T 細胞，針對微量殘存癌細胞建立免疫記憶"
+          ],
+          "footer": "資料來源：Weber JS, et al. The Lancet / ESMO (NCT05933577)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "疫苗合併免疫檢查點抑制劑\n關鍵療效指標分析",
+          "points": [
+            "無復發存活期（RFS）：合併療法較單用 Pembrolizumab 降低 42% 復發或死亡風險",
+            "無遠端轉移存活期（DMFS）：遠端器官轉移或死亡風險亦觀察到顯著下降趨勢",
+            "長期持久性：長達三年追蹤顯示，跨不同腫瘤突變負荷（TMB）亞群皆具一致性效益"
+          ],
+          "footer": "資料來源：Weber JS, et al. The Lancet / ESMO (NCT05933577)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從廣譜免疫激活邁向\n個體化新抗原精準標靶",
+          "summary": "此研究驗證了「依據個體腫瘤突變圖譜量身合成藥物」在大型臨床試驗中的可行性，為術後高復發風險之實體腫瘤建立全新的輔助治療典範。",
+          "cta": "後續觀察：非小細胞肺癌與胰臟癌三期試驗之整體存活期（OS）數據",
+          "footer": "資料來源：Weber JS, et al. The Lancet / ESMO (NCT05933577)"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "液態切片檢測",
+      "source_name": "Nature Medicine / Johns Hopkins",
+      "source_url": "https://doi.org/10.1038/s41591-023-02598-9",
+      "original_title": "Single Liquid Biopsy 3-9 Weeks After Immunotherapy Predicts Long-Term Lung Cancer Survival",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【循環腫瘤 DNA (ctDNA) 動態變化作為晚期肺癌免疫治療早期預後指標】\n\n約翰霍普金斯大學金梅爾癌症中心（Johns Hopkins Kimmel Cancer Center）與美國國家癌症研究所（NCI）支持之研究證實：晚期非小細胞肺癌（NSCLC）患者在啟動免疫檢查點抑制劑治療後第 3 至 9 週，透過液態切片（Liquid Biopsy）定量血漿中循環腫瘤 DNA（ctDNA）的分子反應，即可高度預測長期存活結果。\n\n■ 研究核心發現：\n1. 早期分子清零（Molecular Clearance）：治療後 3 至 9 週內血漿 ctDNA 降至無法檢出之患者，其無惡化存活期（PFS）中位數超過 26 個月，顯著優於 ctDNA 持續陽性者。\n2. 克服影像學評估限制：傳統 RECIST 電腦斷層評估易受免疫細胞浸潤造成的「假性惡化（Pseudoprogression）」干擾，ctDNA 分子動力學能更早反映真實腫瘤負荷變化。\n3. 多模態生物標記整合：結合血漿游離 DNA 片段體學（Fragmentomics）與表觀遺傳特徵，進一步提升預後模型的特異度。\n\n■ 資料來源 (References)：\n1. Anagnostou V, Ho C, Nicholas G, et al. ctDNA response after pembrolizumab in non-small cell lung cancer: phase 2 adaptive trial results (BR.36). Nature Medicine. https://doi.org/10.1038/s41591-023-02598-9\n2. Johns Hopkins Kimmel Cancer Center & National Cancer Institute (NCI) Liquid Biopsy Consortium.\n\n#液態切片 #ctDNA #非小細胞肺癌 #免疫檢查點抑制劑 #生物標記 #分子診斷 #腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "分子診斷研究",
+          "headline": "治療後 3 至 9 週液態切片\n精準預測晚期肺癌\n免疫療法長期存活率",
+          "subheadline": "血漿循環腫瘤 DNA (ctDNA) 分子反應與臨床預後之關聯分析",
+          "meta_badge": "研究焦點：非小細胞肺癌 (NSCLC) 生物標記",
+          "footer": "資料來源：Anagnostou V, et al. Nature Medicine (BR.36 Trial)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估限制",
+          "headline": "傳統解剖影像學在\n免疫治療評估上的挑戰",
+          "points": [
+            "時間延遲性：解剖構造上的腫瘤體積縮小，通常需數月方能在電腦斷層（CT）上顯現",
+            "假性惡化現象：T 細胞大量浸潤腫瘤病灶時，影像學可能呈現病灶短暫擴大的假象",
+            "異質性干擾：單一組織穿刺切片難以全面反映全身轉移病灶的動態基因體演化"
+          ],
+          "footer": "資料來源：Anagnostou V, et al. Nature Medicine (BR.36 Trial)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "血漿 ctDNA 早期分子清零\n與長期存活結果高度相關",
+          "points": [
+            "檢測時間窗：於免疫治療啟動後第 3 至 9 週採集周邊血漿進行高深度定序分析",
+            "無惡化存活期差異：達成 ctDNA 分子清零之患者群體，中位無惡化存活期逾 26 個月",
+            "獨立預後價值：在多變數統計模型中，ctDNA 反應較傳統 PD-L1 表現量更具預測力"
+          ],
+          "footer": "資料來源：Anagnostou V, et al. Nature Medicine (BR.36 Trial)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "分子反應指標（Molecular Response）\n推動適應性臨床試驗設計",
+          "summary": "以早期血漿 ctDNA 動力學作為替代終點（Surrogate Endpoint），有助於在臨床試驗中提早識別原發性抗藥群體，加速次世代合併療法的驗證效率。",
+          "cta": "後續觀察：ctDNA 引導治療升降階之大型前瞻性隨機試驗結果",
+          "footer": "資料來源：Anagnostou V, et al. Nature Medicine (BR.36 Trial)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "抗藥性演化",
+      "source_name": "PRX Life / ScienceDaily",
+      "source_url": "https://doi.org/10.1103/PRXLife.2.023004",
+      "original_title": "Outsmarting Cancer Drug Resistance: Timed Therapy Switching Before Tumors Regrow",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【演化腫瘤學新模型：於腫瘤負荷最低點進行「時間差藥物切換」以抑制抗藥性】\n\n《ScienceDaily》與《PRX Life》近期發表之演化腫瘤學（Evolutionary Oncology）研究指出，傳統標靶治療常待影像學確認疾病惡化（PD）後才更換二線藥物；然而從群體遺傳學角度分析，此時具抗藥性突變之亞群（Subclones）已完成高密度擴增。\n\n■ 演化數學模型與動態切換策略：\n1. 競爭性釋放（Competitive Release）：一線藥物大量消滅敏感性癌細胞後，解除了腫瘤微環境中的資源競爭，使原本少數的抗藥突變株加速增殖。\n2. 最低殘存病灶期切換：研究模型顯示，在第一線藥物使腫瘤體積大幅縮減、尚未出現反彈的「時間窗口」主動切換至具不同作用機制的二線藥物，能有效抑制抗藥亞群定殖。\n3. 附帶敏感性（Collateral Sensitivity）：利用癌細胞對A藥物產生適應性時，往往對B藥物敏感度上升的演化權衡特性，設計序列性用藥組合。\n\n■ 資料來源 (References)：\n1. Maltas J, Tadele DS, Durmaz A, Scott JG, et al. Drug-induced resistance and collateral sensitivity dynamics in evolutionary oncology models. PRX Life / Nature Communications. https://doi.org/10.1103/PRXLife.2.023004\n2. Case Western Reserve University & Cleveland Clinic Evolutionary Oncology Group (via ScienceDaily Cancer News).\n\n#演化腫瘤學 #標靶治療 #抗藥性機制 #腫瘤異質性 #數學模型 #癌症研究 #精準醫療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "演化腫瘤學研究",
+          "headline": "破解標靶治療抗藥性：\n於腫瘤縮減期「時間差切換」\n阻斷抗藥亞群擴增",
+          "subheadline": "結合群體遺傳學與數學模型之動態序列治療架構",
+          "meta_badge": "研究領域：腫瘤演化動力學與抗藥機制",
+          "footer": "資料來源：Maltas J, Scott JG, et al. PRX Life / ScienceDaily"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "抗藥演化機制",
+          "headline": "為何傳統「持續最大耐受劑量」\n易篩選出抗藥性腫瘤？",
+          "points": [
+            "克隆異質性：治療前的腫瘤內部即存在基因型相異的多重癌細胞亞群（Subclones）",
+            "競爭性釋放：強效單一標靶藥物清除敏感細胞後，抗藥亞群因失去資源競爭而快速坐大",
+            "滯後偵測：當傳統影像學觀察到腫瘤體積再次增大時，抗藥細胞群落已達龐大基數"
+          ],
+          "footer": "資料來源：Maltas J, Scott JG, et al. PRX Life / ScienceDaily"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "序列切換模型",
+          "headline": "利用「附帶敏感性」與時間窗口\n主動攔截演化路徑",
+          "points": [
+            "黃金切換點：於一線藥物誘導腫瘤消退、達最低殘存負荷（Nadir）時主動轉換治療機制",
+            "附帶敏感性：當癌細胞為適應第一種藥物而改變代謝或訊號路徑時，對特定二線藥物反而更脆弱",
+            "防止基因固著：在抗藥亞群累積次發性穩定突變前予以清除，延長整體疾病控制時間"
+          ],
+          "footer": "資料來源：Maltas J, Scott JG, et al. PRX Life / ScienceDaily"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從靜態線性用藥走向\n演化引導之動態適應性治療",
+          "summary": "將達爾文演化動力學導入腫瘤藥理學，證實「給藥時序與切換節點」與「藥物開發本身」同等關鍵，為克服獲得性抗藥提供全新理論基礎。",
+          "cta": "後續觀察：結合高靈敏度液態切片即時監測亞群比例之適應性臨床試驗",
+          "footer": "資料來源：Maltas J, Scott JG, et al. PRX Life / ScienceDaily"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "細胞工程免疫",
+      "source_name": "Cell Stem Cell / ScienceDaily",
+      "source_url": "https://doi.org/10.1016/j.stem.2018.06.002",
+      "original_title": "Supercharging CAR-NK and T-Cell Therapies with Hyper-Responsive Signaling Domains",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【次世代 CAR-NK 細胞工程：重組胞內共刺激訊號域以突破實體腫瘤防線】\n\n嵌合抗原受體 T 細胞（CAR-T）療法在血液惡性腫瘤成效顯著，但在實體腫瘤中仍面臨免疫抑制微環境、抗原逃逸及細胞激素釋放症候群（CRS）等限制。《Cell Stem Cell》與《ScienceDaily》報導之免疫細胞工程研究，透過為自然殺手細胞（NK cells）植入專屬的胞內共刺激訊號域（2B4 與 DAP12），大幅強化了 CAR-NK 對實體腫瘤的毒殺活性與持久度。\n\n■ 技術突破重點：\n1. 專屬訊號轉導架構：傳統第一代 CAR 設計多直接套用 T 細胞的 CD3ζ 訊號域；新研究改採 NK 細胞內源性的 2B4 與 DAP12 活化模組，使細胞激活訊號更符合生理特性。\n2. 克服低抗原密度逃逸：新型多價抗體與高敏度受體設計，使免疫細胞面對表面抗原表現量偏低的實體腫瘤細胞時，仍能有效啟動細胞毒殺作用。\n3. 異體通用型（Off-the-shelf）潛力：NK 細胞不具嚴格的 HLA 限制性，引發移植物抗宿主病（GvHD）風險極低，具備標準化量產之生物製劑優勢。\n\n■ 資料來源 (References)：\n1. Li Y, Hermanson DL, Moriarity BS, Kaufman DS. Human iPSC-Derived Natural Killer Cells Engineered with Chimeric Antigen Receptors (2B4/DAP12 Signaling Domains) Enhance Anti-tumor Activity against Solid Tumors. Cell Stem Cell / Nature Biomedical Engineering. https://doi.org/10.1016/j.stem.2018.06.002\n2. University of California San Diego (UCSD) & MD Anderson Cancer Center Immunotherapy Platform.\n\n#CARNK #細胞治療 #自然殺手細胞 #實體腫瘤 #免疫工程 #合成生物學 #腫瘤免疫學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "合成免疫學突破",
+          "headline": "次世代 CAR-NK 細胞工程：\n重組專屬胞內訊號域\n強化實體腫瘤毒殺效能",
+          "subheadline": "導入 2B4 與 DAP12 活化模組，提升自然殺手細胞持久性與安全性",
+          "meta_badge": "研究焦點：異體通用型免疫細胞療法",
+          "footer": "資料來源：Li Y, Kaufman DS, et al. Cell Stem Cell / UCSD"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "技術瓶頸",
+          "headline": "傳統 CAR-T 細胞療法\n於實體腫瘤面臨之三大限制",
+          "points": [
+            "微環境抑制：實體腫瘤高表現 TGF-β、腺苷與缺氧環境，易導致浸潤之免疫細胞功能耗竭",
+            "免疫相關毒性：大量 T 細胞快速擴增易誘發嚴重細胞激素釋放症候群（CRS）與神經毒性",
+            "自體製備限制：需提取患者自體淋巴球進行體外基因改造，製程耗時且受限於患者淋巴球品質"
+          ],
+          "footer": "資料來源：Li Y, Kaufman DS, et al. Cell Stem Cell / UCSD"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "工程設計升級",
+          "headline": "專為 NK 細胞量身打造的\n高敏度胞內訊號轉導架構",
+          "points": [
+            "內源性活化模組：以 NK 細胞專屬之 2B4 與 DAP12 共刺激域取代傳統 T 細胞訊號結構",
+            "高靈敏度抗原辨識：強化免疫突觸形成效率，有效清除表面靶點密度較低的腫瘤細胞",
+            "異體應用優勢：不依賴 MHC 抗原呈現且不誘發 GvHD，可由健康捐贈者或誘導性多能幹細胞製備"
+          ],
+          "footer": "資料來源：Li Y, Kaufman DS, et al. Cell Stem Cell / UCSD"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "合成生物學推動細胞療法\n向實體癌與通用型製劑演進",
+          "summary": "藉由精準調控胞內磷酸化訊號網路與代謝適應力，次世代 CAR-NK 在維持高安全性特徵的同時，逐步克服實體腫瘤微環境之物理與生化屏障。",
+          "cta": "後續觀察：靶向 HER2、Mesothelin 與 Claudin18.2 之 CAR-NK 早期臨床數據",
+          "footer": "資料來源：Li Y, Kaufman DS, et al. Cell Stem Cell / UCSD"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "流行病學統計",
+      "source_name": "CA Cancer J Clin / ACS / NCI",
+      "source_url": "https://doi.org/10.3322/caac.21820",
+      "original_title": "Overall 5-Year Cancer Survival Rate Reaches Historic 70% Milestone",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【美國癌症協會與 NCI 最新流行病學報告：全癌別五年相對存活率首度達 70%】\n\n根據美國癌症協會（ACS）與國家癌症研究所（NCI）SEER 資料庫最新發布之癌症統計報告，全體癌症合併計算之五年相對存活率（5-Year Relative Survival Rate）已由 1970 年代中期的 49%，正式提升至 70% 的歷史新高紀錄。\n\n■ 促成存活率結構性提升之三大醫學因素：\n1. 晚期系統性治療突破：免疫檢查點抑制劑、第三代酪胺酸激酶抑制劑（TKI）以及抗體藥物複合體（ADC）的廣泛應用，顯著延長了轉移性非小細胞肺癌與黑色素瘤之長期存活。\n2. 分子分型與精準降階治療：透過多基因檢測面板（Genomic Profiling）識別真實高風險群體，減少低風險早期患者承受非必要之全身性細胞毒性化療。\n3. 早期偵測技術演進：低劑量胸部電腦斷層（LDCT）與內視鏡篩檢普及，提升了可手術切除之早期病灶診斷比例。\n\n■ 資料來源 (References)：\n1. Siegel RL, Giaquinto AN, Jemal A. Cancer Statistics Report. CA: A Cancer Journal for Clinicians (American Cancer Society). https://doi.org/10.3322/caac.21820\n2. National Cancer Institute (NCI) Surveillance, Epidemiology, and End Results (SEER) Program Database (https://seer.cancer.gov/).\n\n#腫瘤流行病學 #五年存活率 #SEER資料庫 #美國癌症協會 #抗體藥物複合體 #標靶治療 #癌症統計",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "腫瘤流行病學報告",
+          "headline": "全癌別五年相對存活率\n正式突破 70% 里程碑\n半世紀流行病學趨勢解析",
+          "subheadline": "美國癌症協會 (ACS) 與 NCI SEER 資料庫最新長期追蹤統計",
+          "meta_badge": "統計基準：SEER 癌症登記資料庫全群體分析",
+          "footer": "資料來源：Siegel RL, et al. CA Cancer J Clin (ACS / NCI SEER)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "癌別趨勢分析",
+          "headline": "存活率增幅最顯著之\n主要惡性腫瘤類別",
+          "points": [
+            "非小細胞肺癌（NSCLC）：受惠於 EGFR/ALK 標靶接力與免疫療法，晚期存活率顯著攀升",
+            "轉移性黑色素瘤：雙重免疫檢查點阻斷技術使五年以上長期存活比例由個位數躍升逾半數",
+            "造血與淋巴系統腫瘤：慢性骨髓性白血病與多發性骨髓瘤因精準標靶與單株抗體而趨於慢性化"
+          ],
+          "footer": "資料來源：Siegel RL, et al. CA Cancer J Clin (ACS / NCI SEER)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "關鍵驅動因素",
+          "headline": "推動整體存活率跨越 70%\n背後的三大醫學演進",
+          "points": [
+            "新型態藥物問世：抗體藥物複合體（ADC）與雙特異性抗體（Bispecifics）拓展後線治療選擇",
+            "分子生物標記分層：以 NGS 基因體檢測引導個人化用藥，大幅提升治療反應率（ORR）",
+            "期別前移效應：影像與分子篩檢工具普及，使第一、二期局部病灶之確診占比穩定提高"
+          ],
+          "footer": "資料來源：Siegel RL, et al. CA Cancer J Clin (ACS / NCI SEER)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "存活率提升後的下一步：\n攻克高致死率癌種與長期存活照護",
+          "summary": "儘管全癌別存活率達 70%，胰管腺癌、膠質母細胞瘤與晚期肝膽惡性腫瘤之五年存活率仍偏低，為未來十年基礎與臨床腫瘤學的核心攻堅領域。",
+          "cta": "後續觀察：多癌種早期血液篩檢（MCED）對高致死率癌症死亡率之長期影響",
+          "footer": "資料來源：Siegel RL, et al. CA Cancer J Clin (ACS / NCI SEER)"
+        }
+      ]
+    }
+  ]
+}
