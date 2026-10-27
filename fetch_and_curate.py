@@ -1,18 +1,22 @@
 #!/usr/bin/env python3
 """
-每日國際權威醫藥網站（NCI / ScienceDaily / Medical News Today / Medscape）
-癌症新知 RSS 自動抓取與篩選腳本。
+每日國際權威醫藥網站（NCI / ScienceDaily / Medscape）與六大國際腫瘤醫學會
+（ASCO、ESMO、AACR、WCLC、SITC、SABCS）最新研究自動抓取與確切文獻驗證腳本。
 """
+import datetime
 import html
 import json
 import os
 import re
-import datetime
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from typing import List, Dict, Optional
+from typing import Dict, List, Optional
 
+UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) OncologyCurator/2.0"}
+DOI_RE = re.compile(r'10\.\d{4,9}/[^\s"<>&\']+')
+
+# 1. 國際醫藥新聞與醫學會議外電 RSS 來源
 RSS_SOURCES = [
     {
         "name": "ScienceDaily Cancer News",
@@ -23,24 +27,182 @@ RSS_SOURCES = [
         "url": "https://www.cancer.gov/publishedcontent/rss/syndication/rss/ncinewsreleases.rss"
     },
     {
-        "name": "Medical News Today - Oncology",
-        "url": "https://rss.medicalnewstoday.com/cancer-oncology.xml"
-    },
-    {
         "name": "Medscape Oncology",
         "url": "https://www.medscape.com/cx/rssfeeds/2700.xml"
+    },
+    {
+        "name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+        "url": "https://news.google.com/rss/search?q=(ASCO+OR+ESMO+OR+AACR+OR+WCLC+OR+SITC+OR+SABCS)+(oncology+OR+cancer+OR+phase+3+OR+clinical+trial)&hl=en-US&gl=US&ceid=US:en"
+    }
+]
+
+# 2. 六大國際腫瘤醫學會（ASCO, ESMO, AACR, WCLC, SITC, SABCS）與官方旗艦期刊 PubMed 檢索設定
+CONGRESS_PUBMED_SOURCES = [
+    {
+        "congress": "ASCO (美國臨床腫瘤學會) / JCO",
+        "query": '("J Clin Oncol"[Journal] OR "ASCO"[Title/Abstract]) AND (clinical trial[Title/Abstract] OR phase[Title/Abstract] OR survival[Title/Abstract])'
+    },
+    {
+        "congress": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+        "query": '("Ann Oncol"[Journal] OR "ESMO Open"[Journal] OR "ESMO"[Title/Abstract]) AND (trial[Title/Abstract] OR phase[Title/Abstract] OR immunotherapy[Title/Abstract])'
+    },
+    {
+        "congress": "AACR (美國癌症研究協會) / Cancer Discovery",
+        "query": '("Cancer Discov"[Journal] OR "Clin Cancer Res"[Journal] OR "AACR"[Title/Abstract]) AND (cancer[Title/Abstract] OR tumor[Title/Abstract])'
+    },
+    {
+        "congress": "WCLC (世界肺癌大會 / IASLC) / JTO",
+        "query": '("J Thorac Oncol"[Journal] OR "WCLC"[Title/Abstract] OR "IASLC"[Title/Abstract]) AND (lung cancer[Title/Abstract] OR NSCLC[Title/Abstract] OR SCLC[Title/Abstract])'
+    },
+    {
+        "congress": "SITC (癌症免疫治療學會) / JITC",
+        "query": '("J Immunother Cancer"[Journal] OR "SITC"[Title/Abstract]) AND (immunotherapy[Title/Abstract] OR T cell[Title/Abstract] OR checkpoint[Title/Abstract])'
+    },
+    {
+        "congress": "SABCS (聖安東尼奧乳癌研討會)",
+        "query": '("SABCS"[Title/Abstract] OR "San Antonio Breast Cancer"[Title/Abstract] OR ("breast cancer"[Title] AND ("Clin Cancer Res"[Journal] OR "J Clin Oncol"[Journal] OR "Ann Oncol"[Journal])))'
     }
 ]
 
 
-def fetch_latest_rss_articles(max_per_source: int = 5) -> List[Dict[str, str]]:
-    """從各大國際醫藥網站 RSS 抓取最新癌症文章清單"""
-    articles = []
-    headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) OncologyCurator/1.0"}
+def _clean_html(fragment: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", fragment or "")
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _http_get(url: str, timeout: int = 20) -> str:
+    req = urllib.request.Request(url, headers=UA)
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8", "ignore")
+
+
+def fetch_congress_pubmed_articles(max_per_congress: int = 2) -> List[Dict[str, str]]:
+    """
+    透過 NCBI PubMed E-Utilities 官方 API，直接抓取六大醫學會議
+    （ASCO, ESMO, AACR, WCLC, SITC, SABCS）及旗艦期刊之最新研究（含完整摘要與確切 DOI）。
+    """
+    results: List[Dict[str, str]] = []
+    seen_pmids = set()
+
+    for item in CONGRESS_PUBMED_SOURCES:
+        congress_label = item["congress"]
+        query = item["query"]
+        try:
+            search_url = (
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?"
+                + urllib.parse.urlencode({
+                    "db": "pubmed",
+                    "term": query,
+                    "sort": "date",
+                    "retmax": max_per_congress,
+                    "retmode": "json"
+                })
+            )
+            search_data = json.loads(_http_get(search_url, timeout=15))
+            id_list = [
+                pid for pid in (search_data.get("esearchresult", {}).get("idlist") or [])
+                if pid not in seen_pmids
+            ]
+            if not id_list:
+                continue
+
+            fetch_url = (
+                "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?"
+                + urllib.parse.urlencode({
+                    "db": "pubmed",
+                    "id": ",".join(id_list),
+                    "retmode": "xml"
+                })
+            )
+            xml_text = _http_get(fetch_url, timeout=20)
+            root = ET.fromstring(xml_text)
+
+            for art in root.findall(".//PubmedArticle"):
+                pmid = (art.findtext(".//PMID") or "").strip()
+                if not pmid or pmid in seen_pmids:
+                    continue
+                seen_pmids.add(pmid)
+
+                title = _clean_html(art.findtext(".//ArticleTitle") or "")
+                journal = _clean_html(
+                    art.findtext(".//Journal/Title")
+                    or art.findtext(".//Journal/ISOAbbreviation")
+                    or ""
+                )
+                year = (
+                    art.findtext(".//JournalIssue/PubDate/Year")
+                    or art.findtext(".//ArticleDate/Year")
+                    or str(datetime.datetime.now().year)
+                )
+
+                # 擷取完整結構化摘要 (Background / Methods / Results / Conclusions)
+                abs_parts = []
+                for ab in art.findall(".//AbstractText"):
+                    label = ab.attrib.get("Label", "")
+                    txt = _clean_html("".join(ab.itertext()))
+                    if txt:
+                        abs_parts.append(f"{label}: {txt}" if label else txt)
+                abstract_full = " ".join(abs_parts)
+
+                # 擷取作者名單
+                authors = []
+                for au in art.findall(".//AuthorList/Author")[:6]:
+                    last = (au.findtext("LastName") or "").strip()
+                    init = (au.findtext("Initials") or "").strip()
+                    if last:
+                        authors.append(f"{last} {init}".strip())
+                total_authors = len(art.findall(".//AuthorList/Author"))
+                author_str = ", ".join(authors) + (", et al" if total_authors > 6 else "")
+                first_author = authors[0].split(" ")[0] if authors else ""
+
+                # 擷取確切 DOI
+                doi = ""
+                for aid in art.findall(".//ArticleIdList/ArticleId"):
+                    if aid.attrib.get("IdType") == "doi" and (aid.text or "").strip():
+                        doi = aid.text.strip()
+                        break
+
+                if not title or not abstract_full:
+                    continue
+
+                source_url = f"https://doi.org/{doi}" if doi else f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+                verified_ref = (
+                    f"{author_str}. {title} {journal} ({congress_label}). {year}. {source_url}"
+                ).replace("..", ".")
+                short_author = f"{first_author} et al. " if first_author else ""
+                footer_citation = f"資料來源：{short_author}{congress_label.split(' ')[0]} / {journal} ({year})"
+
+                results.append({
+                    "source_name": f"{congress_label}",
+                    "congress_tag": congress_label.split(" ")[0],
+                    "title": title,
+                    "url": source_url,
+                    "summary": abstract_full[:500],
+                    "page_excerpt": abstract_full[:2800],
+                    "published_at": year,
+                    "doi": doi,
+                    "verified_reference": verified_ref,
+                    "footer_citation": footer_citation[:62]
+                })
+        except Exception as exc:
+            print(f"[WARN] 無法讀取醫學會議來源 {congress_label}: {exc}")
+
+    return results
+
+
+def fetch_latest_rss_articles(max_per_source: int = 4, include_congresses: bool = True) -> List[Dict[str, str]]:
+    """同時從六大國際腫瘤醫學會（ASCO/ESMO/AACR/WCLC/SITC/SABCS）與國際醫藥網站抓取最新癌症研究"""
+    articles: List[Dict[str, str]] = []
+
+    if include_congresses:
+        congress_articles = fetch_congress_pubmed_articles(max_per_congress=2)
+        print(f"已從 ASCO / ESMO / AACR / WCLC / SITC / SABCS 抓取 {len(congress_articles)} 則醫學會議與旗艦期刊研究")
+        articles.extend(congress_articles)
 
     for src in RSS_SOURCES:
         try:
-            req = urllib.request.Request(src["url"], headers=headers)
+            req = urllib.request.Request(src["url"], headers=UA)
             with urllib.request.urlopen(req, timeout=15) as response:
                 xml_data = response.read()
             root = ET.fromstring(xml_data)
@@ -48,7 +210,7 @@ def fetch_latest_rss_articles(max_per_source: int = 5) -> List[Dict[str, str]]:
             for item in items:
                 title = (item.findtext("title") or "").strip()
                 link = (item.findtext("link") or "").strip()
-                desc = (item.findtext("description") or "").strip()
+                desc = _clean_html(item.findtext("description") or "")
                 pub_date = (item.findtext("pubDate") or "").strip()
                 if title and link:
                     articles.append({
@@ -62,26 +224,6 @@ def fetch_latest_rss_articles(max_per_source: int = 5) -> List[Dict[str, str]]:
             print(f"[WARN] 無法讀取 {src['name']}: {exc}")
 
     return articles
-
-
-# ---------------------------------------------------------------------------
-# 原文頁面「確切文獻來源」擷取：從新聞原文頁抓出期刊 DOI，並以 Crossref 官方資料庫
-# 取得作者 / 題目 / 期刊 / 年份，避免 AI 自行編造參考文獻。
-# ---------------------------------------------------------------------------
-DOI_RE = re.compile(r'10\.\d{4,9}/[^\s"<>&\']+')
-UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) OncologyCurator/1.0"}
-
-
-def _clean_html(fragment: str) -> str:
-    text = re.sub(r"<[^>]+>", " ", fragment)
-    text = html.unescape(text)
-    return re.sub(r"\s+", " ", text).strip()
-
-
-def _http_get(url: str, timeout: int = 20) -> str:
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8", "ignore")
 
 
 def crossref_lookup(doi: str) -> Optional[Dict[str, str]]:
@@ -121,23 +263,24 @@ def crossref_lookup(doi: str) -> Optional[Dict[str, str]]:
 
 
 def enrich_article_reference(article: Dict[str, str]) -> Dict[str, str]:
-    """抓取新聞原文頁，擷取確切期刊出處（Journal Reference / DOI）與內文摘要"""
+    """若文章已具備 PubMed/會議驗證出處則直接保留；否則進入原文頁擷取期刊 DOI 並以 Crossref 驗證"""
     article = dict(article)
-    article["verified_reference"] = ""
-    article["doi"] = ""
-    article["footer_citation"] = f"資料來源：{article.get('source_name', '')}"
+    if article.get("verified_reference") and article.get("page_excerpt"):
+        return article
+
+    article.setdefault("verified_reference", "")
+    article.setdefault("doi", "")
+    article.setdefault("footer_citation", f"資料來源：{article.get('source_name', '')}")
     try:
         page = _http_get(article["url"])
     except Exception as exc:
         print(f"[WARN] 無法讀取原文頁 {article['url']}: {exc}")
         return article
 
-    # 內文摘錄（提供 AI 更完整的事實依據，避免只靠 RSS 短摘要）
     paragraphs = [_clean_html(p) for p in re.findall(r"<p[^>]*>(.*?)</p>", page, flags=re.S)]
     body = " ".join(p for p in paragraphs if len(p) > 60)
     article["page_excerpt"] = body[:2500]
 
-    # ScienceDaily 等頁面的 Journal Reference 區塊
     journal_ref_text = ""
     idx = page.find("Journal Reference")
     if idx >= 0:
@@ -152,7 +295,6 @@ def enrich_article_reference(article: Dict[str, str]) -> Dict[str, str]:
         if d not in dois:
             dois.append(d)
 
-    # 只有單一明確 DOI 時才採用（多個 DOI 可能是頁面上的其他文獻）
     if len(dois) == 1:
         meta = crossref_lookup(dois[0])
         if meta:
@@ -182,4 +324,4 @@ if __name__ == "__main__":
             "count": len(fetched),
             "articles": fetched
         }, f, ensure_ascii=False, indent=2)
-    print(f"已抓取 {len(fetched)} 篇候選癌症文章並儲存至 {out_file}")
+    print(f"已抓取 {len(fetched)} 篇候選癌症文章（含六大醫學會議）並儲存至 {out_file}")
