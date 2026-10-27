@@ -1,279 +1,279 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:07:11.432092+08:00",
+  "generated_at": "2026-10-27T11:19:38.526147+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "PARP 抑制劑治療",
-      "source_name": "Medscape Oncology",
-      "source_url": "https://www.medscape.com/viewarticle/fda-expands-talazoparib-combo-indication-prostate-cancer-2026a10014gv?src=rss",
-      "original_title": "FDA Expands Talazoparib Combo Indication in Prostate Cancer",
+      "category": "單細胞預後模型",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival",
+      "original_title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【FDA 擴大 Talazoparib 適應症，用於 HRR 突變轉移性去勢敏感性前列腺癌】\n根據發表於《新英格蘭醫學期刊 (NEJM)》的 TALAPRO-3 臨床三期試驗結果，美國 FDA 已擴大核准 PARP 抑制劑 Talazoparib 合併 Enzalutamide，用於治療帶有同源重組修復 (HRR) 基因突變的轉移性去勢敏感性前列腺癌 (mHSPC) 患者。此項批准將 PARP 抑制劑的應用提早至疾病更早期階段，顯著延緩了疾病惡化。\n■ 研究核心發現：\n1. 主要終點達標：試驗結果顯示，與 Enzalutamide 加安慰劑相比，Talazoparib 組合療法將影像學疾病惡化 (radiographic progression) 或死亡風險降低了 52% (HR, 0.48; P < .0001)。\n2. 無惡化存活期：組合療法組的中位影像學無惡化存活期 (rPFS) 尚未達到，而對照組為 45.8 個月，顯示出持久的疾病控制效益。\n3. 安全性特徵：最常見的治療相關不良事件為貧血、疲勞和嗜中性白血球減少，與 PARP 抑制劑已知的安全性特徵相符，在臨床上可有效管理。\n■ 臨床轉譯與研究展望：\n此項批准標誌著前列腺癌精準治療的重大進展，確立了在 mHSPC 階段對患者進行 HRR 基因檢測的重要性。將 PARP 抑制劑納入一線治療，有望為特定基因亞型的患者帶來更深層次的緩解與更長的存活期。\n\n■ 資料來源 (References)：\n1. Agarwal N, Matsubara N, Azad AA, Saad F, Mateo J, Jiang S, et al. PARP and Androgen-Signaling Inhibition plus ADT in Metastatic Prostate Cancer. New England Journal of Medicine. 2026. https://doi.org/10.1056/nejmoa2604126\n2. Medscape Oncology. FDA Expands Talazoparib Combo Indication in Prostate Cancer. https://www.medscape.com/viewarticle/fda-expands-talazoparib-combo-indication-prostate-cancer-2026a10014gv?src=rss\n\n#前列腺癌 #PARP抑制劑 #Talazoparib #精準醫療 #臨床試驗 #HRR #ProstateCancer #Oncology",
+      "caption": "【AI 模型 scSurvival 從單細胞數據預測癌症存活並鑑定高風險細胞群】\n\n發表於美國癌症研究協會（AACR）旗艦期刊 *Cancer Discovery* 的一項研究中，由美國國家衛生研究院（NIH）資助的團隊開發了一款名為 scSurvival 的創新人工智慧評估工具。此模型利用機器學習框架，能以前所未有的單細胞解析度（single-cell resolution）分析大規模基因表達數據，不僅能準確預測癌症患者的存活結果，更能精準定位出與高風險預後直接相關的特定腫瘤細胞亞群。\n\n■ 研究核心發現：\n1. 細胞加權分析：scSurvival 為腫瘤中的每一個細胞分配一個與存活率相關的權重分數，有效過濾掉背景雜訊，並凸顯出對疾病進程具有決定性影響的關鍵細胞群。\n2. 保留異質性細節：傳統分析方法常將所有細胞數據平均化，從而抹煞了腫瘤內部細胞異質性（tumor heterogeneity）的關鍵細微差異。scSurvival 則完整保留這些細節，進行更精準的風險評估。\n3. 臨床數據驗證：研究團隊利用超過 150 名癌症患者的單細胞數據集對模型進行訓練與測試，結果顯示 scSurvival 不僅能有效預測存活結果，更揭示了導致不良預後的「元兇」細胞，為治療提供潛在新標的。\n\n■ 資料來源 (References)：\n1. Ren T, Zhao F, Chen C, Zhou L, Wu LY, Mills GB, et al. scSurvival: Single-Cell Survival Analysis of Clinical Cancer Cohort Data at Cellular Resolution. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-25-0965\n2. National Cancer Institute (NCI). NIH-funded AI model predicts cancer survival from single-cell tumor data. https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival\n\n#單細胞分析 #計算腫瘤學 #癌症預後 #AI醫療 #精準醫療 #腫瘤異質性",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "臨床三期研究更新",
-          "headline": "PARP 抑制劑 Talazoparib\n合併 Enzalutamide 療法\n顯著降低前列腺癌惡化風險 52%",
-          "subheadline": "TALAPRO-3 試驗證實，此組合療法用於 HRR 基因突變之轉移性去勢敏感性前列腺癌成效",
-          "meta_badge": "研究設計：全球多中心隨機對照臨床試驗",
-          "footer": "資料來源：Agarwal et al. New England Journal of Medicine (2026)"
+          "tag": "計算腫瘤學研究",
+          "headline": "AI 模型 scSurvival\n從單細胞數據預測存活\n精準鑑定高風險細胞群",
+          "subheadline": "發表於 Cancer Discovery，此機器學習框架能解析腫瘤異質性與臨床預後之關聯",
+          "meta_badge": "研究焦點：單細胞解析度之癌症風險評估",
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "雙重阻斷 DNA 修復與\n雄性素訊息傳遞之路徑",
+          "tag": "模型架構",
+          "headline": "scSurvival 模型如何\n從海量單細胞數據中預測？",
           "points": [
-            "PARP 抑制：Talazoparib 抑制多聚 ADP 核糖聚合酶 (PARP)，使具 HRR 基因缺陷的癌細胞無法修復 DNA 單股斷裂，導致細胞死亡。",
-            "雄性素阻斷：Enzalutamide 作為雄性素受體抑制劑，阻斷睪固酮驅動的癌細胞增殖與存活訊號，是標準治療之一。",
-            "協同致死效應：合併使用可產生合成致死 (synthetic lethality) 效應，同時攻擊癌細胞的 DNA 修復與生長訊號，最大化治療效果。"
+            "細胞加權：為每個細胞分配與存活相關的權重，過濾掉較不重要的細胞資訊，凸顯出關鍵訊號",
+            "特徵提取：整合加權後的細胞基因表達數據，形成能代表腫瘤整體風險的綜合特徵向量",
+            "模型訓練：使用包含單細胞數據與臨床存活資料的世代進行訓練，建立細胞特徵與預後間的關聯"
           ],
-          "footer": "資料來源：Agarwal et al. New England Journal of Medicine (2026)"
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "TALAPRO-3 試驗如何\n定義新的一線治療標準？",
+          "headline": "scSurvival 模型的\n臨床數據驗證與發現",
           "points": [
-            "主要終點：組合療法組的影像學無惡化存活期 (rPFS) 中位數尚未達到，顯著優於安慰劑組的 45.8 個月 (HR=0.48)。",
-            "風險降低：相較於單用 Enzalutamide，Talazoparib 合併療法使疾病影像學惡化或死亡的風險顯著降低了 52%。",
-            "安全性分析：最常見的 3-4 級不良事件為貧血與嗜中性白血球低下，整體安全性與已知藥物特性一致，具臨床可控性。"
+            "臨床驗證：在超過 150 名癌症患者的臨床數據上進行測試，成功預測了存活結果",
+            "風險歸因：不僅預測高風險患者，更能進一步指出哪些特定的細胞亞群是導致不良預後的主因",
+            "超越平均：相較於傳統將所有細胞數據平均化的分析方法，scSurvival 保留了關鍵的細胞異質性細節"
           ],
-          "footer": "資料來源：Agarwal et al. New England Journal of Medicine (2026)"
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從去勢抗性推進至敏感階段\nPARP 抑制劑成早期治療利器",
-          "summary": "TALAPRO-3 的成功將 PARP 抑制劑的應用從轉移性去勢抗性前列腺癌 (mCRPC) 提早至轉移性去勢敏感性前列腺癌 (mHSPC) 階段，為帶有 HRR 基因突變的患者提供了更早期、更強效的治療選擇，有望延緩疾病進程並推遲化療需求。",
-          "cta": "後續觀察：整體存活期 (OS) 數據的成熟分析，以及真實世界中該組合療法的長期安全性與抗藥性機轉。",
-          "footer": "資料來源：Agarwal et al. New England Journal of Medicine (2026)"
+          "headline": "從腫瘤平均特徵邁向\n單細胞解析度的精準預後",
+          "summary": "scSurvival 模型代表了癌症預後評估的典範轉移，從過去對腫瘤組織的宏觀平均分析，進化到能精準解析單一細胞對疾病進程貢獻的微觀層次，為個人化風險分層與治療策略提供前所未有的解析度。",
+          "cta": "後續觀察：模型是否能整合多體學數據（如蛋白質體、空間轉錄體），並應用於預測特定療法的反應性。",
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "肺癌分子標靶",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.1016/j.jtho.2026.106162",
-      "original_title": "Brief Report: Characterization of the Potentially Actionable TP53 Y220C Mutation in Non-Small Cell Lung Cancer. A Multicenter, European Thoracic Oncology Platform Study.",
+      "category": "抗藥性演化",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+      "original_title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【WCLC 研究速報：TP53 Y220C 成為非小細胞肺癌潛在可標靶突變】\n一項由歐洲胸腔腫瘤學平台 (ETOP) 主導、發表於《胸腔腫瘤學期刊 (JTO)》的大型多中心研究，首次詳細描繪了 TP53 Y220C 突變在非小細胞肺癌 (NSCLC) 中的臨床與基因體特徵。研究發現，此突變的盛行率與其他已知的可標靶突變相當，為 p53 再活化劑 Rezatapopt 等新藥提供了明確的治療靶點。\n■ 研究核心發現：\n1. 突變頻率：在分析的 28,244 名 NSCLC 患者中，TP53 Y220C 突變的發生率為 0.7%，高於在一般實體腫瘤中的平均值 (0.4%)。\n2. 基因關聯性：此突變在 EGFR 突變的腫瘤中顯著更為常見 (p=0.029)，暗示了兩者之間可能存在的協同致癌機制。\n3. 治療潛力：此研究強調，NSCLC 患者應被納入 TP53 Y220C 標靶藥物的未來臨床試驗中，同時需注意共存的其他 TP53 突變可能帶來的潛在抗藥性。\n\n■ 資料來源 (References)：\n1. Molina-Vila MA, Tsourti Z, Stenzinger A, Thüsen JV, Hillen LM, Hofman P, et al. Brief Report: Characterization of the Potentially Actionable TP53 Y220C Mutation in Non-Small Cell Lung Cancer. A Multicenter, European Thoracic Oncology Platform Study. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106162\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Brief Report: Characterization of the Potentially Actionable TP53 Y220C Mutation in Non-Small Cell Lung Cancer. A Multicenter, European Thoracic Oncology Platform Study.. https://doi.org/10.1016/j.jtho.2026.106162\n\n#肺癌 #NSCLC #TP53 #標靶治療 #精準醫療 #WCLC #JTO #Oncology",
+      "caption": "【單細胞解析揭示胰臟癌如何動態重塑 DNA 以逃脫治療並促進轉移】\n\n發表於 *Nature Genetics* 的一項突破性研究中，科學家透過分析近五十萬個單一癌細胞，詳細描繪了胰臟導管腺癌（pancreatic ductal adenocarcinoma, PDAC）如何持續改變其基因組成以變得更具侵襲性、抗藥性與轉移能力。研究發現，腫瘤內部存在多個基因特徵相異的細胞群（clones），它們能在不同狀態間轉換，而 MYC 基因的活化是此過程的關鍵驅動因子。\n\n■ 核心作用機制：\n1. 複製體異質性：研究證實胰臟癌腫瘤由多個不同的細胞複製體組成，每個複製體都可能演化出獨特的生存優勢，例如抵抗化療或增強侵襲周邊組織的能力。\n2. 亞型狀態轉換：癌細胞並非一成不變，而是在較不具侵襲性的「古典（classical）」亞型與更具侵襲性的「基底樣（basal）」亞型之間動態轉換，以適應治療壓力與微環境變化。\n3. MYC 基因驅動：數據顯示，MYC 基因的高度活化是驅動癌細胞轉向更危險的基底樣亞型的核心機制。在實驗室中，抑制 MYC 活性可部分逆轉這些細胞的侵襲性特徵。\n\n■ 資料來源 (References)：\n1. Kalfakakou D, Cameron DC, Kawaler EA, Tsuda M, Wang L, Su Q, et al. Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression. Nature Genetics. 2026. https://doi.org/10.1038/s41588-026-02779-5\n2. ScienceDaily Cancer News. Scientists discover how pancreatic cancer rewrites its DNA to escape treatment. https://www.sciencedaily.com/releases/2026/10/261024221849.htm\n\n#胰臟癌 #腫瘤演化 #單細胞定序 #抗藥性 #MYC #NatureGenetics",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "WCLC 轉譯醫學研究",
-          "headline": "非小細胞肺癌發現新標靶\nTP53 Y220C 突變盛行率\n與潛在藥物開發之關聯性",
-          "subheadline": "歐洲多中心研究揭示 TP53 Y220C 突變特徵，為 p53 再活化劑 Rezatapopt 提供治療依據",
-          "meta_badge": "研究設計：多中心回溯性世代研究分析",
-          "footer": "資料來源：Molina-Vila et al. WCLC / Journal of thoracic oncology : "
+          "tag": "腫瘤演化生物學研究",
+          "headline": "單細胞解析胰臟癌\n揭示其動態重塑 DNA\n以逃脫治療並促進轉移",
+          "subheadline": "Nature Genetics 研究發現，MYC 基因活化是驅動癌細胞從古典轉向更具侵襲性基底樣亞型的關鍵",
+          "meta_badge": "研究焦點：胰臟導管腺癌 (PDAC) 之複製體異質性",
+          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "TP53 Y220C 突變如何\n破壞抑癌功能並創造藥物靶點？",
+          "headline": "胰臟癌細胞如何透過\n基因重組來演化與適應？",
           "points": [
-            "結構不穩定：Y220C 突變在 p53 蛋白的 DNA 結合域表面產生一個不穩定的疏水性口袋 (pocket)，導致蛋白結構摺疊錯誤而失去功能。",
-            "功能喪失：功能失活的 p53 無法調節細胞週期、誘導細胞凋亡或維持基因體穩定性，進而促進腫瘤的發生與發展。",
-            "藥物結合靶點：此疏水性口袋成為小分子藥物（如 Rezatapopt）的理想結合位點，藥物可穩定 p53 結構，恢復其抑癌活性。"
+            "複製體異質性：腫瘤內存在多個基因特徵相異的細胞群（clones），各自演化出不同的生存優勢",
+            "亞型轉換：癌細胞可在較不具侵襲性的「古典 (classical)」與更具侵襲性的「基底樣 (basal)」狀態間轉換",
+            "MYC 基因驅動：MYC 基因的高度活化被發現是驅動細胞轉向更具侵襲性與抗藥性基底樣亞型的核心因子"
           ],
-          "footer": "資料來源：Molina-Vila et al. WCLC / Journal of thoracic oncology : "
+          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "TP53 Y220C 在非小細胞肺癌\n的臨床與基因體特徵為何？",
+          "tag": "實驗驗證",
+          "headline": "單細胞定序揭示的\n胰臟癌演化路徑",
           "points": [
-            "突變盛行率：在超過 28,000 名 NSCLC 患者中，TP53 Y220C 突變的盛行率為 0.7%，與其他已知的可標靶罕見突變頻率相當。",
-            "共突變分析：此突變在 EGFR 突變陽性腫瘤中更為常見 (1.7% vs. 0.7%)，顯示其可能與特定致癌驅動基因協同作用。",
-            "雙重突變：約 17% 的 Y220C 患者帶有第二個 TP53 突變，這可能影響 p53 再活化劑的療效，是未來臨床試驗需考量的因素。"
+            "大規模分析：研究團隊對近五十萬個單一癌細胞進行分析，描繪出詳細的複製體演化圖譜",
+            "功能分化：不同複製體展現出特異性功能，部分演化出抗藥性，部分則演化出更強的組織侵襲與轉移能力",
+            "MYC 抑制效果：在實驗室中，透過藥物阻斷 MYC 基因的功能，可逆轉部分癌細胞的侵襲性特徵"
           ],
-          "footer": "資料來源：Molina-Vila et al. WCLC / Journal of thoracic oncology : "
+          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從「不可成藥」到精準標靶\nTP53 突變治療迎來新曙光",
-          "summary": "本研究首次大規模描繪了 TP53 Y220C 在非小細胞肺癌中的臨床基因體圖譜，證實其為一個發生率不低於其他可標靶突變的潛力靶點。這為 p53 再活化劑的臨床開發提供了堅實基礎，有望將過去被視為「不可成藥」的 TP53 突變納入精準治療範疇。",
-          "cta": "後續觀察：p53 再活化劑 Rezatapopt 在 TP53 Y220C 陽性 NSCLC 患者中的臨床試驗療效與安全性數據。",
-          "footer": "資料來源：Molina-Vila et al. WCLC / Journal of thoracic oncology : "
+          "tag": "學術意義與展望",
+          "headline": "從靜態基因突變圖譜\n到動態複製體演化追蹤",
+          "summary": "此研究揭示了胰臟癌的高度可塑性，其並非由單一基因突變決定，而是透過持續的複製體演化與亞型轉換來適應壓力。靶向如 MYC 這類驅動狀態轉換的關鍵節點，可能成為克服抗藥性的新策略。",
+          "cta": "後續觀察：開發針對 MYC 或其他調控亞型轉換因子的標靶藥物，並在臨床前模型中驗證其抑制腫瘤演化的效果。",
+          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "腫瘤免疫學",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231232.htm",
-      "original_title": "Scientists discover a hidden immune weapon against deadly lung cancer",
+      "category": "腫瘤微環境",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk",
+      "original_title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【《Cancer Cell》重大發現：γδ T 細胞成為對抗小細胞肺癌的新興免疫力量】\nWEHI 研究團隊在《Cancer Cell》期刊上發表突破性研究，發現一種過去被忽視的免疫細胞——γδ T 細胞 (gamma delta T cells)，能夠有效識別並摧毀極具侵襲性的小細胞肺癌 (SCLC)。SCLC 因其善於躲避免疫系統偵測而極難治療，此發現為開發新型免疫療法開闢了全新途徑。\n■ 核心作用機制：\n1. 繞過免疫偽裝：SCLC 腫瘤常透過下調主要組織相容性複合體 (MHC) 分子來逃避傳統 T 細胞的攻擊，而 γδ T 細胞不依賴此路徑，能直接識別癌細胞表面的壓力信號。\n2. 臨床預後關聯：研究分析發現，患者腫瘤中 γδ T 細胞的浸潤程度越高，其存活預後越佳，證實了這類細胞在人體抗癌防禦中的重要角色。\n3. 潛在治療策略：研究人員證實，某些現有藥物可以增強 γδ T 細胞的抗癌活性，這為未來設計針對 SCLC 的新型組合免疫療法提供了理論基礎。\n\n■ 資料來源 (References)：\n1. Ng J, You Y, Zhang TZ, Hess JB, Best SA, Caneborg A, et al. γδ T cells modulate anti-tumor immunity in small cell lung cancer. Cancer Cell. 2026. https://doi.org/10.1016/j.ccell.2026.08.015\n2. ScienceDaily Cancer News. Scientists discover a hidden immune weapon against deadly lung cancer. https://www.sciencedaily.com/releases/2026/10/261021231232.htm\n\n#小細胞肺癌 #SCLC #免疫治療 #T細胞 #腫瘤免疫學 #癌症研究 #CancerCell #Oncology",
+      "caption": "【慢性腸道發炎在幹細胞中留下表觀遺傳記憶以增加大腸直腸癌風險】\n\n發表於頂尖期刊 *Nature* 的一項研究，揭示了慢性腸道發炎如何透過分子機制增加大腸直腸癌（colorectal cancer）的風險。研究團隊透過小鼠模型發現，反覆的組織損傷會在腸道幹細胞中留下持久的表觀遺傳「記憶」，這種記憶會活化一組名為 AP-1 的轉錄因子，即使在發炎消退後，此改變仍會遺傳給子代細胞，從而促進腫瘤的生長。\n\n■ 核心作用機制：\n1. 表觀遺傳記憶：慢性結腸炎（colitis）會導致腸道幹細胞的表觀基因體（epigenome）發生持久性改變，這種改變如同細胞的「損傷記憶」，使其長期處於一種預備增生的狀態。\n2. AP-1 轉錄因子活化：此表觀遺傳記憶的核心特徵，是顯著增加了 AP-1 轉錄因子家族的染色質可及性與活性，進而驅動與細胞再生和增殖相關的基因程式。\n3. 長期細胞遺傳：實驗證明，即使在發炎完全停止後，這些表觀遺傳標記仍能穩定地透過細胞分裂傳遞給新的子代幹細胞，持續超過 100 天，形成長期的致癌風險。\n\n■ 資料來源 (References)：\n1. Nagaraja S, Ojeda-Miron L, Zhang R, Oreskovic E, Hock C, Hu Y, et al. Epigenetic memory of colitis promotes tumour growth. Nature. 2026. https://doi.org/10.1038/s41586-026-10258-4\n2. National Cancer Institute (NCI). Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk. https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk\n\n#大腸癌 #表觀遺傳學 #慢性發炎 #腫瘤微環境 #幹細胞 #AP1",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "免疫機制新發現",
-          "headline": "科學家發現對抗小細胞肺癌\n的隱藏免疫武器：γδ T 細胞\n可識別並摧毀偽裝的癌細胞",
-          "subheadline": "發表於《Cancer Cell》的研究揭示，γδ T 細胞數量與 SCLC 患者更佳的存活結果顯著相關",
-          "meta_badge": "研究焦點：小細胞肺癌 (SCLC) 腫瘤微環境",
-          "footer": "資料來源：Ng et al. Cancer Cell (2026)"
+          "tag": "表觀遺傳學研究",
+          "headline": "慢性腸道發炎\n在幹細胞中留下表觀遺傳記憶\n顯著增加大腸直腸癌風險",
+          "subheadline": "Nature 研究揭示，反覆組織損傷會活化 AP-1 轉錄因子，此改變可遺傳給子代細胞並促進腫瘤生長",
+          "meta_badge": "研究機制：發炎誘導之癌症表觀遺傳重塑",
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "γδ T 細胞如何繞過傳統\n免疫逃脫機制攻擊 SCLC？",
+          "headline": "發炎如何透過表觀遺傳\n在幹細胞中埋下癌症種子？",
           "points": [
-            "非典型識別：傳統 αβ T 細胞依賴 MHC 分子呈現抗原，而 SCLC 常下調 MHC 表現以逃避免疫。γδ T 細胞則不依賴此路徑。",
-            "壓力信號感應：γδ T 細胞能直接識別癌細胞因代謝壓力或 DNA 損傷而表現的壓力誘導配體 (stress-induced ligands)，進行攻擊。",
-            "細胞毒殺作用：一旦活化，γδ T 細胞可釋放穿孔素 (perforin) 與顆粒酶 (granzyme)，直接誘導癌細胞凋亡，發揮強力的抗腫瘤效應。"
+            "表觀遺傳記憶：慢性發炎導致腸道幹細胞的表觀基因體（epigenome）發生持久性改變，形成一種「損傷記憶」",
+            "AP-1 活化：此表觀遺傳改變的核心特徵是 AP-1 轉錄因子家族的活性顯著增加，促進細胞再生與增殖",
+            "細胞遺傳：即使在發炎停止後，這些表觀遺傳標記仍會透過細胞分裂傳遞給新的子代幹細胞，持續超過 100 天"
           ],
-          "footer": "資料來源：Ng et al. Cancer Cell (2026)"
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "實驗驗證",
-          "headline": "臨床數據與實驗模型如何\n證實 γδ T 細胞的抗癌潛力？",
+          "headline": "小鼠模型與類器官\n驗證發炎記憶的致癌潛力",
           "points": [
-            "臨床關聯性：分析顯示，SCLC 患者腫瘤組織中浸潤的 γδ T 細胞數量越多，其治療預後與存活時間也越好，具備預後指標潛力。",
-            "體外毒殺實驗：在實驗室中，從患者體內分離出的 γδ T 細胞能夠有效辨識並殺死 SCLC 癌細胞株，證實其直接的抗癌活性。",
-            "藥物增效潛力：研究進一步發現，部分現有藥物能夠增強 γδ T 細胞的抗癌能力，為開發新型組合免疫療法提供了新方向。"
+            "小鼠模型模擬：透過在小鼠中模擬慢性結腸炎（colitis），追蹤發炎與恢復期間的細胞變化",
+            "單細胞分析：分析超過 52,000 個單細胞，精準定位出結腸幹細胞中因發炎而產生的表觀遺傳變化",
+            "腫瘤促進效應：帶有發炎記憶的幹細胞所衍生的組織，在致癌物誘導下表現出更強的腫瘤生長能力"
           ],
-          "footer": "資料來源：Ng et al. Cancer Cell (2026)"
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "突破 SCLC 免疫治療困境\n開闢非傳統 T 細胞療法新途徑",
-          "summary": "此研究為免疫治療反應率極低的小細胞肺癌 (SCLC) 帶來新希望。它揭示了 γδ T 細胞作為一條獨立的抗腫瘤免疫途徑，能克服癌細胞的 MHC 下調逃脫機制。未來開發針對性活化或擴增 γδ T 細胞的療法，可能成為 SCLC 治療的突破口。",
-          "cta": "後續觀察：開發能特異性活化或增強腫瘤內 γδ T 細胞功能的藥物，並在臨床試驗中驗證其安全性與療效。",
-          "footer": "資料來源：Ng et al. Cancer Cell (2026)"
+          "tag": "學術意義與展望",
+          "headline": "從基因突變到表觀遺傳\n重新理解發炎與癌症的連結",
+          "summary": "本研究闡明了慢性發炎不僅是致癌的背景因素，更能主動透過在幹細胞中建立持久的表觀遺傳記憶來「預備」癌症的發生。這為高風險族群的早期篩檢與化學預防提供了新的分子標的。",
+          "cta": "後續觀察：開發針對 AP-1 或其他發炎記憶相關表觀遺傳修飾的藥物，評估其預防發炎相關大腸癌的潛力。",
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "腫瘤微環境",
+      "category": "液態切片檢測",
       "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
-      "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection",
+      "original_title": "Researchers identify new blood markers that may detect early pancreatic cancer",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【《Nature》重磅研究：睪固酮或能抑制男性腦瘤生長】\n由美國國家衛生研究院 (NIH) 資助、克里夫蘭診所科學家主導的一項研究，在《Nature》期刊上發表了顛覆性成果。研究發現，與傳統認知相反，雄性素（如睪固酮）在男性中可能扮演著抑制膠質母細胞瘤 (Glioblastoma) 生長的角色。雄性素的缺乏會觸發壓力荷爾蒙反應，進而營造出一個免疫抑制的腦部微環境，加速腫瘤惡化。\n■ 核心作用機制：\n1. HPA 軸活化：在臨床前模型中，雄性素的喪失會導致下視丘-腦下垂體-腎上腺 (HPA) 軸過度活化，造成壓力荷爾蒙（如皮質酮）水平飆升。\n2. 腦部免疫抑制：這些壓力荷爾蒙會強化腦部的免疫屏障，阻止抗癌免疫細胞進入腫瘤，從而形成一個有利於腫瘤生長的「冷」微環境。\n3. 臨床數據佐證：回溯性分析超過千名男性 GBM 患者數據顯示，接受睪固酮補充治療與更長的存活期顯著相關，與臨床前模型的發現一致。\n\n■ 資料來源 (References)：\n1. Lee J, Chung YM, Silver DJ, Hao Y, Harwood DSL, Ealy A, et al. Androgen loss accelerates brain tumour growth via HPA axis activation. Nature. 2026. https://doi.org/10.1038/s41586-026-10451-5\n2. National Cancer Institute (NCI). NIH-funded study suggests that testosterone suppresses brain tumor growth in males. https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth\n\n#腦癌 #膠質母細胞瘤 #Glioblastoma #睪固酮 #腫瘤免疫 #基礎研究 #Nature #Oncology",
+      "caption": "【新型血液生物標記組合 ANPEP 與 PIGR 可望用於胰臟癌早期偵測】\n\n發表於美國癌症研究協會（AACR）期刊 *Clinical Cancer Research* 的一項研究中，美國國家衛生研究院（NIH）支持的團隊開發出一種新型血液檢測方法，有望用於早期篩檢致命的胰臟導管腺癌（pancreatic ductal adenocarcinoma）。研究發現，將兩種新型蛋白標記 ANPEP 和 PIGR 與現有標記 CA19-9 及 THBS2 結合，能顯著提升檢測的準確性。\n\n■ 研究核心發現：\n1. 新型標記鑑定：研究團隊在分析早期胰臟癌患者的血液樣本後，發現兩種過去未被充分探討的蛋白：氨肽酶 N（ANPEP）與多聚免疫球蛋白受體（PIGR），其濃度顯著高於健康對照組。\n2. 四標記組合效能：將 ANPEP、PIGR 與傳統標記 carbohydrate antigen 19-9（CA19-9）及 thrombospondin 2（THBS2）結合，此四標記組合在區分所有期別的胰臟癌與非癌症個案時，準確率高達 91.9%。\n3. 早期偵測潛力：更重要的是，對於難以發現的第一期與第二期早期胰臟癌，此組合的偵測率（敏感性）仍高達 87.5%，顯示其作為早期篩檢工具的巨大潛力，有望改變胰臟癌的診斷時機與預後。\n\n■ 資料來源 (References)：\n1. National Cancer Institute (NCI). Researchers identify new blood markers that may detect early pancreatic cancer. https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection\n\n#液態切片 #胰臟癌 #早期診斷 #生物標記 #分子診斷 #CA199",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "基礎腫瘤學研究",
-          "headline": "顛覆性發現：睪固酮\n竟能抑制男性膠質母細胞瘤\n生長而非促進其惡化",
-          "subheadline": "發表於《Nature》的研究揭示，雄性素流失會激活 HPA 軸，加劇腦內免疫抑制環境",
-          "meta_badge": "研究焦點：膠質母細胞瘤 (Glioblastoma) 免疫",
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "tag": "分子診斷研究",
+          "headline": "新型血液生物標記\n結合 ANPEP 與 PIGR 蛋白\n可早期偵測胰臟癌",
+          "subheadline": "發表於 Clinical Cancer Research 的研究顯示，四標記組合能以高準確度區分早期胰臟癌患者與健康者",
+          "meta_badge": "研究焦點：胰臟導管腺癌 (PDAC) 早期篩檢",
+          "footer": "資料來源：National Cancer Institute (NCI)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "雄性素如何透過神經內分泌\n軸線調控腦腫瘤免疫微環境？",
+          "tag": "評估限制",
+          "headline": "為何傳統血液標記\n不足以進行胰臟癌篩檢？",
           "points": [
-            "雄性素流失：在膠質母細胞瘤 (GBM) 的臨床前模型中，去除雄性素（如睪固酮）會導致下視丘-腦下垂體-腎上腺 (HPA) 軸過度活化。",
-            "壓力荷爾蒙飆升：HPA 軸的過度活化會引發皮質酮等壓力荷爾蒙急遽升高，進而驅動腦內特定細胞群的反應。",
-            "免疫抑制環境：壓力荷爾蒙最終導致腦部免疫屏障增強，減少了免疫細胞進入腫瘤區域的能力，從而形成一個有利於腫瘤生長的免疫抑制微環境。"
+            "CA19-9 限制：傳統標記 CA19-9 在良性疾病（如胰臟炎）中也可能升高，且部分族群因基因因素無法產生",
+            "THBS2 侷限：另一標記 THBS2 單獨使用時，其篩檢的敏感性與特異性均不理想，難以作為獨立篩檢工具",
+            "早期訊號微弱：早期胰臟癌釋放到血液中的腫瘤特異性分子濃度極低，需要更高靈敏度的多標記組合"
           ],
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "footer": "資料來源：National Cancer Institute (NCI)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "臨床前模型與人體數據\n如何共同支持此一新觀點？",
+          "tag": "研究數據",
+          "headline": "四標記組合展現的\n卓越早期偵測效能",
           "points": [
-            "小鼠模型驗證：在 GBM 小鼠模型中，去除雄性素顯著加速了腫瘤生長；反之，補充睪固酮則能抑制腫瘤進程。",
-            "臨床數據回顧：分析超過 1,300 名男性 GBM 患者的數據發現，接受補充性睪固酮治療的患者，其整體存活期顯著較佳。",
-            "機制連結：實驗證明，雄性素在腦部扮演著獨特的免疫調節角色，與其在身體其他部位可能促進生長的作用截然不同。"
+            "新型標記發現：研究團隊發現 ANPEP 與 PIGR 兩種新蛋白，在早期胰臟癌患者血液中顯著升高",
+            "組合效能：結合 ANPEP、PIGR、CA19-9 與 THBS2 的四標記組合，能以 91.9% 的準確率區分所有期別的癌症",
+            "早期偵測能力：針對第一、二期早期胰臟癌，此組合的偵測率（敏感性）仍高達 87.5%，展現巨大臨床潛力"
           ],
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "footer": "資料來源：National Cancer Institute (NCI)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "重新審視荷爾蒙與腦癌關係\n為 GBM 治療提供潛在新策略",
-          "summary": "此研究徹底顛覆了雄性素在膠質母細胞瘤中扮演促進者角色的傳統觀念，首次揭示其在腦部獨特的免疫抑制功能。這一發現不僅解釋了 GBM 的性別差異，更指出調節 HPA 軸或補充雄性素可能成為治療男性 GBM 患者的潛在新方向。",
-          "cta": "後續觀察：前瞻性臨床試驗，評估雄性素補充療法合併標準治療（如免疫檢查點抑制劑）對男性 GBM 患者的療效。",
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從單一監控指標邁向\n多標記組合的早期篩檢",
+          "summary": "此研究透過整合新型蛋白標記，成功開發出一個高靈敏度的血液檢測組合，有望解決胰臟癌缺乏有效早期篩檢工具的重大臨床困境。這項突破可能改變胰臟癌的診斷時機，從而顯著改善患者的存活率。",
+          "cta": "後續觀察：在前瞻性的大規模高風險族群世代研究中，驗證此四標記組合的篩檢效能與臨床實用性。",
+          "footer": "資料來源：National Cancer Institute (NCI)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "演化腫瘤學",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2025/mobile-dna-lung-cancer",
-      "original_title": "NIH-led study reveals role of mobile DNA elements in lung cancer progression",
+      "category": "腫瘤微環境",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+      "original_title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【《Nature》揭秘：移動 DNA 元件 LINE-1 驅動侵襲性肺癌演化】\n由美國國家衛生研究院 (NIH) 領導的 Sherlock-Lung 國際合作計畫，透過對超過 500 例肺腺癌進行全基因體定序，發現了一種全新的腫瘤惡化機制。研究成果發表於《Nature》，指出人體基因體中一種古老的移動 DNA 元件 LINE-1 (L1) 的異常再活化，是部分高度侵襲性肺癌快速演化的關鍵驅動力。\n■ 研究核心發現：\n1. L1 再活化：在正常細胞中被抑制的 L1 元件，在部分肺癌中被重新活化，導致其在基因體中隨機插入，造成大規模的基因體不穩定。\n2. 突變標記關聯：L1 的活化與一種特定的突變標記 (ID2 signature) 密切相關，共同定義了一個具有快速演化特徵與不良預後的高度侵襲性肺癌亞型。\n3. 演化路徑差異：研究也區分了不同驅動基因（如 KRAS vs. EGFR）所導致的腫瘤演化速度差異，並將 L1 活化確立為另一條獨立的快速演化路徑。\n\n■ 資料來源 (References)：\n1. Zhang T, Zhao W, Wirth C, Díaz-Gay M, Yin J, Cecati M, et al. Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma. Nature. 2026. https://doi.org/10.1038/s41586-025-09825-y\n2. National Cancer Institute (NCI). NIH-led study reveals role of mobile DNA elements in lung cancer progression. https://www.cancer.gov/news-events/press-releases/2025/mobile-dna-lung-cancer\n\n#肺癌 #肺腺癌 #基因體學 #腫瘤演化 #LINE1 #癌症研究 #Nature #Oncology",
+      "caption": "【膠質母細胞瘤侵襲新機制：高黏滯性流體微環境增強癌細胞侵襲能力】\n\n一項發表於 *Microsystems & Nanoengineering* 的研究揭示了膠質母細胞瘤（glioblastoma）侵襲行為背後一個被長期忽略的物理機制。科學家發現，腫瘤邊緣周圍的組織間液比中心區域黏稠許多，而這種高黏滯性（viscosity）環境非但沒有阻礙癌細胞，反而會誘導它們變得更小、更具可塑性，從而增強其侵犯周圍健康腦組織的能力。\n\n■ 研究核心發現：\n1. 黏滯性梯度：研究指出，膠質母細胞瘤侵襲前緣的流體黏滯性約為腫瘤中心壞死區域的八倍，癌細胞向外擴散時必須穿越一個物理阻力逐漸增強的環境。\n2. 細胞物理性適應：為應對高黏滯性，癌細胞會主動改變其物理表型，包括縮小細胞體積、增加細胞膜的柔軟度與可塑性，使其更容易擠壓通過腦組織的狹窄間隙。\n3. 持久性侵襲表型：令人擔憂的是，實驗證明即使癌細胞離開高黏滯性環境，部分被誘導出的高侵襲性特徵仍會持續存在，揭示了一種全新的腫瘤擴散機制。\n\n■ 資料來源 (References)：\n1. Jiang H, Xu C, Zeng C, Liu X, Deng L, Jian Y, et al. Open micro-valley chip reveals long-term viscosity-induced glioblastoma cellular invasion states. Microsystems & Nanoengineering. 2026. https://doi.org/10.1038/s41378-026-01241-0\n2. ScienceDaily Cancer News. Glioblastoma breakthrough reveals how brain cancer cells become more aggressive. https://www.sciencedaily.com/releases/2026/10/261022081300.htm\n\n#膠質母細胞瘤 #腫瘤微環境 #物理腫瘤學 #細胞力學 #腫瘤侵襲 #微流控",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "腫瘤基因體學研究",
-          "headline": "古老「跳躍基因」LINE-1\n被證實是驅動侵襲性肺癌\n快速演化的幕後黑手",
-          "subheadline": "發表於《Nature》的 Sherlock-Lung 研究，透過全基因體定序揭示移動 DNA 元件的新致癌機制",
-          "meta_badge": "研究設計：大規模全基因體定序與分析",
-          "footer": "資料來源：Zhang et al. Nature (2026)"
+          "tag": "腫瘤物理生物學研究",
+          "headline": "膠質母細胞瘤新發現\n高黏滯性流體微環境\n竟能增強癌細胞侵襲能力",
+          "subheadline": "研究利用微流控晶片揭示，腫瘤周邊的黏稠液體會使癌細胞變得更小、更具可塑性，以利於侵犯健康腦組織",
+          "meta_badge": "研究機制：流體黏滯性對癌細胞表型之影響",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "LINE-1 反轉錄轉座子如何\n在肺腺癌中引發基因體不穩定？",
+          "headline": "腫瘤周邊的物理環境\n如何重塑膠質母細胞瘤行為？",
           "points": [
-            "表觀遺傳失活：在正常細胞中，LINE-1 (L1) 等移動 DNA 元件受到嚴格的表觀遺傳抑制而被沉默，以維持基因體穩定。",
-            "癌化過程再活化：在特定肺腺癌亞型中，L1 被異常去抑制並重新活化，開始在基因體中「複製貼上」，隨機插入新的位置。",
-            "基因體破壞：L1 的插入會造成基因斷裂、突變或改變基因表現，產生大量基因體結構變異，驅動腫瘤快速演化並產生高度侵襲性。"
+            "黏滯性梯度：膠質母細胞瘤邊緣的組織間液，其黏滯性約為腫瘤中心壞死區域的八倍，形成物理屏障",
+            "細胞適應性：癌細胞為穿透高黏滯性環境，會主動改變自身物理特性，包括縮小體積與增加細胞膜的柔軟度",
+            "侵襲能力增強：這種物理性的適應，反而使癌細胞更能輕易地擠壓通過腦組織中的狹窄間隙，促進了腫瘤的擴散"
           ],
-          "footer": "資料來源：Zhang et al. Nature (2026)"
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "全基因體定序數據揭示了\n哪些與 L1 相關的腫瘤特徵？",
+          "tag": "實驗驗證",
+          "headline": "微流控晶片模擬\n驗證黏滯性誘導的細胞變化",
           "points": [
-            "特徵性突變標記：L1 再活化與一種稱為 ID2 的特殊突變標記（單鹼基對缺失）高度相關，成為識別此類腫瘤的分子指紋。",
-            "侵襲性亞型：帶有 L1 活化與 ID2 突變標記的肺腺癌，表現出更快的複製人演化速度與更差的臨床預後，屬於高度侵襲性亞型。",
-            "驅動基因差異：相較於 EGFR 突變腫瘤的緩慢演化，KRAS 突變腫瘤展現出更快的複製人演化，而 L1 活化則定義了另一種獨特的快速演化路徑。"
+            "開放式晶片設計：開發新型開放式微流控平台，能精準模擬腫瘤細胞向外侵襲時所遭遇的黏滯性梯度變化",
+            "表型變化觀察：實驗證實，長時間暴露於高黏滯性流體中的膠質母細胞瘤細胞，其體積縮小且更具可塑性",
+            "持久性效應：令人擔憂的是，即使細胞離開高黏滯性環境，部分增強侵襲能力的表型變化仍會持續存在"
           ],
-          "footer": "資料來源：Zhang et al. Nature (2026)"
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "從基因突變到基因體結構\n揭示肺癌演化的全新維度",
-          "summary": "此研究首次證實了內源性反轉錄轉座子 LINE-1 的再活化是部分肺癌侵襲性的直接驅動因素，為理解腫瘤演化提供了超越傳統驅動基因突變的全新視角。這不僅解釋了部分肺癌為何快速惡化，也為未來開發靶向 L1 或其相關機制的療法提供了可能。",
-          "cta": "後續觀察：開發能夠偵測 L1 活化的生物標記，並探索抑制 L1 活性的藥物（如反轉錄酶抑制劑）在這些患者中的治療潛力。",
-          "footer": "資料來源：Zhang et al. Nature (2026)"
+          "headline": "從化學訊號到物理力學\n揭示腫瘤侵襲的全新維度",
+          "summary": "此研究突破了傳統專注於化學訊號與組織硬度的框架，首次揭示了流體黏滯性作為一個主動調控因子，能誘導癌細胞產生更具侵襲性的表型。這為理解與對抗膠質母細胞瘤的擴散提供了嶄新的物理生物學視角。",
+          "cta": "後續觀察：探索靶向調節細胞骨架或細胞膜可塑性的藥物，是否能抑制黏滯性誘導的癌細胞侵襲行為。",
+          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
         }
       ]
     }
