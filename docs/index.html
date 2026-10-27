@@ -664,26 +664,66 @@
       }
     }
 
-    function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+    function tokenizeForWrap(str) {
+      // 將短括號組如（OS）、英文單字與標點與前字綁定，避免斷在右括號或句號前
+      return String(str || "").match(/([（(][A-Za-z0-9\-\/+]{1,10}[）)]|[A-Za-z0-9\-\/.+%]+|.[，。、；：！？）》」』\]\)]?)/g) || [];
+    }
+
+    function splitWrappedLines(ctx, text, maxWidth) {
       const paragraphs = String(text || "").split("\n");
-      let curY = y;
+      const lines = [];
       for (const para of paragraphs) {
+        const tokens = tokenizeForWrap(para);
         let line = "";
-        for (let i = 0; i < para.length; i++) {
-          const testLine = line + para[i];
-          const metrics = ctx.measureText(testLine);
-          if (metrics.width > maxWidth && line.length > 0) {
-            ctx.fillText(line, x, curY);
-            line = para[i];
-            curY += lineHeight;
+        for (let i = 0; i < tokens.length; i++) {
+          const testLine = line + tokens[i];
+          if (ctx.measureText(testLine).width > maxWidth && line.length > 0) {
+            lines.push(line);
+            line = tokens[i];
           } else {
             line = testLine;
           }
         }
+        if (line || paragraphs.length > 1) lines.push(line);
+      }
+      return lines;
+    }
+
+    function wrapText(ctx, text, x, y, maxWidth, lineHeight) {
+      const lines = splitWrappedLines(ctx, text, maxWidth);
+      let curY = y;
+      for (const line of lines) {
         ctx.fillText(line, x, curY);
         curY += lineHeight;
       }
       return curY;
+    }
+
+    function drawTextInBox(ctx, text, boxX, boxY, boxW, boxH, padX, weight, baseSize, fontStack, color, align = "left") {
+      const maxW = boxW - padX * 2;
+      let fontSize = baseSize;
+      let lineHeight = Math.round(fontSize * 1.48);
+      let lines = [];
+
+      while (fontSize >= 18) {
+        ctx.font = `${weight} ${fontSize}px ${fontStack}`;
+        lineHeight = Math.round(fontSize * 1.48);
+        lines = splitWrappedLines(ctx, text, maxW);
+        if (lines.length * lineHeight <= boxH - 20) break;
+        fontSize -= 2;
+      }
+
+      const totalH = lines.length * lineHeight;
+      let startY = boxY + (boxH - totalH) / 2 + lineHeight / 2;
+      ctx.fillStyle = color;
+      ctx.textBaseline = "middle";
+      ctx.textAlign = align === "center" ? "center" : "left";
+      const drawX = align === "center" ? boxX + boxW / 2 : boxX + padX;
+
+      for (const line of lines) {
+        ctx.fillText(line, drawX, startY);
+        startY += lineHeight;
+      }
     }
 
     function renderSlideToCanvas(canvas, post, slide, totalSlides) {
@@ -703,13 +743,14 @@
 
       const fontStack = "'PingFang TC', 'Heiti TC', 'Microsoft JhengHei', sans-serif";
 
-      // Top Left Category Pill
-      roundRect(ctx, 80, 90, 260, 62, 31, "rgba(255,255,255,0.16)", "rgba(255,255,255,0.35)", 2);
+      // Top Left Category Pill (auto-width)
       ctx.font = `600 26px ${fontStack}`;
+      const catW = Math.max(260, Math.ceil(ctx.measureText(post.category).width) + 64);
+      roundRect(ctx, 80, 90, catW, 62, 31, "rgba(255,255,255,0.16)", "rgba(255,255,255,0.35)", 2);
       ctx.fillStyle = "#FFFFFF";
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
-      ctx.fillText(post.category, 80 + 130, 90 + 31);
+      ctx.fillText(post.category, 80 + catW / 2, 90 + 31);
 
       // Top Right Counter Pill
       roundRect(ctx, 860, 90, 140, 62, 31, "rgba(0,0,0,0.3)", null);
@@ -720,95 +761,89 @@
 
       if (slide.type === "cover") {
         roundRect(ctx, 75, 210, 930, 930, 42, "rgba(15, 23, 42, 0.58)", "rgba(255,255,255,0.22)", 2);
-        roundRect(ctx, 135, 295, 310, 66, 16, post.accent_color, null);
         ctx.font = `600 26px ${fontStack}`;
+        const tagText = `✦ ${slide.tag}`;
+        const tagW = Math.max(310, Math.ceil(ctx.measureText(tagText).width) + 64);
+        roundRect(ctx, 135, 295, tagW, 66, 16, post.accent_color, null);
         ctx.fillStyle = "#FFFFFF";
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
-        ctx.fillText(`✦ ${slide.tag}`, 135 + 155, 295 + 33);
+        ctx.fillText(tagText, 135 + tagW / 2, 295 + 33);
 
         ctx.textAlign = "left";
         ctx.textBaseline = "top";
-        ctx.font = `700 62px ${fontStack}`;
+        ctx.font = `700 58px ${fontStack}`;
         ctx.fillStyle = "#FFFFFF";
-        wrapText(ctx, slide.headline, 135, 420, 810, 86);
+        wrapText(ctx, slide.headline, 135, 415, 810, 82);
 
-        roundRect(ctx, 135, 765, 160, 8, 4, post.accent_color, null);
+        roundRect(ctx, 135, 760, 160, 8, 4, post.accent_color, null);
 
-        ctx.font = `600 34px ${fontStack}`;
+        ctx.font = `600 33px ${fontStack}`;
         ctx.fillStyle = "#E2E8F0";
-        wrapText(ctx, slide.subheadline, 135, 810, 810, 50);
+        wrapText(ctx, slide.subheadline, 135, 800, 810, 48);
 
         const metaText = slide.meta_badge || `研究機構：${post.source_name}`;
-        roundRect(ctx, 135, 1015, 520, 64, 32, "rgba(255,255,255,0.14)", null);
-        ctx.font = `600 25px ${fontStack}`;
-        ctx.fillStyle = "#FFFFFF";
-        ctx.textAlign = "center";
-        ctx.textBaseline = "middle";
-        ctx.fillText(metaText, 135 + 260, 1015 + 32);
+        roundRect(ctx, 135, 1005, 810, 74, 37, "rgba(255,255,255,0.14)", null);
+        drawTextInBox(ctx, metaText, 135, 1005, 810, 74, 30, 600, 25, fontStack, "#FFFFFF", "center");
 
       } else if (slide.type === "points") {
         roundRect(ctx, 75, 200, 930, 940, 42, "#F8FAFC", null);
-        roundRect(ctx, 135, 275, 230, 60, 14, post.theme_color, null);
         ctx.font = `600 25px ${fontStack}`;
+        const pTagW = Math.max(230, Math.ceil(ctx.measureText(slide.tag).width) + 60);
+        roundRect(ctx, 135, 275, pTagW, 60, 14, post.theme_color, null);
         ctx.fillStyle = "#FFFFFF";
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
-        ctx.fillText(slide.tag, 135 + 115, 275 + 30);
+        ctx.fillText(slide.tag, 135 + pTagW / 2, 275 + 30);
 
         ctx.textAlign = "left";
         ctx.textBaseline = "top";
-        ctx.font = `700 50px ${fontStack}`;
+        ctx.font = `700 48px ${fontStack}`;
         ctx.fillStyle = "#1E293B";
-        wrapText(ctx, slide.headline, 135, 365, 810, 68);
+        wrapText(ctx, slide.headline, 135, 365, 810, 66);
 
         (slide.points || []).forEach((pt, i) => {
-          const boxY = 550 + i * 180;
-          roundRect(ctx, 130, boxY, 820, 152, 24, "#FFFFFF", post.theme_color + "38", 2);
-          roundRect(ctx, 158, boxY + 42, 68, 68, 34, post.theme_color, null);
+          const boxY = 545 + i * 182;
+          roundRect(ctx, 130, boxY, 820, 156, 24, "#FFFFFF", post.theme_color + "38", 2);
+          roundRect(ctx, 158, boxY + 44, 68, 68, 34, post.theme_color, null);
           ctx.font = `700 32px ${fontStack}`;
           ctx.fillStyle = "#FFFFFF";
           ctx.textAlign = "center";
           ctx.textBaseline = "middle";
-          ctx.fillText(`0${i + 1}`, 158 + 34, boxY + 42 + 34);
+          ctx.fillText(`0${i + 1}`, 158 + 34, boxY + 44 + 34);
 
-          ctx.textAlign = "left";
-          ctx.textBaseline = "top";
-          ctx.font = `500 30px ${fontStack}`;
-          ctx.fillStyle = "#334155";
-          wrapText(ctx, pt, 250, boxY + 34, 665, 44);
+          drawTextInBox(ctx, pt, 246, boxY, 680, 156, 16, 500, 29, fontStack, "#334155", "left");
         });
 
       } else if (slide.type === "takeaway") {
         roundRect(ctx, 75, 200, 930, 940, 42, "#F8FAFC", null);
-        roundRect(ctx, 135, 275, 240, 60, 14, post.accent_color, null);
         ctx.font = `600 25px ${fontStack}`;
+        const tTagW = Math.max(240, Math.ceil(ctx.measureText(slide.tag).width) + 60);
+        roundRect(ctx, 135, 275, tTagW, 60, 14, post.accent_color, null);
         ctx.fillStyle = "#FFFFFF";
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
-        ctx.fillText(slide.tag, 135 + 120, 275 + 30);
+        ctx.fillText(slide.tag, 135 + tTagW / 2, 275 + 30);
 
         ctx.textAlign = "left";
         ctx.textBaseline = "top";
-        ctx.font = `700 50px ${fontStack}`;
+        ctx.font = `700 48px ${fontStack}`;
         ctx.fillStyle = "#1E293B";
-        wrapText(ctx, slide.headline, 135, 365, 810, 68);
+        wrapText(ctx, slide.headline, 135, 365, 810, 66);
 
-        roundRect(ctx, 130, 560, 820, 340, 28, post.theme_color + "16", post.theme_color, 3);
+        // 中間「學術與臨床意義」方框（自動換行與字級適應）
+        roundRect(ctx, 130, 550, 820, 355, 28, post.theme_color + "16", post.theme_color, 3);
+        ctx.textAlign = "left";
+        ctx.textBaseline = "top";
         ctx.font = `700 34px ${fontStack}`;
         ctx.fillStyle = post.theme_color;
-        ctx.fillText("■ 學術與臨床意義", 175, 610);
+        ctx.fillText("■ 學術與臨床意義", 175, 590);
 
-        ctx.font = `500 31px ${fontStack}`;
-        ctx.fillStyle = "#1E293B";
-        wrapText(ctx, slide.summary, 175, 675, 730, 48);
+        drawTextInBox(ctx, slide.summary, 130, 640, 820, 250, 45, 500, 30, fontStack, "#1E293B", "left");
 
-        roundRect(ctx, 130, 950, 820, 120, 26, post.theme_color, null);
-        ctx.font = `500 24px ${fontStack}`;
-        ctx.fillStyle = "#FFFFFF";
-        ctx.textAlign = "center";
-        ctx.textBaseline = "middle";
-        ctx.fillText(slide.cta, 130 + 410, 950 + 60);
+        // 下方深色圓角框（自動換行、置中與字級縮放，絕不超出框外）
+        roundRect(ctx, 130, 935, 820, 145, 26, post.theme_color, null);
+        drawTextInBox(ctx, slide.cta, 130, 935, 820, 145, 42, 500, 26, fontStack, "#FFFFFF", "center");
       }
 
       // Bottom Footer
