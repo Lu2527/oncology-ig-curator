@@ -270,6 +270,37 @@ def sync_existing(base_dir: str):
         fo.write(fi.read())
 
 
+def load_seen_titles(base_dir: str) -> set:
+    seen = set()
+    for rel in ["data/daily_posts.json", "docs/data/daily_posts.json", "data/seen_history.json"]:
+        p = os.path.join(base_dir, rel)
+        if os.path.exists(p):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    d = json.load(f)
+                if isinstance(d, dict):
+                    for post in d.get("posts", []):
+                        if post.get("original_title"):
+                            seen.add(post["original_title"].strip().lower())
+                    for t in d.get("titles", []):
+                        seen.add(str(t).strip().lower())
+            except Exception:
+                pass
+    return seen
+
+
+def save_seen_titles(base_dir: str, seen: set, new_posts: list):
+    for p in new_posts:
+        if p.get("original_title"):
+            seen.add(p["original_title"].strip().lower())
+    hist_path = os.path.join(base_dir, "data", "seen_history.json")
+    os.makedirs(os.path.dirname(hist_path), exist_ok=True)
+    # 保留最近 60 篇紀錄，避免重複挑選；若超過 60 篇則自動循環滾動
+    recent_list = list(seen)[-60:]
+    with open(hist_path, "w", encoding="utf-8") as f:
+        json.dump({"titles": recent_list}, f, ensure_ascii=False, indent=2)
+
+
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.abspath(__file__))
     tz = datetime.timezone(datetime.timedelta(hours=8))
@@ -281,8 +312,15 @@ if __name__ == "__main__":
         sync_existing(base_dir)
         sys.exit(0)
 
-    articles = fetch_latest_rss_articles(max_per_source=6)
-    print(f"已抓取 {len(articles)} 則最新癌症外電，開始擷取原文期刊出處…")
+    seen_titles = load_seen_titles(base_dir)
+    all_articles = fetch_latest_rss_articles(max_per_source=6)
+    fresh_articles = [
+        a for a in all_articles
+        if a.get("title", "").strip().lower() not in seen_titles
+    ]
+    # 若未看過的新文章夠多（>= 8 篇），優先只從全新文章挑選，確保同一天多次執行也會換一批新文章！
+    articles = fresh_articles if len(fresh_articles) >= 8 else all_articles
+    print(f"已抓取 {len(all_articles)} 則最新癌症外電（其中未曾發布之全新研究 {len(fresh_articles)} 則），開始擷取原文期刊出處…")
     articles = [enrich_article_reference(a) for a in articles]
     verified = sum(1 for a in articles if a.get("verified_reference"))
     print(f"其中 {verified} 則取得經驗證的期刊出處")
@@ -326,4 +364,5 @@ if __name__ == "__main__":
         "generated_at": now.isoformat(),
         "posts": posts,
     })
+    save_seen_titles(base_dir, seen_titles, posts)
     print(f"✅ 已完成 {today_str} 共 5 則黃金標準癌症研究專業編譯！")
