@@ -1,279 +1,279 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:19:38.526147+08:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T09:43:37.238633+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "單細胞預後模型",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival",
-      "original_title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "category": "卵巢癌標靶治療",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-02412",
+      "original_title": "PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【AI 模型 scSurvival 從單細胞數據預測癌症存活並鑑定高風險細胞群】\n\n發表於美國癌症研究協會（AACR）旗艦期刊 *Cancer Discovery* 的一項研究中，由美國國家衛生研究院（NIH）資助的團隊開發了一款名為 scSurvival 的創新人工智慧評估工具。此模型利用機器學習框架，能以前所未有的單細胞解析度（single-cell resolution）分析大規模基因表達數據，不僅能準確預測癌症患者的存活結果，更能精準定位出與高風險預後直接相關的特定腫瘤細胞亞群。\n\n■ 研究核心發現：\n1. 細胞加權分析：scSurvival 為腫瘤中的每一個細胞分配一個與存活率相關的權重分數，有效過濾掉背景雜訊，並凸顯出對疾病進程具有決定性影響的關鍵細胞群。\n2. 保留異質性細節：傳統分析方法常將所有細胞數據平均化，從而抹煞了腫瘤內部細胞異質性（tumor heterogeneity）的關鍵細微差異。scSurvival 則完整保留這些細節，進行更精準的風險評估。\n3. 臨床數據驗證：研究團隊利用超過 150 名癌症患者的單細胞數據集對模型進行訓練與測試，結果顯示 scSurvival 不僅能有效預測存活結果，更揭示了導致不良預後的「元兇」細胞，為治療提供潛在新標的。\n\n■ 資料來源 (References)：\n1. Ren T, Zhao F, Chen C, Zhou L, Wu LY, Mills GB, et al. scSurvival: Single-Cell Survival Analysis of Clinical Cancer Cohort Data at Cellular Resolution. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-25-0965\n2. National Cancer Institute (NCI). NIH-funded AI model predicts cancer survival from single-cell tumor data. https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival\n\n#單細胞分析 #計算腫瘤學 #癌症預後 #AI醫療 #精準醫療 #腫瘤異質性",
+      "caption": "【ASCO 臨床指引更新：卵巢癌 PARP 抑制劑治療策略精粹】\n美國臨床腫瘤學會 (ASCO) 於《臨床腫瘤學期刊》(JCO) 發布了其 2026.1.0 版的卵巢癌 PARP 抑制劑 (PARPis) 治療動態指引。該指引基於對 79 篇文獻的系統性回顧，強調所有新診斷的晚期上皮性卵巢癌 (EOC) 患者都應進行基因檢測與同源重組缺陷 (Homologous Recombination Deficiency, HRD) 測試。核心建議為，PARPi 維持治療應優先用於一線臨床緩解，特別是針對帶有 BRCA 突變或 HRD 陽性的患者，以最大化無惡化存活期 (Progression-Free Survival, PFS) 益處。同時，指引對 PARPi 在復發性卵巢癌中的應用提出更嚴格的限制，因部分後線治療試驗觀察到潛在的整體存活期 (Overall Survival, OS) 劣勢。\n\n■ 指引核心建議：\n1. 生物標記檢測：所有新診斷的晚期 EOC 患者應接受生殖系或體細胞 BRCA1/2 突變檢測；若為 BRCA 陰性，則應進行 HRD 腫瘤檢測，並使用 FDA 核准或前瞻性驗證的伴隨式診斷工具。\n2. 一線維持治療：對於鉑金類化療有反應的 BRCA 突變或 HRD 陽性患者，應提供 PARPi 單藥維持治療。對於同時接受 bevacizumab 治療的患者，olaparib 合併 bevacizumab 維持治療亦為選項。\n3. 復發性治療限縮：在復發性卵巢癌中，PARPi 維持治療應主要限於未曾使用過 PARPi 且帶有 BRCA 突變、並對二線或以上鉑金類化療有反應的患者。不建議將 PARPi 單藥用於治療，或與化療、其他標靶藥物合併於臨床試驗之外。\n\n■ 臨床轉譯與研究展望：\n此版指引的更新，標誌著 PARPi 在卵巢癌治療中從廣泛應用走向精準擇優的重大轉變。透過嚴格的生物標記篩選，將藥物用於最能獲益的一線維持治療族群，並對效益存疑或具潛在風險的後線應用提出警示，旨在最大化治療效益並降低潛在傷害。臨床醫師應密切監測骨髓增生不良症候群 (MDS)、急性骨髓性白血病 (AML) 等嚴重不良事件。\n\n■ 資料來源 (References)：\n1. Tew WP, Lacchetti C, Adams TS, Banerjee S, Connor EV, Fuh K, et al. PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-02412\n2. ASCO (美國臨床腫瘤學會) / JCO. PARP Inhibitors in the Management of Ovarian Cancer: ASCO Living Guideline, Version 2026.1.0.. https://doi.org/10.1200/JCO-26-02412\n\n#卵巢癌 #PARP抑制劑 #標靶治療 #ASCO #臨床指引 #BRCA #HRD #婦癌 #腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "計算腫瘤學研究",
-          "headline": "AI 模型 scSurvival\n從單細胞數據預測存活\n精準鑑定高風險細胞群",
-          "subheadline": "發表於 Cancer Discovery，此機器學習框架能解析腫瘤異質性與臨床預後之關聯",
-          "meta_badge": "研究焦點：單細胞解析度之癌症風險評估",
-          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+          "tag": "ASCO 臨床指引更新",
+          "headline": "ASCO 發布卵巢癌指引\n精準定義 PARP 抑制劑\n於一線與復發治療角色",
+          "subheadline": "最新 2026.1.0 版指引強調生物標記檢測，並限縮復發性卵巢癌之使用",
+          "meta_badge": "證據等級：基於隨機對照試驗之系統性回顧",
+          "footer": "資料來源：Tew et al. ASCO / Journal of clinical oncology : official"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "模型架構",
-          "headline": "scSurvival 模型如何\n從海量單細胞數據中預測？",
+          "tag": "指引核心 Rationale",
+          "headline": "為何精準限縮 PARP 抑制劑\n於卵巢癌之治療定位？",
           "points": [
-            "細胞加權：為每個細胞分配與存活相關的權重，過濾掉較不重要的細胞資訊，凸顯出關鍵訊號",
-            "特徵提取：整合加權後的細胞基因表達數據，形成能代表腫瘤整體風險的綜合特徵向量",
-            "模型訓練：使用包含單細胞數據與臨床存活資料的世代進行訓練，建立細胞特徵與預後間的關聯"
+            "一線效益最大化：在新診斷晚期卵巢癌中，PARPi 維持治療對 BRCA 突變或 HRD 陽性患者有顯著的無惡化存活期 (PFS) 益處。",
+            "後期潛在風險：部分用於後線治療與復發維持的試驗，觀察到潛在的整體存活期 (OS) 劣勢，需謹慎評估風險效益。",
+            "生物標記驅動：指引強調 FDA 核准或前瞻性驗證的伴隨式診斷，以 HRD 狀態指導治療，避免無效或有害的應用。"
           ],
-          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+          "footer": "資料來源：Tew et al. ASCO / Journal of clinical oncology : official"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "scSurvival 模型的\n臨床數據驗證與發現",
+          "tag": "核心臨床建議",
+          "headline": "卵巢癌 PARP 抑制劑\n關鍵治療建議總覽",
           "points": [
-            "臨床驗證：在超過 150 名癌症患者的臨床數據上進行測試，成功預測了存活結果",
-            "風險歸因：不僅預測高風險患者，更能進一步指出哪些特定的細胞亞群是導致不良預後的主因",
-            "超越平均：相較於傳統將所有細胞數據平均化的分析方法，scSurvival 保留了關鍵的細胞異質性細節"
+            "必要檢測項目：所有新診斷晚期患者應進行基因檢測；若 BRCA 陰性，則應進行 HRD 腫瘤檢測。",
+            "優先一線維持：應優先考慮將 PARPi 維持治療用於首次臨床緩解，特別是針對 BRCA 突變或 HRD 陽性族群。",
+            "限縮復發使用：復發性卵巢癌的 PARPi 維持治療，主要限於未曾使用過 PARPi 且帶有 BRCA 突變的患者。"
           ],
-          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+          "footer": "資料來源：Tew et al. ASCO / Journal of clinical oncology : official"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從腫瘤平均特徵邁向\n單細胞解析度的精準預後",
-          "summary": "scSurvival 模型代表了癌症預後評估的典範轉移，從過去對腫瘤組織的宏觀平均分析，進化到能精準解析單一細胞對疾病進程貢獻的微觀層次，為個人化風險分層與治療策略提供前所未有的解析度。",
-          "cta": "後續觀察：模型是否能整合多體學數據（如蛋白質體、空間轉錄體），並應用於預測特定療法的反應性。",
-          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+          "headline": "從廣泛應用到精準擇優\n最大化 PARPi 治療效益",
+          "summary": "此版 ASCO 指引標誌著卵巢癌 PARPi 治療的典範轉移，強調以生物標記為基礎，將最強效益的藥物用於最適合的一線維持治療，同時對效益存疑或具潛在風險的後線應用提出警示，引導臨床實踐更趨精準化。",
+          "cta": "後續觀察：真實世界數據中，遵循新版指引對不同 HRD 狀態患者長期整體存活期 (OS) 的影響。",
+          "footer": "資料來源：Tew et al. ASCO / Journal of clinical oncology : official"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "抗藥性演化",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-      "original_title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+      "category": "頭頸癌免疫治療",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1007/s00106-026-01823-4",
+      "original_title": "[Update on immunotherapy in head and neck cancer : New aspects from the ASCO annual meeting 2026].",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【單細胞解析揭示胰臟癌如何動態重塑 DNA 以逃脫治療並促進轉移】\n\n發表於 *Nature Genetics* 的一項突破性研究中，科學家透過分析近五十萬個單一癌細胞，詳細描繪了胰臟導管腺癌（pancreatic ductal adenocarcinoma, PDAC）如何持續改變其基因組成以變得更具侵襲性、抗藥性與轉移能力。研究發現，腫瘤內部存在多個基因特徵相異的細胞群（clones），它們能在不同狀態間轉換，而 MYC 基因的活化是此過程的關鍵驅動因子。\n\n■ 核心作用機制：\n1. 複製體異質性：研究證實胰臟癌腫瘤由多個不同的細胞複製體組成，每個複製體都可能演化出獨特的生存優勢，例如抵抗化療或增強侵襲周邊組織的能力。\n2. 亞型狀態轉換：癌細胞並非一成不變，而是在較不具侵襲性的「古典（classical）」亞型與更具侵襲性的「基底樣（basal）」亞型之間動態轉換，以適應治療壓力與微環境變化。\n3. MYC 基因驅動：數據顯示，MYC 基因的高度活化是驅動癌細胞轉向更危險的基底樣亞型的核心機制。在實驗室中，抑制 MYC 活性可部分逆轉這些細胞的侵襲性特徵。\n\n■ 資料來源 (References)：\n1. Kalfakakou D, Cameron DC, Kawaler EA, Tsuda M, Wang L, Su Q, et al. Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression. Nature Genetics. 2026. https://doi.org/10.1038/s41588-026-02779-5\n2. ScienceDaily Cancer News. Scientists discover how pancreatic cancer rewrites its DNA to escape treatment. https://www.sciencedaily.com/releases/2026/10/261024221849.htm\n\n#胰臟癌 #腫瘤演化 #單細胞定序 #抗藥性 #MYC #NatureGenetics",
+      "caption": "【ASCO 2026 頭頸癌免疫治療：從圍術期到復發轉移之策略演進】\n在 2026 年美國臨床腫瘤學會 (ASCO) 年會上發表的多項研究，揭示了頭頸部鱗狀細胞癌 (Head and Neck Squamous Cell Carcinoma, HNSCC) 免疫治療的重大進展。數據顯示，治療策略正從傳統的 PD-1/PD-L1 抑制劑單藥治療，轉向更具分化性、由機制驅動的組合療法，並將戰線從晚期轉移擴展至圍術期治療，旨在克服免疫抑制屏障並改善長期控制率。\n\n■ 研究核心發現：\n1. 圍術期免疫策略：圍術期及輔助性使用 pembrolizumab 的策略，在早期 HNSCC 中展現出一致的存活效益，並能降低病理學高風險特徵，同時保留手術的根除性。\n2. 新輔助組合療法：新輔助性 PD-1/VEGF 雙特異性抗體合併化療的方案，達成了極高的腫瘤反應率，並實現了器官保留性切除，為局部晚期患者帶來新希望。\n3. 創新標靶與平台：針對 HPV16 陽性口咽癌，以 CD40 為標靶的疫苗誘導了強勁且持久的 T 細胞反應。而在 PD-1 治療失敗後，EGFR 導向的雙特異性抗體與類 TCR 雙特異性 T 細胞銜接器 (TCER) IMA401 均展現出有意義的抗腫瘤活性。\n\n■ 臨床轉譯與研究展望：\n這些來自 ASCO 的數據，強烈支持將免疫腫瘤學概念擴展至圍術期治療，以期在更早階段根除微轉移病灶。此外，雙特異性抗體與 TCR-based 策略的成功，預示著頭頸癌治療將邁向一個超越傳統檢查點抑制的、更精準的多機轉組合免疫時代，為抗藥性患者提供新的解決方案。\n\n■ 資料來源 (References)：\n1. Brand M, Hoffmann TK, Laban S. [Update on immunotherapy in head and neck cancer : New aspects from the ASCO annual meeting 2026]. HNO (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1007/s00106-026-01823-4\n2. ASCO (美國臨床腫瘤學會) / JCO. [Update on immunotherapy in head and neck cancer : New aspects from the ASCO annual meeting 2026].. https://doi.org/10.1007/s00106-026-01823-4\n\n#頭頸癌 #免疫治療 #ASCO2026 #圍術期治療 #雙特異性抗體 #TCR #HNSCC #腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "腫瘤演化生物學研究",
-          "headline": "單細胞解析胰臟癌\n揭示其動態重塑 DNA\n以逃脫治療並促進轉移",
-          "subheadline": "Nature Genetics 研究發現，MYC 基因活化是驅動癌細胞從古典轉向更具侵襲性基底樣亞型的關鍵",
-          "meta_badge": "研究焦點：胰臟導管腺癌 (PDAC) 之複製體異質性",
-          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
+          "tag": "ASCO 2026 研究更新",
+          "headline": "圍術期免疫與雙特異性抗體\n重塑頭頸癌治療典範\nASCO 2026 最新數據解析",
+          "subheadline": "從 PD-1 單藥到組合療法，新策略旨在克服免疫抑制並提升長期控制率",
+          "meta_badge": "研究焦點：頭頸部鱗狀細胞癌 (HNSCC) 免疫療法",
+          "footer": "資料來源：Brand et al. ASCO / HNO (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "胰臟癌細胞如何透過\n基因重組來演化與適應？",
+          "tag": "新興免疫機制",
+          "headline": "如何突破頭頸癌治療瓶頸\n新一代免疫策略解析",
           "points": [
-            "複製體異質性：腫瘤內存在多個基因特徵相異的細胞群（clones），各自演化出不同的生存優勢",
-            "亞型轉換：癌細胞可在較不具侵襲性的「古典 (classical)」與更具侵襲性的「基底樣 (basal)」狀態間轉換",
-            "MYC 基因驅動：MYC 基因的高度活化被發現是驅動細胞轉向更具侵襲性與抗藥性基底樣亞型的核心因子"
+            "圍術期介入：在手術前後使用 PD-1 抑制劑，旨在清除微轉移病灶並建立長期免疫記憶，從而降低術後復發風險。",
+            "雙重路徑阻斷：同時抑制 PD-1 與 VEGF，不僅增強 T 細胞活性，也能改善腫瘤血管通透性，促進免疫細胞浸潤。",
+            "T 細胞銜接器：類 TCR 雙特異性分子 (TCER) 可直接將 T 細胞引導至癌細胞，繞過傳統抗原呈現途徑，克服免疫逃脫。"
           ],
-          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
+          "footer": "資料來源：Brand et al. ASCO / HNO (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "單細胞定序揭示的\n胰臟癌演化路徑",
+          "tag": "臨床研究數據",
+          "headline": "ASCO 2026 頭頸癌研究\n展現多項治療突破",
           "points": [
-            "大規模分析：研究團隊對近五十萬個單一癌細胞進行分析，描繪出詳細的複製體演化圖譜",
-            "功能分化：不同複製體展現出特異性功能，部分演化出抗藥性，部分則演化出更強的組織侵襲與轉移能力",
-            "MYC 抑制效果：在實驗室中，透過藥物阻斷 MYC 基因的功能，可逆轉部分癌細胞的侵襲性特徵"
+            "圍術期 Pembrolizumab：數據顯示圍術期與輔助性 PD-1 抑制劑策略，可提供一致的存活效益並減少手術根除範圍。",
+            "新輔助雙特異性抗體：PD-1/VEGF 雙抗合併化療，在新輔助治療中實現了高腫瘤反應率與器官保留性切除。",
+            "PD-1 失敗後選項：EGFR 導向雙抗與 TCR-based 療法 IMA401，在 PD-1 治療失敗的患者中展現有意義的抗腫瘤活性。"
           ],
-          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
+          "footer": "資料來源：Brand et al. ASCO / HNO (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "從靜態基因突變圖譜\n到動態複製體演化追蹤",
-          "summary": "此研究揭示了胰臟癌的高度可塑性，其並非由單一基因突變決定，而是透過持續的複製體演化與亞型轉換來適應壓力。靶向如 MYC 這類驅動狀態轉換的關鍵節點，可能成為克服抗藥性的新策略。",
-          "cta": "後續觀察：開發針對 MYC 或其他調控亞型轉換因子的標靶藥物，並在臨床前模型中驗證其抑制腫瘤演化的效果。",
-          "footer": "資料來源：Kalfakakou et al. Nature Genetics (2026)"
+          "headline": "從單一檢查點抑制\n邁向多機轉組合免疫時代",
+          "summary": "ASCO 2026 的數據顯示頭頸癌免疫治療正快速演進，將戰線從晚期轉移擴展至圍術期，並透過雙特異性抗體、TCR 工程等創新平台，開發更精準、強效的組合策略，以克服現有 ICI 的抗藥性。",
+          "cta": "後續觀察：這些新興圍術期與組合療法的長期存活數據，以及其在不同 HPV 狀態患者中的療效差異。",
+          "footer": "資料來源：Brand et al. ASCO / HNO (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "腫瘤微環境",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk",
-      "original_title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
+      "category": "AI 影像診斷",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+      "original_title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【慢性腸道發炎在幹細胞中留下表觀遺傳記憶以增加大腸直腸癌風險】\n\n發表於頂尖期刊 *Nature* 的一項研究，揭示了慢性腸道發炎如何透過分子機制增加大腸直腸癌（colorectal cancer）的風險。研究團隊透過小鼠模型發現，反覆的組織損傷會在腸道幹細胞中留下持久的表觀遺傳「記憶」，這種記憶會活化一組名為 AP-1 的轉錄因子，即使在發炎消退後，此改變仍會遺傳給子代細胞，從而促進腫瘤的生長。\n\n■ 核心作用機制：\n1. 表觀遺傳記憶：慢性結腸炎（colitis）會導致腸道幹細胞的表觀基因體（epigenome）發生持久性改變，這種改變如同細胞的「損傷記憶」，使其長期處於一種預備增生的狀態。\n2. AP-1 轉錄因子活化：此表觀遺傳記憶的核心特徵，是顯著增加了 AP-1 轉錄因子家族的染色質可及性與活性，進而驅動與細胞再生和增殖相關的基因程式。\n3. 長期細胞遺傳：實驗證明，即使在發炎完全停止後，這些表觀遺傳標記仍能穩定地透過細胞分裂傳遞給新的子代幹細胞，持續超過 100 天，形成長期的致癌風險。\n\n■ 資料來源 (References)：\n1. Nagaraja S, Ojeda-Miron L, Zhang R, Oreskovic E, Hock C, Hu Y, et al. Epigenetic memory of colitis promotes tumour growth. Nature. 2026. https://doi.org/10.1038/s41586-026-10258-4\n2. National Cancer Institute (NCI). Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk. https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk\n\n#大腸癌 #表觀遺傳學 #慢性發炎 #腫瘤微環境 #幹細胞 #AP1",
+      "caption": "【AI 模型 REDMOD 突破：常規 CT 掃描中偵測「隱形」早期胰臟癌】\n一篇發表於《Gut》期刊的研究報告指出，一個名為 REDMOD (Radiomics-based Early Detection MODel) 的人工智慧模型，能夠在常規腹部電腦斷層 (CT) 掃描中，偵測出放射科醫師肉眼無法看見的極早期胰臟導管腺癌 (PDAC) 微妙跡象。在回溯性研究中，該模型平均能在正式臨床診斷前的 475 天就發現警訊，其靈敏度幾乎是經驗豐富的放射科醫師的兩倍。這項技術突破有望徹底改變胰臟癌的偵測模式。\n\n■ 核心運作機制：\n1. 放射組學分析 (Radiomics)：AI 系統的核心在於分析傳統 CT 影像中，人眼無法辨識的胰臟組織紋理、強度與形狀的細微模式。這些「放射組學」特徵與早期癌變過程中的細胞與結構變化高度相關。\n2. 自動器官描繪：在分析前，REDMOD 模型能自動且精準地識別並勾勒出胰臟的輪廓，將其與周圍器官和組織分離，此舉不僅提升了效率，也消除了因不同判讀者手動描繪所產生的變異性。\n3. 深度學習與泛化：模型透過對大量已確診病例的 CT 影像進行深度學習，從而掌握了與早期 PDAC 相關的特定放射組學模式。研究同時證實，該模型在來自多個不同醫療機構的數據上仍具有良好的穩定性與泛化能力。\n\n■ 臨床轉譯與研究展望：\n胰臟癌的低存活率主要歸因於其發現時多為晚期。REDMOD 的成功驗證，為利用現有醫療影像數據進行早期篩檢提供了強而有力的工具，可能將胰臟癌的診斷從無法手術的晚期，大幅提前至可根治的第 0 期。下一步的研究將聚焦於在前瞻性臨床試驗中，驗證其在高風險族群（如新發糖尿病患者）中的應用成效。\n\n■ 資料來源 (References)：\n1. Mukherjee S, Antony A, Patnam NG, Trivedi KH, Karbhari A, Bhinder KK, et al. Next-generation AI for visually occult pancreatic cancer detection in a low-prevalence setting with longitudinal stability and multi-institutional generalisability. Gut. 2026. https://doi.org/10.1136/gutjnl-2025-337266\n2. ScienceDaily Cancer News. AI detects “invisible” signs of pancreatic cancer years before diagnosis. https://www.sciencedaily.com/releases/2026/10/261024222031.htm\n\n#胰臟癌 #AI診斷 #早期發現 #放射組學 #醫學影像 #PDAC #電腦斷層 #腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "表觀遺傳學研究",
-          "headline": "慢性腸道發炎\n在幹細胞中留下表觀遺傳記憶\n顯著增加大腸直腸癌風險",
-          "subheadline": "Nature 研究揭示，反覆組織損傷會活化 AP-1 轉錄因子，此改變可遺傳給子代細胞並促進腫瘤生長",
-          "meta_badge": "研究機制：發炎誘導之癌症表觀遺傳重塑",
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "tag": "AI 輔助診斷研究",
+          "headline": "AI 模型於常規 CT 影像\n提早 475 天偵測胰臟癌\n靈敏度為放射科醫師兩倍",
+          "subheadline": "REDMOD 透過放射組學分析，辨識肉眼不可見的早期癌變組織紋理特徵",
+          "meta_badge": "研究設計：多中心回溯性 AI 模型開發與驗證",
+          "footer": "資料來源：Mukherjee et al. Gut (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "發炎如何透過表觀遺傳\n在幹細胞中埋下癌症種子？",
+          "tag": "AI 運作機制",
+          "headline": "AI 如何在標準 CT 影像中\n看見「隱形」的胰臟癌？",
           "points": [
-            "表觀遺傳記憶：慢性發炎導致腸道幹細胞的表觀基因體（epigenome）發生持久性改變，形成一種「損傷記憶」",
-            "AP-1 活化：此表觀遺傳改變的核心特徵是 AP-1 轉錄因子家族的活性顯著增加，促進細胞再生與增殖",
-            "細胞遺傳：即使在發炎停止後，這些表觀遺傳標記仍會透過細胞分裂傳遞給新的子代幹細胞，持續超過 100 天"
+            "自動胰臟分割：模型首先自動辨識並精準描繪出胰臟的邊界，將其與周圍器官組織分離，以利後續分析。",
+            "放射組學特徵提取：系統分析胰臟區域內數百種肉眼無法察覺的影像紋理、強度與形狀特徵，即放射組學 (Radiomics) 特徵。",
+            "深度學習分類：透過對已知病例的深度學習，模型能辨識出與早期胰臟導管腺癌 (PDAC) 相關的特定放射組學模式。"
           ],
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "footer": "資料來源：Mukherjee et al. Gut (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "小鼠模型與類器官\n驗證發炎記憶的致癌潛力",
+          "tag": "模型驗證數據",
+          "headline": "REDMOD 模型展現\n卓越的早期偵測效能",
           "points": [
-            "小鼠模型模擬：透過在小鼠中模擬慢性結腸炎（colitis），追蹤發炎與恢復期間的細胞變化",
-            "單細胞分析：分析超過 52,000 個單細胞，精準定位出結腸幹細胞中因發炎而產生的表觀遺傳變化",
-            "腫瘤促進效應：帶有發炎記憶的幹細胞所衍生的組織，在致癌物誘導下表現出更強的腫瘤生長能力"
+            "早期偵測時間窗：在多中心 219 名患者的回溯性研究中，AI 平均在正式診斷前 475 天就從 CT 影像中發現警訊。",
+            "優越的靈敏度：研究顯示，REDMOD 模型的偵測靈敏度幾乎是經驗豐富的放射科醫師的兩倍，能發現更多早期病灶。",
+            "多機構泛化能力：該模型在來自不同醫院的數據集上進行測試，證明其具有跨機構應用的潛力與穩定性。"
           ],
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "footer": "資料來源：Mukherjee et al. Gut (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "從基因突變到表觀遺傳\n重新理解發炎與癌症的連結",
-          "summary": "本研究闡明了慢性發炎不僅是致癌的背景因素，更能主動透過在幹細胞中建立持久的表觀遺傳記憶來「預備」癌症的發生。這為高風險族群的早期篩檢與化學預防提供了新的分子標的。",
-          "cta": "後續觀察：開發針對 AP-1 或其他發炎記憶相關表觀遺傳修飾的藥物，評估其預防發炎相關大腸癌的潛力。",
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從晚期姑息到早期根治\nAI 為胰臟癌篩檢帶來曙光",
+          "summary": "胰臟癌致死率高的主因在於晚期發現。REDMOD 模型證實了利用 AI 挖掘現有 CT 影像數據的巨大潛力，有望將診斷時間點大幅提前至可治癒的第 0 期，為開發高風險族群篩檢策略提供了關鍵技術。",
+          "cta": "後續觀察：模型在前瞻性臨床試驗中的表現，特別是在新發糖尿病或不明原因體重減輕等高風險族群中的準確性。",
+          "footer": "資料來源：Mukherjee et al. Gut (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "液態切片檢測",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection",
-      "original_title": "Researchers identify new blood markers that may detect early pancreatic cancer",
+      "category": "免疫抑制劑風險",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+      "original_title": "Common drugs may help dangerous viruses spread through the body",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【新型血液生物標記組合 ANPEP 與 PIGR 可望用於胰臟癌早期偵測】\n\n發表於美國癌症研究協會（AACR）期刊 *Clinical Cancer Research* 的一項研究中，美國國家衛生研究院（NIH）支持的團隊開發出一種新型血液檢測方法，有望用於早期篩檢致命的胰臟導管腺癌（pancreatic ductal adenocarcinoma）。研究發現，將兩種新型蛋白標記 ANPEP 和 PIGR 與現有標記 CA19-9 及 THBS2 結合，能顯著提升檢測的準確性。\n\n■ 研究核心發現：\n1. 新型標記鑑定：研究團隊在分析早期胰臟癌患者的血液樣本後，發現兩種過去未被充分探討的蛋白：氨肽酶 N（ANPEP）與多聚免疫球蛋白受體（PIGR），其濃度顯著高於健康對照組。\n2. 四標記組合效能：將 ANPEP、PIGR 與傳統標記 carbohydrate antigen 19-9（CA19-9）及 thrombospondin 2（THBS2）結合，此四標記組合在區分所有期別的胰臟癌與非癌症個案時，準確率高達 91.9%。\n3. 早期偵測潛力：更重要的是，對於難以發現的第一期與第二期早期胰臟癌，此組合的偵測率（敏感性）仍高達 87.5%，顯示其作為早期篩檢工具的巨大潛力，有望改變胰臟癌的診斷時機與預後。\n\n■ 資料來源 (References)：\n1. National Cancer Institute (NCI). Researchers identify new blood markers that may detect early pancreatic cancer. https://www.cancer.gov/news-events/press-releases/2026/early-pancreatic-cancer-detection\n\n#液態切片 #胰臟癌 #早期診斷 #生物標記 #分子診斷 #CA199",
+      "caption": "【JAK 抑制劑的潛在警訊：研究發現可能削弱抗病毒免疫屏障】\n一篇發表於《NAR Molecular Medicine》的新研究揭示，一類廣泛用於治療類風濕性關節炎等發炎性疾病的藥物——Janus 激酶 (JAK) 抑制劑，可能產生意想不到的副作用：削弱人體關鍵的抗病毒免疫防禦。研究發現，這類藥物會抑制對抗病毒所必需的基因，從而可能幫助流感病毒、腺病毒甚至 SARS-CoV-2 等病毒更容易在體內傳播。此發現對於正在接受 JAK 抑制劑治療的癌症或免疫功能低下患者具有重要臨床意義。\n\n■ 核心作用機制：\n1. 抑制免疫信號通路：JAK 抑制劑 (如 baricitinib) 的主要藥理作用是阻斷 JAK-STAT 信號通路，此通路在調節發炎反應中扮演核心角色，但同時也對啟動抗病毒免疫至關重要。\n2. 干擾抗病毒基因：研究團隊發現，JAK 抑制劑會顯著壓制一系列由干擾素 (Interferon) 誘導的抗病毒基因 (Interferon-Stimulated Genes, ISGs) 的表達。\n3. 移除先天免疫屏障：ISGs 是細胞建立「抗病毒狀態」的關鍵分子。透過抑制這些基因的表達，JAK 抑制劑實質上移除了細胞固有的先天免疫屏障，使細胞對病毒的易感性增加，並促進病毒的複製與擴散。\n\n■ 臨床轉譯與研究展望：\n雖然 JAK 抑制劑在控制發炎相關疾病（包括癌症治療中的移植物抗宿主病，GVHD）方面非常有效，但這項研究強調了其潛在的「雙面刃」效應。它提醒臨床醫師，在為患者（特別是免疫系統本就脆弱的癌症患者）處方此類藥物時，必須更嚴密地監測病毒感染的風險，並權衡治療發炎與潛在感染風險之間的利弊。\n\n■ 資料來源 (References)：\n1. Ravlo E, Ianevski A, Skipperstøen MN, Lysvand H, Schjølberg JO, Solheim O, et al. JAK inhibitors remove innate immune barriers facilitating viral propagation. NAR Molecular Medicine. 2025. https://doi.org/10.1093/narmme/ugaf017\n2. ScienceDaily Cancer News. Common drugs may help dangerous viruses spread through the body. https://www.sciencedaily.com/releases/2026/10/261026225606.htm\n\n#JAK抑制劑 #免疫治療 #藥物安全 #抗病毒免疫 #腫瘤學 #免疫抑制 #副作用 #Baricitinib",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "分子診斷研究",
-          "headline": "新型血液生物標記\n結合 ANPEP 與 PIGR 蛋白\n可早期偵測胰臟癌",
-          "subheadline": "發表於 Clinical Cancer Research 的研究顯示，四標記組合能以高準確度區分早期胰臟癌患者與健康者",
-          "meta_badge": "研究焦點：胰臟導管腺癌 (PDAC) 早期篩檢",
-          "footer": "資料來源：National Cancer Institute (NCI)"
+          "tag": "分子醫學研究",
+          "headline": "常用抗發炎藥物新發現\nJAK 抑制劑恐削弱免疫\n增加流感與新冠病毒傳播",
+          "subheadline": "研究揭示 JAK 抑制劑會壓制關鍵抗病毒基因，移除細胞先天免疫屏障",
+          "meta_badge": "研究焦點：藥物對先天免疫與病毒增殖的影響",
+          "footer": "資料來源：Ravlo et al. NAR Molecular Medicine (2025)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估限制",
-          "headline": "為何傳統血液標記\n不足以進行胰臟癌篩檢？",
+          "tag": "分子機制",
+          "headline": "JAK 抑制劑如何意外地\n為病毒傳播敞開大門？",
           "points": [
-            "CA19-9 限制：傳統標記 CA19-9 在良性疾病（如胰臟炎）中也可能升高，且部分族群因基因因素無法產生",
-            "THBS2 侷限：另一標記 THBS2 單獨使用時，其篩檢的敏感性與特異性均不理想，難以作為獨立篩檢工具",
-            "早期訊號微弱：早期胰臟癌釋放到血液中的腫瘤特異性分子濃度極低，需要更高靈敏度的多標記組合"
+            "阻斷 JAK-STAT 通路：藥物抑制 Janus 激酶 (JAK)，進而阻斷下游 STAT 蛋白的磷酸化，此為關鍵的免疫調節信號。",
+            "壓制干擾素反應：此信號通路是細胞對抗病毒感染時，啟動干擾素 (Interferon) 刺激基因 (ISGs) 表現所必需的。",
+            "移除先天屏障：ISGs 的表現被抑制後，細胞無法有效建立抗病毒狀態，導致病毒更容易在體內複製與傳播。"
           ],
-          "footer": "資料來源：National Cancer Institute (NCI)"
+          "footer": "資料來源：Ravlo et al. NAR Molecular Medicine (2025)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "四標記組合展現的\n卓越早期偵測效能",
+          "tag": "實驗驗證",
+          "headline": "多種病毒受 JAK 抑制劑\n影響而增強傳播能力",
           "points": [
-            "新型標記發現：研究團隊發現 ANPEP 與 PIGR 兩種新蛋白，在早期胰臟癌患者血液中顯著升高",
-            "組合效能：結合 ANPEP、PIGR、CA19-9 與 THBS2 的四標記組合，能以 91.9% 的準確率區分所有期別的癌症",
-            "早期偵測能力：針對第一、二期早期胰臟癌，此組合的偵測率（敏感性）仍高達 87.5%，展現巨大臨床潛力"
+            "影響病毒種類：研究證實，受影響的病毒包括裂谷熱病毒、A 型流感病毒、腺病毒以及 SARS-CoV-2 (新冠病毒)。",
+            "特定藥物驗證：實驗以 Baricitinib 等市售 JAK 抑制劑進行，觀察到其能顯著降低細胞抵抗病毒攻擊的能力。",
+            "臨床關聯性：這些發現為臨床上使用 JAK 抑制劑的患者，可能面臨更高病毒感染風險提供了分子層面的解釋。"
           ],
-          "footer": "資料來源：National Cancer Institute (NCI)"
+          "footer": "資料來源：Ravlo et al. NAR Molecular Medicine (2025)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從單一監控指標邁向\n多標記組合的早期篩檢",
-          "summary": "此研究透過整合新型蛋白標記，成功開發出一個高靈敏度的血液檢測組合，有望解決胰臟癌缺乏有效早期篩檢工具的重大臨床困境。這項突破可能改變胰臟癌的診斷時機，從而顯著改善患者的存活率。",
-          "cta": "後續觀察：在前瞻性的大規模高風險族群世代研究中，驗證此四標記組合的篩檢效能與臨床實用性。",
-          "footer": "資料來源：National Cancer Institute (NCI)"
+          "headline": "權衡發炎控制與感染風險\n精準用藥的雙面刃",
+          "summary": "此研究揭示了 JAK 抑制劑在有效控制發炎性疾病的同時，可能帶來的潛在感染風險。對於癌症或自體免疫疾病患者，這提醒臨床醫師在處方時需更謹慎評估患者的病毒感染史與風險，並加強監測。",
+          "cta": "後續觀察：針對接受 JAK 抑制劑治療的癌症患者，其特定病毒感染發生率與嚴重程度的真實世界數據分析。",
+          "footer": "資料來源：Ravlo et al. NAR Molecular Medicine (2025)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "腫瘤微環境",
+      "category": "病毒顆粒組裝工程",
       "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-      "original_title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
+      "original_title": "Oxford scientists discover how viruses build themselves without a blueprint",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【膠質母細胞瘤侵襲新機制：高黏滯性流體微環境增強癌細胞侵襲能力】\n\n一項發表於 *Microsystems & Nanoengineering* 的研究揭示了膠質母細胞瘤（glioblastoma）侵襲行為背後一個被長期忽略的物理機制。科學家發現，腫瘤邊緣周圍的組織間液比中心區域黏稠許多，而這種高黏滯性（viscosity）環境非但沒有阻礙癌細胞，反而會誘導它們變得更小、更具可塑性，從而增強其侵犯周圍健康腦組織的能力。\n\n■ 研究核心發現：\n1. 黏滯性梯度：研究指出，膠質母細胞瘤侵襲前緣的流體黏滯性約為腫瘤中心壞死區域的八倍，癌細胞向外擴散時必須穿越一個物理阻力逐漸增強的環境。\n2. 細胞物理性適應：為應對高黏滯性，癌細胞會主動改變其物理表型，包括縮小細胞體積、增加細胞膜的柔軟度與可塑性，使其更容易擠壓通過腦組織的狹窄間隙。\n3. 持久性侵襲表型：令人擔憂的是，實驗證明即使癌細胞離開高黏滯性環境，部分被誘導出的高侵襲性特徵仍會持續存在，揭示了一種全新的腫瘤擴散機制。\n\n■ 資料來源 (References)：\n1. Jiang H, Xu C, Zeng C, Liu X, Deng L, Jian Y, et al. Open micro-valley chip reveals long-term viscosity-induced glioblastoma cellular invasion states. Microsystems & Nanoengineering. 2026. https://doi.org/10.1038/s41378-026-01241-0\n2. ScienceDaily Cancer News. Glioblastoma breakthrough reveals how brain cancer cells become more aggressive. https://www.sciencedaily.com/releases/2026/10/261022081300.htm\n\n#膠質母細胞瘤 #腫瘤微環境 #物理腫瘤學 #細胞力學 #腫瘤侵襲 #微流控",
+      "caption": "【Nature 重磅發現：揭示病毒自我組裝的「試錯」與「分子檢查點」機制】\n牛津大學研究團隊在《Nature》期刊上發表了一項突破性研究，首次在分子層面上逐步觀察到病毒樣顆粒 (Virus-Like Particles, VLPs) 的自我組裝過程。研究揭示，這個看似複雜的過程，實則遵循著一個簡單的「試錯」物理規則，並在過程中形成關鍵的「分子檢查點」來加速並確保組裝的精確性。這項發現不僅解開了基礎生物學的謎團，也為開發新型抗病毒藥物與設計更高效的癌症疫苗提供了重要藍圖。\n\n■ 核心組裝機制：\n1. 試錯與可逆結合：在組裝初期，病毒的蛋白質組件之間會形成微弱且可逆的連結。這種不穩定的結合允許組件不斷嘗試不同的排列組合，如果構型錯誤，連結便會輕易斷開，直到找到正確的結合位點。\n2. 分子檢查點形成：研究發現一個關鍵的轉折點，當五個較大的蛋白質結構單元成功連接，形成一個封閉且穩定的五角環結構時，便構成了一個「分子檢查點」。這個結構的穩定性遠高於之前的任何中間體。\n3. 組裝路徑加速：一旦這個高度穩定的核心結構形成，它便會鎖定後續的組裝路徑，使得每個後續步驟所需的額外組件變少，從而讓整個病毒顆粒的生長速度顯著加快，並確保最終結構的正確性。\n\n■ 臨床轉譯與研究展望：\n理解病毒的自我組裝規則，對於生物工程領域具有重大意義，特別是在癌症疫苗的開發上。病毒樣顆粒 (VLPs) 是承載腫瘤抗原以激發免疫反應的理想平台。這項研究提供的設計原則，將有助於科學家更理性地設計出結構穩定、組裝效率高且能精準呈現腫瘤抗原的 VLP 疫苗，從而開發出更強效的次世代癌症免疫療法。\n\n■ 資料來源 (References)：\n1. Asor R, Loewenthal D, Melnyk D, Tan TK, Kukura P. Molecular-level observation of the self-assembly of a virus-like particle. Nature. 2026. https://doi.org/10.1038/s41586-026-10948-z\n2. ScienceDaily Cancer News. Oxford scientists discover how viruses build themselves without a blueprint. https://www.sciencedaily.com/releases/2026/10/261021231248.htm\n\n#病毒學 #結構生物學 #自我組裝 #癌症疫苗 #病毒樣顆粒 #VLP #生物工程 #Nature",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "腫瘤物理生物學研究",
-          "headline": "膠質母細胞瘤新發現\n高黏滯性流體微環境\n竟能增強癌細胞侵襲能力",
-          "subheadline": "研究利用微流控晶片揭示，腫瘤周邊的黏稠液體會使癌細胞變得更小、更具可塑性，以利於侵犯健康腦組織",
-          "meta_badge": "研究機制：流體黏滯性對癌細胞表型之影響",
-          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
+          "tag": "基礎生物學突破",
+          "headline": "牛津大學科學家新發現\n揭示病毒自我組裝之謎\n無須藍圖的精準建構過程",
+          "subheadline": "研究首次在分子層面觀察到「試錯」與「分子檢查點」如何引導複雜結構形成",
+          "meta_badge": "研究期刊：Nature (2026) - 分子自組裝機制",
+          "footer": "資料來源：Asor et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "腫瘤周邊的物理環境\n如何重塑膠質母細胞瘤行為？",
+          "tag": "組裝分子機制",
+          "headline": "病毒如何在無藍圖下\n精準完成自我組裝？",
           "points": [
-            "黏滯性梯度：膠質母細胞瘤邊緣的組織間液，其黏滯性約為腫瘤中心壞死區域的八倍，形成物理屏障",
-            "細胞適應性：癌細胞為穿透高黏滯性環境，會主動改變自身物理特性，包括縮小體積與增加細胞膜的柔軟度",
-            "侵襲能力增強：這種物理性的適應，反而使癌細胞更能輕易地擠壓通過腦組織中的狹窄間隙，促進了腫瘤的擴散"
+            "初期試錯階段：蛋白質組件之間先形成不穩定的弱連結，若組合錯誤則輕易解離，允許分子不斷嘗試正確構型。",
+            "穩定檢查點形成：當五個較大的蛋白質結構單元成功連接成一個封閉的五角環時，會形成第一個高度穩定的結構。",
+            "路徑依賴性加速：這個穩定的「分子檢查點」一旦形成，便會鎖定後續的組裝路徑，並使粒子生長速度顯著加快。"
           ],
-          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
+          "footer": "資料來源：Asor et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "微流控晶片模擬\n驗證黏滯性誘導的細胞變化",
+          "tag": "實驗觀察",
+          "headline": "單分子觀察技術揭示\n病毒組裝的關鍵步驟",
           "points": [
-            "開放式晶片設計：開發新型開放式微流控平台，能精準模擬腫瘤細胞向外侵襲時所遭遇的黏滯性梯度變化",
-            "表型變化觀察：實驗證實，長時間暴露於高黏滯性流體中的膠質母細胞瘤細胞，其體積縮小且更具可塑性",
-            "持久性效應：令人擔憂的是，即使細胞離開高黏滯性環境，部分增強侵襲能力的表型變化仍會持續存在"
+            "即時分子影像：研究人員利用先進的影像技術，首次實現了逐一分子觀察病毒樣顆粒 (VLP) 的完整組裝過程。",
+            "可逆與不可逆：數據顯示，組裝過程初期是高度可逆的，直到形成關鍵的穩定結構後，過程才變得更具方向性。",
+            "結構決定速率：形成五角環結構是整個組裝過程的速率決定步驟，一旦跨越此門檻，後續組裝便能快速完成。"
           ],
-          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
+          "footer": "資料來源：Asor et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "從化學訊號到物理力學\n揭示腫瘤侵襲的全新維度",
-          "summary": "此研究突破了傳統專注於化學訊號與組織硬度的框架，首次揭示了流體黏滯性作為一個主動調控因子，能誘導癌細胞產生更具侵襲性的表型。這為理解與對抗膠質母細胞瘤的擴散提供了嶄新的物理生物學視角。",
-          "cta": "後續觀察：探索靶向調節細胞骨架或細胞膜可塑性的藥物，是否能抑制黏滯性誘導的癌細胞侵襲行為。",
-          "footer": "資料來源：Jiang et al. Microsystems & Nanoengineering (2026)"
+          "headline": "從基礎物理規則\n到未來癌症疫苗設計",
+          "summary": "此研究不僅解開了生物學中一個長久以來的謎題，更為生物工程提供了新的設計原則。理解病毒組裝的物理規則，將有助於開發更穩定、高效的病毒樣顆粒 (VLP) 平台，用於承載腫瘤抗原，打造次世代癌症疫苗。",
+          "cta": "後續觀察：如何應用這些組裝規則來設計可控、搭載特定藥物或抗原的新型奈米顆粒載體。",
+          "footer": "資料來源：Asor et al. Nature (2026)"
         }
       ]
     }
