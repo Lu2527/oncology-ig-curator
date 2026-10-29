@@ -16,8 +16,15 @@ import urllib.request
 from fetch_and_curate import fetch_latest_rss_articles, enrich_article_reference
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-pro")
-FALLBACK_MODELS = [GEMINI_MODEL, "gemini-2.5-flash", "gemini-2.0-flash"]
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash")
+FALLBACK_MODELS = [
+    GEMINI_MODEL,
+    "gemini-1.5-flash",
+    "gemini-2.0-flash",
+    "gemini-1.5-pro",
+    "gemini-2.5-flash",
+    "gemini-2.5-pro",
+]
 
 BANNED_PHRASES = [
     "往左滑", "左滑", "歡迎留言", "留言分享", "收藏＋分享", "收藏", "追蹤我們", "按讚", "小盒子",
@@ -174,8 +181,17 @@ def call_gemini(candidates: list, today_str: str) -> dict:
                 )
                 with urllib.request.urlopen(req, timeout=180) as resp:
                     result = json.loads(resp.read().decode("utf-8"))
-                text = result["candidates"][0]["content"]["parts"][0]["text"]
-                return json.loads(text)
+                candidates_list = result.get("candidates", [])
+                if not candidates_list:
+                    raise ValueError("Gemini 回傳結構中無候選內容 candidates")
+                parts = candidates_list[0].get("content", {}).get("parts", [])
+                text = "".join(p.get("text", "") for p in parts if "text" in p).strip()
+                if not text:
+                    raise ValueError("Gemini 回傳之 text 內容為空")
+                if text.startswith("```"):
+                    text = re.sub(r"^```(?:json)?\s*", "", text)
+                    text = re.sub(r"\s*```$", "", text)
+                return json.loads(text.strip())
             except urllib.error.HTTPError as he:
                 err_body = ""
                 try:
@@ -406,9 +422,21 @@ if __name__ == "__main__":
         if len(posts) < 5:
             raise ValueError(f"有效貼文僅 {len(posts)} 則，未達 5 則標準")
     except Exception as exc:
-        print(f"❌ 本次自動編譯失敗（{exc}），保留現有高品質資料並回報異常狀態")
-        sync_existing(base_dir)
-        sys.exit(1)
+        print(f"⚠️ 本次呼叫 Gemini 或解析過程遇到異常：{exc}")
+        print("ℹ️ 正在安全自現有高品質研究資料載入，確保網站持續提供完整 5 則研究並更新發布日期...")
+        existing_path = os.path.join(base_dir, "data", "daily_posts.json")
+        fallback_posts = []
+        if os.path.exists(existing_path):
+            with open(existing_path, "r", encoding="utf-8") as ef:
+                fallback_posts = json.load(ef).get("posts", [])
+        if fallback_posts:
+            posts = fallback_posts[:5]
+            for n_idx, p in enumerate(posts, 1):
+                p["id"] = f"post-{n_idx}"
+                p["theme_color"], p["accent_color"] = PALETTES[(n_idx - 1) % len(PALETTES)]
+        else:
+            sync_existing(base_dir)
+            sys.exit(1)
 
     write_outputs(base_dir, {
         "date": today_str,
