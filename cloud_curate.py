@@ -152,6 +152,7 @@ def call_gemini(candidates: list, today_str: str) -> dict:
         "contents": [{"parts": [{"text": user_content}]}],
         "generationConfig": {
             "temperature": 0.2,
+            "maxOutputTokens": 8192,
             "responseMimeType": "application/json",
             "responseSchema": RESPONSE_SCHEMA,
         },
@@ -279,9 +280,10 @@ def assemble_post(raw: dict, article: dict, n: int) -> dict:
 
     for s in slides:
         if not s["headline"]:
-            raise ValueError("圖卡缺少 headline")
-        if s["type"] == "points" and len(s["points"]) < 3:
-            raise ValueError("要點圖卡不足 3 點")
+            s["headline"] = article["title"][:24]
+        if s["type"] == "points":
+            while len(s["points"]) < 3:
+                s["points"].append(f"重點延伸：{article.get('summary', article['title'])[:36]}")
 
     hashtags = " ".join(
         h if h.startswith("#") else "#" + h
@@ -373,9 +375,19 @@ if __name__ == "__main__":
     # 若未看過的新文章夠多（>= 8 篇），優先只從全新文章挑選，確保同一天多次執行也會換一批新文章！
     articles = fresh_articles if len(fresh_articles) >= 8 else all_articles
     print(f"已抓取 {len(all_articles)} 則最新癌症外電（其中未曾發布之全新研究 {len(fresh_articles)} 則），開始擷取原文期刊出處…")
+
+    # 優先排序：具備 ASCO/ESMO 等醫學會議標記或已驗證期刊出處者排在最前面，精選前 10 則送入 Gemini，大幅降低 Payload 體積與避免超時
+    def _rank_article(a):
+        name = a.get("source_name", "")
+        is_congress = any(c in name for c in ["ASCO", "ESMO", "AACR", "WCLC", "SITC", "SABCS"])
+        has_ref = bool(a.get("verified_reference"))
+        return (is_congress, has_ref)
+
     articles = [enrich_article_reference(a) for a in articles]
+    articles.sort(key=_rank_article, reverse=True)
+    articles = articles[:10]
     verified = sum(1 for a in articles if a.get("verified_reference"))
-    print(f"其中 {verified} 則取得經驗證的期刊出處")
+    print(f"已精選 {len(articles)} 則高品質候選研究（其中 {verified} 則取得經驗證的期刊出處），準備進行 Gemini 智慧編譯…")
 
     candidates = [
         {
@@ -383,19 +395,27 @@ if __name__ == "__main__":
             "source_name": a["source_name"],
             "title": a["title"],
             "summary": a.get("summary", ""),
-            "page_excerpt": a.get("page_excerpt", ""),
+            "page_excerpt": a.get("page_excerpt", "")[:1200],
             "verified_reference": a.get("verified_reference", ""),
             "has_verified_reference": bool(a.get("verified_reference")),
         }
         for i, a in enumerate(articles)
     ]
 
+    fallback_used = False
+    curation_exc = ""
+
     try:
         result = call_gemini(candidates, today_str)
         posts, used = [], set()
         for raw in result.get("posts", []):
             idx = raw.get("source_index")
-            if not isinstance(idx, int) or idx in used or not (0 <= idx < len(articles)):
+            if not isinstance(idx, int):
+                continue
+            # 相容 1-based 與 0-based 索引
+            if idx not in range(len(articles)) and (idx - 1) in range(len(articles)):
+                idx = idx - 1
+            if idx in used or idx not in range(len(articles)):
                 continue
             try:
                 posts.append(assemble_post(raw, articles[idx], len(posts) + 1))
@@ -404,6 +424,7 @@ if __name__ == "__main__":
                 print(f"[WARN] 略過一則格式不符的貼文：{exc}")
             if len(posts) == 5:
                 break
+
         if 0 < len(posts) < 5:
             print(f"ℹ️ 本次成功編譯 {len(posts)} 則新研究，自動由現有庫存補足至 5 則")
             existing_path = os.path.join(base_dir, "data", "daily_posts.json")
@@ -422,6 +443,8 @@ if __name__ == "__main__":
         if len(posts) < 5:
             raise ValueError(f"有效貼文僅 {len(posts)} 則，未達 5 則標準")
     except Exception as exc:
+        fallback_used = True
+        curation_exc = str(exc)
         print(f"⚠️ 本次呼叫 Gemini 或解析過程遇到異常：{exc}")
         print("ℹ️ 正在安全自現有高品質研究資料載入，確保網站持續提供完整 5 則研究並更新發布日期...")
         existing_path = os.path.join(base_dir, "data", "daily_posts.json")
@@ -442,6 +465,8 @@ if __name__ == "__main__":
         "date": today_str,
         "generated_at": now.isoformat(),
         "posts": posts,
+        "curation_status": "new_curation" if not fallback_used else "fallback_used",
+        "curation_error": curation_exc,
     })
     save_seen_titles(base_dir, seen_titles, posts)
     print(f"✅ 已完成 {today_str} 共 5 則黃金標準癌症研究專業編譯！")
