@@ -1171,7 +1171,7 @@
       } catch (e) {}
 
       try {
-        const res = await fetch("./data/daily_posts.json", { cache: "no-store" });
+        const res = await fetch(`./data/daily_posts.json?t=${Date.now()}`, { cache: "no-store" });
         if (res.ok) {
           const fresh = await res.json();
           // 僅在遠端 JSON 符合黃金標準結構（slides[0].type === 'cover' 且具完整 points）時採用，忽略舊版損壞格式
