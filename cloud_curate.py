@@ -10,11 +10,14 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 from fetch_and_curate import fetch_latest_rss_articles, enrich_article_reference
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-pro")
+FALLBACK_MODELS = [GEMINI_MODEL, "gemini-2.5-flash", "gemini-2.0-flash"]
 
 BANNED_PHRASES = [
     "往左滑", "左滑", "歡迎留言", "留言分享", "收藏＋分享", "收藏", "追蹤我們", "按讚", "小盒子",
@@ -131,15 +134,11 @@ RESPONSE_SCHEMA = {
 
 
 def call_gemini(candidates: list, today_str: str) -> dict:
-    url = (
-        f"https://generativelanguage.googleapis.com/v1beta/models/"
-        f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
-    )
     user_content = (
         f"今日日期：{today_str}\n"
         f"以下為今日抓取並附帶原文頁面摘錄與驗證出處之國際醫藥網站癌症研究候選清單：\n"
         f"{json.dumps(candidates, ensure_ascii=False, indent=2)}\n\n"
-        "請嚴格依照黃金品質標準，挑選 5 則不同 source_index 的研究，輸出 JSON。"
+        "請嚴格依照黃金品質標準，挑選 6 則不同 source_index 的研究（系統將取前 5 則最完整者發布），輸出 JSON。"
     )
     payload = {
         "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
@@ -150,21 +149,58 @@ def call_gemini(candidates: list, today_str: str) -> dict:
             "responseSchema": RESPONSE_SCHEMA,
         },
     }
-    req = urllib.request.Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"},
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=180) as resp:
-        result = json.loads(resp.read().decode("utf-8"))
-    text = result["candidates"][0]["content"]["parts"][0]["text"]
-    return json.loads(text)
+    body_bytes = json.dumps(payload).encode("utf-8")
+    last_err = None
+
+    # 依序嘗試主力模型與備援模型（解決免費額度 429 或尖峰時段 503 Overloaded 導致中斷的問題）
+    models_to_try = []
+    for m in FALLBACK_MODELS:
+        if m and m not in models_to_try:
+            models_to_try.append(m)
+
+    for model_name in models_to_try:
+        url = (
+            f"https://generativelanguage.googleapis.com/v1beta/models/"
+            f"{model_name}:generateContent?key={GEMINI_API_KEY}"
+        )
+        for attempt in range(1, 3):
+            try:
+                print(f"🤖 呼叫 Gemini 模型：{model_name} (第 {attempt} 次嘗試)...")
+                req = urllib.request.Request(
+                    url,
+                    data=body_bytes,
+                    headers={"Content-Type": "application/json"},
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=180) as resp:
+                    result = json.loads(resp.read().decode("utf-8"))
+                text = result["candidates"][0]["content"]["parts"][0]["text"]
+                return json.loads(text)
+            except urllib.error.HTTPError as he:
+                err_body = ""
+                try:
+                    err_body = he.read().decode("utf-8", errors="ignore")[:300]
+                except Exception:
+                    pass
+                last_err = f"HTTP {he.code} on {model_name}: {err_body}"
+                print(f"[WARN] {last_err}")
+                time.sleep(4 * attempt)
+            except Exception as exc:
+                last_err = f"{type(exc).__name__} on {model_name}: {exc}"
+                print(f"[WARN] {last_err}")
+                time.sleep(3 * attempt)
+
+    raise RuntimeError(f"所有 Gemini 模型嘗試皆失敗，最後錯誤：{last_err}")
 
 
-def scrub(text: str) -> str:
+def scrub(text: str, keep_line: bool = False) -> str:
     if not text:
         return ""
+    if keep_line:
+        cleaned = str(text)
+        for b in BANNED_PHRASES:
+            cleaned = cleaned.replace(b, "")
+        return cleaned.strip()
     lines = []
     for line in str(text).split("\n"):
         sentences = re.split(r"(?<=[。！？!?])", line)
@@ -192,35 +228,35 @@ def assemble_post(raw: dict, article: dict, n: int) -> dict:
         {
             "slide_num": 1,
             "type": "cover",
-            "tag": scrub(cover.get("tag", "重點研究解析")),
-            "headline": scrub(cover.get("headline", "")),
-            "subheadline": scrub(cover.get("subheadline", "")),
-            "meta_badge": scrub(cover.get("meta_badge", "")) or f"研究來源：{article['source_name']}",
+            "tag": scrub(cover.get("tag", "重點研究解析"), keep_line=True),
+            "headline": scrub(cover.get("headline", ""), keep_line=True),
+            "subheadline": scrub(cover.get("subheadline", ""), keep_line=True),
+            "meta_badge": scrub(cover.get("meta_badge", ""), keep_line=True) or f"研究來源：{article['source_name']}",
             "footer": footer,
         },
         {
             "slide_num": 2,
             "type": "points",
-            "tag": scrub(pm.get("tag", "分子機制")),
-            "headline": scrub(pm.get("headline", "")),
-            "points": [scrub(p) for p in (pm.get("points") or []) if scrub(p)][:3],
+            "tag": scrub(pm.get("tag", "分子機制"), keep_line=True),
+            "headline": scrub(pm.get("headline", ""), keep_line=True),
+            "points": [scrub(p, keep_line=True) for p in (pm.get("points") or []) if scrub(p, keep_line=True)][:3],
             "footer": footer,
         },
         {
             "slide_num": 3,
             "type": "points",
-            "tag": scrub(pd.get("tag", "關鍵數據")),
-            "headline": scrub(pd.get("headline", "")),
-            "points": [scrub(p) for p in (pd.get("points") or []) if scrub(p)][:3],
+            "tag": scrub(pd.get("tag", "關鍵數據"), keep_line=True),
+            "headline": scrub(pd.get("headline", ""), keep_line=True),
+            "points": [scrub(p, keep_line=True) for p in (pd.get("points") or []) if scrub(p, keep_line=True)][:3],
             "footer": footer,
         },
         {
             "slide_num": 4,
             "type": "takeaway",
-            "tag": scrub(tk.get("tag", "學術意義與展望")),
-            "headline": scrub(tk.get("headline", "")),
+            "tag": scrub(tk.get("tag", "學術意義與展望"), keep_line=True),
+            "headline": scrub(tk.get("headline", ""), keep_line=True),
             "summary": scrub(tk.get("summary", "")),
-            "cta": scrub(tk.get("cta", "")),
+            "cta": scrub(tk.get("cta", ""), keep_line=True),
             "footer": footer,
         },
     ]
@@ -352,12 +388,27 @@ if __name__ == "__main__":
                 print(f"[WARN] 略過一則格式不符的貼文：{exc}")
             if len(posts) == 5:
                 break
+        if 0 < len(posts) < 5:
+            print(f"ℹ️ 本次成功編譯 {len(posts)} 則新研究，自動由現有庫存補足至 5 則")
+            existing_path = os.path.join(base_dir, "data", "daily_posts.json")
+            if os.path.exists(existing_path):
+                with open(existing_path, "r", encoding="utf-8") as ef:
+                    existing_posts = json.load(ef).get("posts", [])
+                new_titles = {p.get("original_title") for p in posts}
+                for ep in existing_posts:
+                    if ep.get("original_title") not in new_titles:
+                        n_idx = len(posts) + 1
+                        ep["id"] = f"post-{n_idx}"
+                        ep["theme_color"], ep["accent_color"] = PALETTES[(n_idx - 1) % len(PALETTES)]
+                        posts.append(ep)
+                        if len(posts) == 5:
+                            break
         if len(posts) < 5:
             raise ValueError(f"有效貼文僅 {len(posts)} 則，未達 5 則標準")
     except Exception as exc:
-        print(f"⚠️ 本次產生未達 5 則黃金標準（{exc}），保留現有高品質資料")
+        print(f"❌ 本次自動編譯失敗（{exc}），保留現有高品質資料並回報異常狀態")
         sync_existing(base_dir)
-        sys.exit(0)
+        sys.exit(1)
 
     write_outputs(base_dir, {
         "date": today_str,
