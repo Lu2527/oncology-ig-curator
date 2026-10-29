@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T20:56:51.712867+08:00",
+  "generated_at": "2026-10-29T21:07:29.040053+08:00",
   "posts": [
     {
       "id": "post-1",
@@ -277,5 +277,7 @@
         }
       ]
     }
-  ]
+  ],
+  "curation_status": "fallback_used",
+  "curation_error": "所有 Gemini 模型嘗試皆失敗，最後錯誤：HTTP 402 on gemini-2.5-pro: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
 }
