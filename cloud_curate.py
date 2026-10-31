@@ -16,15 +16,18 @@ import urllib.request
 from fetch_and_curate import fetch_latest_rss_articles, enrich_article_reference
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash")
+# 1.5 / 2.0 系列已下架（HTTP 404）；API 錯誤訊息建議改用 gemini-3.8-flash。
+# 可在 GitHub Secrets / workflow env 設定 GEMINI_MODEL 覆寫。
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 FALLBACK_MODELS = [
     GEMINI_MODEL,
-    "gemini-1.5-flash",
-    "gemini-2.0-flash",
-    "gemini-1.5-pro",
+    "gemini-3.8-flash",
     "gemini-2.5-flash",
-    "gemini-2.5-pro",
 ]
+
+
+class BillingError(RuntimeError):
+    """專案層級的計費/額度錯誤（HTTP 402），換任何模型都無效。"""
 
 BANNED_PHRASES = [
     "往左滑", "左滑", "歡迎留言", "留言分享", "收藏＋分享", "收藏", "追蹤我們", "按讚", "小盒子",
@@ -201,6 +204,12 @@ def call_gemini(candidates: list, today_str: str) -> dict:
                     pass
                 last_err = f"HTTP {he.code} on {model_name}: {err_body}"
                 print(f"[WARN] {last_err}")
+                if he.code == 402:
+                    # 預付額度用完是整個專案的問題，換模型或重試都沒有用
+                    raise BillingError(last_err)
+                if he.code in (400, 403, 404):
+                    # 模型不存在 / Key 無效：重試無意義，直接換下一個模型
+                    break
                 time.sleep(4 * attempt)
             except Exception as exc:
                 last_err = f"{type(exc).__name__} on {model_name}: {exc}"
@@ -445,28 +454,19 @@ if __name__ == "__main__":
     except Exception as exc:
         fallback_used = True
         curation_exc = str(exc)
-        print(f"⚠️ 本次呼叫 Gemini 或解析過程遇到異常：{exc}")
-        print("ℹ️ 正在安全自現有高品質研究資料載入，確保網站持續提供完整 5 則研究並更新發布日期...")
-        existing_path = os.path.join(base_dir, "data", "daily_posts.json")
-        fallback_posts = []
-        if os.path.exists(existing_path):
-            with open(existing_path, "r", encoding="utf-8") as ef:
-                fallback_posts = json.load(ef).get("posts", [])
-        if fallback_posts:
-            posts = fallback_posts[:5]
-            for n_idx, p in enumerate(posts, 1):
-                p["id"] = f"post-{n_idx}"
-                p["theme_color"], p["accent_color"] = PALETTES[(n_idx - 1) % len(PALETTES)]
-        else:
-            sync_existing(base_dir)
-            sys.exit(1)
+        print(f"❌ 本次 Gemini 編譯失敗：{exc}")
+        if isinstance(exc, BillingError):
+            print("💳 原因：Google AI Studio 專案的預付額度（prepayment credits）已用完。")
+            print("   請至 https://ai.studio/projects 儲值或調整計費，之後重新 Run workflow 即可。")
+        print("ℹ️ 網站保留原本的日期與內容（不會用舊文章冒充今日更新）。")
+        sync_existing(base_dir)
+        sys.exit(1)
 
     write_outputs(base_dir, {
         "date": today_str,
         "generated_at": now.isoformat(),
         "posts": posts,
-        "curation_status": "new_curation" if not fallback_used else "fallback_used",
-        "curation_error": curation_exc,
+        "curation_status": "new_curation",
     })
     save_seen_titles(base_dir, seen_titles, posts)
-    print(f"✅ 已完成 {today_str} 共 5 則黃金標準癌症研究專業編譯！")
+    print(f"✅ 已完成 {today_str} 共 {len(posts)} 則癌症研究編譯！")

@@ -8,6 +8,8 @@ import html
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -72,9 +74,21 @@ def _clean_html(fragment: str) -> str:
 
 
 def _http_get(url: str, timeout: int = 20) -> str:
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read().decode("utf-8", "ignore")
+    # NCBI E-utilities 未帶 API key 時限制每秒 3 次請求，連續呼叫會回 HTTP 429；
+    # 因此對 NCBI 請求加上間隔，並在 429 時退避重試。
+    is_ncbi = "eutils.ncbi.nlm.nih.gov" in url
+    for attempt in range(3):
+        if is_ncbi:
+            time.sleep(0.5 + attempt * 2)
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read().decode("utf-8", "ignore")
+        except urllib.error.HTTPError as he:
+            if he.code == 429 and attempt < 2:
+                continue
+            raise
+    raise RuntimeError("unreachable")
 
 
 def fetch_congress_pubmed_articles(max_per_congress: int = 2) -> List[Dict[str, str]]:
