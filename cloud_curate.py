@@ -15,9 +15,22 @@ import urllib.error
 import urllib.request
 from fetch_and_curate import fetch_latest_rss_articles, enrich_article_reference
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-# 1.5 / 2.0 系列已下架（HTTP 404）；API 錯誤訊息建議改用 gemini-3.8-flash。
-# 可在 GitHub Secrets / workflow env 設定 GEMINI_MODEL 覆寫。
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+
+# 若使用者直接把 Anthropic API Key (sk-ant-...) 貼在 GEMINI_API_KEY 欄位，自動識別切換為 Claude Sonnet 5.5！
+if not ANTHROPIC_API_KEY and GEMINI_API_KEY.startswith("sk-ant-"):
+    ANTHROPIC_API_KEY = GEMINI_API_KEY
+
+CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5")
+CLAUDE_FALLBACK_MODELS = [
+    CLAUDE_MODEL,
+    "claude-sonnet-5-5",
+    "claude-sonnet-4-5-20250929",
+    "claude-3-7-sonnet-latest",
+]
+
+# 1.5 / 2.0 系列已下架（HTTP 404）；Google API 建議改用 gemini-3.8-flash。
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 FALLBACK_MODELS = [
     GEMINI_MODEL,
@@ -141,6 +154,140 @@ RESPONSE_SCHEMA = {
         }
     },
 }
+
+
+CLAUDE_INPUT_SCHEMA = {
+    "type": "object",
+    "required": ["posts"],
+    "properties": {
+        "posts": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "source_index", "category", "body", "hashtags",
+                    "cover", "points_mechanism", "points_data", "takeaway"
+                ],
+                "properties": {
+                    "source_index": {"type": "integer"},
+                    "category": {"type": "string"},
+                    "body": {"type": "string"},
+                    "hashtags": {"type": "array", "items": {"type": "string"}},
+                    "cover": {
+                        "type": "object",
+                        "required": ["tag", "headline", "subheadline", "meta_badge"],
+                        "properties": {
+                            "tag": {"type": "string"},
+                            "headline": {"type": "string"},
+                            "subheadline": {"type": "string"},
+                            "meta_badge": {"type": "string"},
+                        },
+                    },
+                    "points_mechanism": {
+                        "type": "object",
+                        "required": ["tag", "headline", "points"],
+                        "properties": {
+                            "tag": {"type": "string"},
+                            "headline": {"type": "string"},
+                            "points": {"type": "array", "items": {"type": "string"}},
+                        },
+                    },
+                    "points_data": {
+                        "type": "object",
+                        "required": ["tag", "headline", "points"],
+                        "properties": {
+                            "tag": {"type": "string"},
+                            "headline": {"type": "string"},
+                            "points": {"type": "array", "items": {"type": "string"}},
+                        },
+                    },
+                    "takeaway": {
+                        "type": "object",
+                        "required": ["tag", "headline", "summary", "cta"],
+                        "properties": {
+                            "tag": {"type": "string"},
+                            "headline": {"type": "string"},
+                            "summary": {"type": "string"},
+                            "cta": {"type": "string"},
+                        },
+                    },
+                },
+            },
+        }
+    },
+}
+
+
+def call_claude(candidates: list, today_str: str) -> dict:
+    """使用 Anthropic Claude Sonnet 5.5 進行腫瘤學研究編譯（透過 Tool Use 強制鎖定 JSON Schema）"""
+    user_content = (
+        f"今日日期：{today_str}\n"
+        f"以下為今日抓取並附帶原文頁面摘錄與驗證出處之國際醫藥網站癌症研究候選清單：\n"
+        f"{json.dumps(candidates, ensure_ascii=False, indent=2)}\n\n"
+        "請嚴格依照黃金品質標準，挑選 6 則不同 source_index 的研究（系統將取前 5 則最完整者發布），"
+        "並呼叫 emit_curated_posts 工具輸出結構化 JSON。"
+    )
+    models_to_try = []
+    for m in CLAUDE_FALLBACK_MODELS:
+        if m and m not in models_to_try:
+            models_to_try.append(m)
+
+    last_err = None
+    for model_name in models_to_try:
+        payload = {
+            "model": model_name,
+            "max_tokens": 8192,
+            "temperature": 0.2,
+            "system": SYSTEM_PROMPT,
+            "messages": [{"role": "user", "content": user_content}],
+            "tools": [
+                {
+                    "name": "emit_curated_posts",
+                    "description": "輸出符合 Today Oncology IG Posts 黃金品質標準之 4 張輪播圖卡與專業貼文結構化資料",
+                    "input_schema": CLAUDE_INPUT_SCHEMA,
+                }
+            ],
+            "tool_choice": {"type": "tool", "name": "emit_curated_posts"},
+        }
+        body_bytes = json.dumps(payload).encode("utf-8")
+        for attempt in range(1, 3):
+            try:
+                print(f"🤖 呼叫 Claude 模型：{model_name} (第 {attempt} 次嘗試)...")
+                req = urllib.request.Request(
+                    "https://api.anthropic.com/v1/messages",
+                    data=body_bytes,
+                    headers={
+                        "Content-Type": "application/json",
+                        "x-api-key": ANTHROPIC_API_KEY,
+                        "anthropic-version": "2023-06-01",
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=180) as resp:
+                    result = json.loads(resp.read().decode("utf-8"))
+                for block in result.get("content", []):
+                    if block.get("type") == "tool_use" and isinstance(block.get("input"), dict):
+                        return block["input"]
+                raise ValueError("Claude 回傳結構中未找到 tool_use 區塊")
+            except urllib.error.HTTPError as he:
+                err_body = ""
+                try:
+                    err_body = he.read().decode("utf-8", errors="ignore")[:300]
+                except Exception:
+                    pass
+                last_err = f"HTTP {he.code} on {model_name}: {err_body}"
+                print(f"[WARN] {last_err}")
+                if he.code in (400, 401, 403, 404):
+                    if "credit balance is too low" in err_body.lower():
+                        raise BillingError(last_err)
+                    break
+                time.sleep(4 * attempt)
+            except Exception as exc:
+                last_err = f"{type(exc).__name__} on {model_name}: {exc}"
+                print(f"[WARN] {last_err}")
+                time.sleep(3 * attempt)
+
+    raise RuntimeError(f"所有 Claude 模型嘗試皆失敗，最後錯誤：{last_err}")
 
 
 def call_gemini(candidates: list, today_str: str) -> dict:
@@ -370,8 +517,8 @@ if __name__ == "__main__":
     now = datetime.datetime.now(tz)
     today_str = now.strftime("%Y-%m-%d")
 
-    if not GEMINI_API_KEY:
-        print("ℹ️ 未提供 GEMINI_API_KEY，保留現有黃金標準資料並同步至 docs/data/daily_posts.json")
+    if not GEMINI_API_KEY and not ANTHROPIC_API_KEY:
+        print("ℹ️ 未提供 GEMINI_API_KEY 或 ANTHROPIC_API_KEY，保留現有黃金標準資料並同步至 docs/data/daily_posts.json")
         sync_existing(base_dir)
         sys.exit(0)
 
@@ -415,7 +562,12 @@ if __name__ == "__main__":
     curation_exc = ""
 
     try:
-        result = call_gemini(candidates, today_str)
+        if ANTHROPIC_API_KEY:
+            print(f"✨ 偵測到 Anthropic API Key，優先使用 Claude Sonnet 5.5 ({CLAUDE_MODEL}) 進行編譯")
+            result = call_claude(candidates, today_str)
+        else:
+            print(f"✨ 偵測到 Google AI Studio API Key，使用 Gemini ({GEMINI_MODEL}) 進行編譯")
+            result = call_gemini(candidates, today_str)
         posts, used = [], set()
         for raw in result.get("posts", []):
             idx = raw.get("source_index")
