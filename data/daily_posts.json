@@ -1,279 +1,279 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T23:36:07.710845+08:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T10:43:20.211504+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "腫瘤微環境",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/2159-8290.CD-25-0942",
-      "original_title": "Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.",
+      "category": "微生物體致癌機制",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+      "original_title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【細胞外基質硬度調控轉座子機制：Pin1 促進乳癌免疫逃逸與標靶解方】\n\n發表於 AACR 旗艦期刊《Cancer Discovery》的最新研究，揭示了乳癌微環境中細胞外基質（ECM）硬度抑制抗腫瘤免疫的全新力學基因體機制。研究團隊發現，富含纖維化的堅硬基質會透過磷酸化依賴性脯胺酸異構酶 Pin1，維持異染色質緊密結構並壓制反轉錄轉座子（transposable elements, TEs），進而阻斷內生性干擾素路徑，構成乳癌的免疫逃避屏障。\n\n■ 核心作用機制：\n1. 基質硬度感應：堅硬的細胞外基質穩定 Pin1 蛋白並促進其在癌細胞核內累積，維持 HP1α 與 Lamin 間的交互作用。\n2. 轉座元件壓制：核內 Pin1 藉由保護異染色質結構完整性，直接沉默 LINE-1 等反轉錄轉座子活化，避免胞質雙股 RNA/DNA 累積。\n3. 干擾素路徑活化：剔除或抑制 Pin1 會促使異染色質鬆弛並重啟 LINE1，強烈活化 cGAS/STING/第一型干擾素路徑，產生大量轉座子衍生新抗原。\n\n■ 臨床轉譯與研究展望：\n利用現有臨床小分子藥物標靶抑制 Pin1，能將原本對免疫檢查點抑制劑（ICB）無效的纖維化冷腫瘤轉化為熱腫瘤，顯著增強細胞毒性 T 細胞浸潤並促進腫瘤清除，為高基質硬度之難治型乳癌提供新型免疫合併治療策略。\n\n■ 資料來源 (References)：\n1. Bertolio R, Rustighi A, Renzi A, Campaner E, Cancila V, Napoletano F, et al. Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-25-0942\n2. AACR (美國癌症研究協會) / Cancer Discovery. Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.. https://doi.org/10.1158/2159-8290.CD-25-0942\n\n#乳癌研究 #腫瘤微環境 #Pin1抑制劑 #CancerDiscovery #免疫逃逸 #AACR",
+      "caption": "【解開二十年腸道菌致癌謎團：BFT 毒素對接 Claudin-4 誘發大腸癌發生】\n\n約翰霍普金斯大學金梅爾癌症中心（Johns Hopkins Kimmel Cancer Center）研究團隊於頂尖期刊《Nature》發表關鍵突破。產毒性脆弱擬桿菌（ETBF）所分泌之脆弱擬桿菌毒素（BFT），過去已被證實會破壞大腸黏膜屏障並引發慢性發炎反應與腫瘤生成，然而其結合宿主腸道上皮細胞的分子機轉長年懸而未決。研究團隊首度鑑別出緊密連接蛋白 Claudin-4 即為 BFT 的關鍵對接受體，並成功研發胜肽誘餌分子阻斷毒素結合，為微生物驅動的大腸直腸癌（CRC）化學預防提供了全新的精準介入標靶。\n\n■ 核心作用機制：\n1. 專一受體對接：BFT 毒素藉由特異性辨識並結合腸上皮緊密連接蛋白 Claudin-4，完成細胞表面之精準對接與活化聚集。\n2. 上皮屏障解離：毒素與受體結合後活化特定蛋白水解級聯反應，直接裂解 E-鈣黏蛋白（E-cadherin），瓦解黏膜細胞完整性。\n3. 慢性發炎致癌：細胞間緊密連接瓦解促進腸道上皮過度增生與重度發炎反應，創造促癌微環境並最終加速腺瘤轉型為大腸癌。\n\n■ 臨床轉譯與研究展望：\n本研究進一步構建靶向 Claudin-4 結合域之分子誘餌（molecular decoy），於小鼠活體模型中成功阻斷 BFT 結合並保護腸道屏障完整性，展現透過腸道微生物毒素中和進行早期腫瘤化學預防之重大轉譯潛力。\n\n■ 資料來源 (References)：\n1. White MT, Wang K, Zhang H, Eckhard U, Hullahalli K, Chen J, et al. A pro-carcinogenic bacterial toxin binds claudin-4 to cleave E-cadherin. Nature. 2026. https://doi.org/10.1038/s41586-026-10375-0\n2. ScienceDaily Cancer News. Scientists finally discover how a common gut bacterium can trigger colon cancer. https://www.sciencedaily.com/releases/2026/10/261031012912.htm\n\n#大腸直腸癌 #腸道微生物體 #脆弱擬桿菌 #腫瘤微環境 #CancerBiology #Nature #TranslationalOncology",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
           "tag": "腫瘤微環境研究",
-          "headline": "基質硬度調控轉座子\nPin1 軸線驅動乳癌\n免疫逃逸與治療逆轉",
-          "subheadline": "AACR 旗艦期刊揭示力學基因體學機制：Pin1 抑制劑打破纖維化冷腫瘤",
-          "meta_badge": "研究焦點：乳癌微環境與免疫逃避機制",
-          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+          "headline": "脆弱擬桿菌致癌毒素\n專一對接 Claudin-4\n瓦解大腸黏膜屏障",
+          "subheadline": "解開二十年腸道菌引發大腸癌之關鍵分子受體機轉",
+          "meta_badge": "研究焦點：大腸直腸癌 (CRC) 微生物致癌機制",
+          "footer": "資料來源：White et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "細胞外基質物理剛性\n如何阻斷腫瘤免疫辨識？",
+          "headline": "腸道菌毒素 BFT\n如何誘發上皮癌化？",
           "points": [
-            "力學訊號傳遞：堅硬基質誘發 Pin1 蛋白積累於核內，強化異染色質緊密度",
-            "轉座因子沉默：透過維持 HP1α-Lamin 結構，有效阻絕 LINE1 反轉錄表現",
-            "路徑重啟活化：抑制 Pin1 觸發 cGAS-STING 路徑，大量釋放第一型干擾素"
+            "膜蛋白對接：毒素 BFT 專一性結合腸道上皮細胞表面之 Claudin-4 跨膜結構",
+            "鈣黏蛋白裂解：誘發蛋白水解酵素活性並促成 E-cadherin 廣泛裂解與去穩定化",
+            "促炎致癌活化：細胞間緊密連接崩解引發黏膜慢性發炎，驅動上皮細胞異型增生"
           ],
-          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+          "footer": "資料來源：White et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "實驗驗證",
-          "headline": "標靶 Pin1 異構酶\n重塑冷腫瘤免疫微環境",
+          "headline": "分子誘餌阻斷結合\n活體小鼠顯著防護",
           "points": [
-            "新抗原庫擴增：Pin1 缺失誘發轉座子衍生之特異性抗原，強化免疫原性呈現",
-            "免疫微環境重塑：顯著促進 CD8+ T 細胞浸潤與活化，扭轉免疫抑制狀態",
-            "檢查點增敏效應：合併免疫檢查點抑制劑治療，能顯著清除纖維化硬質腫瘤"
+            "受體親和驗證：利用受體結合動力學證實 Claudin-4 為 BFT 毒素之必需功能受體",
+            "黏膜屏障維持：投予特異性胜肽誘餌能競爭性結合 BFT，完全阻止腸上皮屏障破損",
+            "致癌反應阻斷：於小鼠模型中證實分子誘餌顯著壓制慢性結腸發炎與黏膜增生反應"
           ],
-          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+          "footer": "資料來源：White et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從力學微環境阻抗\n跨入腫瘤基因體解阻遏",
-          "summary": "此研究確立了力學微環境與反轉錄轉座子之間的直接因果鏈，證明透過藥物抑制 Pin1 能有效釋放內源性免疫刺激訊號，將纖維化冷腫瘤轉化為免疫檢查點抑制劑敏感表型。",
-          "cta": "後續觀察：臨床候選 Pin1 抑制劑合併 PD-1 阻斷劑之早期人體試驗耐受性",
-          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+          "headline": "從毒素結合位點解析\n邁向腫瘤化學預防",
+          "summary": "鑑別 Claudin-4 為 BFT 受體填補了微生物驅動腸癌的演化缺環，開創了利用工程化分子誘餌阻斷致癌毒素的全新化學預防策略，大幅降低高風險帶菌族群惡化之可能。",
+          "cta": "後續觀察：靶向 Claudin-4 誘餌胜肽於人體結腸黏膜之穩定性與臨床預防試驗",
+          "footer": "資料來源：White et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "免疫檢查點抑制",
-      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
-      "source_url": "https://doi.org/10.1007/s00106-026-01820-7",
-      "original_title": "[Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting].",
+      "category": "早期肺癌篩檢架構",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106220",
+      "original_title": "Development and Implementation of an Integrated Early Lung Cancer Detection Program in Ethiopia: A Scalable Framework for Resource-Constrained Settings.",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【ASCO 臨床研究更新：HPV 陽性頭頸部鱗狀細胞癌之去強度免疫治療轉型】\n\n德國頭頸腫瘤團隊於《HNO》發表 2026 年美國臨床腫瘤學會（ASCO）年會關鍵進展解析，指出人類乳突病毒（HPV）相關口咽癌的治療思維正經歷重大範式轉移。過往以單純降階為導向之放化療，正被生物與免疫學驅動的根治性方案取代，其中隨機二期臨床試驗 KEYCHAIN 奠定了關鍵里程碑。\n\n■ 研究核心發現：\n1. 試驗設計創新：KEYCHAIN 二期試驗針對局部晚期 p16 陽性頭頸鱗狀細胞癌（HNSCC），以 PD-1 抑制劑全身治療全面取代傳統高劑量順鉑（cisplatin）。\n2. 療效與毒性平衡：研究達到主要終點無惡化存活期（PFS）之顯著改善，且在化療相關嚴重毒性方面呈現大幅度下降。\n3. 對比試驗借鏡：相較於放療合併免疫未達無事件存活期（EFS）終點的 HN.9 試驗，KEYCHAIN 證實替換化療比疊加放化療更具臨床獲益可行性。\n\n■ 臨床轉譯與研究展望：\n本研究標誌著晚期口咽癌在維持長期治癒率的同時，成功邁出減少鉑類化療毒性損傷的第一步，未來搭配 Immunoscore 等多維生物標記，將實現精準化免疫根治決策。\n\n■ 資料來源 (References)：\n1. Sharma SJ, Suchan MC, Galow NJ, Mayer M, Kourou S, Charpentier A, et al. [Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting]. HNO (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1007/s00106-026-01820-7\n2. ASCO (美國臨床腫瘤學會) / JCO. [Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting].. https://doi.org/10.1007/s00106-026-01820-7\n\n#ASCO2026 #頭頸癌研究 #免疫檢查點 #口咽癌 #KEYCHAIN試驗 #PD1抑制劑",
+      "caption": "【WCLC 晚期肺癌數據擴展：資源匱乏環境下之整合型早期肺癌低劑量電腦斷層篩檢模式】\n\n世界肺癌大會（WCLC / IASLC）旗艦期刊《Journal of Thoracic Oncology》發表了衣索比亞首個整合型早期肺癌偵測計劃（ScreeningPLUS）之建立與實施成效。在低收入與中等收入國家（LMICs），肺癌早期診斷面臨高結核病盛行率、生物質燃料暴露及醫療資源高度集中等多重結構性屏障。研究團隊結合十項本土化風險評估框架、人工智慧輔助肺結節判讀（AI-assisted nodule detection）與多專科醫療團隊（MDT），成功建立具高度擴展性的整合診斷系統。\n\n■ 研究核心發現：\n1. 本土風險架構：納入生物質煙霧暴露與陳舊性結核病變，建立非單純依賴吸菸史之十維度本土化評估標準。\n2. 人工智慧判讀：導入 ScreeningPLUS 數位平台與 AI 輔助結節偵測，顯著降低影像專科醫師判讀工作負載與偽陽性率。\n3. 跨科整合轉診：將結核病與胸腔內科門診納入單一轉診架構，實現高風險結節病患之無縫追蹤與早期介入處置。\n\n■ 臨床轉譯與研究展望：\n本研究展示了在醫療硬體設備有限的環境中，透過數位工作流程最佳化與多專科流程再造，同樣能落實符合國際指引的高品質低劑量電腦斷層（LDCT）早期偵測，為全球 LMICs 肺癌防禦網絡樹立典範。\n\n■ 資料來源 (References)：\n1. Bonsa M, Mengistu Z, Yip R, Avila RS, Yankelevitz DF, Henschke CI, et al. Development and Implementation of an Integrated Early Lung Cancer Detection Program in Ethiopia: A Scalable Framework for Resource-Constrained Settings. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106220\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Development and Implementation of an Integrated Early Lung Cancer Detection Program in Ethiopia: A Scalable Framework for Resource-Constrained Settings.. https://doi.org/10.1016/j.jtho.2026.106220\n\n#肺癌早期篩檢 #WCLC #低劑量電腦斷層 #人工智慧醫學 #胸腔腫瘤學 #全球衛生醫學 #JTO",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 臨床研究更新",
-          "headline": "PD-1 免疫抑制劑替代\n局部晚期口咽癌順鉑\n無惡化存活期顯著提升",
-          "subheadline": "KEYCHAIN 隨機二期試驗驗證：HPV 陽性頭頸鱗狀細胞癌降毒增效新標竿",
-          "meta_badge": "研究設計：前瞻隨機對照二期臨床試驗",
-          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+          "tag": "WCLC 早期肺癌篩檢",
+          "headline": "整合型低劑量電腦斷層\n突破資源匱乏環境限制\n建立早期肺癌篩檢典範",
+          "subheadline": "結合本土多重風險架構與人工智慧判讀之整合篩檢實務驗證",
+          "meta_badge": "研究焦點：非小細胞肺癌 (NSCLC) 早期診斷模型",
+          "footer": "資料來源：Bonsa et al. WCLC / Journal of thoracic oncology : offici"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "HPV 腫瘤微環境下\n免疫置換化療之生物基礎",
+          "tag": "評估限制",
+          "headline": "高結核病盛行環境\n如何精準鑑別結節？",
           "points": [
-            "病毒抗原負荷：p16+ 腫瘤細胞具高度外源病毒抗原，本質具較高免疫原性基礎",
-            "微環境再活化：阻斷 PD-1 軸線能逆轉腫瘤浸潤淋巴球耗竭，恢復細胞毒殺功能",
-            "化療毒性規避：免除順鉑之全身性骨髓抑制與腎毒性，完整保留宿主免疫系統"
+            "本土風險評估：結合生物質燃燒暴露及肉芽腫病史，建立十項高風險臨床分層指標",
+            "數位平台整合：利用 ScreeningPLUS 雲端系統整合臨床受檢者篩檢全週期歷程追蹤",
+            "雙軌轉診機制：串接結核病防治網絡與腫瘤多專科團隊，降低良性感染病灶之誤診"
           ],
-          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+          "footer": "資料來源：Bonsa et al. WCLC / Journal of thoracic oncology : offici"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "KEYCHAIN 試驗數據\n奠定晚期口咽癌治療更迭",
+          "headline": "兩大醫學中心驗證\n數位整合大幅提效",
           "points": [
-            "無惡化存活顯著：PD-1 單抗取代順鉑組達成主要終點，顯著延長整體 PFS 表現",
-            "全身毒性大幅降：免除順鉑相關之重度聽力受損、腎衰竭與嚴重黏膜炎發生率",
-            "試驗對比具鑑別：相較 HN.9 疊加放療之陰性結果，證實化療替代路徑更具臨床優勢"
+            "臨床驗證規模：於阿迪斯阿貝巴兩家三級轉診中心完成兩年期前瞻性驗證與執行",
+            "人工智慧輔助：AI 演算法有效自感染性肺纖維化背景中鑑別出微小實心與部分實心結節",
+            "轉診流程優化：顯著縮短自初步影像篩檢至多專科確診之等待時間並降低失訪比率"
           ],
-          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+          "footer": "資料來源：Bonsa et al. WCLC / Journal of thoracic oncology : offici"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從經驗性化療減量\n走向生物標記引導免疫替代",
-          "summary": "ASCO 2026 發布之 KEYCHAIN 試驗成功驗證以 PD-1 抑制劑取代常規順鉑的可行性，為兼顧局部控制與存活品質的 HPV 口咽癌根治性治療開創全新準則。",
-          "cta": "後續觀察：KEYCHAIN 長期總體存活期（OS）與晚期器官功能障礙隨訪指標",
-          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+          "headline": "以數位與多專科整合\n重塑資源受限公衛體系",
+          "summary": "證實透過本土化暴露風險分層與人工智慧影像賦能，低收入地區能以高成本效益跨越基礎設施瓶頸，建立高準確度且可永續擴展之肺癌早期篩檢生態。",
+          "cta": "後續觀察：該架構於跨國低收入區域擴展試驗之早期切除率與長期存活期分析",
+          "footer": "資料來源：Bonsa et al. WCLC / Journal of thoracic oncology : offici"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "罕見驅動突變",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.1016/j.jtho.2026.106222",
-      "original_title": "Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.",
+      "category": "臨床試驗規範革新",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108627",
+      "original_title": "ESMO and ASCO Consensus on Good Clinical Practice Guideline E6(R3): A Step Forward Towards Streamlining Clinical Research.",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【WCLC 晚期肺癌數據：非小細胞肺癌罕見生殖系合併體細胞 EGFR 變異之功能與臨床表徵】\n\n德國國家基因體醫學網絡（nNGM）於《Journal of Thoracic Oncology》發表突破性簡報，聚焦非小細胞肺癌（NSCLC）罕見遺傳性風險。全基因體定序（WGS）與結構模型揭示，生殖系與體細胞複合 EGFR 變異具有顯著的致癌潛能與特定的酪胺酸激酶抑制劑（TKI）敏感性特徵。\n\n■ 研究核心發現：\n1. 罕見生殖系變異：在三位 NSCLC 病患中鑑定出罕見 EGFR 生殖系變異（p.Gly719Ser 與 p.Arg776His），顛覆肺癌絕大多數純屬偶發突變的傳統觀點。\n2. 體細胞複合突變：三名病患均帶有不同的體細胞複合變異（包括 p.Gly719Ser+p.Ser768Ile 及 p.Arg776His+p.Leu861Gln），加劇激酶結構域活化。\n3. 功能與藥敏特徵：Ba/F3 體外細胞模型與蛋白質立體結構分析證實，此類複合變異顯著驅動細胞自主生長，且對不同世代 TKI 展現高度特異之生化抑制反應。\n\n■ 臨床轉譯與研究展望：\n此發現指出針對早發或具家族聚集傾向之肺腺癌病患，應常規評估全基因體生殖系突變，以利提前擬定涵蓋標靶治療與遺傳諮詢之精準照護計畫。\n\n■ 資料來源 (References)：\n1. Prielipp R, Albers-Leischner C, Sharapova Y, Arnold J, Wiggeshoff J, Böthig J, et al. Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106222\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.. https://doi.org/10.1016/j.jtho.2026.106222\n\n#WCLC2026 #EGFR突變 #非小細胞肺癌 #生殖系變異 #標靶治療 #JTO",
+      "caption": "【ESMO 與 ASCO 聯合共識發布：推動 ICH GCP E6(R3) 臨床試驗行政流程現代化】\n\n歐洲腫瘤內科學會（ESMO）與美國臨床腫瘤學會（ASCO）於旗艦期刊《ESMO Open》聯合發表重量級共識聲明，全力支持國際醫藥法規協和會（ICH）優良臨床試驗規範（GCP）E6(R3) 之修訂與落實。長期以來，繁複冗長的行政負擔嚴重阻礙了癌症臨床研究的開展速度並大幅增加研發成本。本次兩大學會共識聚焦於建立「流程與風險相稱性（Proportionality）」原則，強調簡化受試者知情同意流程、推動去中心化試驗工具，並確保試驗設計能以真實臨床終點與患者福祉為核心。\n\n■ 核心作用機制：\n1. 風險相稱原則：依據試驗藥物之安全性特性彈性調整監查與行政程序，去除低風險環節之過度官僚審查。\n2. 知情同意優化：革新再同意（re-consenting）與數位知情同意機制，減少病患不必要的文書負擔並提升試驗參與度。\n3. 病患導向設計：將試驗主持人與患者代表直接納入試驗方案構思階段，確保數據收集之臨床關聯性與可靠度。\n\n■ 臨床轉譯與研究展望：\nICH GCP E6(R3) 與 ESMO/ASCO 共識的推進，將使新型免疫檢查點抑制劑、抗體藥物複合體（ADC）等創新療法的臨床試驗加速落實，大幅縮短從臨床前探索到臨床實踐的轉譯時間窗口。\n\n■ 資料來源 (References)：\n1. Perez-Gracia JL, Levit L, Sanmamed MF, Sharma P, André F, Hosius C, et al. ESMO and ASCO Consensus on Good Clinical Practice Guideline E6(R3): A Step Forward Towards Streamlining Clinical Research. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108627\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. ESMO and ASCO Consensus on Good Clinical Practice Guideline E6(R3): A Step Forward Towards Streamlining Clinical Research.. https://doi.org/10.1016/j.esmoop.2026.108627\n\n#ESMO #ASCO #臨床試驗規範 #GCP革新 #腫瘤內科學 #臨床轉譯研究 #ESMOOpen",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "WCLC 晚期肺癌數據",
-          "headline": "罕見生殖系合併體細胞\nEGFR 複合突變驅動\n非小細胞肺癌標靶敏感",
-          "subheadline": "德國國家基因體網絡解析：生殖系變異致癌性與 TKI 標靶敏感光譜",
-          "meta_badge": "研究焦點：非小細胞肺癌 (NSCLC) 遺傳基因體",
-          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+          "tag": "ESMO/ASCO 聯合指引",
+          "headline": "臨床試驗行政去繁\nESMO 與 ASCO 發布\n共識加速腫瘤新藥研發",
+          "subheadline": "對齊 ICH GCP E6(R3) 最新標準之臨床試驗現代化架構剖析",
+          "meta_badge": "研究設計：多中心臨床試驗法規共識指引",
+          "footer": "資料來源：Perez-Gracia et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "生殖系與體細胞雙重突變\n如何協同激發激酶活性？",
+          "headline": "風險比例原則導入\n如何精簡試驗流程？",
           "points": [
-            "生殖系易感基礎：帶有 p.G719S 或 p.R776H 突變，降低激酶自動活化之能障",
-            "體細胞複合加乘：結合次級體細胞變異促使 EGFR 結構維持在持續活性構型狀態",
-            "訊息路徑過活化：強烈啟動下游 MAPK 與 AKT 訊息傳遞，促使細胞擺脫生長因子限制"
+            "風險相稱管理：依據介入措施實質風險分級監管流程，免除低風險試驗無效行政程序",
+            "知情同意現代化：明確界定重新同意之臨床必要性門檻，導入病患友善型數位知情同意",
+            "數據採集聚焦化：精簡臨床試驗資料表單，專注於攸關患者安全與主要療效核心指標"
           ],
-          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+          "footer": "資料來源：Perez-Gracia et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "Ba/F3 構建模型驗證\n標靶抑制劑專一敏感光譜",
+          "tag": "研究數據",
+          "headline": "國際跨組織共識\n驅動研發典範轉移",
           "points": [
-            "致癌轉型力確立：Ba/F3 穩定表現突變株展現不依賴 IL-3 之強烈自主增殖能力",
-            "世代敏感性分化：各複合變異體對一代與三代 TKI 展現顯著差異之生化 IC50 數值",
-            "轉移病灶異質性：肝轉移病灶中檢出次級耐藥突變擴增，揭示動態克隆演化進程"
+            "雙大組織背書：歐洲與美洲兩大權威腫瘤學會首次針對 E6(R3) 達成全面執行策略共識",
+            "研究效率提升：移除重複性通報負擔預期可顯著降低臨床試驗啟動與執行之時程延宕",
+            "多元參與擴展：去中心化臨床試驗要素之規範化有助於擴大臨床試驗收案族群多樣性"
           ],
-          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+          "footer": "資料來源：Perez-Gracia et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從常規體細胞檢驗\n延伸至生殖系全外顯子追蹤",
-          "summary": "此研究證實生殖系 EGFR 變異可作為肺癌潛在易感因子，並藉由獲得性體細胞二次突變共同驅動腫瘤演進，確立了整合性生殖系-體細胞基因圖譜在指導 TKI 精準給藥中的必要性。",
-          "cta": "後續觀察：前瞻性家族篩檢中生殖系 EGFR 帶原者之低劑量電腦斷層隨訪進展",
-          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+          "tag": "學術意義與展望",
+          "headline": "回歸病患臨床實踐\n加速尖端抗癌藥物轉譯",
+          "summary": "ESMO 與 ASCO 的聯合共識確立了現代腫瘤臨床試驗在兼顧嚴格品質與精實運作間的平衡點，有助於降低藥物研發門檻並加速創新療法走向全球病患。",
+          "cta": "後續觀察：全球各大監管機構（如 FDA 與 EMA）對 E6(R3) 細則之全面轉化與執行進度",
+          "footer": "資料來源：Perez-Gracia et al. ESMO / ESMO open (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "支持腫瘤學",
-      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
-      "source_url": "https://doi.org/10.1200/JCO-26-00578",
-      "original_title": "Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial.",
+      "category": "肺癌新型抗體藥物",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnlmNXg4YzJCbUxqMXpZMzdSNDVucERQaGVLRnBmSmdWVXRVOWlzNmRieXZaM3FMdTV6c1dfak52WnA0YzQ0OTBmcXdJd00ySXpIWTNad1B0bXFSNkx2VXNyOHB2dHVNM28taHNBWXVlSDFrSjBOTHFRRjNBaU01NU0waDBMS09ZNGdRMjZJOUJrZEFyemlpYQ?oc=5",
+      "original_title": "ESMO 2026: ADCs and New Combinations Advance Lung Cancer Care - Targeted Oncology",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【血液腫瘤癌症相關疲憊：口服 Methylphenidate 雙盲交叉臨床試驗】\n\n丹麥奧登斯大學醫院團隊於《Journal of Clinical Oncology》（JCO）發表最新隨機雙盲對照臨床試驗成果，解決血液腫瘤患者最普遍且未被滿足的臨床困境——癌症相關疲憊（CRF）。此多中心試驗驗證中樞神經興奮劑哌甲酯（Methylphenidate, MTP）對血液腫瘤緩解期疲憊的顯著改善潛力。\n\n■ 核心作用機制：\n1. 中樞神經調節：MTP 抑制突觸前多巴胺與正腎上腺素再吸收轉運體，提升前額葉皮質兒茶酚胺濃度以對抗中樞疲憊感。\n2. 試驗設計嚴謹：納入 152 位視覺類比量表（VAS）疲憊分數 ≥4 且血紅素 ≥8.0 g/dL 之血液腫瘤患者，採雙盲雙週期交叉設計（各 6 週並間隔洗除期）。\n3. 疲憊量表評估：主要終點為慢性疾病治療功能評估疲憊量表（FACIT-F）分數變化，客觀衡量體能耐力與日常功能活動能力。\n\n■ 臨床轉譯與研究展望：\n對於完成化療 8 週以上且無合併精神精神用藥之血液腫瘤疲憊病患，MTP 展現出統計與臨床顯著的疲憊緩解效益，為支持緩和腫瘤學提供高品質循證處方依據。\n\n■ 資料來源 (References)：\n1. Frederiksen H, Gregersen H, Möller S, Hansen DL, Kjer Møller JJ, Clausen MB, et al. Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00578\n2. ASCO (美國臨床腫瘤學會) / JCO. Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial.. https://doi.org/10.1200/JCO-26-00578\n\n#JCO #支持腫瘤學 #血液腫瘤 #癌症疲憊 #Methylphenidate #臨床試驗",
+      "caption": "【ESMO 大會晚期肺癌突破：新世代 ADC 與雙特異性組合重塑非小細胞肺癌治療格局】\n\n於最新歐洲腫瘤內科學會（ESMO）大會上，抗體藥物複合體（ADC）合併新型免疫與標靶藥物在非小細胞肺癌（NSCLC）領域展現顯著療效突破。針對傳統酪胺酸激酶抑制劑（TKI）產生抗藥性或驅動基因陰性晚期患者，以新型 TROP2-ADC 與 HER3-ADC 為首之創新製劑，透過超強效拓撲異構酶 I 抑制劑載荷，突破了既往化療耐藥機制，於多項跨國二/三期臨床試驗中呈現具臨床意義之客觀反應率（ORR）與無惡化存活期（PFS）延長。\n\n■ 研究核心發現：\n1. 專一抗原遞送：靶向 TROP2 與 HER3 之單株抗體精確辨識腫瘤表面高表現抗原，高效率內化釋放細胞毒殺酬載。\n2. 旁觀者效應殺滅：高膜通透性細胞毒素酬載能穿透擴散至鄰近陰性癌細胞，克服腫瘤異質性導致之局部抗藥性。\n3. 免疫協同活化：ADC 誘導腫瘤免疫原性細胞死亡（ICD），大幅促進 CD8+ T 細胞浸潤並與抗 PD-1 療法發揮加乘效果。\n\n■ 臨床轉譯與研究展望：\n隨著多項 ADC 與免疫檢查點抑制劑合併治療進入前線樞紐臨床試驗，晚期肺癌正邁入去純化學治療之新時代，具特定生物標記表現患者將享有更持久之疾病控制與生存獲益。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO 2026: ADCs and New Combinations Advance Lung Cancer Care - Targeted Oncology. https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnlmNXg4YzJCbUxqMXpZMzdSNDVucERQaGVLRnBmSmdWVXRVOWlzNmRieXZaM3FMdTV6c1dfak52WnA0YzQ0OTBmcXdJd00ySXpIWTNad1B0bXFSNkx2VXNyOHB2dHVNM28taHNBWXVlSDFrSjBOTHFRRjNBaU01NU0waDBMS09ZNGdRMjZJOUJrZEFyemlpYQ?oc=5\n\n#ESMO #非小細胞肺癌 #抗體藥物複合體 #ADC #免疫合併療法 #標靶抗藥性 #TargetedOncology",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "臨床三期研究更新",
-          "headline": "Methylphenidate\n顯著改善血液腫瘤\n癌症相關疲憊症候群",
-          "subheadline": "JCO 發表隨機雙盲交叉對照臨床試驗：疲憊量表改善顯著超越安慰劑組",
-          "meta_badge": "研究設計：多中心隨機雙盲交叉對照試驗",
-          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+          "tag": "ESMO 晚期肺癌數據",
+          "headline": "新世代肺癌 ADC\n克服標靶化療抗藥\n延長無惡化存活期",
+          "subheadline": "ESMO 2026 最新非小細胞肺癌複合體藥物與免疫組合數據解析",
+          "meta_badge": "研究焦點：晚期非小細胞肺癌 (NSCLC) 後線突破",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "抑制兒茶酚胺再吸收\n逆轉腫瘤引發之中樞疲憊",
+          "headline": "複合體藥物遞送\n如何瓦解異質腫瘤？",
           "points": [
-            "突觸轉運體阻斷：抑制 DAT 與 NET 轉運活性，顯著提升大腦皮質單胺類神經傳導",
-            "神經迴路調控：增強前額葉神經網絡活性，改善因發炎因子累積所誘發之中樞遲緩",
-            "功能量表標準化：以 FACIT-F 量表精確量化體力、情緒與認知疲憊維度之客觀改善"
+            "受體介導內吞：抗體結合 TROP2/HER3 後誘導受體快速內吞，精準定位溶小體釋放毒素",
+            "旁觀者殺傷力：拓撲異構酶抑制劑穿透細胞膜清除鄰近抗原低表現細胞，瓦解異質微環境",
+            "免疫原性死亡：藥物誘發細胞骨架瓦解與免疫原性死亡，促進新抗原釋放並吸引 T 細胞"
           ],
-          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "FACIT-F 顯著改善\n超越臨床最小重要差異值",
+          "headline": "克服多線抗藥性\n客觀反應顯著提升",
           "points": [
-            "試驗組評分躍升：MTP 組 FACIT-F 平均提高達 8.9 分（95% CI 7.3 至 10.4）",
-            "顯著超越安慰劑：安慰劑組評分增加 3.9 分，兩組間存在 5.0 分之顯著統計淨差異",
-            "安全性表現平穩：納入 152 例血液腫瘤患者耐受度良好，無不可預期之中樞不良反應"
+            "耐藥族群獲益：在經多線標靶或免疫治療失敗之晚期患者中展現高度客觀腫瘤縮小反應",
+            "存活顯著改善：相較標準挽救性單藥化療，ADC 組合治療顯著延長無惡化存活期 (PFS)",
+            "安全性可控性：透過最佳化連接子穩定度設計，大幅降低循環中非標靶游離毒素之毒性"
           ],
-          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從症狀容忍邁向\n神經精神藥物積極支持介入",
-          "summary": "本研究確立了 MTP 改善血液腫瘤患者癌性疲憊的高品質循證基礎，五分的顯著淨差異跨越臨床實質獲益門檻，為非活動性化療期患者提供標準化症狀支持解方。",
-          "cta": "後續觀察：長期使用 MTP 在不同血液惡性亞型患者中的藥物依賴性與心血管安全性",
-          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+          "tag": "學術意義與展望",
+          "headline": "脫離傳統化療窠臼\n精準導向藥物引領典範",
+          "summary": "新世代 ADC 的臨床成功證實抗體偶聯毒素能克服複雜抗藥突變，透過與免疫治療協同，正逐步奠定晚期非小細胞肺癌後線以至前線治療之標準架構。",
+          "cta": "後續觀察：前瞻性生物標記富集族群之第三期整體存活期（OS）成熟分析結果",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "標靶抗藥性",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2653",
-      "original_title": "An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer.",
+      "category": "甲狀腺癌精準靶向",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXI4T1VnOVhobkpmcG9YaWhxZktOSG1XZDMxWHBpRHY1SUt3b1dUUGpralBUdWJwaGhHb3lxZDBfLXY3a0VyNUtCQ19pYzc5SS1fUjhRSEZ6MVQ2bi1lSmpCQUs2MXdLX092WXFUZDFQWjhRUWxnNkhjcHNjYUFNa3p2T2txT1ROQkFPSDlLR2Y1bzYxZ1hwd3FVRkw4M1B1V0tnTTZycV8zY0F4TGotZ01oRWs4cUU?oc=5",
+      "original_title": "Selpercatinib, Sacituzumab Govitecan Show Activity in Thyroid Cancer Subtypes - The ASCO Post",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【轉移性大腸直腸癌二線標靶反思：DeFianCe 二期試驗抑制 DKK1 困局】\n\nAACR 旗下頂尖期刊《Clinical Cancer Research》刊載重要評論，深入剖析二期臨床試驗 DeFianCe 的關鍵數據。該試驗旨在評估轉移性大腸直腸癌（mCRC）第二線治療中標靶 Dickkopf-1（DKK1）蛋白的成效，結果顯示阻斷 DKK1 並未轉化為顯著的臨床獲益，為 Wnt 訊息調控與微環境標靶開發帶來深刻省思。\n\n■ 研究核心發現：\n1. 標靶機制設想：DKK1 作為 Wnt/β-catenin 路徑抑制因子，在腸癌微環境中被認為與免疫抑制和腫瘤幹細胞特性高度相關。\n2. 試驗療效未達：DeFianCe 二期試驗將抗 DKK1 單株抗體併用常規二線化療與標靶藥物，然而主要療效指標無惡化存活期（PFS）未獲顯著延長。\n3. 生物標記困境：該研究揭示僅以組織學或未分層的微環境指標作為 DKK1 標靶依據，無法精準挑選出對 Wnt 途徑依賴度高的受惠亞群。\n\n■ 臨床轉譯與研究展望：\n本研究強調大腸直腸癌的高度異質性，未來探索基質調控與 Wnt 訊息通路時，必須建立動態伴隨診斷模型，避免單一代謝或訊息分子標靶的泛用性失敗。\n\n■ 資料來源 (References)：\n1. Srikumar T, Sundar R. An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2653\n2. AACR (美國癌症研究協會) / Cancer Discovery. An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2653\n\n#大腸直腸癌 #DKK1標靶 #AACR #DeFianCe試驗 #標靶抗藥性 #臨床試驗",
+      "caption": "【ASCO 臨床研究更新：Selpercatinib 與 Sacituzumab Govitecan 於難治型甲狀腺癌展現活性】\n\n根據《The ASCO Post》報導最新發布之腫瘤臨床數據，RET 高選擇性抑制劑 Selpercatinib 與靶向 Trop-2 之抗體藥物複合體 Sacituzumab Govitecan，於難治型甲狀腺癌亞型（包括甲狀腺髓質癌與未分化甲狀腺癌）中展現出突破性抗腫瘤療效。針對具備 RET 基因融合或突變之晚期甲狀腺癌患者，Selpercatinib 展現強效且持久之中樞神經與全身性控制；而 Sacituzumab Govitecan 則為缺乏有效標靶之侵襲性亞型提供了全新的化療毒素精準導引選擇。\n\n■ 核心作用機制：\n1. 高選擇性激酶抑制：Selpercatinib 精準對接 RET 激酶 ATP 結合囊袋，阻斷下游 MAPK/ERK 及 PI3K/Akt 致癌信號通透。\n2. 抗原特異性結合：Sacituzumab Govitecan 特異性結合高表現之 Trop-2 受體，將 SN-38 拓撲異構酶活性抑制劑直送腫瘤內部。\n3. 克服中樞神經轉移：高親脂性小分子特性使 RET 抑制劑具極佳血腦屏障穿透力，有效壓制腦轉移病灶惡化。\n\n■ 臨床轉譯與研究展望：\n晚期甲狀腺未分化癌長年缺乏有效全身性治療方案。本次研究成果證實了基因型導向標靶與分子受體導向 ADC 雙軌並進，能為這類極高度惡性之內分泌腫瘤開拓出實質延長生存之治療路徑。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Selpercatinib, Sacituzumab Govitecan Show Activity in Thyroid Cancer Subtypes - The ASCO Post. https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXI4T1VnOVhobkpmcG9YaWhxZktOSG1XZDMxWHBpRHY1SUt3b1dUUGpralBUdWJwaGhHb3lxZDBfLXY3a0VyNUtCQ19pYzc5SS1fUjhRSEZ6MVQ2bi1lSmpCQUs2MXdLX092WXFUZDFQWjhRUWxnNkhjcHNjYUFNa3p2T2txT1ROQkFPSDlLR2Y1bzYxZ1hwd3FVRkw4M1B1V0tnTTZycV8zY0F4TGotZ01oRWs4cUU?oc=5\n\n#ASCO #甲狀腺癌 #Selpercatinib #ADC #精準醫療 #RET突變 #TheASCOPost",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "分子靶向抗藥研究",
-          "headline": "二線標靶 DKK1 抑癌\n未顯著改善腸癌預後\nDeFianCe 試驗反思",
-          "subheadline": "AACR 權威評述：轉移性大腸直腸癌 Wnt 訊號微環境調控的轉譯瓶頸",
-          "meta_badge": "研究焦點：轉移性大腸直腸癌 (mCRC) 標靶策略",
-          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+          "tag": "ASCO 臨床研究更新",
+          "headline": "標靶與複合體雙軌\n突破難治型甲狀腺癌\n展現深度腫瘤緩解",
+          "subheadline": "Selpercatinib 與 Trop-2 ADC 於侵襲性甲狀腺癌亞型之最新臨床解析",
+          "meta_badge": "研究焦點：RET 突變與難治型內分泌腫瘤精準治療",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估限制",
-          "headline": "DKK1 分子抑制為何\n難以轉化為實質抗癌療效？",
+          "tag": "分子機制",
+          "headline": "雙靶向機轉並行\n精準壓制侵襲腫瘤",
           "points": [
-            "訊息路徑代償：阻斷 DKK1 誘發 Wnt 與非典型 Wnt 途徑多重代償回饋活化機制",
-            "微環境複雜性：大腸癌間質纖維母細胞與免疫抑制因子交織，單一分子難以瓦解",
-            "受體動態異質：不同克隆亞群對 LRP5/6 受體依賴度懸殊，降低了阻斷抗體專一效力"
+            "激酶活性阻斷：Selpercatinib 專一抑制突變型 RET 蛋白，全面關閉異常增殖與血管新生",
+            "抗原介導殺滅：Sacituzumab Govitecan 藉由抗 Trop-2 抗體定向輸送細胞毒素 SN-38",
+            "突破血腦屏障：高組織通透性設計確保藥物有效穿透血腦屏障以清除中樞神經轉移病灶"
           ],
-          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "研究數據",
-          "headline": "DeFianCe 二期結果\n客觀評估標靶終點表現",
+          "headline": "各亞型臨床緩解\n疾病控制持久維持",
           "points": [
-            "存活終點持平：合併抗 DKK1 單抗組與對照組相較，無惡化存活期無顯著統計學優勢",
-            "客觀反應受限：二線合併治療之腫瘤縮小率（ORR）未達預期設定之突破性門檻",
-            "標記分層匱乏：回溯分析顯示未依 DKK1 表達濃度嚴格分層嚴重稀釋標靶治療效益"
+            "持久緩解表現：在 RET 變異甲狀腺髓質癌中達成高度客觀緩解率並展現優異反應持續期",
+            "未分化癌突破：Trop-2 ADC 在極度侵襲性且預後差的未分化癌病患中觀察到腫瘤退縮",
+            "安全性耐受度：標靶專一性設計顯著降低傳統非選擇性多激酶抑制劑所引發之脫靶毒性"
           ],
-          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "破除單一路徑假說\n朝向深度多體學精準篩選",
-          "summary": "DeFianCe 試驗證明，在高度複雜的轉移性大腸直腸癌二線治療中，單純標靶微環境因子 DKK1 難以克服既有抗藥網絡，唯有結合空間生物學建立嚴格富集標記，方能重啟通路價值。",
-          "cta": "後續觀察：以類器官藥敏平台結合單細胞定序篩選 DKK1 高依賴性突變腫瘤亞型",
-          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+          "headline": "分子亞型精準分層\n終結難治甲狀腺癌困境",
+          "summary": "研究奠定了精準基因體分型與次世代抗體偶聯藥物在晚期內分泌腫瘤中的核心地位，使過往預後極度惡劣的難治型甲狀腺癌病患迎來具體獲益。",
+          "cta": "後續觀察：前瞻性二期臨床試驗之無惡化存活期（PFS）與中樞轉移控制率",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     }
