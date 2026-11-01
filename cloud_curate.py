@@ -30,11 +30,13 @@ CLAUDE_FALLBACK_MODELS = [
     "claude-3-7-sonnet-latest",
 ]
 
-# 1.5 / 2.0 系列已下架（HTTP 404）；Google API 建議改用 gemini-3.8-flash。
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+# Google AI Studio 最強旗艦推理模型為 gemini-4-argon，其次依序為 gemini-3.8-flash、gemini-2.5-pro、gemini-2.5-flash。
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-4-argon")
 FALLBACK_MODELS = [
     GEMINI_MODEL,
+    "gemini-4-argon",
     "gemini-3.8-flash",
+    "gemini-2.5-pro",
     "gemini-2.5-flash",
 ]
 
@@ -302,7 +304,7 @@ def call_gemini(candidates: list, today_str: str) -> dict:
         "contents": [{"parts": [{"text": user_content}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 8192,
+            "maxOutputTokens": 16384,
             "responseMimeType": "application/json",
             "responseSchema": RESPONSE_SCHEMA,
         },
@@ -336,7 +338,9 @@ def call_gemini(candidates: list, today_str: str) -> dict:
                 if not candidates_list:
                     raise ValueError("Gemini 回傳結構中無候選內容 candidates")
                 parts = candidates_list[0].get("content", {}).get("parts", [])
-                text = "".join(p.get("text", "") for p in parts if "text" in p).strip()
+                text = "".join(p.get("text", "") for p in parts if "text" in p and not p.get("thought")).strip()
+                if not text:
+                    text = "".join(p.get("text", "") for p in parts if "text" in p).strip()
                 if not text:
                     raise ValueError("Gemini 回傳之 text 內容為空")
                 if text.startswith("```"):
@@ -562,12 +566,22 @@ if __name__ == "__main__":
     curation_exc = ""
 
     try:
+        # 優先順序：若有設定 ANTHROPIC_API_KEY 則優先使用 Claude Sonnet 5.5；若只有 GEMINI_API_KEY 則使用 Gemini
         if ANTHROPIC_API_KEY:
             print(f"✨ 偵測到 Anthropic API Key，優先使用 Claude Sonnet 5.5 ({CLAUDE_MODEL}) 進行編譯")
-            result = call_claude(candidates, today_str)
-        else:
+            try:
+                result = call_claude(candidates, today_str)
+            except Exception as claude_err:
+                if GEMINI_API_KEY:
+                    print(f"[WARN] Claude 編譯失敗（{claude_err}），自動無縫降級切換至 Gemini ({GEMINI_MODEL}) 繼續執行...")
+                    result = call_gemini(candidates, today_str)
+                else:
+                    raise claude_err
+        elif GEMINI_API_KEY:
             print(f"✨ 偵測到 Google AI Studio API Key，使用 Gemini ({GEMINI_MODEL}) 進行編譯")
             result = call_gemini(candidates, today_str)
+        else:
+            raise RuntimeError("未提供任何有效的 API Key (ANTHROPIC_API_KEY 或 GEMINI_API_KEY)")
         posts, used = [], set()
         for raw in result.get("posts", []):
             idx = raw.get("source_index")
