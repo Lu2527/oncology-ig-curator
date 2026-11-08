@@ -1,268 +1,268 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T11:20:38.966829+08:00",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T10:49:35.226946+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "數位病理分子分型",
-      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
-      "source_url": "https://doi.org/10.1200/JCO-25-02761",
-      "original_title": "Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial.",
+      "category": "乳癌精準治療",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.clbc.2026.10.003",
+      "original_title": "2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【ASCO / JCO：SCOT 臨床試驗之數位病理共識分子分型（imCMS）精煉二至三期大腸直腸癌預後評估】\n\n美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）發表最新回溯性研究，針對探討二至三期大腸直腸癌（CRC）術後 3 個月與 6 個月含 Oxaliplatin 輔助性化療之 SCOT 臨床試驗（ISRCTN59757862），導入新型影像基礎共識分子分型（Image-Based Consensus Molecular Subtyping, imCMS）技術。傳統基於轉錄體學（Transcriptome-based）的共識分子分型（CMS）雖能提升局部大腸直腸癌風險分層，但臨床常規執行門檻極高；本研究證實利用常規病理組織切片影像即可進行高精度分型並有效預測預後。\n\n■ 研究核心發現：\n1. 病理影像轉譯：將常規病理切片輸入 imCMS 分類器，免除繁瑣且高成本的 RNA 定序流程，直接映射腫瘤分子與免疫微環境特徵。\n2. 臨床世代分佈：於 2,816 例可評估檢體中，成功鑑定出 24% imCMS1（免疫型）、35% imCMS2（典型）、15% imCMS3（代謝型）及 23% imCMS4（間質型）。\n3. 預後與存活關聯：透過單變數與多變數 Cox 迴歸分析，確立各 imCMS 亞型在無復發間隔（RFI）、整體存活期（OS）及復發後存活期（SAR）之獨立預測價值。\n\n■ 臨床轉譯與研究展望：\n此項數位病理技術成功跨越轉錄體定序的臨床應用障礙，為局部晚期大腸直腸癌提供具成本效益且可擴展的風險分層工具，有助於未來精準篩選術後輔助性化療之獲益族群。\n\n■ 資料來源 (References)：\n1. Lafarge MW, Harkin A, Iveson T, Saunders M, Adams DJ, Oien K, et al. Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-25-02761\n2. ASCO (美國臨床腫瘤學會) / JCO. Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial.. https://doi.org/10.1200/JCO-25-02761\n\n#ASCO #JCO #大腸直腸癌 #數位病理 #共識分子分型 #imCMS #輔助性化療 #精準腫瘤學",
+      "caption": "【ESMO 2026 轉移性乳癌臨床指引更新：ADC 躍升一線與生物標記導向治療策略】\n\n歐洲腫瘤內科學會（ESMO）針對轉移性乳癌（Metastatic Breast Cancer, MBC）發布 2026 年動態臨床指引（Living Guidelines）重大更新，相關專家共識與臨床實務影響解析發表於《Clinical Breast Cancer》。本次更新全面整合近期關鍵臨床試驗實證，重新定義各分子亞型乳癌的治療排序，特別著重於抗體藥物複合體（Antibody-Drug Conjugate, ADC）的早期介入與生物標記檢測的強制性規範。\n\n■ 研究核心發現：\n1. 內分泌抗性分層：針對荷爾蒙受體陽性（HR+）、HER2 陰性轉移性乳癌，指引明確區分內分泌敏感與內分泌抗性族群；後者強制要求執行 PIK3CA 基因突變檢測，以指導二線標靶用藥選擇。\n2. 一線 ADC 方案：針對 HER2 陽性轉移性乳癌，Trastuzumab deruxtecan（T-DXd）合併 Pertuzumab 正式與傳統紫杉醇加上雙標靶（THP）並列為第一線標準治療選項。\n3. 維持治療擴充：在 HER2 陽性疾病的維持治療階段，新增 Tucatinib 併用雙標靶阻斷，以及 CDK4/6 抑制劑 Palbociclib 聯合抗 HER2 療法等多元化配置。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 年版動態指引反映出晚期乳癌治療已從傳統解剖分期與基礎免疫組織化學染色，全面轉向動態分子生物標記與次世代 ADC 導向的個人化序貫治療，大幅提升患者疾病控制時間。\n\n■ 資料來源 (References)：\n1. Curigliano G, Castelo-Branco L, Müller V, Harbeck N. 2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group. Clinical breast cancer (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.clbc.2026.10.003\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. 2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group.. https://doi.org/10.1016/j.clbc.2026.10.003\n\n#ESMO #轉移性乳癌 #抗體藥物複合體 #精準醫療 #臨床治療指引",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 臨床研究更新",
-          "headline": "數位病理影像分子分型\n精準解析二至三期腸癌\n輔助化療預後與存活",
-          "subheadline": "SCOT 隨機臨床試驗 2,816 例常規病理切片之 imCMS 分型驗證",
-          "meta_badge": "研究設計：SCOT 第三期臨床試驗回溯分析",
-          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+          "tag": "ESMO 臨床指引更新",
+          "headline": "ESMO 轉移性乳癌指引更新\nADC 正式推進一線治療\n強化生物標記導向策略",
+          "subheadline": "2026 年歐洲腫瘤內科學會動態臨床指引跨亞型治療版圖解析",
+          "meta_badge": "研究焦點：ESMO 轉移性乳癌動態指引更新",
+          "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "常規病理切片影像如何取代\n複雜轉錄體定序進行分子分型？",
+          "tag": "指引更新重點",
+          "headline": "跨亞型分子生物標記\n如何重塑轉移性乳癌治療？",
           "points": [
-            "轉錄分型瓶頸：傳統共識分子分型（CMS）仰賴全轉錄體基因表現分析，受限於檢測成本與檢體品質",
-            "影像特徵萃取：imCMS 演算法直接從常規 H&E 染色病理影像中，辨識對應特定基因表現之組織形態",
-            "微環境關聯性：整合臨床病理、腫瘤分子突變與免疫浸潤因子，重現四大核心分子亞型特徵"
+            "抗性族群分層：HR 陽性且 HER2 陰性亞型明確劃分內分泌敏感與抗性族群以決定治療路徑",
+            "強制基因檢測：內分泌抗性患者強制執行 PIK3CA 突變檢測，精準導引二線標靶治療選擇",
+            "治療排序重組：依據疾病特徵與前期輔助治療反應，動態調整一線與後線之藥物組合配置"
           ],
-          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+          "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "SCOT 試驗兩千八百例檢體\n各分子亞型分佈與預後關聯為何？",
+          "tag": "臨床實務變革",
+          "headline": "HER2 陽性晚期乳癌\n一線與維持治療之方案擴充",
           "points": [
-            "大型世代分佈：共 2,816 例成功分型，含 24% 免疫型（imCMS1）與 35% 典型（imCMS2）",
-            "高危亞型鑑定：成功區分出 15% 代謝型（imCMS3）、23% 間質型（imCMS4）與 3% 混合型",
-            "多維存活評估：多變數 Cox 迴歸證實分型與無復發間隔（RFI）、整體存活期（OS）顯著相關"
+            "一線雙重選擇：Trastuzumab deruxtecan 合併 Pertuzumab 正式並列為一線標準療法",
+            "傳統方案並存：經典紫杉醇合併 Trastuzumab 與 Pertuzumab 方案仍保留為一線核心基準",
+            "多元維持療法：維持階段新增 Tucatinib 或 Palbociclib 聯合抗 HER2 標靶之治療組合"
           ],
-          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+          "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從高成本基因體定序邁向\n常規數位病理影像精準分層",
-          "summary": "本研究透過 SCOT 大型臨床試驗世代驗證 imCMS 技術，證明僅憑常規病理切片即可達成大腸直腸癌共識分子分型。此突破不僅大幅降低檢測門檻，更為二至三期患者接受 3 或 6 個月 Oxaliplatin 輔助化療提供關鍵預後指標。",
-          "cta": "後續觀察：前瞻性臨床試驗中以 imCMS 指導術後輔助化療療程長短之實質存活效益",
-          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+          "headline": "從傳統亞型分類邁向\n生物標記與 ADC 導向治療",
+          "summary": "ESMO 2026 年版轉移性乳癌動態指引確立了抗體藥物複合體（ADC）於前線治療的核心地位，並將分子生物標記檢測落實為標準常規，為晚期乳癌的長程疾病管理與抗藥性克服建立明確的循證架構。",
+          "cta": "後續觀察：前線使用 T-DXd 後之抗藥性演化機制與二線接續治療之最佳化排序",
+          "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "多體學代謝重編程",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1201",
-      "original_title": "Integrated multi-omics reveals longitudinal metabolic dynamics and reprogramming in bladder cancer.",
+      "category": "腫瘤微環境",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+      "original_title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【AACR / CCR：整合多體學揭示膀胱癌診斷前縱向代謝動態與丁酸鹽調控機制】\n\n美國癌症研究協會（AACR）旗下權威期刊《Clinical Cancer Research》發表大型多體學整合研究，針對高復發率且需終身監測之膀胱癌（BCa）與非肌肉侵犯型膀胱癌（NMIBC），解析診斷前全身性代謝體演化如何連結至早期腫瘤代謝重編程（Metabolic Reprogramming）。研究團隊結合英國人體生物資料庫（UK Biobank）逾 5 萬人世代與獨立臨床世代，建立高精準度血漿代謝生物標記模型。\n\n■ 研究核心發現：\n1. 診斷前代謝圖譜：分析 UK Biobank 中 48,241 名對照組與 2,158 例膀胱癌患者之基線血漿代謝體，鑑定出 64 種與未來膀胱癌發病風險顯著相關之循環代謝物。\n2. 八代謝物分類模型：於 107 例 NMIBC 患者與 56 名對照組之獨立臨床世代中，執行標靶代謝體學與轉錄體學分析，成功開發並內部驗證由 8 種血漿代謝物組成之診斷分類模型。\n3. 丁酸鹽功能機制：透過多體學整合與功能性實驗，深入闡明短鏈脂肪酸丁酸鹽（Butyrate）在膀胱癌早期代謝重編程與抑制腫瘤進展中的關鍵分子角色。\n\n■ 臨床轉譯與研究展望：\n此研究填補了膀胱癌發病前全身性代謝異常與局部腫瘤微環境重編程之間的知識空白，所建立的 8 代謝物液態切片模型具潛力發展為高風險族群早期篩檢與復發監測工具。\n\n■ 資料來源 (References)：\n1. Zhong Y, Li Y, Wang Q, Cai J, Yan Z, Gao Y, et al. Integrated multi-omics reveals longitudinal metabolic dynamics and reprogramming in bladder cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1201\n2. AACR (美國癌症研究協會) / Cancer Discovery. Integrated multi-omics reveals longitudinal metabolic dynamics and reprogramming in bladder cancer.. https://doi.org/10.1158/1078-0432.CCR-26-1201\n\n#AACR #ClinicalCancerResearch #膀胱癌 #NMIBC #多體學 #代謝重編程 #生物標記 #丁酸鹽",
+      "caption": "【破解三十年免疫學謎團：脂質訊號分子 5-oxoETE 調控上皮氧化還原與發炎損傷耐受機制】\n\n美國紀念斯隆-凱特琳癌症中心（Memorial Sloan Kettering Cancer Center, MSK）研究團隊於頂尖期刊《Nature》發表最新基礎腫瘤與免疫學突破。研究團隊利用斑馬魚活體模型，成功解開自 1992 年以來懸而未決的生物學謎團，揭示花生四烯酸代謝產物 5-oxoETE（5-oxo-6,8,11,14-eicosatetraenoic acid）在招募免疫細胞的同時，亦負責啟動上皮細胞內源性的抗氧化防禦機制，避免正常組織遭受發炎反應的附帶損傷。\n\n■ 核心作用機制：\n1. 雙向免疫調控：5-oxoETE 作為強效化學趨化因子，除了引導免疫細胞遷移至組織受損或感染部位，還能同步向周邊健康上皮細胞傳遞保護訊號。\n2. 氧化還原感測：研究鑑定出長期未知的關鍵合成酵素，證實上皮組織受損時的氧化還原狀態（Redox Control）可直接調節 5-oxoETE 的生成與訊號傳導。\n3. 組織耐受建立：該訊號路徑可強化上皮細胞對發炎自由基與細胞毒性物質的耐受度（Resilience），維持黏膜與上皮屏障完整性。\n\n■ 臨床轉譯與研究展望：\n慢性發炎與上皮屏障受損是發炎性腸道疾病（IBD）惡化及大腸直腸癌等上皮源性腫瘤發生的核心驅動因子。闡明 5-oxoETE 的組織保護機制，為調控腫瘤微環境發炎反應與預防免疫治療相關組織毒性提供全新藥物標靶。\n\n■ 資料來源 (References)：\n1. Ma Y, Lengyel M, Hui KL, Ambaw YA, Gelashvili Z, Kim L, et al. 5-oxoETE links redox control of epithelial damage detection and resilience. Nature. 2026. https://doi.org/10.1038/s41586-026-11121-2\n2. ScienceDaily Cancer News. Scientists solve 30-year-old mystery and discover a hidden defense against inflammation. https://www.sciencedaily.com/releases/2026/11/261101010554.htm\n\n#腫瘤微環境 #發炎反應 #氧化還原 #上皮屏障 #基礎腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 多體學研究",
-          "headline": "整合多體學揭開膀胱癌\n診斷前縱向代謝演化與\n八種血漿代謝物預測模型",
-          "subheadline": "結合五萬人前瞻世代與轉錄體學解析早期腫瘤代謝重編程機制",
-          "meta_badge": "研究焦點：非肌肉侵犯型膀胱癌 (NMIBC) 代謝標記",
-          "footer": "資料來源：Zhong et al. AACR / Clinical cancer research : an officia"
+          "tag": "基礎免疫與腫瘤學",
+          "headline": "破解三十年免疫學謎團\n揭示脂質分子 5-oxoETE\n保護組織免受發炎損傷機制",
+          "subheadline": "紀念斯隆-凱特琳癌症中心揭示上皮細胞氧化還原調控與發炎耐受新路徑",
+          "meta_badge": "研究焦點：Nature 發表發炎與上皮耐受機制",
+          "footer": "資料來源：Ma et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "全身性循環代謝物異常如何\n反映早期膀胱腫瘤代謝重編程？",
+          "headline": "趨化脂質分子 5-oxoETE\n如何同步啟動組織自我保護？",
           "points": [
-            "前瞻世代追蹤：比對 48,241 名健康對照與 2,158 例膀胱癌發病前之基線血漿代謝特徵",
-            "跨體學雙重驗證：於獨立 NMIBC 臨床世代結合標靶代謝體學與腫瘤轉錄體學進行路徑配對",
-            "丁酸鹽調控軸：透過多體學整合與細胞功能實驗，確立丁酸鹽（Butyrate）介入腫瘤代謝之機制"
+            "趨化訊號傳導：5-oxoETE 於組織受損處釋放，定向引導免疫細胞遷移至病灶執行防禦功能",
+            "氧化還原感測：透過新鑑定之關鍵酵素活性，將細胞氧化還原狀態轉化為上皮損傷偵測訊號",
+            "細胞耐受強化：直接激活周邊健康上皮細胞之內源性防禦機制，抵禦發炎伴隨之氧化壓力傷害"
           ],
-          "footer": "資料來源：Zhong et al. AACR / Clinical cancer research : an officia"
+          "footer": "資料來源：Ma et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "大型生物資料庫與臨床世代\n鑑定出哪些關鍵代謝生物標記？",
+          "tag": "實驗驗證",
+          "headline": "跨物種活體模型驗證\n發炎損傷控制與疾病轉譯潛力",
           "points": [
-            "風險代謝物群：於診斷前血漿檢體中，篩選出 64 種與未來膀胱癌發生風險顯著相關之循環代謝物",
-            "獨立世代剖析：納入 107 例非肌肉侵犯型膀胱癌（NMIBC）患者與 56 名對照組進行深度定量",
-            "精準分類模型：提煉出 8 種核心血漿代謝物建構分類演算法，並完成高準確度之內部驗證"
+            "活體模型建立：採用斑馬魚活體成像與基因篩選系統，突破傳統小鼠模型難以捕捉之動態過程",
+            "關鍵酵素鑑定：成功解析自 1992 年發現 5-oxoETE 以來長期未知的生物合成酵素與受體路徑",
+            "病理關聯驗證：證實該保護軸線失調與慢性發炎組織破壞相關，直接影響癌症與腸道發炎進程"
           ],
-          "footer": "資料來源：Zhong et al. AACR / Clinical cancer research : an officia"
+          "footer": "資料來源：Ma et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "從腫瘤局部代謝異常延伸至\n診斷前全身性液態代謝監測",
-          "summary": "非肌肉侵犯型膀胱癌（NMIBC）因極高復發率而需頻繁接受侵入性膀胱鏡檢查。本研究透過大型前瞻世代揭示診斷前 64 種循環代謝物動態變化，並確立 8 代謝物血漿模型與丁酸鹽分子路徑，為非侵入性早期檢測奠定基礎。",
-          "cta": "後續觀察：八代謝物血漿檢測面板於 NMIBC 術後復發監測之外部多中心世代驗證",
-          "footer": "資料來源：Zhong et al. AACR / Clinical cancer research : an officia"
+          "headline": "從單純抑制發炎反應\n轉向強化宿主組織耐受性",
+          "summary": "本研究顛覆過往僅靠免疫抑制劑控制發炎損傷的思維，揭示免疫趨化訊號與組織耐受性之間的內在耦聯。調控 5-oxoETE 氧化還原軸線，有望在不削弱抗腫瘤或抗感染免疫力的前提下，保護正常器官免受發炎風暴破壞。",
+          "cta": "後續觀察：靶向 5-oxoETE 合成酶之小分子調節劑於發炎相關癌症模型之驗證數據",
+          "footer": "資料來源：Ma et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "基因體不穩定性",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1007/s10354-026-01202-2",
-      "original_title": "Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma.",
+      "category": "惡病質與再生",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
+      "original_title": "A surprising discovery could help aging muscles repair themselves",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【AACR GENIE 世代研究：基因體改變比例（FGA）於浸潤性乳管癌死亡率預測全面優於腫瘤突變負荷（TMB）】\n\n基於美國癌症研究協會（AACR）GENIE 大型真實世界基因體資料庫，最新發表之機器學習預後研究針對 3,396 例浸潤性乳管癌（Invasive Ductal Carcinoma, IDC）患者進行深度解析。由於乳癌整體點突變率較低，傳統腫瘤突變負荷（Tumor Mutational Burden, TMB）難以捕捉染色體結構變異，導致預後預測價值受限；本研究證實反映拷貝數變異（Copy Number Changes）之基因體改變比例（Fraction Genome Altered, FGA）更能精準代表基因體不穩定性與疾病侵襲性。\n\n■ 研究核心發現：\n1. 四大突變亞型剖析：聚焦於浸潤性乳管癌中最關鍵的四大驅動基因突變亞型（TP53、PIK3CA、GATA3 與 MAP3K1），訓練邏輯迴歸與支援向量機（SVM）機器學習模型。\n2. MAP3K1 預測突破：在 MAP3K1 突變亞型中，以 FGA 作為主要預測因子較 TMB 大幅提升受試者工作特徵曲線下面積（AUROC 由 0.49 躍升至 0.75），使模型由無鑑別力轉為具高度區辨能力。\n3. TP53 準確度提升：於高風險之 TP53 突變患者群中，FGA 模型同樣優於 TMB，不僅改善 AUROC（0.70 vs. 0.69），更將整體死亡率預測準確率由 64% 提升至 67%。\n\n■ 臨床轉譯與研究展望：\n此項基於 AACR GENIE 世代的研究證明，結構性基因體改變（FGA）比單純累計點突變（TMB）更能反映乳癌生物學惡性度，未來整合至臨床基因檢測報告中將大幅強化死亡風險分層。\n\n■ 資料來源 (References)：\n1. Kumari B, Lahariya R, Anand G. Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma. Wiener medizinische Wochenschrift (1946) (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1007/s10354-026-01202-2\n2. AACR (美國癌症研究協會) / Cancer Discovery. Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma.. https://doi.org/10.1007/s10354-026-01202-2\n\n#AACR #GENIE #浸潤性乳管癌 #乳癌基因體 #基因體不穩定性 #FGA #TMB #機器學習",
+      "caption": "【受體親和力翻倍並抵抗硝化失活：硫辛酸三硫化物強化 HGF 訊號促進肌肉修復再生】\n\n日本九州大學（Kyushu University）研究團隊於《Scientific Reports》發表最新分子生物學研究，發現硫辛酸三硫化物（Lipoic Acid Trisulfide）能與肝細胞生長因子（Hepatocyte Growth Factor, HGF）產生特異性交互作用，將其轉化為具備雙重優勢的強化型構型。此發現對於高齡肌肉流失（肌少症）以及癌症惡病質（Cancer Cachexia）常見的骨骼肌萎縮與修復障礙具有重要基礎參考價值。\n\n■ 核心作用機制：\n1. 受體親和倍增：硫辛酸三硫化物與 HGF 結合後，能誘導結構變化，使其與細胞表面關鍵受體（c-Met）的結合親和力提升超過兩倍以上。\n2. 抵抗硝化失活：在老化或慢性發炎微環境中，蛋白質極易遭受過氧亞硝酸鹽引起的硝化修飾（Nitration）而喪失活性；此複合構型能有效保護 HGF 免受硝化損傷。\n3. 再生訊號放大：動物與細胞實驗證實，強化版 HGF 可更穩定地激活骨骼肌幹細胞（衛星細胞），促進肌纖維再生並減少疤痕組織與脂肪浸潤。\n\n■ 臨床轉譯與研究展望：\n骨骼肌進行性流失與修復能力下降不僅影響高齡族群，更是晚期癌症患者發生惡病質與治療耐受度下降的關鍵因素。透過小分子化合物穩定內源性生長因子並抵抗發炎氧化破壞，為肌肉再生醫學提供新穎干預策略。\n\n■ 資料來源 (References)：\n1. Zushi K, Seki M, Mizuochi R, Shitamitsu K, Elgaabari A, Tanaka S, et al. Enhanced HGF with increased receptor affinity and nitration-dysfunction resistance through interaction with lipoic acid trisulfide. Scientific Reports. 2026. https://doi.org/10.1038/s41598-026-60835-w\n2. ScienceDaily Cancer News. A surprising discovery could help aging muscles repair themselves. https://www.sciencedaily.com/releases/2026/11/261104005226.htm\n\n#肝細胞生長因子 #肌肉再生 #蛋白質硝化 #受體親和力 #轉譯醫學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 基因體預後研究",
-          "headline": "基因體改變比例預測乳癌\n各基因亞型死亡風險表現\n全面超越腫瘤突變負荷",
-          "subheadline": "AACR GENIE 世代 3,396 例浸潤性乳管癌之機器學習預後模型比較",
-          "meta_badge": "研究焦點：浸潤性乳管癌 (IDC) 結構變異標記",
-          "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1"
+          "tag": "分子生醫與再生研究",
+          "headline": "硫辛酸三硫化物複合體\n提升 HGF 受體親和力逾兩倍\n並抵抗發炎硝化失活",
+          "subheadline": "九州大學揭示強化內源性生長因子活性與修復老化肌肉組織之分子機制",
+          "meta_badge": "研究焦點：Scientific Reports 肌肉修復機制",
+          "footer": "資料來源：Zushi et al. Scientific Reports (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "為何基因體改變比例（FGA）\n比腫瘤突變負荷更能反映乳癌惡性度？",
+          "headline": "硫辛酸三硫化物如何改造\n肝細胞生長因子（HGF）功能？",
           "points": [
-            "突變負荷盲區：浸潤性乳管癌（IDC）整體點突變率偏低，使 TMB 無法有效捕捉染色體結構異常",
-            "拷貝數變異量：FGA 量化全基因體受拷貝數增減影響之比例，直接反映染色體不穩定性與侵襲性",
-            "機器學習建模：結合臨床變數與邏輯迴歸、支援向量機（SVM），跨四大驅動基因亞型驗證預後"
+            "特異分子結合：硫辛酸三硫化物直接與 HGF 蛋白進行交互作用，改變其立體功能構型",
+            "受體結合強化：改造後之 HGF 對標靶細胞表面受體之親和力顯著增強達兩倍以上",
+            "抵抗硝化壓力：有效阻絕老化與發炎微環境中的化學硝化修飾，維持生長因子生物活性"
           ],
-          "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1"
+          "footer": "資料來源：Zushi et al. Scientific Reports (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "三千三百餘例真實世界世代\n各突變亞型之模型鑑別度差異為何？",
+          "tag": "實驗驗證",
+          "headline": "體外生化與小鼠模型驗證\n骨骼肌修復訊號之強化效益",
           "points": [
-            "大型世代規模：納入 AACR GENIE 資料庫 3,396 例涵蓋 TP53、PIK3CA 等突變之患者",
-            "顯著鑑別躍升：於 MAP3K1 突變亞型中，FGA 模型之 AUROC 達 0.75，遠優於 TMB 之 0.49",
-            "提升預測準確：於 TP53 突變亞型中，FGA 預測死亡率之準確率達 67%（TMB 為 64%，AUROC 0.70）"
+            "訊號傳導倍增：體外實驗顯示複合分子使下游肌肉再生生物訊號傳遞效率提升逾兩倍",
+            "抗失活能力驗證：在模擬老化氧化壓力環境下，仍能保持完整受體結合與活化能力",
+            "活體修復支持：早期小鼠實驗證實該策略有助於逆轉肌肉纖維退化並維持骨骼肌強度"
           ],
-          "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1"
+          "footer": "資料來源：Zushi et al. Scientific Reports (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從點突變計數轉向染色體\n結構變異主導之乳癌風險分層",
-          "summary": "本研究利用逾三千例 AACR GENIE 乳癌世代證實，基因體改變比例（FGA）在 TP53、PIK3CA、GATA3 與 MAP3K1 四大亞型之死亡率預測上全面超越 TMB，凸顯染色體拷貝數變異在乳癌預後評估中的核心地位。",
-          "cta": "後續觀察：將 FGA 指標整合至常規次世代定序（NGS）報告對早期乳癌治療決策之影響",
-          "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1"
+          "tag": "學術意義與展望",
+          "headline": "從外源補充生長因子\n邁向小分子構型強化與保護",
+          "summary": "傳統生長因子療法常受限於體內半衰期短及病態微環境的化學去活化。本研究證明利用硫辛酸三硫化物即可同步放大 HGF 親和力並賦予抗硝化韌性，為改善高齡肌少症與消耗性肌肉萎縮開闢全新分子藥理途徑。",
+          "cta": "後續觀察：該化合物於系統性給藥下對c-Met路徑之安全性與肌肉組織特異性評估",
+          "footer": "資料來源：Zushi et al. Scientific Reports (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "環境致癌分子流行",
-      "source_name": "SABCS (聖安東尼奧乳癌研討會)",
-      "source_url": "https://doi.org/10.1200/JCO-26-00318",
-      "original_title": "Per- and Polyfluoroalkyl Substance Exposure and Breast Cancer Incidence in the Sister Study.",
+      "category": "DNA修復標靶",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+      "original_title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【SABCS / JCO：Sister Study 前瞻世代證實全氟及多氟烷基物質（PFAS）暴露顯著增加雌激素受體陰性乳癌風險】\n\n聖安東尼奧乳癌研討會（SABCS）關注焦點暨《Journal of Clinical Oncology》（JCO）最新發表之大型病例世代研究（Case-cohort study），針對 Sister Study 世代中 1,609 例乳癌患者與 2,269 名子世代對照者，探討環境持久性化學污染物「全氟及多氟烷基物質（PFAS）」於診斷前血漿濃度與不同荷爾蒙受體狀態乳癌發生率之關聯。研究特別過度抽樣雌激素受體陰性（ER-negative）病例（共 324 例 ER 陰性、1,120 例 ER 陽性）以提升統計檢定力。\n\n■ 研究核心發現：\n1. 高解析質譜定量：採用液相層析高解析度質譜儀（LC-HRMS），精準定量受試者診斷前血漿中 17 種 PFAS 化合物濃度，並透過加權 Cox 模型校正共暴露與干擾因子。\n2. ER 陰性乳癌風險：研究發現特定 PFAS 暴露與 ER 陰性腫瘤呈顯著正相關；其中全氟辛酸（PFOA）最高與最低四分位數相比，風險比（HR）達 1.67（95% CI, 1.10-2.53）。\n3. 跨研究統合分析：除 PFOA 外，全氟辛烷磺酸（PFOS）亦於 ER 陰性乳癌展現正向關聯，團隊並進一步整合 7 項具診斷前血液 PFAS 測量之獨立研究進行統合分析（Meta-analysis）加以驗證。\n\n■ 臨床轉譯與研究展望：\n過去流行病學對 PFAS 與乳癌之結論分歧，主因在於缺乏依荷爾蒙受體亞型分層之大樣本檢定；本研究明確指出 PFOA 等暴露主要驅動高侵襲性之 ER 陰性乳癌風險，為環境致癌機制提供關鍵分子流行病學實證。\n\n■ 資料來源 (References)：\n1. Chang CJ, Pullella K, Keil AP, Mullins CE, Chang VC, Young AS, et al. Per- and Polyfluoroalkyl Substance Exposure and Breast Cancer Incidence in the Sister Study. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (SABCS (聖安東尼奧乳癌研討會)). 2026. https://doi.org/10.1200/JCO-26-00318\n2. SABCS (聖安東尼奧乳癌研討會). Per- and Polyfluoroalkyl Substance Exposure and Breast Cancer Incidence in the Sister Study.. https://doi.org/10.1200/JCO-26-00318\n\n#SABCS #JCO #乳癌 #ER陰性乳癌 #環境致癌物 #PFAS #PFOA #分子流行病學",
+      "caption": "【首創視網膜酸受體 β 促效劑 KCL-286：促進神經元 DNA 損傷修復並減輕發炎反應】\n\n英國倫敦國王學院（King's College London）研究團隊於《FEBS Open Bio》發表最新轉譯藥理學研究。團隊發現原先為脊髓損傷開發的首創（First-in-class）口服小分子視網膜酸受體 β（Retinoic Acid Receptor-β, RARβ）促效劑 KCL-286，能有效促進細胞 DNA 損傷修復並抑制發炎反應，且該藥物已在先前開發階段順利完成第一期人體安全性與耐受性臨床試驗。\n\n■ 核心作用機制：\n1. 靶向 RARβ 路徑：KCL-286 為具高度選擇性且可口服吸收的小分子 RARβ 促效劑，能精準調控下游基因轉錄網路。\n2. 促進 DNA 修復：研究證實，DNA 雙股斷裂與損傷累積是細胞退化與病變的早期核心事件，KCL-286 能顯著活化細胞內源性 DNA 修復機制，減少基因體不穩定性。\n3. 雙重抗炎調控：除了修復遺傳物質損傷，該藥物亦能同步調降中樞組織的異常發炎反應，改善細胞微環境。\n\n■ 臨床轉譯與研究展望：\n視網膜酸受體（RAR）家族與細胞分化、DNA 損傷反應（DDR）及發炎調控在腫瘤學與神經退化領域皆扮演關鍵角色。由於 KCL-286 已具備第一期臨床試驗之人體安全性數據，大幅縮短了後續老藥新用（Drug Repurposing）與跨疾病臨床驗證的開發時程。\n\n■ 資料來源 (References)：\n1. Hill N, AlMuallim HYO, Maddock E, Hobbs C, Clarke E, Goncalves MB, et al. Treatment with KCL‐286, a first‐in‐class retinoic acid receptor‐β (RARβ) agonist, ameliorates neuronal DNA damage and inflammation in a mouse model of Alzheimer's disease. FEBS Open Bio. 2026. https://doi.org/10.1002/2211-5463.70284\n2. ScienceDaily Cancer News. Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation. https://www.sciencedaily.com/releases/2026/11/261102075806.htm\n\n#DNA損傷修復 #視網膜酸受體 #小分子標靶 #發炎調控 #轉譯藥理學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "SABCS 乳癌研究更新",
-          "headline": "診斷前血漿全氟化合物\n暴露濃度顯著提升女性\n雌激素受體陰性乳癌風險",
-          "subheadline": "Sister Study 逾三千八百人世代與高解析質譜定量之亞型風險解析",
-          "meta_badge": "研究設計：前瞻性病例世代與七項研究統合分析",
-          "footer": "資料來源：Chang et al. SABCS / Journal of clinical oncology : offic"
+          "tag": "轉譯藥理與新藥開發",
+          "headline": "首創 RARβ 促效劑 KCL-286\n同步促進細胞 DNA 損傷修復\n並顯著抑制組織發炎反應",
+          "subheadline": "倫敦國王學院證實已完成一期臨床安全性試驗之口服小分子雙重修復效益",
+          "meta_badge": "研究焦點：FEBS Open Bio 發表 DNA 修復新藥",
+          "footer": "資料來源：Hill et al. FEBS Open Bio (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "環境持久性全氟化合物（PFAS）\n如何透過受體亞型分層揭示致癌性？",
+          "headline": "口服小分子 KCL-286\n如何實現雙重細胞保護效益？",
           "points": [
-            "突破研究瓶頸：過往流行病學結果不一致，源於未依荷爾蒙受體狀態進行足夠樣本之亞型評估",
-            "強化亞型檢定：特別擴大納入 324 例 ER 陰性與 1,120 例 ER 陽性乳癌，提升統計檢定力",
-            "質譜精準定量：運用液相層析高解析度質譜（LC-HRMS）測定診斷前血漿中 17 種 PFAS 暴露量"
+            "受體專一激活：作為首創口服小分子，高選擇性結合並活化視網膜酸受體 β（RARβ）",
+            "強化基因體修復：啟動下游 DNA 損傷修復機制，逆轉早期累積之神經元 DNA 結構損傷",
+            "抑制發炎級聯：同步阻斷病態微環境中的促炎訊號傳遞，減輕慢性組織發炎與細胞毒性"
           ],
-          "footer": "資料來源：Chang et al. SABCS / Journal of clinical oncology : offic"
+          "footer": "資料來源：Hill et al. FEBS Open Bio (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "診斷前血漿 PFOA 與 PFOS 濃度\n對 ER 陰性乳癌之具體風險倍率為何？",
+          "tag": "臨床前與臨床數據",
+          "headline": "動物模型藥效驗證與\n一期臨床安全性試驗進展",
           "points": [
-            "世代樣本規模：涵蓋 Sister Study 中 1,609 例乳癌個案與 2,269 名子世代參與者之基線血液",
-            "PFOA 顯著風險：最高對比最低暴露四分位數（Q4 vs Q1），ER 陰性乳癌風險比（HR）達 1.67",
-            "多重證據整合：PFOS 同樣呈現與 ER 陰性腫瘤之正向關聯，並經 7 項前瞻血液研究統合分析支持"
+            "早期病程干預：在小鼠疾病模型中證實可針對晚期蛋白堆積前的早期 DNA 損傷進行修復",
+            "口服生體可用率：具備良好口服吸收特性與組織穿透力，優於傳統大分子生物製劑",
+            "一期安全性確立：已於前期適應症開發中成功通過第一期人體安全性與耐受性臨床試驗"
           ],
-          "footer": "資料來源：Chang et al. SABCS / Journal of clinical oncology : offic"
+          "footer": "資料來源：Hill et al. FEBS Open Bio (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "釐清環境化學暴露對特定\n荷爾蒙受體陰性乳癌之致病關聯",
-          "summary": "本研究透過高解析質譜測定診斷前血漿檢體，證實 PFOA 等全氟化合物暴露與雌激素受體陰性（ER-negative）乳癌風險增加 67% 顯著相關。此發現突破過往混合亞型分析的盲點，揭示非經典型內分泌干擾或非受體依賴之環境致癌途徑。",
-          "cta": "後續觀察：PFOA 與 PFOS 誘導乳腺上皮細胞惡性轉化為 ER 陰性表現型之表觀遺傳機制",
-          "footer": "資料來源：Chang et al. SABCS / Journal of clinical oncology : offic"
+          "tag": "臨床轉譯意義",
+          "headline": "連結 DNA 損傷修復與抗炎\n加速首創小分子臨床轉譯",
+          "summary": "基因體不穩定與慢性發炎是癌症及神經退化疾病的共同生物學特徵。KCL-286 透過活化 RARβ 同步解決 DNA 損傷與組織發炎，加上既有的一期人體安全性基礎，展現出極高的臨床轉譯潛力。",
+          "cta": "後續觀察：KCL-286 進入第二期臨床療效試驗之生物標記變化與組織修復終點數據",
+          "footer": "資料來源：Hill et al. FEBS Open Bio (2026)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "腎癌免疫標靶治療",
+      "category": "腫瘤免疫新藥",
       "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXJ4NnV4Q2xselVNSVZBVEgzY093ZDBpMWlHQzZ3QUN0Mm5VTk1HVk1pVFVtZ2pNNS1CVEZWOFUtSXVpemVCM2ZMeS1xYXFGVnZRWjNibXpVelNEQURadGZRbEJSVmpYbUUwMlF1X2xkNENMeUlRVjhnT3dqaEwwSXp3UHBEOS10QkRvdzBJdW00S0JINlhTNWJvNWFYblZLWW9jMGswMC1YSDJTSVdqSF9TM1MyMDg?oc=5",
-      "original_title": "LITESPARK-012, XmAb819, and PE-PE Data Headline Key Kidney Cancer Findings From ESMO 2026 - OncLive",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tbVZpMVMtdlluOWFjMVNkWWhncVdCVE9UXzVPU0FyQWdmWFRNME5TZjVzNHBpVzRDQW5NMnhFM2pLb2JwbVZGQnpsbkl5THlWRkJHZVBfcnhDM05YS1B3VGs4clV2bm95Rktsc3pPdGY?oc=5",
+      "original_title": "ESMO 2026: Personalised melanoma vaccine, new lung cancer treatments and next-generation targeted drugs - Cancer Research UK - Cancer News",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【ESMO 2026 腎細胞癌焦點突破：LITESPARK-012 三期試驗與 XmAb819 雙特異性抗體領銜晚期腎癌治療新局】\n\n2026 年歐洲腫瘤內科學會（ESMO）年會公布多項改變晚期腎細胞癌（Renal Cell Carcinoma, RCC）治療版圖的關鍵臨床數據，其中以評估缺氧誘導因子（HIF-2α）抑制劑聯合療法之 LITESPARK-012 臨床試驗、新型雙特異性抗體 XmAb819，以及 PE-PE 聯合治療方案最受國際腫瘤學界矚目。\n\n■ 研究核心發現：\n1. LITESPARK-012 試驗：深入評估一線晚期腎細胞癌中，將缺氧誘導因子抑制劑與免疫檢查點抑制劑及標靶藥物結合之三合一或聯合策略臨床表現。\n2. XmAb819 雙特異性抗體：展示針對特定腎癌表面抗原設計之新型 T 細胞銜接雙特異性抗體（Bispecific Antibody）於晚期腎癌之早期臨床活性與安全性數據。\n3. PE-PE 聯合策略：同步發表 PE-PE 治療方案於腎細胞癌患者群中之最新療效評估，拓展抗血管新生與免疫調節協同作用之臨床證據。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 腎細胞癌專場顯示，晚期腎癌的藥物開發已從傳統單一酪胺酸激酶抑制劑（TKI）與 PD-1 抑制劑組合，推進至多機轉聯合方案與新型雙特異性免疫抗體，為一線與後線難治型患者開啟多元精準治療選擇。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). LITESPARK-012, XmAb819, and PE-PE Data Headline Key Kidney Cancer Findings From ESMO 2026 - OncLive. https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXJ4NnV4Q2xselVNSVZBVEgzY093ZDBpMWlHQzZ3QUN0Mm5VTk1HVk1pVFVtZ2pNNS1CVEZWOFUtSXVpemVCM2ZMeS1xYXFGVnZRWjNibXpVelNEQURadGZRbEJSVmpYbUUwMlF1X2xkNENMeUlRVjhnT3dqaEwwSXp3UHBEOS10QkRvdzBJdW00S0JINlhTNWJvNWFYblZLWW9jMGswMC1YSDJTSVdqSF9TM1MyMDg?oc=5\n\n#ESMO2026 #ESMO #腎細胞癌 #LITESPARK012 #XmAb819 #雙特異性抗體 #免疫聯合治療 #泌尿腫瘤",
+      "caption": "【ESMO 2026 大會研究亮點：個人化黑色素瘤疫苗、肺癌新療法與次世代標靶藥物進展】\n\n歐洲腫瘤內科學會（ESMO 2026）年會公布多項改變臨床實務的跨癌種重磅研究，英國癌症研究基金會（Cancer Research UK）特別盤點大會核心突破。本屆會議聚焦於個人化癌症疫苗的臨床推進、晚期與早期肺癌的創新治療策略，以及針對難治型突變所開發的次世代精準標靶藥物。\n\n■ 研究核心發現：\n1. 個人化黑色素瘤疫苗：透過腫瘤基因體定序設計之個人化新抗原疫苗，於黑色素瘤臨床研究中展現持久的抗腫瘤免疫記憶與防復發效益。\n2. 肺癌治療版圖擴張：針對肺癌公布多項新型抗體藥物複合體（ADC）、雙特異性抗體及圍手術期免疫聯合方案，持續推升病患存活率。\n3. 次世代標靶藥物：針對傳統標靶治療後產生的獲得性抗藥性突變，新一代高選擇性小分子抑制劑與蛋白降解劑展現優異的克服抗藥性潛力。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 的研究趨勢顯示，現代腫瘤內科學正透過「主動免疫疫苗」、「精準藥物遞送（ADC）」與「抗藥性構型克服」三大支柱，將實體腫瘤的精準醫療推向更高維度的長期生存目標。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO 2026: Personalised melanoma vaccine, new lung cancer treatments and next-generation targeted drugs - Cancer Research UK - Cancer News. https://news.google.com/rss/articles/CBMicEFVX3lxTE0tbVZpMVMtdlluOWFjMVNkWWhncVdCVE9UXzVPU0FyQWdmWFRNME5TZjVzNHBpVzRDQW5NMnhFM2pLb2JwbVZGQnpsbkl5THlWRkJHZVBfcnhDM05YS1B3VGs4clV2bm95Rktsc3pPdGY?oc=5\n\n#ESMO2026 #黑色素瘤疫苗 #肺癌標靶治療 #次世代標靶 #腫瘤免疫治療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ESMO 2026 臨床焦點",
-          "headline": "ESMO 年會揭曉腎癌突破\nLITESPARK-012 試驗與\n新型雙特異性抗體數據",
-          "subheadline": "聚焦 LITESPARK-012、XmAb819 與 PE-PE 方案之晚期腎細胞癌研究進展",
-          "meta_badge": "研究焦點：晚期腎細胞癌 (RCC) 免疫與標靶新藥",
+          "tag": "ESMO 2026 會議亮點",
+          "headline": "ESMO 2026 核心研究盤點\n個人化黑色素瘤癌症疫苗\n與肺癌次世代標靶新突破",
+          "subheadline": "英國癌症研究基金會解析歐洲腫瘤內科學會年會跨癌種關鍵臨床進展",
+          "meta_badge": "研究焦點：ESMO 2026 跨癌種突破性療法",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "晚期腎細胞癌如何透過多元\n標靶與免疫工程突破治療瓶頸？",
+          "tag": "療法創新機制",
+          "headline": "三大創新治療模態\n如何突破實體腫瘤治療瓶頸？",
           "points": [
-            "多機轉協同軸：LITESPARK-012 探索強化一線免疫檢查點與微環境標靶抑制之聯合抗腫瘤效應",
-            "雙特異性抗體：XmAb819 透過雙靶點結構設計，精準引導免疫效應細胞辨識並毒殺腎癌細胞",
-            "創新聯合方案：PE-PE 研究數據進一步驗證複合藥物機制於改善腫瘤微環境抗藥性之潛力"
+            "新抗原免疫激活：個人化黑色素瘤疫苗依據患者特異突變設計，精準誘導專一性 T 細胞反應",
+            "肺癌多元靶向：整合新型標靶與免疫檢查點抑制策略，全面阻斷肺癌細胞增殖與免疫逃脫",
+            "次世代分子設計：針對抗藥性突變位點優化藥物結構，提升靶點結合力並降低脫靶毒性"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "ESMO 2026 泌尿腫瘤專場\n三大核心研究揭示哪些關鍵方向？",
+          "tag": "會議核心成果",
+          "headline": "從早期防復發到晚期克服抗藥\n全面改寫臨床治療標準",
           "points": [
-            "旗艦三期試驗：LITESPARK-012 領銜發表晚期腎細胞癌一線聯合治療之關鍵臨床終點分析",
-            "新穎抗體實證：XmAb819 公布於難治型或晚期腎癌患者群中之臨床安全性與腫瘤反應表現",
-            "多元方案驗證：PE-PE 臨床數據同步亮相，共同構成 ESMO 2026 腎細胞癌三大核心突破"
+            "降低術後復發：個人化疫苗於高風險黑色素瘤輔助治療中，展現明確的遠端轉移預防潛力",
+            "拓展肺癌受益群：新興肺癌療法覆蓋多種驅動基因亞型，提升難治型患者之客觀緩解表現",
+            "突破後線瓶頸：次世代標靶新藥於多線治療失敗之晚期實體腫瘤患者中驗證臨床活性"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
@@ -270,9 +270,9 @@
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從標準雙重免疫標靶組合邁向\n三合一方案與雙特異性抗體時代",
-          "summary": "ESMO 2026 年會公布的 LITESPARK-012、XmAb819 與 PE-PE 研究數據，標誌著腎細胞癌治療正經歷新一波典範轉移。透過多機轉聯合強化一線反應深度，並於後線導入新型雙特異性抗體，持續延長晚期患者存活效益。",
-          "cta": "後續觀察：LITESPARK-012 與 XmAb819 於不同 IMDC 風險分層患者之長期存活數據",
+          "headline": "個人化免疫與次世代標靶\n雙軌驅動腫瘤精準醫療",
+          "summary": "ESMO 2026 大會展現了腫瘤治療的典範轉移，個人化疫苗的成熟使免疫治療從被動釋放煞車進化為主動精準導航，而肺癌與次世代標靶藥物的突破則為抗藥性患者提供了延續生命的關鍵武器。",
+          "cta": "後續觀察：個人化癌症疫苗與次世代標靶藥物於隨機對照三期試驗之長期存活數據",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
