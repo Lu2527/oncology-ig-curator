@@ -119,6 +119,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-06",
+      "post_id": "post-2",
+      "picked_at": "2026-11-09T15:04:18.394Z",
+      "issue": null,
+      "post": {
+        "id": "post-2",
+        "category": "液態切片檢測",
+        "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+        "source_url": "https://doi.org/10.1200/JCO-26-00280",
+        "original_title": "Circulating Tumor DNA Profiling Across Phase II/III Ewing Sarcoma Trials Identifies High-Risk Patients With",
+        "theme_color": "#1D4ED8",
+        "accent_color": "#3B82F6",
+        "caption": "【ASCO / JCO 臨床研究：前瞻性整合循環腫瘤 DNA（ctDNA）剖析尤文氏肉瘤腫瘤異質性並識別高風險患者】\n\n發表於美國臨床腫瘤學會（ASCO）旗艦期刊《Journal of Clinical Oncology》（JCO）之最新跨國研究，前瞻性地將連續循環腫瘤 DNA（ctDNA）液態切片採樣整合至第一線第 II/III 期 Euro Ewing 2012（EE2012）與 CombinaiR3 臨床試驗及復發世代中。該研究針對 347 位尤文氏肉瘤（Ewing sarcoma）患者、共計 991 份血液、腫瘤組織與骨髓檢體進行客製化標靶定序與淺層全基因體定序（sWGS），突破傳統僅依賴單一組織切片與影像學之風險分層限制。\n\n■ 研究核心發現：\n1. 基因體圖譜重現：尤文氏肉瘤主要由 FET::ETS 基因融合驅動，並伴隨 STAG2、TP53 與 CDKN2A 等次發性基因變異；血液與骨髓 ctDNA 成功重現了確立的腫瘤基因體特徵。\n2. 捕捉患者內異質性：透過將連續液態切片與配對的實體腫瘤組織切片進行比對，ctDNA 揭示了單一部位組織切片無法完整反映的患者內腫瘤異質性（intrapatient tumor heterogeneity）與克隆演化。\n3. 分子風險分層潛力：跨 347 位患者、991 份檢體的整合生物學與臨床關聯分析顯示，動態 ctDNA 定序能提供超越傳統臨床與放射學參數的預後資訊，精準識別高復發風險族群。\n\n■ 臨床轉譯與研究展望：\n此項大型前瞻性試驗確立了液態切片在骨肉瘤領域的臨床實用價值，未來透過非侵入性 ctDNA 追蹤次發性突變與微量殘存疾病（MRD），將有助於指導高風險尤文氏肉瘤患者的個人化治療強化策略。\n\n■ 資料來源 (References)：\n1. Mous L, Ballet S, Dureau S, Benoist C, Frouin E, Renault V, et al. Circulating Tumor DNA Profiling Across Phase II/III Ewing Sarcoma Trials Identifies High-Risk Patients With Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00280\n2. ASCO (美國臨床腫瘤學會) / JCO. Circulating Tumor DNA Profiling Across Phase II/III Ewing Sarcoma Trials Identifies High-Risk Patients With. https://doi.org/10.1200/JCO-26-00280\n\n#尤文氏肉瘤 #液態切片 #循環腫瘤DNA #ctDNA #腫瘤異質性 #ASCO #精準腫瘤學",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "ASCO 分子診斷研究",
+            "headline": "前瞻性液態切片定序\n解析尤文氏肉瘤異質性\n精準識別高風險患者",
+            "footer": "資料來源：Mous et al. ASCO / Journal of clinical oncology : officia",
+            "subheadline": "Euro Ewing 2012 與 CombinaiR3 二/三期試驗之 ctDNA 整合分析",
+            "meta_badge": "研究規模：347 位患者共 991 份檢體定序"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "分子機制",
+            "headline": "為何傳統組織切片難以完整\n評估尤文氏肉瘤之惡性演化？",
+            "footer": "資料來源：Mous et al. ASCO / Journal of clinical oncology : officia",
+            "points": [
+              "驅動融合與共突變：由 FET::ETS 融合驅動，少數伴隨 STAG2、TP53 與 CDKN2A 變異",
+              "單一部位採樣限制：傳統診斷依賴單一腫瘤組織切片與影像，無法涵蓋全身病灶之克隆演化",
+              "雙重定序技術整合：結合客製化標靶定序與淺層全基因體定序，同步偵測突變與拷貝數變異"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "研究數據",
+            "headline": "連續 ctDNA 監測在臨床試驗中\n展現哪些診斷與分層優勢？",
+            "footer": "資料來源：Mous et al. ASCO / Journal of clinical oncology : officia",
+            "points": [
+              "大規模前瞻收案：橫跨 EE2012 與 CombinaiR3 試驗，分析 991 份血液、骨髓與腫瘤檢體",
+              "揭示腫瘤異質性：比對配對腫瘤切片，ctDNA 成功捕捉患者體內未被組織切片檢出之異質性",
+              "精準分子風險分層：突破單純臨床放射學指標，以基因體特徵識別預後不良之高風險患者"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "從傳統影像學分期邁向\n動態液態切片分子風險分層",
+            "footer": "資料來源：Mous et al. ASCO / Journal of clinical oncology : officia",
+            "summary": "本研究首次於大型二/三期尤文氏肉瘤臨床試驗中證實連續 ctDNA 分析之可行性，不僅克服骨腫瘤侵入性採樣困難，更能全面反映患者內腫瘤異質性與次發性抗藥基因演化，建立分子導向的預後評估新標準。",
+            "cta": "後續觀察：以基線及治療中 ctDNA 清除率指導高風險肉瘤治療強化的前瞻性試驗設計"
+          }
+        ]
+      }
     }
   ]
 }
