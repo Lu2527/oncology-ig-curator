@@ -1,3 +1,64 @@
 {
-  "picks": []
+  "picks": [
+    {
+      "date": "2026-11-08",
+      "post_id": "post-1",
+      "picked_at": "2026-11-09T15:02:52.256Z",
+      "issue": null,
+      "post": {
+        "id": "post-1",
+        "category": "乳癌精準治療",
+        "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+        "source_url": "https://doi.org/10.1016/j.clbc.2026.10.003",
+        "original_title": "2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group.",
+        "theme_color": "#0F766E",
+        "accent_color": "#14B8A6",
+        "caption": "【ESMO 2026 轉移性乳癌臨床指引更新：ADC 躍升一線與生物標記導向治療策略】\n\n歐洲腫瘤內科學會（ESMO）針對轉移性乳癌（Metastatic Breast Cancer, MBC）發布 2026 年動態臨床指引（Living Guidelines）重大更新，相關專家共識與臨床實務影響解析發表於《Clinical Breast Cancer》。本次更新全面整合近期關鍵臨床試驗實證，重新定義各分子亞型乳癌的治療排序，特別著重於抗體藥物複合體（Antibody-Drug Conjugate, ADC）的早期介入與生物標記檢測的強制性規範。\n\n■ 研究核心發現：\n1. 內分泌抗性分層：針對荷爾蒙受體陽性（HR+）、HER2 陰性轉移性乳癌，指引明確區分內分泌敏感與內分泌抗性族群；後者強制要求執行 PIK3CA 基因突變檢測，以指導二線標靶用藥選擇。\n2. 一線 ADC 方案：針對 HER2 陽性轉移性乳癌，Trastuzumab deruxtecan（T-DXd）合併 Pertuzumab 正式與傳統紫杉醇加上雙標靶（THP）並列為第一線標準治療選項。\n3. 維持治療擴充：在 HER2 陽性疾病的維持治療階段，新增 Tucatinib 併用雙標靶阻斷，以及 CDK4/6 抑制劑 Palbociclib 聯合抗 HER2 療法等多元化配置。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 年版動態指引反映出晚期乳癌治療已從傳統解剖分期與基礎免疫組織化學染色，全面轉向動態分子生物標記與次世代 ADC 導向的個人化序貫治療，大幅提升患者疾病控制時間。\n\n■ 資料來源 (References)：\n1. Curigliano G, Castelo-Branco L, Müller V, Harbeck N. 2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group. Clinical breast cancer (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.clbc.2026.10.003\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. 2026 Key European Guideline Changes for Metastatic Breast Cancer and Their Impact on Practice-Commentary Based on a Virtual Focus Group.. https://doi.org/10.1016/j.clbc.2026.10.003\n\n#ESMO #轉移性乳癌 #抗體藥物複合體 #精準醫療 #臨床治療指引",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "ESMO 臨床指引更新",
+            "headline": "ESMO 轉移性乳癌指引更新\nADC 正式推進一線治療\n強化生物標記導向策略",
+            "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)",
+            "subheadline": "2026 年歐洲腫瘤內科學會動態臨床指引跨亞型治療版圖解析",
+            "meta_badge": "研究焦點：ESMO 轉移性乳癌動態指引更新"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "指引更新重點",
+            "headline": "跨亞型分子生物標記\n如何重塑轉移性乳癌治療？",
+            "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)",
+            "points": [
+              "抗性族群分層：HR 陽性且 HER2 陰性亞型明確劃分內分泌敏感與抗性族群以決定治療路徑",
+              "強制基因檢測：內分泌抗性患者強制執行 PIK3CA 突變檢測，精準導引二線標靶治療選擇",
+              "治療排序重組：依據疾病特徵與前期輔助治療反應，動態調整一線與後線之藥物組合配置"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "臨床實務變革",
+            "headline": "HER2 陽性晚期乳癌\n一線與維持治療之方案擴充",
+            "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)",
+            "points": [
+              "一線雙重選擇：Trastuzumab deruxtecan 合併 Pertuzumab 正式並列為一線標準療法",
+              "傳統方案並存：經典紫杉醇合併 Trastuzumab 與 Pertuzumab 方案仍保留為一線核心基準",
+              "多元維持療法：維持階段新增 Tucatinib 或 Palbociclib 聯合抗 HER2 標靶之治療組合"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "從傳統亞型分類邁向\n生物標記與 ADC 導向治療",
+            "footer": "資料來源：Curigliano et al. ESMO / Clinical breast cancer (2026)",
+            "summary": "ESMO 2026 年版轉移性乳癌動態指引確立了抗體藥物複合體（ADC）於前線治療的核心地位，並將分子生物標記檢測落實為標準常規，為晚期乳癌的長程疾病管理與抗藥性克服建立明確的循證架構。",
+            "cta": "後續觀察：前線使用 T-DXd 後之抗藥性演化機制與二線接續治療之最佳化排序"
+          }
+        ]
+      }
+    }
+  ]
 }
