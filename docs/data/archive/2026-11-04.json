@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:27:12.294467+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "腫瘤微環境",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1792",
+      "original_title": "Complement-driven NETosis mediates immunotherapy resistance in STK11-mutant lung adenocarcinoma.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【AACR 旗艦期刊揭密：補體驅動之 NETosis 介導 STK11 突變肺腺癌對免疫治療之原發性抗藥機制】\n\n美國癌症研究協會（AACR）旗下權威期刊《Clinical Cancer Research》最新發表一項整合性基因體與免疫表型研究。合併 KRAS 與 STK11 突變（KS 共突變）之肺腺癌（LUAD）在臨床上具有高度侵襲性，且對免疫檢查點抑制劑（ICIs）表現出顯著的原發性抗藥性；相對而言，KRAS/TP53（KP）共突變腫瘤則多呈現發炎性腫瘤微環境（TME）並對免疫治療反應良好。本研究結合多中心人類肺腺癌檢體與免疫健全小鼠模型，首次證實嗜中性球胞外捕捉網（NETs）的形成（NETosis）是介導 KS 腫瘤免疫逃脫的核心關鍵。\n\n■ 核心作用機制：\n1. 微環境特徵：KS 共突變肺腺癌組織中呈現顯著的嗜中性球浸潤與 NETs 形成，並伴隨 CD8+ T 細胞浸潤大幅減少。\n2. 補體軸活化：在 Kras 突變小鼠模型中，Stk11 基因缺失會專一性激活補體 C5a-C5aR1 訊號軸，進而驅動腫瘤相關嗜中性球發生 NETosis。\n3. 逆轉抗藥性：透過藥物抑制 C5a 訊號傳遞可有效阻斷 NETosis、減緩腫瘤生長，並重新恢復 KS 腫瘤內的 T 細胞浸潤，克服對 PD-1/PD-L1 阻斷劑的抗藥性。\n\n■ 臨床轉譯與研究展望：\n此項發現不僅闡明了 STK11 缺失重塑免疫抑制微環境的分子路徑，更確立「C5a-C5aR1 軸與 NETosis」作為改善 KRAS/STK11 共突變非小細胞肺癌免疫治療反應的潛在協同標靶。\n\n■ 資料來源 (References)：\n1. de Andrea CE, Ajona D, Sainz C, Remirez A, Echeveste JI, Amat R, et al. Complement-driven NETosis mediates immunotherapy resistance in STK11-mutant lung adenocarcinoma. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1792\n2. AACR (美國癌症研究協會) / Cancer Discovery. Complement-driven NETosis mediates immunotherapy resistance in STK11-mutant lung adenocarcinoma.. https://doi.org/10.1158/1078-0432.CCR-26-1792\n\n#AACR #肺腺癌 #STK11突變 #腫瘤微環境 #免疫抗藥性 #NETosis",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 轉譯醫學研究",
+          "headline": "補體驅動胞外捕捉網\n介導 STK11 突變肺腺癌\n免疫檢查點抑制劑抗藥",
+          "subheadline": "阻斷 C5a-C5aR1 訊號軸逆轉免疫排斥微環境並恢復 T 細胞浸潤",
+          "meta_badge": "研究焦點：KRAS/STK11 共突變肺腺癌",
+          "footer": "資料來源：de et al. AACR / Clinical cancer research : an official j"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "STK11 基因缺失如何重塑\n肺腺癌之免疫排斥微環境？",
+          "points": [
+            "共突變表型：KRAS/STK11 共突變較 KRAS/TP53 腫瘤具高度原發性免疫抗藥性",
+            "補體軸激活：Stk11 基因缺失會專一性活化補體系統之 C5a-C5aR1 訊號傳遞路徑",
+            "捕捉網形成：C5a 訊號誘導嗜中性球釋放胞外捕捉網（NETosis）並阻斷 T 細胞浸潤"
+          ],
+          "footer": "資料來源：de et al. AACR / Clinical cancer research : an official j"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "多中心檢體與動物模型\n驗證標靶 C5a 軸之協同效益",
+          "points": [
+            "多中心隊列：人類 KS 肺腺癌檢體顯示 NETs 顯著富集且伴隨 CD8+ T 細胞匱乏",
+            "小鼠模型組：免疫健全 Kras 突變小鼠證實 Stk11 缺失直接導致 PD-1/PD-L1 抗藥",
+            "藥理學逆轉：抑制 C5a 訊號可消除 NETosis、抑制腫瘤生長並恢復 T 細胞浸潤"
+          ],
+          "footer": "資料來源：de et al. AACR / Clinical cancer research : an official j"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "鎖定補體與嗜中性球軸線\n突破難治型肺癌免疫瓶頸",
+          "summary": "本研究清楚描繪出 KRAS/STK11 共突變肺腺癌透過補體 C5a-C5aR1 軸驅動 NETosis 以排斥效應 T 細胞的分子機制。這項發現為長期缺乏有效免疫療法的 STK11 突變患者，提供了結合補體抑制劑與 PD-1/PD-L1 抗體的全新精準聯合治療策略。",
+          "cta": "後續觀察：抗 C5a/C5aR1 標靶藥物合併免疫檢查點抑制劑於 STK11 突變肺癌之臨床試驗",
+          "footer": "資料來源：de et al. AACR / Clinical cancer research : an official j"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "肺癌免疫鞏固",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106221",
+      "original_title": "Brief Report: Patterns of Disease Progression with Durvalumab versus Placebo After Concurrent Chemoradiotherapy for Limited-Stage SCLC in the Phase 3 ADRIATIC Trial.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【WCLC / JTO 重磅發表：ADRIATIC 三期試驗解析局限期小細胞肺癌 Durvalumab 鞏固治療之疾病惡化模式】\n\n國際肺癌研究協會（IASLC / WCLC）官方旗艦期刊《Journal of Thoracic Oncology (JTO)》最新公布第三期 ADRIATIC 臨床試驗的事後探索性分析（post-hoc exploratory analysis）。先前 ADRIATIC 試驗已證實，針對接受同步放化療（cCRT）後未惡化的局限期小細胞肺癌（LS-SCLC）患者，給予 PD-L1 抑制劑 Durvalumab 進行鞏固治療可顯著改善整體存活期（OS）與無惡化存活期（PFS）雙重主要終點；本次報告進一步剖析兩組患者的首次疾病惡化解剖部位與時間分布。\n\n■ 研究核心發現：\n1. 整體惡化率：Durvalumab 鞏固治療組（n=264）的整體疾病惡化比例為 47.7%，顯著低於安慰劑對照組（n=266）的 59.4%。\n2. 胸腔內控制：僅發生於胸腔內（肺部與縱膈腔）的首次惡化比例，在 Durvalumab 組為 27.7%，安慰劑組則為 29.3%。\n3. 遠端轉移防禦：研究同步採用 Kaplan-Meier 法評估胸腔內、胸腔外（含胸壁、橫膈膜及遠端器官）與腦部/中樞神經系統（CNS）之無惡化時間，證實免疫鞏固治療能廣泛延緩疾病惡化進程。\n\n■ 臨床轉譯與研究展望：\n本研究透過盲性獨立中央審查（BICR）依據 RECIST v1.1 標準進行部位拆解，確認 cCRT 後接續長達 24 個月的 Durvalumab 鞏固治療能實質降低 LS-SCLC 整體復發風險，為局限期小細胞肺癌的標準照護奠定堅實數據基礎。\n\n■ 資料來源 (References)：\n1. Senan S, Cui H, Spigel DR, Cho BC, Laktionov KK, Zenke Y, et al. Brief Report: Patterns of Disease Progression with Durvalumab versus Placebo After Concurrent Chemoradiotherapy for Limited-Stage SCLC in the Phase 3 ADRIATIC Trial. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106221\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Brief Report: Patterns of Disease Progression with Durvalumab versus Placebo After Concurrent Chemoradiotherapy for Limited-Stage SCLC in the Phase 3 ADRIATIC Trial.. https://doi.org/10.1016/j.jtho.2026.106221\n\n#WCLC #JTO #小細胞肺癌 #ADRIATIC試驗 #Durvalumab #免疫鞏固治療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "WCLC / JTO 三期試驗",
+          "headline": "ADRIATIC 三期臨床試驗\n降低局限期小細胞肺癌\n整體疾病惡化率至 47.7%",
+          "subheadline": "同步放化療後接續 Durvalumab 鞏固治療之復發轉移部位剖析",
+          "meta_badge": "研究設計：第三期隨機雙盲安慰劑對照試驗",
+          "footer": "資料來源：Senan et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "同步放化療後免疫鞏固治療\n如何評估解剖部位惡化模式？",
+          "points": [
+            "收案與分組：納入 cCRT 後未惡化之 LS-SCLC 患者，依期別與預防性腦照射分層隨機分配",
+            "治療期程規畫：給予 Durvalumab 或安慰劑鞏固治療至疾病惡化、無法耐受或最長 24 個月",
+            "影像判讀標準：由盲性獨立中央審查依 RECIST v1.1 區分胸腔內、胸腔外與腦轉移惡化"
+          ],
+          "footer": "資料來源：Senan et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "Durvalumab 對比安慰劑組\n首次疾病惡化部位之量化比較",
+          "points": [
+            "整體惡化率：Durvalumab 組（n=264）惡化率為 47.7%，顯著低於安慰劑組（n=266）之 59.4%",
+            "胸腔內惡化：僅發生胸腔內（肺與縱膈）惡化比例，治療組為 27.7% 對比安慰劑組 29.3%",
+            "無惡化時間：透過 Kaplan-Meier 分析證實免疫鞏固可延緩胸腔內外及中樞神經系統惡化"
+          ],
+          "footer": "資料來源：Senan et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "確立同步放化療後免疫鞏固\n全面阻斷小細胞肺癌轉移進程",
+          "summary": "ADRIATIC 試驗不僅確立了 Durvalumab 鞏固治療在局限期小細胞肺癌的存活效益，本次惡化模式分析更證實其能有效降低整體惡化比例（47.7% vs 59.4%）。這顯示同步放化療後及早導入 PD-L1 阻斷劑，有助於清除全身微量殘存病灶並延緩胸腔外及遠端復發。",
+          "cta": "後續觀察：預防性腦部照射（PCI）次族群與胸腔外及中樞神經系統長期控制率之交互關係",
+          "footer": "資料來源：Senan et al. WCLC / Journal of thoracic oncology : offici"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "液態切片檢測",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-3052",
+      "original_title": "Ultrasensitive ctDNA Assay Lowers the Detection Floor in Esophageal Cancer.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【AACR 臨床癌症研究突破：超高靈敏度 MAESTRO 液態切片技術大幅下探食道癌術後微量殘存疾病（MRD）檢測極限】\n\n發表於美國癌症研究協會（AACR）期刊《Clinical Cancer Research》的最新研究，針對食道癌循環腫瘤 DNA（ctDNA）釋放量極低、導致第一代微量殘存疾病（MRD）檢測容易漏診潛伏病灶的臨床困境提出解決方案。研究團隊應用超高靈敏度 MAESTRO 檢測技術（Ultrasensitive MAESTRO assays），針對接受根治性治療的食道癌患者進行縱向血漿追蹤，成功突破過往液態切片的偵測下限（detection floor）。\n\n■ 研究核心發現：\n1. 縱向檢體規模：研究共納入 36 名接受根治性意向治療（curative intent）之食道癌患者，系統性分析多達 331 份縱向收集之血漿檢體。\n2. 極低濃度捕捉：在所有檢測出 ctDNA 陽性的血漿檢體中，高達 60% 的腫瘤突變等位基因分率低於百萬分之百（<100 ppm），屬於傳統檢測難以穩定捕捉的極微弱訊號區間。\n3. 復發精準預警：在臨床追蹤過程中，每一位發生疾病復發的患者，其術後血漿皆在臨床影像復發前即被 MAESTRO 檢測出 ctDNA 陽性訊號。\n\n■ 臨床轉譯與研究展望：\n此項研究證實，將液態切片靈敏度推進至 100 ppm 以下，能徹底克服低釋放量實體腫瘤（low-shedding tumors）的假陰性瓶頸，為食道癌術後風險分層與輔助治療決策提供高精準度的分子生物標記。\n\n■ 資料來源 (References)：\n1. Hidalgo AM, Maldonado-Luevano E, Szymanski JJ, Chaudhuri AA. Ultrasensitive ctDNA Assay Lowers the Detection Floor in Esophageal Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-3052\n2. AACR (美國癌症研究協會) / Cancer Discovery. Ultrasensitive ctDNA Assay Lowers the Detection Floor in Esophageal Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-3052\n\n#AACR #液態切片 #ctDNA #微量殘存疾病 #食道癌 #MAESTRO檢測",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 分子診斷研究",
+          "headline": "超高靈敏度液態切片技術\n捕捉食道癌低於 100 ppm\n占陽性檢體高達 60%",
+          "subheadline": "MAESTRO 檢測突破低釋放量腫瘤極限並精準預警所有術後復發事件",
+          "meta_badge": "研究設計：36 例根治性食道癌共 331 份血漿分析",
+          "footer": "資料來源：Hidalgo et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "檢測限制",
+          "headline": "傳統液態切片為何難以捕捉\n食道癌術後之微量殘存病灶？",
+          "points": [
+            "低釋放量特性：食道癌釋放至血液中之循環腫瘤 DNA（ctDNA）濃度極低，易造成假陰性",
+            "一代檢測瓶頸：第一代 MRD 檢測技術之偵測下限較高，經常漏診極低濃度的潛伏殘存病灶",
+            "MAESTRO 技術：導入超高靈敏度富集與定序技術，大幅下探血漿游離突變片段之偵測極限"
+          ],
+          "footer": "資料來源：Hidalgo et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "331 份縱向血漿檢體實證\n極低濃度 ctDNA 之臨床預測力",
+          "points": [
+            "臨床檢體規模：針對 36 名接受根治性治療之食道癌患者，分析 331 份縱向血漿樣本",
+            "極微濃度占比：高達 60% 的 ctDNA 陽性檢體其濃度低於 100 ppm（百萬分之百）",
+            "復發完全涵蓋：所有最終發生臨床復發之患者，在復發前皆於術後血漿中檢出 ctDNA 陽性"
+          ],
+          "footer": "資料來源：Hidalgo et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "突破百萬分之百偵測門檻\n改寫低釋放量腫瘤監測標準",
+          "summary": "由於高達六成的食道癌陽性血漿樣本濃度低於 100 ppm，本研究直接解釋了為何傳統 MRD 檢測在食道癌表現受限。MAESTRO 技術展現出在每次臨床復發前皆能提前檢出 ctDNA 的高敏感度，為未來以 MRD 導引食道癌術後升降階治療奠定關鍵技術基礎。",
+          "cta": "後續觀察：前瞻性臨床試驗驗證以超高靈敏度 ctDNA 導引食道癌術後輔助免疫或化學治療之效益",
+          "footer": "資料來源：Hidalgo et al. AACR / Clinical cancer research : an offic"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "兒童腫瘤免疫",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00810",
+      "original_title": "Feasibility and Tolerability of Chemoimmunotherapy Given During Induction for Treatment of Patients With High-Risk Neuroblastoma: A Report From the Children's Oncology Group.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【ASCO / JCO 兒童腫瘤學群報告：高風險神經母細胞瘤於誘導期合併 Anti-GD2 免疫化療展現高度可行性與耐受性】\n\n美國臨床腫瘤學會（ASCO）旗艦期刊《Journal of Clinical Oncology (JCO)》最新發表由兒童腫瘤學群（Children's Oncology Group, COG）主導之 ANBL17P1 前瞻性臨床研究。過去抗 GD2 單株抗體 Dinutuximab（DIN）主要用於高風險神經母細胞瘤（HRNBL）的鞏固後維持治療以改善無事件存活期（EFS），或用於復發/難治型患者；本研究首次於多中心試驗中評估將 DIN 合併化學治療（免疫化療）提前至「新診斷誘導治療期（induction）」給藥的可行性與安全性。\n\n■ 研究核心發現：\n1. 試驗給藥設計：本研究於 2019 年 1 月至 2020 年 6 月在 8 家中心納入 40 名新診斷可評估之 HRNBL 患者，於誘導化療第 3 至 5 療程合併給予 Dinutuximab 與顆粒球巨噬細胞群落刺激因子（sargramostim）。\n2. 雙重評估指標：主要終點「耐受性」定義為含 DIN 療程中是否發生預設之不可接受毒性或毒性死亡；「可行性」則定義為患者能否完成 ≥75% 計畫劑量的 Dinutuximab，並依修訂版國際神經母細胞瘤反應標準（INRC）評估療效。\n3. 安全性與可行性：研究結果證實於誘導化療第 3 至 5 療程導入抗 GD2 免疫化療具備良好的臨床可行性與可管理的第 3 級以上相關毒性。\n\n■ 臨床轉譯與研究展望：\nCOG ANBL17P1 試驗成功證明抗 GD2 單株抗體可安全地提前至新診斷高風險神經母細胞瘤的第一線誘導階段與化療協同作用，為後續大型隨機對照三期試驗提供關鍵安全性依據。\n\n■ 資料來源 (References)：\n1. Federico SM, Naranjo A, Zhang FF, Sondel P, Shahi A, Lilley M, et al. Feasibility and Tolerability of Chemoimmunotherapy Given During Induction for Treatment of Patients With High-Risk Neuroblastoma: A Report From the Children's Oncology Group. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00810\n2. ASCO (美國臨床腫瘤學會) / JCO. Feasibility and Tolerability of Chemoimmunotherapy Given During Induction for Treatment of Patients With High-Risk Neuroblastoma: A Report From the Children's Oncology Group.. https://doi.org/10.1200/JCO-26-00810\n\n#ASCO #JCO #神經母細胞瘤 #Dinutuximab #GD2抗體 #免疫化療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO / JCO 臨床研究",
+          "headline": "高風險神經母細胞瘤\n誘導期提前導入抗 GD2 抗體\n證實免疫化療高度可行",
+          "subheadline": "兒童腫瘤學群 ANBL17P1 試驗評估 Dinutuximab 合併誘導化療之耐受性",
+          "meta_badge": "研究設計：前瞻性多中心單臂先導臨床試驗",
+          "footer": "資料來源：Federico et al. ASCO / Journal of clinical oncology : off"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "治療策略",
+          "headline": "為何將抗 GD2 單株抗體\n提前至新診斷誘導化療期給藥？",
+          "points": [
+            "標準療法背景：抗 GD2 抗體 Dinutuximab 用於鞏固後階段可顯著改善患者無事件存活期",
+            "化療協同基礎：Dinutuximab 合併化療已在復發或難治型神經母細胞瘤展現明確客觀反應",
+            "前線誘導整合：於誘導化療第 3 至 5 療程同步加入抗體與 sargramostim 以強化早期清除"
+          ],
+          "footer": "資料來源：Federico et al. ASCO / Journal of clinical oncology : off"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "COG ANBL17P1 多中心試驗\n可行性與耐受性終點評估標準",
+          "points": [
+            "收案患者規模：於 8 家醫療中心納入 40 名新診斷且可評估之高風險神經母細胞瘤患者",
+            "可行性之定義：評估患者於誘導第 3 至 5 療程中是否能成功接受達 75% 以上之計畫劑量",
+            "耐受性與療效：監測預設之不可接受毒性或毒性死亡，並採用修訂版 INRC 標準評估腫瘤反應"
+          ],
+          "footer": "資料來源：Federico et al. ASCO / Journal of clinical oncology : off"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "推進抗 GD2 免疫療法至前線\n開啟兒童高風險腫瘤新典範",
+          "summary": "過往高風險神經母細胞瘤需待高強度誘導與自體幹細胞移植後才導入抗 GD2 免疫治療。COG ANBL17P1 證實於誘導化療第 3 至 5 療程合併 Dinutuximab 與 sargramostim 具備高度可行性與耐受性，為第一線早期消滅腫瘤負荷奠定關鍵基礎。",
+          "cta": "後續觀察：誘導期合併抗 GD2 免疫化療對比標準誘導化療之大型隨機三期試驗長期存活數據",
+          "footer": "資料來源：Federico et al. ASCO / Journal of clinical oncology : off"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "巨噬細胞免疫",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108600",
+      "original_title": "Phase II study of magrolimab combination therapies in patients with advanced triple-negative breast cancer.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO Open 臨床試驗報告：抗 CD47 抗體 Magrolimab 聯合療法於晚期三陰性乳癌之 ELEVATE TNBC 二期研究數據】\n\n歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》最新發表 ELEVATE TNBC 第二期臨床試驗結果。CD47 為癌細胞表面介導逃避吞噬細胞清除的關鍵「別吃我（don't eat me）」免疫檢查點分子，而 Magrolimab 為阻斷 CD47 的單株抗體。本研究旨在評估 Magrolimab 合併標準化學治療或抗體藥物複合體（ADC）於晚期或轉移性三陰性乳癌（mTNBC）的安全性與初步抗腫瘤活性。\n\n■ 研究核心發現：\n1. 安全性導入期：在安全性導入期（SRI）中，各聯合治療組皆未發生劑量限制性毒性（DLTs）。\n2. 一線紫杉醇聯合（Cohort 1）：納入 28 名未曾治療且 PD-L1 陰性之 mTNBC 患者，隨機分配接受紫杉醇類藥物（nab-paclitaxel 或 paclitaxel）合併或不合併 Magrolimab；聯合組與單用紫杉醇組的中位無惡化存活期（PFS）分別為 13.9 個月與 10.0 個月（HR 0.456, 95% CI 0.147-1.409），客觀反應率（ORR）分別為 35.7% 與 21.4%。\n3. 後線 ADC 聯合（Cohort 2）：納入 43 名曾接受 1 至 2 線轉移性治療之 mTNBC 患者，給予 Magrolimab 合併 Sacituzumab govitecan，客觀反應率（ORR）達 38.1%，中位 PFS 為 5.5 個月。\n\n■ 臨床轉譯與研究展望：\n儘管因試驗提早終止使樣本數受限，ELEVATE TNBC 仍提供了阻斷先天免疫檢查點 CD47 合併紫杉醇或 Trop-2 ADC 在難治型三陰性乳癌的完整二期臨床安全性與反應率基準數據。\n\n■ 資料來源 (References)：\n1. Park YH, Rugo HS, Chittoria N, Sacks R, Chiu J, Murphy C, et al. Phase II study of magrolimab combination therapies in patients with advanced triple-negative breast cancer. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108600\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Phase II study of magrolimab combination therapies in patients with advanced triple-negative breast cancer.. https://doi.org/10.1016/j.esmoop.2026.108600\n\n#ESMO #三陰性乳癌 #CD47抑制劑 #Magrolimab #抗體藥物複合體 #先天免疫檢查點",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 二期臨床研究",
+          "headline": "抗 CD47 抗體聯合療法\n治療晚期三陰性乳癌患者\n一線中位無惡化達 13.9 月",
+          "subheadline": "ELEVATE TNBC 二期試驗評估 Magrolimab 合併化療或 ADC 之效益",
+          "meta_badge": "研究焦點：PD-L1 陰性與經治轉移性三陰性乳癌",
+          "footer": "資料來源：Park et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "阻斷 CD47 先天免疫檢查點\n如何強化三陰性乳癌標準治療？",
+          "points": [
+            "吞噬逃脫機制：癌細胞高表現 CD47 分子以抑制巨噬細胞等吞噬細胞之清除作用",
+            "一線化療協同：隊列一針對未治療且 PD-L1 陰性患者，評估抗 CD47 抗體合併紫杉醇類化療",
+            "後線 ADC 協同：隊列二針對經 1 至 2 線治療患者，結合 Sacituzumab govitecan 強化毒殺"
+          ],
+          "footer": "資料來源：Park et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "ELEVATE TNBC 兩大隊列\n客觀反應率與無惡化存活期表現",
+          "points": [
+            "安全導入評估：於安全性導入期（SRI）階段，兩種聯合治療方案皆未發生劑量限制性毒性",
+            "隊列一（28例）：合併紫杉醇對比單用化療，中位 PFS 為 13.9 vs 10.0 個月，ORR 為 35.7% vs 21.4%",
+            "隊列二（43例）：合併 Sacituzumab govitecan 之客觀反應率達 38.1%，中位 PFS 為 5.5 個月"
+          ],
+          "footer": "資料來源：Park et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "探索先天免疫巨噬細胞標靶\n與抗體藥物複合體之協同潛力",
+          "summary": "針對缺乏免疫檢查點抑制劑治療選擇的 PD-L1 陰性或經治晚期三陰性乳癌，ELEVATE TNBC 試驗呈現了抗 CD47 抗體合併紫杉醇（ORR 35.7%）或 Sacituzumab govitecan（ORR 38.1%）的二期數據，為後續巨噬細胞免疫調節劑的開發提供重要臨床參考。",
+          "cta": "後續觀察：新一代減低紅血球毒性之 CD47/SIRPα 阻斷劑合併 ADC 於實體腫瘤之開發策略",
+          "footer": "資料來源：Park et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}

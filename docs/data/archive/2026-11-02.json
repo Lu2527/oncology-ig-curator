@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T10:51:58.269074+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "雙特異性抗體",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1186/s13045-026-01864-w",
+      "original_title": "PD-(L)1×VEGF bispecific antibodies in solid tumors: clinical trial updates from ASCO 2026.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【ASCO 2026 臨床進展：PD-(L)1×VEGF 雙特異性抗體於晚期鱗狀非小細胞肺癌展現整體存活期優勢】\n\n根據美國臨床腫瘤學會（ASCO 2026）年會發表及刊載於《Journal of Hematology & Oncology》的最新臨床綜述，整合免疫檢查點阻斷（Immune Checkpoint Blockade）與血管內皮生長因子（VEGF）抑制功能的 PD-(L)1×VEGF 雙特異性抗體（Bispecific Antibodies, bsAbs），正成為克服血管新生相關免疫抗藥性的關鍵策略。其中，隨機對照三期臨床試驗 HARMONi-6 證實，在未曾接受治療的晚期鱗狀非小細胞肺癌（Squamous NSCLC）患者中，Ivonescimab 合併化學治療相較於 Tislelizumab（PD-1 抑制劑）合併化療，展現出具臨床意義的整體存活期（Overall Survival, OS）獲益。\n\n■ 核心作用機制與臨床發現：\n1. 雙重協同阻斷：於單一分子中同時標靶 PD-1/PD-L1 與 VEGF 路徑，重塑腫瘤微環境並解除血管異常造成的免疫抑制狀態。\n2. 頭對頭三期突破：HARMONi-6 三期試驗直接以活性 PD-1 抑制劑聯合化療作為一線對照組，證實 Ivonescimab 聯合化療能顯著延長晚期肺鱗癌患者之整體存活期。\n3. 跨世代藥物開發：包含 Pumitamig、SSGJ-707 與 HB0025 在內的多項二期臨床研究於一線 NSCLC 展現抗腫瘤活性，而 IMM2510 與 Ivonescimab 相關方案亦在免疫治療失敗後顯示潛在療效。\n\n■ 臨床轉譯與研究展望：\n除肺癌領域外，小型探索性試驗亦顯示該類雙特異性抗體於頭頸癌圍手術期、大腸直腸癌、子宮內膜癌及黏膜黑色素瘤具初步活性。未來研發將聚焦於預測性生物標記（Predictive Biomarkers）之確立、免疫抗藥機制的深度解析，以及跨癌種隨機對照試驗之長期驗證。\n\n■ 資料來源 (References)：\n1. Wang Z, Guo C, Yuan X, Guo Q, Zhang R, Chen Z. PD-(L)1×VEGF bispecific antibodies in solid tumors: clinical trial updates from ASCO 2026. Journal of hematology & oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1186/s13045-026-01864-w\n2. ASCO (美國臨床腫瘤學會) / JCO. PD-(L)1×VEGF bispecific antibodies in solid tumors: clinical trial updates from ASCO 2026.. https://doi.org/10.1186/s13045-026-01864-w\n\n#ASCO2026 #雙特異性抗體 #非小細胞肺癌 #Ivonescimab #腫瘤免疫治療 #臨床腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床三期研究更新",
+          "headline": "PD-(L)1×VEGF 雙特異性抗體\n一線治療晚期鱗狀肺癌\n整體存活期優於傳統免疫",
+          "subheadline": "HARMONi-6 三期試驗與跨實體腫瘤雙特異性抗體臨床研究綜述",
+          "meta_badge": "研究焦點：ASCO 2026 雙特異性抗體臨床試驗",
+          "footer": "資料來源：Wang et al. ASCO / Journal of hematology & oncology (2026"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "單一分子雙重標靶如何克服\n血管新生相關之免疫抗藥性？",
+          "points": [
+            "雙重路徑整合：於單一抗體分子中同時結合 PD-(L)1 免疫檢查點阻斷與 VEGF 抗血管新生抑制",
+            "微環境正常化：透過抑制 VEGF 改善腫瘤異常血管生成，促進效應 T 細胞浸潤並逆轉免疫抑制狀態",
+            "協同抗腫瘤活性：同步解除 T 細胞耗竭與血管內皮屏障，強化第一線與免疫治療後之系統性抗癌反應"
+          ],
+          "footer": "資料來源：Wang et al. ASCO / Journal of hematology & oncology (2026"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "HARMONi-6 三期試驗與\n新世代雙抗藥物展現哪些突破？",
+          "points": [
+            "整體存活優勢：Ivonescimab 合併化療一線治療晚期肺鱗癌，OS 表現優於 Tislelizumab 合併化療對照組",
+            "一線探索成果：Pumitamig、SSGJ-707 與 HB0025 於二期臨床試驗中，針對一線 NSCLC 展現正向抗腫瘤活性",
+            "後線與跨癌種：IMM2510 於先前免疫治療失敗患者顯現活性，並拓展至頭頸癌、大腸癌與黏膜黑色素瘤探索"
+          ],
+          "footer": "資料來源：Wang et al. ASCO / Journal of hematology & oncology (2026"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從單一免疫檢查點阻斷\n邁向雙重微環境協同重塑",
+          "summary": "PD-(L)1×VEGF 雙特異性抗體在晚期鱗狀非小細胞肺癌一線治療中，成功跨越了活性 PD-1 抑制劑合併化療的對照門檻，證明抗血管新生與免疫檢查點雙重抑制具備明確的存活優勢，為實體腫瘤免疫治療樹立全新基準。",
+          "cta": "後續觀察：預測性生物標記之篩選驗證與跨實體腫瘤三期試驗之長期存活數據",
+          "footer": "資料來源：Wang et al. ASCO / Journal of hematology & oncology (2026"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "肺癌病理分級",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.lungcan.2026.109673",
+      "original_title": "Association of the IASLC histologic grading system with aggressive pathologic features in invasive non-mucinous lung adenocarcinoma.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【IASLC 組織學分級系統驗證：高度預測小結節肺腺癌之淋巴結轉移與臟層胸膜侵犯】\n\n國際肺癌研究協會（IASLC / WCLC）針對侵襲性非黏液性肺腺癌（Invasive Non-Mucinous Lung Adenocarcinoma）所提出的「三階組織學分級系統」，結合了主要亞型與 ≥20% 高惡性度型態（High-Grade Pattern）閾值。發表於《Lung Cancer》的大型外科世代研究，收納了 2011 年至 2025 年間共 7,806 名未接受術前輔助治療的肺腺癌手術患者，全面驗證該分級系統在低劑量電腦斷層篩檢時代（以小型結節為主的群體）對侵襲性病理特徵的預測效力。\n\n■ 研究核心發現：\n1. 轉移風險梯度遞增：在 Grade 1（3,435 例）、Grade 2（3,875 例）與 Grade 3（496 例）患者中，淋巴結轉移率分別為 0.7%、4.9% 與 31.0%，呈現極顯著之階層差異（P < 0.001）。\n2. 胸膜侵犯顯著相關：Grade 1 至 Grade 3 之臟層胸膜侵犯（Visceral Pleural Invasion）比例分別為 2.0%、9.6% 與 33.6%；經多變項校正後，Grade 3 相較於 Grade 1 之淋巴結轉移勝算比（Adjusted OR）高達 37.48，胸膜侵犯勝算比亦達 14.10。\n3. 小型腫瘤高風險識別：即便在腫瘤直徑 ≤2 公分的次群體中，Grade 1 至 Grade 3 的淋巴結轉移率仍分別達 0.3%、2.8% 與 19.9%，證實小體積高分級腫瘤仍具高度侵襲潛能。\n\n■ 臨床轉譯與研究展望：\n本研究於近八千例大型手術世代中確認，IASLC 三階組織學分級系統能獨立於腫瘤大小之外，精準量化肺腺癌的局部侵襲與淋巴轉移風險，為早期肺癌手術範圍規劃與術後病理風險分層提供關鍵實證。\n\n■ 資料來源 (References)：\n1. Han H, Zhu Z, Gao J, Liu Y, Hu M, Qiu X, et al. Association of the IASLC histologic grading system with aggressive pathologic features in invasive non-mucinous lung adenocarcinoma. Lung cancer (Amsterdam, Netherlands) (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.lungcan.2026.109673\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Association of the IASLC histologic grading system with aggressive pathologic features in invasive non-mucinous lung adenocarcinoma.. https://doi.org/10.1016/j.lungcan.2026.109673\n\n#IASLC #WCLC #肺腺癌 #組織學分級 #淋巴結轉移 #腫瘤病理學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "IASLC 肺癌病理分級驗證",
+          "headline": "IASLC 肺腺癌三階分級系統\n精準量化小結節淋巴轉移\n高分級風險激增達 37 倍",
+          "subheadline": "7,806 例侵襲性非黏液性肺腺癌手術世代之病理侵襲特徵解析",
+          "meta_badge": "研究設計：7,806 例大型單中心外科世代研究",
+          "footer": "資料來源：Han et al. WCLC / Lung cancer (Amsterdam, Netherlands) (2"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "IASLC 三階組織學分級如何\n定義侵襲性肺腺癌惡性度？",
+          "points": [
+            "雙重判定基準：結合腫瘤主要組織學亞型與是否包含 ≥20% 高惡性度病理型態作為三階分級閾值",
+            "大型世代收案：回溯納入 7,806 名未接受術前治療之手術患者，涵蓋 Grade 1 至 Grade 3 各分級族群",
+            "多變項統計校正：針對腫瘤直徑、年齡、性別與手術年份進行邏輯迴歸校正，排除潛在干擾因子"
+          ],
+          "footer": "資料來源：Han et al. WCLC / Lung cancer (Amsterdam, Netherlands) (2"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "不同組織學分級在淋巴轉移與\n胸膜侵犯展現多大風險落差？",
+          "points": [
+            "淋巴轉移率躍升：Grade 1 至 Grade 3 淋巴結轉移率依序為 0.7%、4.9% 與 31.0%，校正後 OR 達 37.48",
+            "臟層胸膜侵犯：三階分級之胸膜侵犯率分別為 2.0%、9.6% 與 33.6%，Grade 3 校正後 OR 為 14.10",
+            "小結節次群分析：在 ≤2 公分腫瘤中，Grade 3 淋巴結轉移率仍高達 19.9%，顯著高於 Grade 1 之 0.3%"
+          ],
+          "footer": "資料來源：Han et al. WCLC / Lung cancer (Amsterdam, Netherlands) (2"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "超越單純腫瘤體積大小\n確立早期肺癌微觀風險分層",
+          "summary": "在篩檢普及帶動小型肺結節比例上升的臨床背景下，本研究證實即便腫瘤直徑小於兩公分，IASLC Grade 3 肺腺癌仍伴隨近兩成的淋巴結轉移風險，凸顯精準組織學分級對早期肺癌風險分層與治療決策的核心價值。",
+          "cta": "後續觀察：術中冷凍切片對高惡性度型態之判讀準確度與亞肺葉切除預後關聯",
+          "footer": "資料來源：Han et al. WCLC / Lung cancer (Amsterdam, Netherlands) (2"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "奈米聲波遞送",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm",
+      "original_title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【JCI 腦癌標靶遞送突破：聚焦式超音波結合奈米微泡精準遞送 microRNA 抑制膠質母細胞瘤】\n\n膠質母細胞瘤（Glioblastoma, GBM）為成人最具侵襲性的惡性腦瘤，其治療長期受限於血腦障壁（Blood-Brain Barrier, BBB）的物理阻隔，以及腫瘤內部多重致癌基因路徑的複雜代償。維吉尼亞大學癌症中心（UVA Comprehensive Cancer Center）團隊發表於《Journal of Clinical Investigation》的研究，開發出一套結合聚焦式超音波（Focused Ultrasound）、微泡（Microbubbles）與特殊奈米載體的治療策略，成功將治療性微型核糖核酸（microRNAs）遞送至腦部腫瘤並抑制小鼠腫瘤生長。\n\n■ 核心作用機制：\n1. 多重路徑基因調控：鑑定出能同步干擾多個膠質母細胞瘤失調生長路徑之特定 microRNAs，克服單一標靶無藥可用或易產生抗藥性的限制。\n2. 超音波開啟障壁：利用聚焦式超音波搭配微泡產生局部機械效應，暫時且可逆地開啟血腦障壁，突破傳統藥物無法穿透中樞神經系統的瓶頸。\n3. 奈米載體精準保護：將易降解的 microRNA 封裝於特製奈米顆粒中，確保遺傳分子穩定穿越腦血管屏障並有效進入腫瘤細胞發揮基因沉默作用。\n\n■ 臨床轉譯與研究展望：\n此項「聲波導引奈米基因療法」在小鼠模型中展現顯著的腫瘤生長抑制效果，不僅為膠質母細胞瘤提供了能同時打擊多重「不可成藥（Undruggable）」基因標靶的平台，也為其他中樞神經系統惡性腫瘤的精準核酸藥物遞送開闢新局。\n\n■ 資料來源 (References)：\n1. Saha S, Zhang Y, Gibert MK, Dube C, Hanif F, Mulcahy EQX, et al. Therapeutic delivery of microRNAs discovered to target deregulated glioblastoma pathways inhibits tumor growth in mice. Journal of Clinical Investigation. 2026. https://doi.org/10.1172/jci195639\n2. ScienceDaily Cancer News. Scientists use sound waves to deliver a new attack on deadly brain cancer. https://www.sciencedaily.com/releases/2026/10/261030003017.htm\n\n#膠質母細胞瘤 #血腦障壁 #聚焦式超音波 #microRNA #奈米載體 #神經腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "神經腫瘤奈米遞送研究",
+          "headline": "聚焦式超音波結合奈米載體\n突破血腦障壁遞送微核糖核酸\n同步阻斷膠質母細胞瘤路徑",
+          "subheadline": "JCI 發表非侵入性聲波開啟血腦障壁與多重致癌基因調控策略",
+          "meta_badge": "研究焦點：膠質母細胞瘤 (GBM) 核酸標靶遞送",
+          "footer": "資料來源：Saha et al. Journal of Clinical Investigation (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "聲波與奈米微泡技術如何\n突破血腦障壁並調控致癌基因？",
+          "points": [
+            "多標靶基因干擾：篩選出特定治療性 microRNAs，可同時抑制多個驅動膠質母細胞瘤生長的失調基因網路",
+            "聲波暫時開啟障壁：結合聚焦式超音波與微泡共振效應，於腫瘤區域暫時打開血腦障壁以利藥物穿透",
+            "奈米顆粒穩定封裝：利用特殊奈米載體包覆 microRNA 分子，防止體內降解並提升腦瘤組織之細胞攝取率"
+          ],
+          "footer": "資料來源：Saha et al. Journal of Clinical Investigation (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "該複合式遞送系統於臨床前\n動物模型中展現哪些關鍵成效？",
+          "points": [
+            "克服無藥可用標靶：成功干擾傳統小分子或單株抗體難以作用的胞內轉錄與訊號傳導分子",
+            "有效穿透腦部屏障：證實非侵入性超音波導引能顯著提升奈米包覆之遺傳分子於腦腫瘤內的局部濃度",
+            "抑制活體腫瘤生長：於膠質母細胞瘤小鼠模型中，顯著減緩腫瘤體積擴張並驗證多重路徑抑制之可行性"
+          ],
+          "footer": "資料來源：Saha et al. Journal of Clinical Investigation (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "跨越中樞神經物理屏障\n開啟腦瘤多標靶核酸治療時代",
+          "summary": "膠質母細胞瘤因高度異質性與血腦障壁阻隔，使單一標靶藥物屢屢受挫。本研究整合聚焦式超音波物理導引與奈米 microRNA 基因調控，實現了對多重致癌網路的協同打擊，展現極高的轉譯醫學潛力。",
+          "cta": "後續觀察：大型動物模型之血腦障壁開啟安全性評估與早期臨床試驗轉譯進程",
+          "footer": "資料來源：Saha et al. Journal of Clinical Investigation (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "單細胞預後模型",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
+      "original_title": "Why some “lower-risk” childhood cancers turn deadly",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【Cancer Research 兒童軟組織肉瘤突破：揭示「低風險」橫紋肌肉瘤潛藏之高侵襲性收斂細胞狀態】\n\n兒童橫紋肌肉瘤（Rhabdomyosarcoma, RMS）是 15 歲以下兒童最常見的軟組織惡性肉瘤之一。臨床上部分缺乏典型高風險基因突變、被歸類為「較低風險」的病童，仍會出現預期外的快速惡化與致命轉歸。由英國威康桑格研究所（Wellcome Sanger Institute）、劍橋大學與大奧蒙德街醫院（GOSH）等團隊發表於《Cancer Research》的研究，透過高解析度細胞狀態剖析，揭開了潛藏於低風險腫瘤中的致命細胞亞群。\n\n■ 研究核心發現：\n1. 隱匿高風險亞群：在傳統臨床與基因分類判定為「較低風險」的橫紋肌肉瘤檢體中，鑑定出潛藏的少數高侵襲性癌細胞群體。\n2. 收斂性細胞狀態：高風險橫紋肌肉瘤表現出特定的「收斂性細胞狀態（Convergent Cell State）」，不同遺傳背景的腫瘤皆可能演化至此一高惡性度表型。\n3. 解釋臨床預後落差：此隱匿細胞狀態的存在，成功解釋了為何部分未帶常規高危遺傳標記的兒童患者，仍會對標準治療產生抗性並發生致命復發。\n\n■ 臨床轉譯與研究展望：\n這項發現突破了傳統僅依賴單一基因突變進行風險分層的盲點。透過在診斷初期檢測腫瘤是否含有此類「收斂性高危細胞狀態」，未來將能更精準識別真正的高風險病童以強化精準治療，同時讓真正低風險的兒童免於非必要的密集化學治療毒性。\n\n■ 資料來源 (References)：\n1. Whitfield HJ, Anderson ND, Burke C, Groot Koerkamp MJ, Parks C, Ogbonnah T, et al. High-Risk Rhabdomyosarcomas Feature a Convergent Cell State. Cancer Research. 2026. https://doi.org/10.1158/0008-5472.can-25-4403\n2. ScienceDaily Cancer News. Why some “lower-risk” childhood cancers turn deadly. https://www.sciencedaily.com/releases/2026/10/261028232717.htm\n\n#橫紋肌肉瘤 #兒童腫瘤學 #細胞狀態演化 #腫瘤異質性 #精準風險分層 #CancerResearch",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "腫瘤異質性與演化研究",
+          "headline": "破解低風險兒童橫紋肌肉瘤\n預期外惡化之分子謎團\n鑑定隱匿高危收斂細胞狀態",
+          "subheadline": "威康桑格研究所與劍橋大學團隊揭示軟組織肉瘤之隱藏侵襲亞群",
+          "meta_badge": "研究焦點：兒童橫紋肌肉瘤 (RMS) 細胞狀態分層",
+          "footer": "資料來源：Whitfield et al. Cancer Research (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "為何缺乏傳統高危基因突變的\n兒童軟組織肉瘤仍會致命惡化？",
+          "points": [
+            "突破基因分層盲點：傳統風險分類依賴特定基因融合或突變，難以偵測腫瘤內部的表型異質性與可塑性",
+            "收斂性細胞狀態：不同遺傳背景的肉瘤細胞可演化並匯聚至共同的高侵襲性「收斂細胞狀態」",
+            "隱匿亞群驅動復發：低風險腫瘤中潛藏的少量高惡性度細胞亞群，成為日後治療失敗與疾病惡化的根源"
+          ],
+          "footer": "資料來源：Whitfield et al. Cancer Research (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "高解析度細胞圖譜如何重塑\n兒童橫紋肌肉瘤的臨床風險評估？",
+          "points": [
+            "跨機構聯合剖析：整合威康桑格研究所、劍橋大學與 GOSH 臨床檢體，系統性描繪肉瘤細胞狀態圖譜",
+            "早期識別致命表型：證實即使在診斷初期缺乏常規遺傳警訊，特定細胞狀態標記即可預示不良臨床轉歸",
+            "雙向精準治療導引：協助篩選出需強化治療之隱匿高危患者，並支持真低危群體進行化療降階以減少長期毒性"
+          ],
+          "footer": "資料來源：Whitfield et al. Cancer Research (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從靜態基因突變分型\n邁向動態細胞狀態精準風險評估",
+          "summary": "本研究揭示了兒童橫紋肌肉瘤中跨越遺傳分型的「收斂性高危細胞狀態」，解釋了臨床上低風險患者意外惡化的長期難題，為兒科腫瘤學建立結合基因體與細胞轉錄狀態的次世代預後分層標準。",
+          "cta": "後續觀察：收斂性細胞狀態生物標記於前瞻性臨床試驗中之風險分層與治療降階驗證",
+          "footer": "資料來源：Whitfield et al. Cancer Research (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "消化道腫瘤學",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWp1ckhpNzNfZnB4MEs4anhWbXIzbXhNQklzTDVreEVWbWVEVU1JYnpQQ3UteklhbjFtNWJiUjJuYXhRYW9TOTRCOXdQVDlueVI1S0wyTGZUTjFxa0xjZ0NQYzJ5dEVtUERrQW9EUmZyMmZKVVZQQVdaVjN1bHFXR184VUdxd0V3NXdxWDZtWUdWREg0aEp5MldNVmp2amsxSmc4YmtVeUg?oc=5",
+      "original_title": "Recapping GI Cancer at ESMO 2026: Standout Data From Phase 1 to Phase 3 - CancerNetwork",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO 2026 消化道腫瘤臨床回顧：從一期新藥探索至三期樞紐試驗之跨期別數據盤點】\n\n歐洲腫瘤內科學會（ESMO 2026）年會公布了多項消化道惡性腫瘤（Gastrointestinal Cancers, GI Cancers）的重要臨床研究更新。涵蓋從第一期（Phase 1）早期劑量遞增與新穎標靶概念驗證，到第三期（Phase 3）改變臨床實踐之大型隨機對照試驗，展現消化道腫瘤在精準醫療與免疫聯合策略上的全方位推進。\n\n■ 研究核心發現：\n1. 早期臨床新藥突破：Phase 1 試驗聚焦於新型分子標靶與次世代免疫調節劑於難治型消化道腫瘤的安全性與初步客觀緩解表現。\n2. 二期訊號精準驗證：透過生物標記導引（Biomarker-Driven）之二期試驗設計，篩選具特定分子變異之胃食道癌、大腸直腸癌與胰膽道癌受試群體。\n3. 三期樞紐試驗確立：多項大型三期臨床試驗數據更新，針對晚期或圍手術期消化道腫瘤之無惡化存活期（PFS）與整體存活期（OS）提供高證據等級實證。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 消化道腫瘤專場呈現了從基礎轉譯邁向臨床標準治療的完整證據鏈，未來將持續透過分子分型細分化，推進各期別消化道癌症之個體化治療策略。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Recapping GI Cancer at ESMO 2026: Standout Data From Phase 1 to Phase 3 - CancerNetwork. https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdWp1ckhpNzNfZnB4MEs4anhWbXIzbXhNQklzTDVreEVWbWVEVU1JYnpQQ3UteklhbjFtNWJiUjJuYXhRYW9TOTRCOXdQVDlueVI1S0wyTGZUTjFxa0xjZ0NQYzJ5dEVtUERrQW9EUmZyMmZKVVZQQVdaVjN1bHFXR184VUdxd0V3NXdxWDZtWUdWREg0aEp5MldNVmp2amsxSmc4YmtVeUg?oc=5\n\n#ESMO2026 #消化道腫瘤 #大腸直腸癌 #胃食道癌 #臨床試驗 #腫瘤內科學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 消化道腫瘤研究更新",
+          "headline": "ESMO 2026 消化道癌症盤點\n涵蓋一期新藥至三期樞紐試驗\n全面推進精準標靶與免疫治療",
+          "subheadline": "從早期概念驗證至三期隨機對照試驗之跨期別臨床數據解析",
+          "meta_badge": "研究焦點：ESMO 2026 消化道腫瘤 (GI Cancer)",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研發策略",
+          "headline": "當代消化道腫瘤臨床研發\n如何串聯早期探索與樞紐驗證？",
+          "points": [
+            "一期新穎機制探索：針對難治型消化道實體腫瘤，導入新型標靶分子與抗體藥物進行安全性與活性驗證",
+            "生物標記精準分群：依據特定分子表現型與基因變異，於早期試驗即鎖定最可能獲益之消化道癌症次群體",
+            "三期隨機對照設計：以現行標準療法為基礎，驗證新型聯合方案於一線或後線治療之存活獲益"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "會議焦點",
+          "headline": "ESMO 2026 消化道癌症領域\n聚焦哪些跨期別核心臨床指標？",
+          "points": [
+            "早期反應率評估：Phase 1/2 試驗重點剖析高選擇性標靶藥物於經多線治療患者之客觀緩解率與疾病控制率",
+            "晚期一線標準重塑：Phase 3 試驗聚焦於延長轉移性消化道腫瘤患者之無惡化存活期與整體存活期",
+            "多癌種整合推進：同步涵蓋上消化道、大腸直腸與肝膽胰腫瘤之系統性治療與多專科整合模式更新"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "串聯一期至三期臨床證據鏈\n加速消化道腫瘤精準醫療落地",
+          "summary": "ESMO 2026 公布的消化道癌症數據展現了緊密的臨床轉譯節奏，從一期試驗的創新靶點驗證到三期試驗的存活期突破，持續改寫各部位消化道惡性腫瘤的臨床治療指引與用藥序列。",
+          "cta": "後續觀察：各別三期試驗之次族群生物標記分析與長期整體存活期追蹤結果",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}

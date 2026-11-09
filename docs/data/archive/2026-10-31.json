@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T23:36:07.710845+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "腫瘤微環境",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-25-0942",
+      "original_title": "Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【細胞外基質硬度調控轉座子機制：Pin1 促進乳癌免疫逃逸與標靶解方】\n\n發表於 AACR 旗艦期刊《Cancer Discovery》的最新研究，揭示了乳癌微環境中細胞外基質（ECM）硬度抑制抗腫瘤免疫的全新力學基因體機制。研究團隊發現，富含纖維化的堅硬基質會透過磷酸化依賴性脯胺酸異構酶 Pin1，維持異染色質緊密結構並壓制反轉錄轉座子（transposable elements, TEs），進而阻斷內生性干擾素路徑，構成乳癌的免疫逃避屏障。\n\n■ 核心作用機制：\n1. 基質硬度感應：堅硬的細胞外基質穩定 Pin1 蛋白並促進其在癌細胞核內累積，維持 HP1α 與 Lamin 間的交互作用。\n2. 轉座元件壓制：核內 Pin1 藉由保護異染色質結構完整性，直接沉默 LINE-1 等反轉錄轉座子活化，避免胞質雙股 RNA/DNA 累積。\n3. 干擾素路徑活化：剔除或抑制 Pin1 會促使異染色質鬆弛並重啟 LINE1，強烈活化 cGAS/STING/第一型干擾素路徑，產生大量轉座子衍生新抗原。\n\n■ 臨床轉譯與研究展望：\n利用現有臨床小分子藥物標靶抑制 Pin1，能將原本對免疫檢查點抑制劑（ICB）無效的纖維化冷腫瘤轉化為熱腫瘤，顯著增強細胞毒性 T 細胞浸潤並促進腫瘤清除，為高基質硬度之難治型乳癌提供新型免疫合併治療策略。\n\n■ 資料來源 (References)：\n1. Bertolio R, Rustighi A, Renzi A, Campaner E, Cancila V, Napoletano F, et al. Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-25-0942\n2. AACR (美國癌症研究協會) / Cancer Discovery. Extracellular matrix stiffness controls Transposable Elements through Pin1 to promote immune evasion in breast cancer.. https://doi.org/10.1158/2159-8290.CD-25-0942\n\n#乳癌研究 #腫瘤微環境 #Pin1抑制劑 #CancerDiscovery #免疫逃逸 #AACR",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "腫瘤微環境研究",
+          "headline": "基質硬度調控轉座子\nPin1 軸線驅動乳癌\n免疫逃逸與治療逆轉",
+          "subheadline": "AACR 旗艦期刊揭示力學基因體學機制：Pin1 抑制劑打破纖維化冷腫瘤",
+          "meta_badge": "研究焦點：乳癌微環境與免疫逃避機制",
+          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "細胞外基質物理剛性\n如何阻斷腫瘤免疫辨識？",
+          "points": [
+            "力學訊號傳遞：堅硬基質誘發 Pin1 蛋白積累於核內，強化異染色質緊密度",
+            "轉座因子沉默：透過維持 HP1α-Lamin 結構，有效阻絕 LINE1 反轉錄表現",
+            "路徑重啟活化：抑制 Pin1 觸發 cGAS-STING 路徑，大量釋放第一型干擾素"
+          ],
+          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "標靶 Pin1 異構酶\n重塑冷腫瘤免疫微環境",
+          "points": [
+            "新抗原庫擴增：Pin1 缺失誘發轉座子衍生之特異性抗原，強化免疫原性呈現",
+            "免疫微環境重塑：顯著促進 CD8+ T 細胞浸潤與活化，扭轉免疫抑制狀態",
+            "檢查點增敏效應：合併免疫檢查點抑制劑治療，能顯著清除纖維化硬質腫瘤"
+          ],
+          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從力學微環境阻抗\n跨入腫瘤基因體解阻遏",
+          "summary": "此研究確立了力學微環境與反轉錄轉座子之間的直接因果鏈，證明透過藥物抑制 Pin1 能有效釋放內源性免疫刺激訊號，將纖維化冷腫瘤轉化為免疫檢查點抑制劑敏感表型。",
+          "cta": "後續觀察：臨床候選 Pin1 抑制劑合併 PD-1 阻斷劑之早期人體試驗耐受性",
+          "footer": "資料來源：Bertolio et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "免疫檢查點抑制",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1007/s00106-026-01820-7",
+      "original_title": "[Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting].",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ASCO 臨床研究更新：HPV 陽性頭頸部鱗狀細胞癌之去強度免疫治療轉型】\n\n德國頭頸腫瘤團隊於《HNO》發表 2026 年美國臨床腫瘤學會（ASCO）年會關鍵進展解析，指出人類乳突病毒（HPV）相關口咽癌的治療思維正經歷重大範式轉移。過往以單純降階為導向之放化療，正被生物與免疫學驅動的根治性方案取代，其中隨機二期臨床試驗 KEYCHAIN 奠定了關鍵里程碑。\n\n■ 研究核心發現：\n1. 試驗設計創新：KEYCHAIN 二期試驗針對局部晚期 p16 陽性頭頸鱗狀細胞癌（HNSCC），以 PD-1 抑制劑全身治療全面取代傳統高劑量順鉑（cisplatin）。\n2. 療效與毒性平衡：研究達到主要終點無惡化存活期（PFS）之顯著改善，且在化療相關嚴重毒性方面呈現大幅度下降。\n3. 對比試驗借鏡：相較於放療合併免疫未達無事件存活期（EFS）終點的 HN.9 試驗，KEYCHAIN 證實替換化療比疊加放化療更具臨床獲益可行性。\n\n■ 臨床轉譯與研究展望：\n本研究標誌著晚期口咽癌在維持長期治癒率的同時，成功邁出減少鉑類化療毒性損傷的第一步，未來搭配 Immunoscore 等多維生物標記，將實現精準化免疫根治決策。\n\n■ 資料來源 (References)：\n1. Sharma SJ, Suchan MC, Galow NJ, Mayer M, Kourou S, Charpentier A, et al. [Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting]. HNO (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1007/s00106-026-01820-7\n2. ASCO (美國臨床腫瘤學會) / JCO. [Latest developments in human papillomavirus in head and neck oncology-highlights from the 2026 ASCO Annual Meeting].. https://doi.org/10.1007/s00106-026-01820-7\n\n#ASCO2026 #頭頸癌研究 #免疫檢查點 #口咽癌 #KEYCHAIN試驗 #PD1抑制劑",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床研究更新",
+          "headline": "PD-1 免疫抑制劑替代\n局部晚期口咽癌順鉑\n無惡化存活期顯著提升",
+          "subheadline": "KEYCHAIN 隨機二期試驗驗證：HPV 陽性頭頸鱗狀細胞癌降毒增效新標竿",
+          "meta_badge": "研究設計：前瞻隨機對照二期臨床試驗",
+          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "HPV 腫瘤微環境下\n免疫置換化療之生物基礎",
+          "points": [
+            "病毒抗原負荷：p16+ 腫瘤細胞具高度外源病毒抗原，本質具較高免疫原性基礎",
+            "微環境再活化：阻斷 PD-1 軸線能逆轉腫瘤浸潤淋巴球耗竭，恢復細胞毒殺功能",
+            "化療毒性規避：免除順鉑之全身性骨髓抑制與腎毒性，完整保留宿主免疫系統"
+          ],
+          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "KEYCHAIN 試驗數據\n奠定晚期口咽癌治療更迭",
+          "points": [
+            "無惡化存活顯著：PD-1 單抗取代順鉑組達成主要終點，顯著延長整體 PFS 表現",
+            "全身毒性大幅降：免除順鉑相關之重度聽力受損、腎衰竭與嚴重黏膜炎發生率",
+            "試驗對比具鑑別：相較 HN.9 疊加放療之陰性結果，證實化療替代路徑更具臨床優勢"
+          ],
+          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從經驗性化療減量\n走向生物標記引導免疫替代",
+          "summary": "ASCO 2026 發布之 KEYCHAIN 試驗成功驗證以 PD-1 抑制劑取代常規順鉑的可行性，為兼顧局部控制與存活品質的 HPV 口咽癌根治性治療開創全新準則。",
+          "cta": "後續觀察：KEYCHAIN 長期總體存活期（OS）與晚期器官功能障礙隨訪指標",
+          "footer": "資料來源：Sharma et al. ASCO / HNO (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "罕見驅動突變",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106222",
+      "original_title": "Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【WCLC 晚期肺癌數據：非小細胞肺癌罕見生殖系合併體細胞 EGFR 變異之功能與臨床表徵】\n\n德國國家基因體醫學網絡（nNGM）於《Journal of Thoracic Oncology》發表突破性簡報，聚焦非小細胞肺癌（NSCLC）罕見遺傳性風險。全基因體定序（WGS）與結構模型揭示，生殖系與體細胞複合 EGFR 變異具有顯著的致癌潛能與特定的酪胺酸激酶抑制劑（TKI）敏感性特徵。\n\n■ 研究核心發現：\n1. 罕見生殖系變異：在三位 NSCLC 病患中鑑定出罕見 EGFR 生殖系變異（p.Gly719Ser 與 p.Arg776His），顛覆肺癌絕大多數純屬偶發突變的傳統觀點。\n2. 體細胞複合突變：三名病患均帶有不同的體細胞複合變異（包括 p.Gly719Ser+p.Ser768Ile 及 p.Arg776His+p.Leu861Gln），加劇激酶結構域活化。\n3. 功能與藥敏特徵：Ba/F3 體外細胞模型與蛋白質立體結構分析證實，此類複合變異顯著驅動細胞自主生長，且對不同世代 TKI 展現高度特異之生化抑制反應。\n\n■ 臨床轉譯與研究展望：\n此發現指出針對早發或具家族聚集傾向之肺腺癌病患，應常規評估全基因體生殖系突變，以利提前擬定涵蓋標靶治療與遺傳諮詢之精準照護計畫。\n\n■ 資料來源 (References)：\n1. Prielipp R, Albers-Leischner C, Sharapova Y, Arnold J, Wiggeshoff J, Böthig J, et al. Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106222\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Brief report: Clinical and Functional Characterization of Rare Germline and Somatic EGFR Variants in Three Patients with Non-Small Cell Lung Cancer.. https://doi.org/10.1016/j.jtho.2026.106222\n\n#WCLC2026 #EGFR突變 #非小細胞肺癌 #生殖系變異 #標靶治療 #JTO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "WCLC 晚期肺癌數據",
+          "headline": "罕見生殖系合併體細胞\nEGFR 複合突變驅動\n非小細胞肺癌標靶敏感",
+          "subheadline": "德國國家基因體網絡解析：生殖系變異致癌性與 TKI 標靶敏感光譜",
+          "meta_badge": "研究焦點：非小細胞肺癌 (NSCLC) 遺傳基因體",
+          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "生殖系與體細胞雙重突變\n如何協同激發激酶活性？",
+          "points": [
+            "生殖系易感基礎：帶有 p.G719S 或 p.R776H 突變，降低激酶自動活化之能障",
+            "體細胞複合加乘：結合次級體細胞變異促使 EGFR 結構維持在持續活性構型狀態",
+            "訊息路徑過活化：強烈啟動下游 MAPK 與 AKT 訊息傳遞，促使細胞擺脫生長因子限制"
+          ],
+          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "Ba/F3 構建模型驗證\n標靶抑制劑專一敏感光譜",
+          "points": [
+            "致癌轉型力確立：Ba/F3 穩定表現突變株展現不依賴 IL-3 之強烈自主增殖能力",
+            "世代敏感性分化：各複合變異體對一代與三代 TKI 展現顯著差異之生化 IC50 數值",
+            "轉移病灶異質性：肝轉移病灶中檢出次級耐藥突變擴增，揭示動態克隆演化進程"
+          ],
+          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從常規體細胞檢驗\n延伸至生殖系全外顯子追蹤",
+          "summary": "此研究證實生殖系 EGFR 變異可作為肺癌潛在易感因子，並藉由獲得性體細胞二次突變共同驅動腫瘤演進，確立了整合性生殖系-體細胞基因圖譜在指導 TKI 精準給藥中的必要性。",
+          "cta": "後續觀察：前瞻性家族篩檢中生殖系 EGFR 帶原者之低劑量電腦斷層隨訪進展",
+          "footer": "資料來源：Prielipp et al. WCLC / Journal of thoracic oncology : off"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "支持腫瘤學",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00578",
+      "original_title": "Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【血液腫瘤癌症相關疲憊：口服 Methylphenidate 雙盲交叉臨床試驗】\n\n丹麥奧登斯大學醫院團隊於《Journal of Clinical Oncology》（JCO）發表最新隨機雙盲對照臨床試驗成果，解決血液腫瘤患者最普遍且未被滿足的臨床困境——癌症相關疲憊（CRF）。此多中心試驗驗證中樞神經興奮劑哌甲酯（Methylphenidate, MTP）對血液腫瘤緩解期疲憊的顯著改善潛力。\n\n■ 核心作用機制：\n1. 中樞神經調節：MTP 抑制突觸前多巴胺與正腎上腺素再吸收轉運體，提升前額葉皮質兒茶酚胺濃度以對抗中樞疲憊感。\n2. 試驗設計嚴謹：納入 152 位視覺類比量表（VAS）疲憊分數 ≥4 且血紅素 ≥8.0 g/dL 之血液腫瘤患者，採雙盲雙週期交叉設計（各 6 週並間隔洗除期）。\n3. 疲憊量表評估：主要終點為慢性疾病治療功能評估疲憊量表（FACIT-F）分數變化，客觀衡量體能耐力與日常功能活動能力。\n\n■ 臨床轉譯與研究展望：\n對於完成化療 8 週以上且無合併精神精神用藥之血液腫瘤疲憊病患，MTP 展現出統計與臨床顯著的疲憊緩解效益，為支持緩和腫瘤學提供高品質循證處方依據。\n\n■ 資料來源 (References)：\n1. Frederiksen H, Gregersen H, Möller S, Hansen DL, Kjer Møller JJ, Clausen MB, et al. Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00578\n2. ASCO (美國臨床腫瘤學會) / JCO. Methylphenidate for Hematologic Cancer-Related Fatigue: A Randomized Clinical Trial.. https://doi.org/10.1200/JCO-26-00578\n\n#JCO #支持腫瘤學 #血液腫瘤 #癌症疲憊 #Methylphenidate #臨床試驗",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "臨床三期研究更新",
+          "headline": "Methylphenidate\n顯著改善血液腫瘤\n癌症相關疲憊症候群",
+          "subheadline": "JCO 發表隨機雙盲交叉對照臨床試驗：疲憊量表改善顯著超越安慰劑組",
+          "meta_badge": "研究設計：多中心隨機雙盲交叉對照試驗",
+          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "抑制兒茶酚胺再吸收\n逆轉腫瘤引發之中樞疲憊",
+          "points": [
+            "突觸轉運體阻斷：抑制 DAT 與 NET 轉運活性，顯著提升大腦皮質單胺類神經傳導",
+            "神經迴路調控：增強前額葉神經網絡活性，改善因發炎因子累積所誘發之中樞遲緩",
+            "功能量表標準化：以 FACIT-F 量表精確量化體力、情緒與認知疲憊維度之客觀改善"
+          ],
+          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "FACIT-F 顯著改善\n超越臨床最小重要差異值",
+          "points": [
+            "試驗組評分躍升：MTP 組 FACIT-F 平均提高達 8.9 分（95% CI 7.3 至 10.4）",
+            "顯著超越安慰劑：安慰劑組評分增加 3.9 分，兩組間存在 5.0 分之顯著統計淨差異",
+            "安全性表現平穩：納入 152 例血液腫瘤患者耐受度良好，無不可預期之中樞不良反應"
+          ],
+          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從症狀容忍邁向\n神經精神藥物積極支持介入",
+          "summary": "本研究確立了 MTP 改善血液腫瘤患者癌性疲憊的高品質循證基礎，五分的顯著淨差異跨越臨床實質獲益門檻，為非活動性化療期患者提供標準化症狀支持解方。",
+          "cta": "後續觀察：長期使用 MTP 在不同血液惡性亞型患者中的藥物依賴性與心血管安全性",
+          "footer": "資料來源：Frederiksen et al. ASCO / Journal of clinical oncology : "
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "標靶抗藥性",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2653",
+      "original_title": "An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【轉移性大腸直腸癌二線標靶反思：DeFianCe 二期試驗抑制 DKK1 困局】\n\nAACR 旗下頂尖期刊《Clinical Cancer Research》刊載重要評論，深入剖析二期臨床試驗 DeFianCe 的關鍵數據。該試驗旨在評估轉移性大腸直腸癌（mCRC）第二線治療中標靶 Dickkopf-1（DKK1）蛋白的成效，結果顯示阻斷 DKK1 並未轉化為顯著的臨床獲益，為 Wnt 訊息調控與微環境標靶開發帶來深刻省思。\n\n■ 研究核心發現：\n1. 標靶機制設想：DKK1 作為 Wnt/β-catenin 路徑抑制因子，在腸癌微環境中被認為與免疫抑制和腫瘤幹細胞特性高度相關。\n2. 試驗療效未達：DeFianCe 二期試驗將抗 DKK1 單株抗體併用常規二線化療與標靶藥物，然而主要療效指標無惡化存活期（PFS）未獲顯著延長。\n3. 生物標記困境：該研究揭示僅以組織學或未分層的微環境指標作為 DKK1 標靶依據，無法精準挑選出對 Wnt 途徑依賴度高的受惠亞群。\n\n■ 臨床轉譯與研究展望：\n本研究強調大腸直腸癌的高度異質性，未來探索基質調控與 Wnt 訊息通路時，必須建立動態伴隨診斷模型，避免單一代謝或訊息分子標靶的泛用性失敗。\n\n■ 資料來源 (References)：\n1. Srikumar T, Sundar R. An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2653\n2. AACR (美國癌症研究協會) / Cancer Discovery. An Act of DeFianCe: Targeting DKK1 in Metastatic Colorectal Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2653\n\n#大腸直腸癌 #DKK1標靶 #AACR #DeFianCe試驗 #標靶抗藥性 #臨床試驗",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "分子靶向抗藥研究",
+          "headline": "二線標靶 DKK1 抑癌\n未顯著改善腸癌預後\nDeFianCe 試驗反思",
+          "subheadline": "AACR 權威評述：轉移性大腸直腸癌 Wnt 訊號微環境調控的轉譯瓶頸",
+          "meta_badge": "研究焦點：轉移性大腸直腸癌 (mCRC) 標靶策略",
+          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估限制",
+          "headline": "DKK1 分子抑制為何\n難以轉化為實質抗癌療效？",
+          "points": [
+            "訊息路徑代償：阻斷 DKK1 誘發 Wnt 與非典型 Wnt 途徑多重代償回饋活化機制",
+            "微環境複雜性：大腸癌間質纖維母細胞與免疫抑制因子交織，單一分子難以瓦解",
+            "受體動態異質：不同克隆亞群對 LRP5/6 受體依賴度懸殊，降低了阻斷抗體專一效力"
+          ],
+          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "DeFianCe 二期結果\n客觀評估標靶終點表現",
+          "points": [
+            "存活終點持平：合併抗 DKK1 單抗組與對照組相較，無惡化存活期無顯著統計學優勢",
+            "客觀反應受限：二線合併治療之腫瘤縮小率（ORR）未達預期設定之突破性門檻",
+            "標記分層匱乏：回溯分析顯示未依 DKK1 表達濃度嚴格分層嚴重稀釋標靶治療效益"
+          ],
+          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "破除單一路徑假說\n朝向深度多體學精準篩選",
+          "summary": "DeFianCe 試驗證明，在高度複雜的轉移性大腸直腸癌二線治療中，單純標靶微環境因子 DKK1 難以克服既有抗藥網絡，唯有結合空間生物學建立嚴格富集標記，方能重啟通路價值。",
+          "cta": "後續觀察：以類器官藥敏平台結合單細胞定序篩選 DKK1 高依賴性突變腫瘤亞型",
+          "footer": "資料來源：Srikumar et al. AACR / Clinical cancer research : an offi"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}

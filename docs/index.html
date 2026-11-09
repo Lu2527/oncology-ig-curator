@@ -33,6 +33,16 @@
         </p>
       </div>
       <div class="flex flex-wrap items-center gap-2.5">
+        <select id="archiveDateSelect" onchange="loadArchiveDate(this.value)" title="切換瀏覽過去日期的 5 則貼文" class="px-3 py-2 rounded-xl border border-[var(--border)] bg-[var(--secondary)] text-[var(--secondary-foreground)] text-xs font-medium">
+          <option value="">📅 今日</option>
+        </select>
+        <a href="./newsletter/" class="px-3.5 py-2 rounded-xl border border-amber-500/40 bg-amber-500/10 text-amber-300 text-xs font-semibold hover:bg-amber-500/20 transition flex items-center gap-1.5">
+          <span>📰 週報</span>
+          <span id="weeklyPickBadge" class="px-2 py-0.5 rounded-full bg-black/25 text-xs" title="本週已加入、尚未發刊的篇數">⭐ 0</span>
+        </a>
+        <button onclick="toggleGhModal()" class="px-3.5 py-2 rounded-xl border border-[var(--border)] bg-[var(--secondary)] text-[var(--secondary-foreground)] text-xs font-medium hover:opacity-90 transition">
+          🔑 週報 GitHub 設定
+        </button>
         <button onclick="toggleApiModal()" class="px-3.5 py-2 rounded-xl border border-[var(--border)] bg-[var(--secondary)] text-[var(--secondary-foreground)] text-xs font-medium hover:opacity-90 transition">
           ⚙️ IG API 帳號設定
         </button>
@@ -171,6 +181,39 @@
         <div class="flex justify-end gap-2 pt-2">
           <button onclick="toggleApiModal()" class="px-4 py-2 rounded-xl border border-[var(--border)] text-xs">關閉</button>
           <button onclick="saveApiConfig()" class="px-4 py-2 rounded-xl bg-teal-600 text-white text-xs font-semibold">儲存設定</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Weekly Newsletter GitHub Token Modal -->
+    <div id="ghModal" class="hidden fixed inset-0 z-50 bg-black/70 flex items-center justify-center p-4">
+      <div class="bg-[var(--card)] border border-[var(--border)] rounded-2xl max-w-lg w-full p-6 space-y-4 shadow-xl">
+        <div class="flex items-center justify-between">
+          <h3 class="text-base font-bold">🔑 週報挑選紀錄：GitHub 寫入設定</h3>
+          <button onclick="toggleGhModal()" class="text-sm text-[var(--muted-foreground)] hover:text-[var(--foreground)]">✕</button>
+        </div>
+        <p class="text-xs text-[var(--muted-foreground)] leading-relaxed">
+          按下「⭐ 加入本週週報」時，網頁會透過 GitHub API 把該篇貼文寫入儲存庫的 <code>docs/data/weekly_picks.json</code>，
+          每週日的週報排程再依此產生深度臨床分析。請建立一組 <strong>Fine-grained personal access token</strong>：
+          Repository access 只勾選本專案、Permissions → <strong>Contents: Read and write</strong>。
+          Token 只會存在這台裝置的瀏覽器 localStorage，不會上傳。
+        </p>
+        <div class="space-y-3">
+          <div>
+            <label class="block text-xs font-semibold mb-1">儲存庫（owner/repo）</label>
+            <input id="ghRepoInput" type="text" placeholder="Lu2527/oncology-ig-curator" class="w-full rounded-xl border border-[var(--border)] bg-[var(--background)] px-3 py-2 text-xs" />
+          </div>
+          <div>
+            <label class="block text-xs font-semibold mb-1">Fine-grained Personal Access Token</label>
+            <input id="ghTokenInput" type="password" placeholder="github_pat_..." class="w-full rounded-xl border border-[var(--border)] bg-[var(--background)] px-3 py-2 text-xs" />
+          </div>
+        </div>
+        <div class="flex justify-between items-center gap-2 pt-2">
+          <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" class="text-xs text-blue-400 hover:underline">建立 Token ↗</a>
+          <div class="flex gap-2">
+            <button onclick="toggleGhModal()" class="px-4 py-2 rounded-xl border border-[var(--border)] text-xs">關閉</button>
+            <button onclick="saveGhConfig()" class="px-4 py-2 rounded-xl bg-teal-600 text-white text-xs font-semibold">儲存並測試</button>
+          </div>
         </div>
       </div>
     </div>
@@ -493,6 +536,7 @@
               <div class="flex flex-wrap items-center gap-2">
                 <span class="px-2 py-0.5 rounded-md text-xs font-semibold text-white" style="background:${post.theme_color}">${post.category}</span>
                 <span class="px-2 py-0.5 rounded-md text-xs border ${statusColor}">${post.status}</span>
+                ${pickBadgeHtml(post)}
                 <span class="text-xs text-[var(--muted-foreground)] truncate">${post.source_name}</span>
               </div>
               <div class="font-bold text-sm mt-1 truncate">${post.slides[0].headline.replace(/\n/g, ' ')}</div>
@@ -966,6 +1010,10 @@
     }
 
     async function executePublish(postsToPublish) {
+      if (LATEST_DATE && DAILY_DATA.date !== LATEST_DATE) {
+        showToast("⚠️ 目前瀏覽的是歷史存檔，GitHub Pages 上的 PNG 圖卡已被今日內容覆蓋，無法直接發布。請切回「今日」，或先下載圖卡再手動發布。", "warn");
+        return;
+      }
       if (!igConfig.igUserId || !igConfig.accessToken) {
         postsToPublish.forEach(p => p.status = "已發布");
         renderPostList();
@@ -1076,6 +1124,7 @@
                 <p class="text-xs text-[var(--muted-foreground)] italic">Original Title: ${escapeHtml(post.original_title)}</p>
               </div>
               <div class="flex flex-wrap gap-2">
+                ${pickButtonHtml(post, pIdx)}
                 <button onclick="openInEditor(${pIdx})" class="px-3 py-2 rounded-xl border border-[var(--border)] bg-[var(--secondary)] text-xs font-semibold hover:opacity-90 transition">
                   ✏️ 微調本篇圖卡與文字
                 </button>
@@ -1159,7 +1208,213 @@
       showToast(`📦 正在依序下載「${post.category}」全部 4 張 1080×1350 PNG 圖卡...`, "info");
     }
 
+    // =====================================================================
+    // ⭐ 每週週報挑選（寫入 GitHub repo 的 docs/data/weekly_picks.json）
+    // =====================================================================
+    const PICKS_PATH = "docs/data/weekly_picks.json";
+    let LATEST_DATE = null;          // 最新一天（今日）的日期
+    let PICKS = [];                  // weekly_picks.json 的 picks 陣列
+    let ghConfig = { repo: "", token: "" };
+
+    function defaultRepo() {
+      const host = window.location.hostname;           // e.g. lu2527.github.io
+      const seg = window.location.pathname.split("/").filter(Boolean)[0];
+      if (host.endsWith(".github.io") && seg) return `${host.split(".")[0]}/${seg}`;
+      return "Lu2527/oncology-ig-curator";
+    }
+
+    function pickKey(date, postId) { return `${date}/${postId}`; }
+    function findPick(post) { return PICKS.find(p => p.date === DAILY_DATA.date && p.post_id === post.id); }
+    function pendingPickCount() { return PICKS.filter(p => !p.issue).length; }
+
+    function updatePickBadge() {
+      const el = document.getElementById("weeklyPickBadge");
+      if (el) el.textContent = `⭐ ${pendingPickCount()}`;
+    }
+
+    function pickBadgeHtml(post) {
+      const pk = findPick(post);
+      if (!pk) return "";
+      return pk.issue
+        ? `<span class="px-2 py-0.5 rounded-md text-xs border border-slate-500/40 text-slate-300">📰 已收錄 ${escapeHtml(pk.issue)} 週報</span>`
+        : `<span class="px-2 py-0.5 rounded-md text-xs border border-amber-500/40 bg-amber-500/15 text-amber-300">⭐ 本週週報</span>`;
+    }
+
+    function pickButtonHtml(post, pIdx) {
+      const pk = findPick(post);
+      if (pk && pk.issue) {
+        return `<span class="px-3 py-2 rounded-xl border border-slate-600 text-xs text-slate-400">📰 已收錄 ${escapeHtml(pk.issue)} 週報</span>`;
+      }
+      return pk
+        ? `<button onclick="toggleWeeklyPick(${pIdx})" class="px-3 py-2 rounded-xl border border-amber-500/60 bg-amber-500/20 text-amber-300 text-xs font-semibold hover:bg-amber-500/30 transition">⭐ 已加入本週週報（點擊移除）</button>`
+        : `<button onclick="toggleWeeklyPick(${pIdx})" class="px-3 py-2 rounded-xl border border-amber-500/40 text-amber-300 text-xs font-semibold hover:bg-amber-500/15 transition">☆ 加入本週週報</button>`;
+    }
+
+    function rerenderAll() {
+      updatePickBadge();
+      renderOverviewSection();
+      renderPostList();
+    }
+
+    function toggleGhModal() {
+      document.getElementById("ghRepoInput").value = ghConfig.repo || defaultRepo();
+      document.getElementById("ghTokenInput").value = ghConfig.token || "";
+      document.getElementById("ghModal").classList.toggle("hidden");
+    }
+
+    async function saveGhConfig() {
+      ghConfig.repo = document.getElementById("ghRepoInput").value.trim() || defaultRepo();
+      ghConfig.token = document.getElementById("ghTokenInput").value.trim();
+      try { localStorage.setItem("oncology_gh_config", JSON.stringify(ghConfig)); } catch (e) {}
+      try {
+        const { picks } = await ghReadPicks();
+        PICKS = picks;
+        rerenderAll();
+        document.getElementById("ghModal").classList.add("hidden");
+        showToast(`✅ GitHub 連線成功（${ghConfig.repo}），目前本週週報待收錄 ${pendingPickCount()} 篇。`, "success");
+      } catch (err) {
+        showToast(`⚠️ GitHub 連線失敗：${err.message}`, "warn");
+      }
+    }
+
+    function b64EncodeUtf8(str) {
+      const bytes = new TextEncoder().encode(str);
+      let bin = "";
+      bytes.forEach(b => bin += String.fromCharCode(b));
+      return btoa(bin);
+    }
+    function b64DecodeUtf8(b64) {
+      const bin = atob(b64.replace(/\n/g, ""));
+      return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0)));
+    }
+
+    async function ghReadPicks() {
+      const res = await fetch(`https://api.github.com/repos/${ghConfig.repo}/contents/${PICKS_PATH}?ref=main&t=${Date.now()}`, {
+        headers: { Authorization: `Bearer ${ghConfig.token}`, Accept: "application/vnd.github+json" },
+        cache: "no-store",
+      });
+      if (res.status === 404) return { picks: [], sha: null };
+      if (!res.ok) throw new Error(`HTTP ${res.status}（請確認 Token 權限為 Contents: Read and write）`);
+      const data = await res.json();
+      const doc = JSON.parse(b64DecodeUtf8(data.content || "") || "{}");
+      return { picks: Array.isArray(doc.picks) ? doc.picks : [], sha: data.sha };
+    }
+
+    async function ghWritePicks(mutate, message) {
+      for (let attempt = 0; attempt < 3; attempt++) {
+        const { picks, sha } = await ghReadPicks();
+        const next = mutate(picks);
+        const body = {
+          message,
+          content: b64EncodeUtf8(JSON.stringify({ picks: next }, null, 2) + "\n"),
+          branch: "main",
+          committer: { name: "Oncology IG Curator Web", email: "bot@users.noreply.github.com" },
+        };
+        if (sha) body.sha = sha;
+        const res = await fetch(`https://api.github.com/repos/${ghConfig.repo}/contents/${PICKS_PATH}`, {
+          method: "PUT",
+          headers: { Authorization: `Bearer ${ghConfig.token}`, Accept: "application/vnd.github+json", "Content-Type": "application/json" },
+          body: JSON.stringify(body),
+        });
+        if (res.ok) return next;
+        if (res.status === 409 || res.status === 422) continue;   // sha 衝突（同時有其他寫入）→ 重讀重試
+        throw new Error(`HTTP ${res.status}`);
+      }
+      throw new Error("多次寫入衝突，請稍後再試");
+    }
+
+    function snapshotPost(post) {
+      const { status, selected, ...rest } = post;
+      return JSON.parse(JSON.stringify(rest));
+    }
+
+    async function toggleWeeklyPick(pIdx) {
+      if (!ghConfig.token) {
+        showToast("🔑 請先點右上角「週報 GitHub 設定」填入 GitHub Token，才能記錄週報挑選。", "warn");
+        toggleGhModal();
+        return;
+      }
+      const post = DAILY_DATA.posts[pIdx];
+      const date = DAILY_DATA.date;
+      const existing = findPick(post);
+      try {
+        showToast("⏳ 正在更新週報挑選紀錄...", "info");
+        if (existing) {
+          PICKS = await ghWritePicks(
+            picks => picks.filter(p => !(p.date === date && p.post_id === post.id && !p.issue)),
+            `weekly pick: remove ${pickKey(date, post.id)}`
+          );
+          showToast(`已將「${post.category}」移出本週週報。`, "success");
+        } else {
+          const entry = {
+            date, post_id: post.id, picked_at: new Date().toISOString(), issue: null,
+            post: snapshotPost(post),   // 存入當下（含你在編輯器微調過）的完整內容
+          };
+          PICKS = await ghWritePicks(
+            picks => picks.filter(p => !(p.date === date && p.post_id === post.id)).concat([entry]),
+            `weekly pick: add ${pickKey(date, post.id)}`
+          );
+          showToast(`⭐ 已將「${post.category}」加入本週週報（待收錄 ${pendingPickCount()} 篇），週日晚間自動產出深度分析。`, "success");
+        }
+        rerenderAll();
+      } catch (err) {
+        showToast(`⚠️ 寫入 GitHub 失敗：${err.message}`, "warn");
+      }
+    }
+
+    async function loadPicksReadOnly() {
+      // 未設定 Token 時，直接讀取 GitHub Pages 上的公開檔案（可能有 1 分鐘左右延遲）
+      try {
+        if (ghConfig.token) {
+          PICKS = (await ghReadPicks()).picks;
+        } else {
+          const res = await fetch(`./data/weekly_picks.json?t=${Date.now()}`, { cache: "no-store" });
+          if (res.ok) PICKS = (await res.json()).picks || [];
+        }
+      } catch (e) {}
+    }
+
+    // =====================================================================
+    // 📅 瀏覽過去日期（docs/data/archive/YYYY-MM-DD.json）
+    // =====================================================================
+    async function loadArchiveIndex() {
+      try {
+        const res = await fetch(`./data/archive/index.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) return;
+        const { dates = [] } = await res.json();
+        const sel = document.getElementById("archiveDateSelect");
+        sel.innerHTML = `<option value="">📅 今日 (${escapeHtml(LATEST_DATE || "")})</option>` +
+          dates.filter(d => d !== LATEST_DATE).map(d => `<option value="${d}">📅 ${d}</option>`).join("");
+      } catch (e) {}
+    }
+
+    async function loadArchiveDate(date) {
+      const url = date ? `./data/archive/${date}.json` : `./data/daily_posts.json`;
+      try {
+        const res = await fetch(`${url}?t=${Date.now()}`, { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const d = await res.json();
+        DAILY_DATA.date = d.date;
+        DAILY_DATA.posts = d.posts.map(p => normalizePost({ ...p, status: p.status || "待審核" }));
+        activePostIndex = 0;
+        activeSlideIndex = 0;
+        const isArchive = DAILY_DATA.date !== LATEST_DATE;
+        document.getElementById("dateBadge").textContent =
+          `${DAILY_DATA.date} 國際權威醫藥研究精選${isArchive ? "（歷史存檔）" : ""}`;
+        rerenderAll();
+        renderEditor();
+        drawCanvas();
+      } catch (err) {
+        showToast(`⚠️ 讀取 ${date || "今日"} 資料失敗：${err.message}`, "warn");
+      }
+    }
+
     async function initDashboard() {
+      try {
+        const savedGh = localStorage.getItem("oncology_gh_config");
+        if (savedGh) ghConfig = JSON.parse(savedGh);
+      } catch (e) {}
+      if (!ghConfig.repo) ghConfig.repo = defaultRepo();
       try {
         const saved = localStorage.getItem("oncology_ig_config");
         if (saved) {
@@ -1193,6 +1448,10 @@
           }
         }
       } catch (e) {}
+
+      LATEST_DATE = DAILY_DATA.date;
+      await Promise.all([loadPicksReadOnly(), loadArchiveIndex()]);
+      updatePickBadge();
 
       renderOverviewSection();
       renderPostList();

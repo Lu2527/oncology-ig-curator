@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T11:49:40.274436+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "腫瘤內源合成",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261101010552.htm",
+      "original_title": "Scientists trick cancer cells into making the drugs that kill them",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【利用腫瘤內源性一氧化碳（CO）驅動癌細胞原位合成抗癌藥物之創新前驅藥策略】\n\n傳統化學治療常因全身性分布導致嚴重脫靶毒性，限制了臨床治療窗與劑量強度。日本理化學研究所（RIKEN Pioneering Research Institute）Katsunori Tanaka 教授團隊發表於《Nature Communications》的最新研究，開發出一種具高度腫瘤選擇性的「活體內化學合成（In-cell chemical synthesis）」策略，巧妙利用癌細胞自身代謝產生的高濃度內源性一氧化碳（Endogenous Carbon Monoxide, CO），在腫瘤細胞內部直接催化合成具細胞毒殺活性之抗癌化合物。\n\n■ 核心作用機制：\n1. 內源氣體標靶：惡性腫瘤細胞因血紅素加氧酶（Heme Oxygenase）高度表現而持續釋放內源性一氧化碳，成為區別於正常組織的特異性微環境化學訊號。\n2. 胞內原位合成：研究團隊設計特殊金屬催化前驅化合物，進入癌細胞後能捕捉內源性一氧化碳作為反應基質，原位組裝為高毒性抗癌分子。\n3. 降低全身毒性：在缺乏高濃度一氧化碳的正常健康細胞中，該合成反應不會被觸發，藉此避免傳統化療藥物在全身循環中對健康組織造成的非特異性損傷。\n\n■ 臨床轉譯與研究展望：\n此項研究突破過往「外源性投遞活性藥物」的框架，將腫瘤特有的氣體訊號分子轉化為胞內製藥原料，為實體腫瘤標靶化學治療與催化前驅藥（Catalytic Prodrug）設計開闢全新方向。\n\n■ 資料來源 (References)：\n1. Kawai M, Chang TC, Pradipta AR, Tanaka K. Harnessing endogenous carbon monoxide for cancer-selective drug synthesis. Nature Communications. 2026. https://doi.org/10.1038/s41467-026-77616-8\n2. ScienceDaily Cancer News. Scientists trick cancer cells into making the drugs that kill them. https://www.sciencedaily.com/releases/2026/11/261101010552.htm\n\n#腫瘤微環境 #前驅藥物設計 #一氧化碳代謝 #精準化療 #NatureCommunications #癌症生物化學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "腫瘤化學生物學研究",
+          "headline": "利用癌細胞內源性一氧化碳\n原位催化合成抗癌活性藥物\n實現高選擇性腫瘤毒殺作用",
+          "subheadline": "RIKEN 團隊發表腫瘤特異性活體內藥物合成策略突破傳統化療脫靶限制",
+          "meta_badge": "研究出處：Nature Communications 期刊",
+          "footer": "資料來源：Kawai et al. Nature Communications (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "癌細胞內源性一氧化碳\n如何轉化為原位抗癌武器？",
+          "points": [
+            "內源氣體富集：腫瘤細胞因代謝異常持續產生一氧化碳，形成高於正常組織的獨特化學微環境",
+            "配體催化反應：特製前驅化合物進入細胞後，直接利用胞內一氧化碳進行羰基化原位合成反應",
+            "選擇性毒殺力：僅在富含一氧化碳之惡性細胞內生成毒性產物，正常細胞則免於化學毒性傷害"
+          ],
+          "footer": "資料來源：Kawai et al. Nature Communications (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "活體內藥物合成策略\n於實驗模型展現哪些優勢？",
+          "points": [
+            "專一性生成率：體外細胞實驗證實，特定設計之化合物僅在癌細胞內觸發抗癌活性分子之合成",
+            "保留正常組織：健康對照細胞因缺乏足夠一氧化碳基質，未檢測到顯著毒性物質生成與細胞凋亡",
+            "治療安全窗：克服傳統化療全身性分布的限制，為高毒性抗癌分子提供精準的腫瘤局部釋放機制"
+          ],
+          "footer": "資料來源：Kawai et al. Nature Communications (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從外源性全身投藥邁向\n腫瘤微環境原位催化合成",
+          "summary": "本研究開創性地將腫瘤內源性氣體分子（CO）由單純的生物標記轉化為藥物合成原料。透過生物正交與金屬催化化學，讓癌細胞「自製」殺死自身的藥物，為降低化療全身性副作用提供極具潛力的轉譯藍圖。",
+          "cta": "後續觀察：前驅化合物於大型動物腫瘤模型之藥動學表現、生物相容性與活體催化效率",
+          "footer": "資料來源：Kawai et al. Nature Communications (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "抗體藥物複合體",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWU4VTZkWDJ0dTNPdHY3eXctcXE0M3FYdEhlSXVCSUtVNE9Hd1NER3BMaXpjVURyd2lGY1VVanB6OWhaMXNSemNRdjhwdXNSZjk5bE1UNjVBTzNqM0ZzZFBBNE9KZHpELVpTSDNIRV9ldERxRVQ1OUJIUkcxbUJvMnRKX0tmZ0EwMXZ1NkVQNzRYUlV4M3c4dWRDZGR0UFVSVW1WWEQwYVZfQU44QTlGcndwRQ?oc=5",
+      "original_title": "ADC Therapy Improves Survival in Gastric Cancer Trial: ESMO 2026 - EMJ",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ESMO 2026：抗體藥物複合體（ADC）於胃癌臨床試驗展現存活效益突破】\n\n在 2026 年歐洲腫瘤內科學會（ESMO 2026）年會上，針對胃癌（Gastric Cancer）的抗體藥物複合體（Antibody-Drug Conjugate, ADC）臨床試驗公布最新研究數據。面對晚期胃癌高度異質性與後線治療選擇有限的臨床困境，新型 ADC 療法在臨床試驗中展現出改善患者整體存活期（Overall Survival, OS）與疾病控制的正面成果。\n\n■ 核心作用機制：\n1. 精準抗原識別：透過單株抗體專一性結合胃癌細胞表面高度表現之特定腫瘤相關抗原（如 HER2、Claudin 18.2 或 TROP2 等標靶），引導藥物複合體內吞。\n2. 連接子酶解：經由細胞內溶酶體特定酵素切割可裂解連接子（Cleavable Linker），於腫瘤細胞內部精準釋放高活性細胞毒素載荷（Payload）。\n3. 旁觀者效應：具膜穿透性之游離毒素進一步擴散至鄰近抗原低表現或不表現之癌細胞，克服胃癌常見的瘤內抗原異質性問題。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 公布的胃癌 ADC 試驗結果再次印證精準投遞細胞毒素在消化道惡性腫瘤的臨床價值，未來如何優化生物標記篩選與推進前線聯合免疫治療，將是改寫胃癌治療準則的關鍵。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ADC Therapy Improves Survival in Gastric Cancer Trial: ESMO 2026 - EMJ. https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWU4VTZkWDJ0dTNPdHY3eXctcXE0M3FYdEhlSXVCSUtVNE9Hd1NER3BMaXpjVURyd2lGY1VVanB6OWhaMXNSemNRdjhwdXNSZjk5bE1UNjVBTzNqM0ZzZFBBNE9KZHpELVpTSDNIRV9ldERxRVQ1OUJIUkcxbUJvMnRKX0tmZ0EwMXZ1NkVQNzRYUlV4M3c4dWRDZGR0UFVSVW1WWEQwYVZfQU44QTlGcndwRQ?oc=5\n\n#ESMO2026 #胃癌 #抗體藥物複合體 #ADC療法 #標靶治療 #消化道腫瘤",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床研究更新",
+          "headline": "抗體藥物複合體標靶治療\n顯著改善晚期胃癌患者\n臨床存活期與疾病控制率",
+          "subheadline": "ESMO 2026 公布胃癌 ADC 臨床試驗最新存活效益與抗腫瘤活性分析",
+          "meta_badge": "研究焦點：ESMO 2026 消化道腫瘤臨床試驗",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "抗體藥物複合體如何克服\n胃癌高度腫瘤異質性？",
+          "points": [
+            "標靶專一結合：單株抗體精準鎖定胃癌細胞表面特定受體，減少對正常消化道黏膜的系統性損傷",
+            "胞內載荷釋放：複合體經受體介導內吞後，於溶酶體裂解並釋放拓撲異構酶抑制劑等強效毒素",
+            "旁觀者毒殺力：疏水性毒素穿透細胞膜擴散至周邊異質性癌細胞，強化整體腫瘤微環境清除率"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "ESMO 2026 胃癌試驗\n帶來哪些重要臨床啟示？",
+          "points": [
+            "存活效益提升：臨床試驗數據顯示 ADC 治療組相較於傳統化療能有效延長胃癌患者存活期",
+            "突破後線瓶頸：針對既往接受過多線治療失敗的晚期胃癌族群，依然展現具臨床意義的客觀緩解",
+            "安全性可管理：透過優化藥物抗體比與連接子穩定度，降低血液學與間質性肺病等脫靶不良反應"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統全身性細胞毒殺化療\n邁向精準導航載荷投遞時代",
+          "summary": "ESMO 2026 發表的胃癌 ADC 臨床試驗驗證了靶向投遞技術在晚期消化道腫瘤的存活優勢。藉由結合單株抗體的精準度與高活性毒素的殺傷力，ADC 正逐步重塑晚期胃癌的跨線別治療版圖。",
+          "cta": "後續觀察：ADC 合併 PD-1 免疫檢查點抑制劑於胃癌一線治療之無惡化存活期數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "細胞工程免疫",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQZWFXZUEyM21acUxuNGZITjdmYVdCd0M4OUVaVTFENXpla3lhZ2RBNGVza1pWU09wWnlZYjYzSUFzY0YtQjZ3ZWxUU2tUQzlLRGVOVGcxcTVjVGhPbVRORjFKOTl2Q1lPeWJmTE5va1JJMVZPWVJjZWtTM3V0WkExanlXMUxfMjNyWElKRm1OU0Rna2pFT0lBRFFBaGV5WVhfcHhLUFlnbFY3VzlSVjRmOTVvZDJkVFRMUjd5Tnh1cjlSdmFnTjB0X1JUU0ZHTzF2MVZ0bThRbDNxNk1wOTJPNWFNcTRUQ1pOTmdMQlFTbE9TYjRQN2RDM0FncEk4V3ZySXhiU2w0dW5pVkY1S19aX0t2RTNiaTFYbGNDcEtn?oc=5",
+      "original_title": "Anixa Biosciences Announces Presentation of Ovarian Cancer CAR-T Clinical Trial at ESMO Immuno-Oncology & Advanced Therapies Congress 2026 - PR Newswire",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【ESMO IO 2026：靶向濾泡刺激素受體（FSHR）之卵巢癌 CAR-T 細胞療法臨床試驗進展】\n\n實體腫瘤因缺乏特異性表面標靶及具高度免疫抑制微環境，使嵌合抗原受體 T 細胞（CAR-T）療法的開發面臨嚴峻挑戰。於 2026 年歐洲腫瘤內科學會免疫腫瘤學與先進療法大會（ESMO Immuno-Oncology & Advanced Therapies Congress 2026）發表的卵巢癌臨床試驗，展示了新型自體細胞免疫療法於復發性卵巢癌的研究成果。\n\n■ 核心作用機制：\n1. 內分泌受體導航：跳脫傳統抗體片段設計，利用激素配體專一性識別僅在卵巢特定細胞與腫瘤血管表現之受體（如 FSHR），大幅降低對正常器官之脫靶毒性（On-target, off-tumor toxicity）。\n2. 雙重作用機制：工程化 T 細胞不僅能直接毒殺表面表現標靶受體的卵巢癌細胞，亦能破壞腫瘤新生血管內皮，阻斷實體瘤之血液與養分供應。\n3. 局部腹腔給藥：針對卵巢癌好發腹膜轉移之特性，評估局部腹腔輸注（Intraperitoneal Delivery）策略，提升 CAR-T 細胞於腫瘤病灶的浸潤濃度。\n\n■ 臨床轉譯與研究展望：\n此項於 ESMO IO 2026 發表的臨床研究，為克服實體腫瘤 CAR-T 療法之標靶專一性與微環境浸潤瓶頸提供了重要的早期臨床概念驗證（Proof-of-Concept）。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Anixa Biosciences Announces Presentation of Ovarian Cancer CAR-T Clinical Trial at ESMO Immuno-Oncology & Advanced Therapies Congress 2026 - PR Newswire. https://news.google.com/rss/articles/CBMingJBVV95cUxQZWFXZUEyM21acUxuNGZITjdmYVdCd0M4OUVaVTFENXpla3lhZ2RBNGVza1pWU09wWnlZYjYzSUFzY0YtQjZ3ZWxUU2tUQzlLRGVOVGcxcTVjVGhPbVRORjFKOTl2Q1lPeWJmTE5va1JJMVZPWVJjZWtTM3V0WkExanlXMUxfMjNyWElKRm1OU0Rna2pFT0lBRFFBaGV5WVhfcHhLUFlnbFY3VzlSVjRmOTVvZDJkVFRMUjd5Tnh1cjlSdmFnTjB0X1JUU0ZHTzF2MVZ0bThRbDNxNk1wOTJPNWFNcTRUQ1pOTmdMQlFTbE9TYjRQN2RDM0FncEk4V3ZySXhiU2w0dW5pVkY1S19aX0t2RTNiaTFYbGNDcEtn?oc=5\n\n#ESMOIO2026 #卵巢癌 #CART細胞療法 #實體腫瘤免疫 #細胞治療 #婦科腫瘤",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO IO 細胞免疫研究",
+          "headline": "新型卵巢癌 CAR-T 療法\n突破實體腫瘤微環境障壁\n於早期臨床試驗展現潛力",
+          "subheadline": "ESMO 免疫腫瘤學與先進療法大會發表卵巢癌工程化 T 細胞臨床數據",
+          "meta_badge": "研究焦點：ESMO IO 2026 實體瘤細胞治療",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "工程化 CAR-T 細胞\n如何精準攻克卵巢實體瘤？",
+          "points": [
+            "高專一性標靶：鎖定卵巢組織與腫瘤特異性表現之表面受體，避免傷及正常重要臟器組織",
+            "克服免疫抑制：透過基因工程強化 T 細胞活化訊號，抵禦卵巢癌腹水微環境的免疫耗竭因子",
+            "局部浸潤優勢：針對卵巢癌腹膜播散特性優化輸注途徑，提高效應 T 細胞於腫瘤局部的穿透率"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "卵巢癌 CAR-T 臨床試驗\n目前評估哪些關鍵指標？",
+          "points": [
+            "劑量遞增安全：於早期臨床試驗評估不同劑量階層下之細胞激素釋放症候群（CRS）與神經毒性",
+            "體內擴增持久：監測輸注後工程化 T 細胞於患者周邊血與腹膜腔內的擴增動力學與存續時間",
+            "初步抗瘤活性：針對標準含鉑化療失敗之復發性卵巢癌患者，評估腫瘤標記變化與病灶穩定度"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從血液惡性腫瘤成功經驗\n跨足婦科實體腫瘤細胞免疫",
+          "summary": "於 ESMO IO 2026 亮相的卵巢癌 CAR-T 臨床試驗，展現了細胞免疫工程在婦科實體腫瘤的轉譯潛力。透過高專一性受體標靶與給藥途徑創新，有望為多重抗藥性卵巢癌開創新型態免疫治療選擇。",
+          "cta": "後續觀察：最高耐受劑量（MTD）確立後之擴展佇列客觀緩解率與長期安全性追蹤",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "泌尿腫瘤精準治療",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU1Kd202VzVDMUhnc2RLNVZVTjRvN3Q3bUVTVmRfVXRZM0gtWkZIT2gzV0NOaTg5elJMNmtKaFlMa2pWTHU1alM0TmdBa1ZJeUxQelVXOUZVR0JzaHRtejBtbU54U1J1Q0RvLVRhdEtFczhfWFVHNE4xN3pESUI1ZkoxVDFPbkp4NGhPa200SWNKYzVEdG9J?oc=5",
+      "original_title": "3 Prostate Cancer Results From ESMO 2026 Patients Should Know - Cure Today",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【ESMO 2026：晚期攝護腺癌三大關鍵臨床試驗進展與精準治療策略解析】\n\n2026 年歐洲腫瘤內科學會（ESMO 2026）年會公布了多項改寫攝護腺癌（Prostate Cancer）臨床實務的重要數據。隨著荷爾蒙受體訊號抑制劑（ARPI）、放射性配體療法（Radioligand Therapy, RLT）以及 PARP 抑制劑的蓬勃發展，轉移性攝護腺癌的治療正快速邁向生物標記導向的精準聯合治療時代。\n\n■ 研究核心發現：\n1. 治療線別前移：臨床試驗數據支持將新型雄激素受體途徑抑制劑與精準標靶藥物更早應用於轉移性荷爾蒙敏感性攝護腺癌（mHSPC），延緩去勢抗藥性（mCRPC）的發生。\n2. 放射配體精準打擊：靶向攝護腺特異性膜抗原（PSMA）之精準醫療策略，在改善影像學無惡化存活期（rPFS）與生活品質指標上持續累積實證。\n3. 基因修復缺陷標靶：針對帶有同源重組修復（HRR）基因突變（如 BRCA1/2）之亞群，合併療法展現顯著的協同抗腫瘤效益。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 的三大攝護腺癌臨床進展凸顯了早期分子基因檢測與 PSMA 分子影像分期的重要性，協助臨床精準制定個體化治療序列。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). 3 Prostate Cancer Results From ESMO 2026 Patients Should Know - Cure Today. https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU1Kd202VzVDMUhnc2RLNVZVTjRvN3Q3bUVTVmRfVXRZM0gtWkZIT2gzV0NOaTg5elJMNmtKaFlMa2pWTHU1alM0TmdBa1ZJeUxQelVXOUZVR0JzaHRtejBtbU54U1J1Q0RvLVRhdEtFczhfWFVHNE4xN3pESUI1ZkoxVDFPbkp4NGhPa200SWNKYzVEdG9J?oc=5\n\n#ESMO2026 #攝護腺癌 #精準醫療 #PSMA標靶 #荷爾蒙治療 #泌尿腫瘤",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 泌尿腫瘤焦點",
+          "headline": "ESMO 2026 公布三大關鍵\n攝護腺癌臨床試驗最新成果\n重塑晚期疾病精準治療序列",
+          "subheadline": "聚焦荷爾蒙受體抑制、放射性配體與生物標記導向之聯合治療突破",
+          "meta_badge": "研究焦點：ESMO 2026 攝護腺癌實務更新",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "作用機制",
+          "headline": "當代攝護腺癌精準療法\n如何雙重阻斷腫瘤演進？",
+          "points": [
+            "深度雄激素阻斷：新型受體抑制劑全面封鎖雄激素核轉位與基因轉錄，延緩抗藥性克隆演化",
+            "合成致死效應：針對同源重組修復基因缺陷之癌細胞，利用 PARP 抑制劑誘導雙股 DNA 斷裂凋亡",
+            "分子影像導引：結合 PSMA 正子攝影與靶向放射性核種，實現診斷與治療合一的精準放射毒殺"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床實證",
+          "headline": "ESMO 2026 臨床數據\n如何影響治療策略制定？",
+          "points": [
+            "延緩疾病惡化：前線強化治療策略顯著延長患者進展至轉移性去勢抗藥階段的無惡化存活期",
+            "基因分型決策：研究證實及早進行生殖細胞系與體細胞次世代定序，能精準篩選合併治療受惠者",
+            "兼顧耐受品質：在提升抗腫瘤反應率的同時，透過劑量優化維持晚期患者之整體生活品質"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從單一去勢療法演進至\n多模態生物標記精準整合",
+          "summary": "ESMO 2026 發表的攝護腺癌研究成果，確立了「早期強化、精準分型」的治療典範。整合次世代荷爾蒙藥物、PARP 抑制劑與 PSMA 標靶治療，大幅拓展了晚期攝護腺癌患者的長期存活空間。",
+          "cta": "後續觀察：不同跨機制療法在第一線與第二線交替使用之最佳抗藥性克服序列與整體存活數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "乳癌精準標靶",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElVS1ZoUml5TDN5bEFiY08wTUtuTnJXMlBjWW12anIwYjFYek9HS2dLZ0xWSVRqSHY3ZnpQb1d6NjlnbkhqbXozako2RU05MVhseTMzNWx5bm9MT21ZU0Y4VTF3eDVDU2h3eHJ2NmNGeDBpT29pUmpYSXUxY0Z5cGhVRW54Nzhic3RhVHpXa0wyZmxGT1BMbFpXaTltbkJtUGxJcmtKVGdSbEdFeURFLXlYNlZrVEJjcWxxX1RR?oc=5",
+      "original_title": "Breast Cancer Experts Spotlight Practice-Informing and Thought-Provoking Data From ESMO 2026 - OncLive",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO 2026：乳癌臨床實務變革與前沿標靶免疫數據深度解析】\n\n2026 年歐洲腫瘤內科學會（ESMO 2026）年會發表了多項具臨床實務改變潛力（Practice-Informing）的乳癌研究數據。涵蓋荷爾蒙受體陽性（HR+）、HER2 陽性及三陰性乳癌（TNBC）三大分子亞型，研究焦點集中於抗體藥物複合體（ADC）的前線推進、口服選擇性雌激素受體降解劑（SERD）以及內分泌抗藥性機制的克服。\n\n■ 研究核心發現：\n1. 克服內分泌抗藥：針對帶有 ESR1、PIK3CA 或 AKT1/PTEN 路徑基因改變之 HR+/HER2- 晚期乳癌，新型口服標靶聯合策略有效延長疾病控制時間。\n2. 拓展 HER2 低表現：隨精準病理判讀與新型 ADC 臨床數據公布，HER2 表現譜系（涵蓋 HER2-low 與 HER2-ultralow）之治療疆界持續擴大。\n3. 早期乳癌降階與強化：透過循環腫瘤 DNA（ctDNA）動態監測與病理完全緩解率（pCR）指標，精準區分高復發風險族群以優化術後輔助治療強度。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 的乳癌研究數據展現了分子分型細緻化的趨勢，透過動態生物標記追蹤抗藥性突變，將使乳癌各期別的治療決策更加精準。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Breast Cancer Experts Spotlight Practice-Informing and Thought-Provoking Data From ESMO 2026 - OncLive. https://news.google.com/rss/articles/CBMivgFBVV95cUxPcElVS1ZoUml5TDN5bEFiY08wTUtuTnJXMlBjWW12anIwYjFYek9HS2dLZ0xWSVRqSHY3ZnpQb1d6NjlnbkhqbXozako2RU05MVhseTMzNWx5bm9MT21ZU0Y4VTF3eDVDU2h3eHJ2NmNGeDBpT29pUmpYSXUxY0Z5cGhVRW54Nzhic3RhVHpXa0wyZmxGT1BMbFpXaTltbkJtUGxJcmtKVGdSbEdFeURFLXlYNlZrVEJjcWxxX1RR?oc=5\n\n#ESMO2026 #乳癌 #標靶治療 #抗體藥物複合體 #基因檢測 #腫瘤內科學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 乳癌研究焦點",
+          "headline": "ESMO 2026 乳癌重磅數據\n深化分子亞型精準標靶策略\n引領臨床治療準則革新",
+          "subheadline": "涵蓋新型內分泌標靶、抗體藥物複合體與高風險早期乳癌之臨床突破",
+          "meta_badge": "研究焦點：ESMO 2026 乳癌臨床實務解析",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "新型乳癌標靶與免疫療法\n如何突破抗藥性瓶頸？",
+          "points": [
+            "受體降解機制：新一代口服小分子直接誘導突變型雌激素受體構型改變並經蛋白酶體降解",
+            "雙重路徑封鎖：同時抑制細胞週期蛋白依賴性激酶（CDK4/6）與 PI3K/AKT 訊號，阻斷代償性生長",
+            "微環境重塑：利用高活性載荷 ADC 誘導免疫原性細胞死亡（ICD），協同強化抗腫瘤免疫反應"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床實證",
+          "headline": "ESMO 2026 乳癌研究\n提供哪些關鍵實務數據？",
+          "points": [
+            "重定義受惠群：擴大對低度生物標記表現腫瘤的靶向治療涵蓋率，減少傳統化療的使用需求",
+            "延緩後線惡化：針對 CDK4/6 抑制劑治療後惡化之患者，精準基因配對治療展現顯著無惡化存活優勢",
+            "早期風險分層：結合臨床病理特徵與分子檢測指標，精準識別需強化術後輔助治療之高危患者"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統三分法亞型框架\n邁向動態分子基因圖譜導航",
+          "summary": "ESMO 2026 的乳癌研究成果顯示，乳癌治療已全面進入動態生物標記導航時代。無論是克服荷爾蒙抗藥性或拓展 ADC 適應症，精準分子檢測皆是串聯各線別最佳治療決策的核心樞紐。",
+          "cta": "後續觀察：液態切片 ctDNA 導引早期乳癌術後輔助治療升降階之大型前瞻性臨床試驗結果",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}

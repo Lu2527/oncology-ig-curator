@@ -1,0 +1,42 @@
+name: Weekly Oncology Deep Dive Newsletter (Sun 21:00 Taiwan Time)
+
+on:
+  schedule:
+    # 每週日 UTC 13:00（台灣時間週日晚上 21:00）
+    - cron: '0 13 * * 0'
+  workflow_dispatch: # 可隨時在 GitHub Actions 頁面手動觸發
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writer
+  cancel-in-progress: false
+
+jobs:
+  weekly-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate Deep Clinical Analysis for This Week's Picks
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python3 curate_weekly_newsletter.py
+
+      - name: Commit & Push Newsletter to GitHub Pages
+        run: |
+          git config user.name "Oncology IG Curator Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/newsletter docs/data/weekly_picks.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "newsletter: weekly deep dive ($(TZ=Asia/Taipei date +'%Y-%m-%d'))"
+          git pull --rebase origin main
+          git push

@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T12:09:00.858688+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "免疫化療聯合",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-01393",
+      "original_title": "Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【JCO 隨機對照試驗：mFOLFIRINOX 聯合 PD-1 抑制劑顯著改善邊緣可切除與局部晚期胰臟癌存活期】\n\n發表於美國臨床腫瘤學會（ASCO）官方旗艦期刊《臨床腫瘤學雜誌》（Journal of Clinical Oncology, JCO）的最新開放標籤隨機對照二期臨床試驗，針對邊緣可切除胰臟癌（Borderline Resectable Pancreatic Cancer, BRPC）與局部晚期胰臟癌（Locally Advanced Pancreatic Cancer, LAPC）患者，評估在改良型 FOLFIRINOX（mFOLFIRINOX）標準化療基礎上，加入抗 PD-1 單株抗體 Toripalimab 之臨床效益。研究共納入 392 名經組織學確診之患者，以 1:1 比例隨機分配接受免疫聯合化療（n = 196）或單獨化療（n = 196），中位追蹤時間達 39.6 個月。\n\n■ 研究核心發現：\n1. 無事件存活期：意向治療群體（ITT）分析顯示，免疫化療聯合組的中位無事件存活期（EFS）顯著優於單獨化療組（11.1 個月 vs. 9.6 個月，風險比 HR = 0.74，95% CI 0.60–0.92，P = .007），疾病惡化或復發風險降低 26%。\n2. 整體存活效益：免疫化療聯合組的中位整體存活期（OS）達到 20.6 個月，高於單獨化療組的 17.1 個月（HR = 0.81），顯示免疫檢查點抑制劑與多藥化療在局部晚期階段具有協同控制潛力。\n3. 多專科評估：研究期間每 2 個月進行一次療效影像評估，並由多專科團隊（MDT）動態判定手術切除可行性，建立轉化治療之標準化臨床決策流程。\n\n■ 臨床轉譯與研究展望：\n傳統上胰臟導管腺癌對單藥免疫檢查點抑制劑反應極低，本研究證實透過高強度化療（mFOLFIRINOX）誘導免疫原性細胞死亡，同步結合 PD-1 阻斷劑，能突破局部晚期與邊緣可切除胰臟癌的存活瓶頸，為後續三期確證性臨床試驗奠定重要依據。\n\n■ 資料來源 (References)：\n1. Bai X, Li X, Chen Y, Zhang X, Zhang X, Zhang Q, et al. Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-01393\n2. ASCO (美國臨床腫瘤學會) / JCO. Immunochemotherapy for Borderline Resectable or Locally Advanced Pancreatic Cancer: A Randomized Controlled Trial.. https://doi.org/10.1200/JCO-26-01393\n\n#胰臟癌 #免疫聯合化療 #mFOLFIRINOX #PD1抑制劑 #臨床腫瘤學 #JCO #ASCO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床研究更新",
+          "headline": "免疫聯合化療策略\n改善局部晚期胰臟癌\n無事件與整體存活期",
+          "subheadline": "mFOLFIRINOX 合併 PD-1 抑制劑對比單獨化療之隨機對照二期臨床試驗解析",
+          "meta_badge": "研究設計：開放標籤隨機對照二期臨床試驗",
+          "footer": "資料來源：Bai et al. ASCO / Journal of clinical oncology : official"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "邊緣可切除與局部晚期胰臟癌\n如何設計免疫聯合轉化治療？",
+          "points": [
+            "受試者納入金標準：納入 392 名經組織學確診之邊緣可切除（BRPC）或局部晚期胰臟癌（LAPC）患者",
+            "隨機分組治療方案：以 1:1 比例隨機分配接受 mFOLFIRINOX 聯合 Toripalimab 或單獨化療",
+            "多專科手術評估：每 2 個月定期評估治療反應，並由多專科團隊判定後續手術切除之可行性"
+          ],
+          "footer": "資料來源：Bai et al. ASCO / Journal of clinical oncology : official"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "長達近四十個月中位追蹤\n核心存活指標改善幅度為何？",
+          "points": [
+            "無事件存活期延長：聯合組中位 EFS 達 11.1 個月，顯著優於化療組之 9.6 個月（HR 0.74, P = .007）",
+            "整體存活期突破：聯合組中位 OS 提升至 20.6 個月，對照單獨化療組為 17.1 個月（HR 0.81）",
+            "長期追蹤穩健性：意向治療群體經中位 39.6 個月追蹤，證實免疫加入化療具明確統計學效益"
+          ],
+          "footer": "資料來源：Bai et al. ASCO / Journal of clinical oncology : official"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "突破胰臟癌冷腫瘤屏障\n確立免疫聯合化療臨床價值",
+          "summary": "邊緣可切除與局部晚期胰臟癌的最佳治療策略長期缺乏定論。本項大型隨機二期試驗首次以嚴謹數據證實，在標準 mFOLFIRINOX 方案中加入 PD-1 阻斷劑，能顯著延緩疾病惡化並延長存活期，扭轉胰臟癌對免疫治療無效的傳統認知。",
+          "cta": "後續觀察：手術轉化切除率（R0 切除率）次要終點數據與腫瘤微環境生物標記分析",
+          "footer": "資料來源：Bai et al. ASCO / Journal of clinical oncology : official"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "腫瘤微環境",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0463",
+      "original_title": "Autophagy-mediated Secretion of Intracellular Antigens Co-opts Antibody Responses to Drive Neutrophil-Dependent Tumor Progression.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【AACR 旗艦期刊 Cancer Discovery：自噬介導之胞內抗原非典型分泌劫持體液免疫以驅動腫瘤惡化】\n\n發表於美國癌症研究協會（AACR）旗艦期刊《癌症發現》（Cancer Discovery）的研究，深入解析腫瘤浸潤 B 細胞（TIL-Bs）所產生的自體抗體如何反向促進腫瘤生長。研究團隊利用自發性肝細胞癌（HCC）小鼠模型，從腫瘤浸潤 B 細胞中選殖出單株抗體（mAbs），定義出一類全新的抗原家族：分泌型胞內抗原（Secreted Intracellular Antigens, SICAs），揭示癌細胞重塑分泌體（Secretome）以操縱先天與適應性免疫的分子機制。\n\n■ 核心作用機制：\n1. 非典型分泌：腫瘤細胞利用高度活化的自噬作用（Autophagy），透過熱休克蛋白 HSP90 介導之自噬依賴性非典型分泌途徑，將原本隱蔽於細胞質內的蛋白質（以 ALDH1L1 為代表）釋放至細胞外微環境。\n2. 免疫複合體：釋出的分泌型胞內抗原（SICA）在腫瘤局部與自體抗體結合形成免疫複合體（Immune Complexes），透過 Fcγ 受體（FcγR）訊號招募嗜中性球。\n3. 嗜中性球重編程：免疫複合體進一步將嗜中性球重編程為具促癌表型的腫瘤相關嗜中性球（TANs），加速腫瘤惡化；實驗證實耗竭嗜中性球或阻斷 Fcγ 受體結合皆能完全消除此促癌效應。\n\n■ 臨床轉譯與研究展望：\n此自噬介導之 SICA 分泌與對應自體抗體反應不僅在肝細胞癌患者中高度保守，更廣泛存在於肺癌、乳癌與子宮頸癌中，確立「SICA–自體抗體–FcγR 軸」作為跨癌種免疫治療的潛在新興標靶。\n\n■ 資料來源 (References)：\n1. Liu Y, Zhang Q, Gao Y, Long Y, Tao X, Ma X, et al. Autophagy-mediated Secretion of Intracellular Antigens Co-opts Antibody Responses to Drive Neutrophil-Dependent Tumor Progression. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0463\n2. AACR (美國癌症研究協會) / Cancer Discovery. Autophagy-mediated Secretion of Intracellular Antigens Co-opts Antibody Responses to Drive Neutrophil-Dependent Tumor Progression.. https://doi.org/10.1158/2159-8290.CD-26-0463\n\n#腫瘤微環境 #細胞自噬 #腫瘤浸潤B細胞 #嗜中性球 #肝細胞癌 #CancerDiscovery #AACR",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 基礎腫瘤學研究",
+          "headline": "癌細胞藉由自噬分泌胞內抗原\n劫持自體抗體與嗜中性球\n驅動實體腫瘤免疫逃逸與惡化",
+          "subheadline": "揭示 HSP90 介導之分泌型胞內抗原（SICA）重塑體液免疫微環境機制",
+          "meta_badge": "研究焦點：腫瘤浸潤 B 細胞與嗜中性球免疫調控",
+          "footer": "資料來源：Liu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "隱蔽於細胞質內的蛋白質\n如何引發促癌型體液免疫反應？",
+          "points": [
+            "自噬非典型分泌：腫瘤利用上調的自噬作用與 HSP90 伴護蛋白，將 ALDH1L1 等胞內蛋白釋出胞外",
+            "免疫複合體形成：腫瘤浸潤 B 細胞產生針對 SICA 之自體抗體，於腫瘤局部形成高濃度免疫複合體",
+            "嗜中性球重編程：免疫複合體透過結合 Fcγ 受體招募並極化腫瘤相關嗜中性球，驅動腫瘤生長"
+          ],
+          "footer": "資料來源：Liu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "阻斷自體抗體與受體交互作用\n能否逆轉嗜中性球促癌效應？",
+          "points": [
+            "標靶耗竭逆轉惡化：於自發性肝癌模型中，清除嗜中性球或破壞 Fcγ 受體結合可完全消除促癌作用",
+            "跨癌種高度保守：SICA 分泌與對應自體抗體反應於肝癌患者中獲得驗證，並延伸至肺癌與乳癌",
+            "治療標靶確立：證實腫瘤能主動重塑分泌體以劫持體液免疫，確立 SICA-FcγR 軸之標靶潛力"
+          ],
+          "footer": "資料來源：Liu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "重新定義腫瘤體液免疫角色\n開啟靶向免疫複合體新策略",
+          "summary": "過往對於腫瘤浸潤 B 細胞及其分泌抗體在實體瘤中的功能存在諸多爭議。本研究破解了胞內蛋白如何成為自體抗體標靶的謎團，證實自噬分泌之 SICA 會與抗體形成促癌免疫複合體，為抑制促癌型髓系細胞浸潤提供全新切入點。",
+          "cta": "後續觀察：靶向 HSP90 自噬分泌途徑或阻斷特定 FcγR 訊號之抗腫瘤前臨床療效驗證",
+          "footer": "資料來源：Liu et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "標靶抗藥演化",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-1749",
+      "original_title": "Expanding the RAS-verse: Novel Inhibitors, Emergent Dependencies, Fresh Opportunities in RAS-Mutant NSCLC.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【AACR 旗艦期刊 Cancer Discovery：拓展 RAS 突變非小細胞肺癌之新興抑制劑、野生型 RAS 依賴性與抗藥機制】\n\n發表於美國癌症研究協會（AACR）《癌症發現》（Cancer Discovery）的專題研究，針對 RAS 突變非小細胞肺癌（NSCLC）提出三項關鍵進展，涵蓋罕見密碼子突變標靶開發與獲得性抗藥機制解析，重新定義 RAS 訊號網絡的治療版圖。\n\n■ 研究核心發現：\n1. KRAS G13C 直接標靶：兩項同步發表之研究確立非小細胞肺癌中的 KRAS G13C 突變蛋白可直接作為藥物作用標靶，打破過往僅能針對 G12C 或 G12D 進行專一性抑制的限制。\n2. 野生型 RAS 依賴性：研究揭示第 13 密碼子（Codon 13）突變之非小細胞肺癌對野生型 RAS（WT RAS）具有獨特的訊號依賴性，且此類亞型對標準化學治療展現出更高的敏感性。\n3. 融合基因抗藥重連：第三項研究指出，當腫瘤產生獲得性致癌激酶融合（Acquired Oncogenic Kinase Fusions）而對 KRAS G12C 抑制劑產生抗藥性時，會透過野生型 RAS 重新連接致癌訊號傳導，而此重連途徑具備藥物干預的可行性。\n\n■ 臨床轉譯與研究展望：\n上述發現不僅將精準標靶治療推進至 KRAS G13C 突變族群，更闡明野生型 RAS 在罕見突變維持與獲得性抗藥中的核心樞紐地位，支持泛 RAS（Pan-RAS）抑制策略或聯合化療在特定分子亞型中的臨床應用。\n\n■ 資料來源 (References)：\n1. Araujo HA, Skoulidis F. Expanding the RAS-verse: Novel Inhibitors, Emergent Dependencies, Fresh Opportunities in RAS-Mutant NSCLC. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-1749\n2. AACR (美國癌症研究協會) / Cancer Discovery. Expanding the RAS-verse: Novel Inhibitors, Emergent Dependencies, Fresh Opportunities in RAS-Mutant NSCLC.. https://doi.org/10.1158/2159-8290.CD-26-1749\n\n#非小細胞肺癌 #KRAS突變 #標靶治療 #抗藥性機制 #激酶融合 #CancerDiscovery #AACR",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 標靶與抗藥研究",
+          "headline": "拓展非小細胞肺癌 RAS 版圖\n確立 KRAS G13C 標靶性與\n野生型 RAS 抗藥重連機制",
+          "subheadline": "解析第 13 密碼子突變之獨特依賴性及 KRAS G12C 抑制劑抗藥逆轉策略",
+          "meta_badge": "研究焦點：RAS 突變非小細胞肺癌 (NSCLC)",
+          "footer": "資料來源：Araujo et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "罕見密碼子突變與獲得性抗藥\n如何依賴野生型 RAS 維持訊號？",
+          "points": [
+            "直接靶向罕見突變：確立 KRAS G13C 致癌蛋白在非小細胞肺癌中具備直接小分子標靶結合可行性",
+            "密碼子特異性依賴：揭示第 13 密碼子突變肺癌高度依賴野生型 RAS 協同維持下游致癌訊號傳導",
+            "激酶融合訊號重連：獲得性致癌激酶融合透過活化野生型 RAS，繞過 KRAS G12C 抑制劑封鎖產生抗藥"
+          ],
+          "footer": "資料來源：Araujo et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "針對不同 RAS 突變亞型與抗藥態\n展現哪些臨床治療新契機？",
+          "points": [
+            "化療高敏感性特徵：證實攜帶第 13 密碼子突變之非小細胞肺癌對標準照護化學治療具備更高敏感度",
+            "克服融合抗藥瓶頸：針對激酶融合介導之 G12C 抗藥，阻斷野生型 RAS 重連訊號展現明確治療潛力",
+            "精準分層治療依據：整合突變位點與野生型 RAS 活性狀態，提供個人化標靶或化療選擇之分子依據"
+          ],
+          "footer": "資料來源：Araujo et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從單一突變走向全網絡調控\n破解 RAS 突變肺癌抗藥難題",
+          "summary": "隨著 KRAS G12C 抑制劑廣泛應用於臨床，獲得性抗藥與非 G12C 突變亞型的治療缺口日益迫切。本系列研究證實 KRAS G13C 可被直接靶向，並點出野生型 RAS 在維持突變活性與介導激酶融合抗藥中的雙重關鍵角色。",
+          "cta": "後續觀察：新型 KRAS G13C 抑制劑與泛 RAS 抑制劑於抗藥性肺癌患者之早期臨床試驗數據",
+          "footer": "資料來源：Araujo et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "表觀免疫代謝",
+      "source_name": "SITC (癌症免疫治療學會) / JITC",
+      "source_url": "https://doi.org/10.1136/jitc-2026-015190",
+      "original_title": "Epigenetic targeting of an HBO1-H3K9la-CHI3L1 axis reduces regulatory B cell-mediated CD8",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【SITC 旗艦期刊 JITC：表觀遺傳靶向 HBO1-H3K9la-CHI3L1 軸可減少調節性 B 細胞介導之 CD8+ T 細胞抑制】\n\n發表於癌症免疫治療學會（SITC）官方期刊《癌症免疫治療雜誌》（Journal for Immunotherapy of Cancer, JITC）的研究，探討肺腺癌（LUAD）中異常糖解作用與乳酸堆積如何透過組蛋白乳酸化修飾（Lactylation）重塑免疫抑制微環境。研究團隊運用同基因型 Lewis 肺癌模型與自發性 KrasLSL-G12D 肺腺癌基因改造小鼠，結合 CUT&Tag 與染色質免疫沉澱等技術，解開代謝產物調控表觀遺傳與免疫逃逸的分子鏈結。\n\n■ 核心作用機制：\n1. 組蛋白乳酸化軸：腫瘤微環境累積的乳酸透過組蛋白乙醯轉移酶 HBO1 催化組蛋白 H3 第 9 位離胺酸發生乳酸化修飾（H3K9la），進而直接活化幾丁質酶 3 樣蛋白 1（CHI3L1）之基因轉錄。\n2. 調節性 B 細胞極化：腫瘤分泌的 CHI3L1 誘導 B 細胞極化為具備免疫抑制功能的 CD1dhiCD5+IL-35+ 調節性 B 細胞（Bregs），透過分泌 IL-35 抑制抗腫瘤免疫。\n3. 恢復 T 細胞毒殺：藉由 2-DG 或敲低乳酸脫氫酶（LDH）限制糖解作用，可顯著下調 CHI3L1、減少 IL-35+ 調節性 B 細胞，並恢復顆粒酶 B 陽性（GZMB+）CD8+ T 細胞的浸潤與抗腫瘤活性。\n\n■ 臨床轉譯與研究展望：\n本研究首次確立肺腺癌中「HBO1–H3K9la–CHI3L1」表觀代謝調控軸，證實靶向組蛋白乳酸化修飾或阻斷 CHI3L1/IL-35 訊號，能有效解除調節性 B 細胞對 CD8+ T 細胞的免疫抑制。\n\n■ 資料來源 (References)：\n1. Gu X, Zhu J, Ge T, Chen K, Yang Y, Jin K, et al. Epigenetic targeting of an HBO1-H3K9la-CHI3L1 axis reduces regulatory B cell-mediated CD8 Journal for immunotherapy of cancer (SITC (癌症免疫治療學會) / JITC). 2026. https://doi.org/10.1136/jitc-2026-015190\n2. SITC (癌症免疫治療學會) / JITC. Epigenetic targeting of an HBO1-H3K9la-CHI3L1 axis reduces regulatory B cell-mediated CD8. https://doi.org/10.1136/jitc-2026-015190\n\n#肺腺癌 #表觀遺傳學 #組蛋白乳酸化 #調節性B細胞 #腫瘤代謝 #JITC #SITC",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "SITC 表觀免疫代謝研究",
+          "headline": "靶向肺腺癌組蛋白乳酸化修飾\n抑制調節性 B 細胞極化並恢復\nCD8+ T 細胞抗腫瘤免疫",
+          "subheadline": "解析 HBO1-H3K9la-CHI3L1 表觀代謝軸驅動免疫抑制微環境之機制",
+          "meta_badge": "研究焦點：肺腺癌 (LUAD) 代謝與表觀免疫調控",
+          "footer": "資料來源：Gu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "腫瘤糖解作用產生的乳酸堆積\n如何透過表觀遺傳抑制免疫？",
+          "points": [
+            "組蛋白乳酸化修飾：乳酸經由轉移酶 HBO1 催化形成 H3K9la 修飾，表觀遺傳性上調 CHI3L1 表現",
+            "誘導調節性 B 細胞：高表達之 CHI3L1 促進 B 細胞極化為分泌 IL-35 之 CD1dhiCD5+ 調節性亞群",
+            "抑制毒殺型 T 細胞：IL-35+ 調節性 B 細胞直接抑制腫瘤微環境中 GZMB+CD8+ T 細胞之毒殺功能"
+          ],
+          "footer": "資料來源：Gu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "限制糖解代謝或阻斷下游因子\n能否重塑肺腺癌抗腫瘤微環境？",
+          "points": [
+            "抑制腫瘤生長轉移：於 KrasG12D 肺腺癌小鼠中限制糖解作用，顯著抑制原發腫瘤生長與轉移定殖",
+            "免疫細胞組成逆轉：敲低 LDH 或抑制糖解可大幅下調 CHI3L1，減少調節性 B 細胞並恢復 CD8+ T 細胞",
+            "抗體阻斷驗證機制：使用抗 IL-35 中和抗體與 CD8+ T 細胞清除實驗，確立該軸線之免疫依賴性"
+          ],
+          "footer": "資料來源：Gu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "連結腫瘤瓦氏效應與B細胞調控\n開創表觀代謝免疫治療新靶點",
+          "summary": "糖解作用異常活躍與乳酸堆積是實體瘤的共同特徵。本研究將代謝產物乳酸、HBO1 介導之組蛋白 H3K9 乳酸化修飾與調節性 B 細胞免疫抑制串聯起來，為克服肺腺癌免疫微環境抑制提供了精準的表觀遺傳干預標的。",
+          "cta": "後續觀察：HBO1 專一性小分子抑制劑或抗 CHI3L1 抗體聯合 PD-1 阻斷劑之協同療效評估",
+          "footer": "資料來源：Gu et al. SITC / Journal for immunotherapy of cancer (202"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "巨噬細胞代謝",
+      "source_name": "SITC (癌症免疫治療學會) / JITC",
+      "source_url": "https://doi.org/10.1136/jitc-2026-015875",
+      "original_title": "Gαi3 acts as a metabolic checkpoint orchestrating TAMs immunosuppression and lipid metabolism in glucose-deprived hepatocellular carcinoma.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【SITC 旗艦期刊 JITC：Gαi3 作為代謝檢查點統籌葡萄糖匱乏肝細胞癌中腫瘤相關巨噬細胞之脂質代謝與免疫抑制】\n\n發表於癌症免疫治療學會（SITC）官方期刊《癌症免疫治療雜誌》（Journal for Immunotherapy of Cancer, JITC）的研究，揭示抑制性 G 蛋白 α 亞基 i3（Gαi3）在肝細胞癌（HCC）微環境中作為關鍵「代謝檢查點（Metabolic Checkpoint）」的分子功能。研究團隊結合多重免疫組織化學染色、臨床預後分析以及髓系細胞專一性 Gnai3 基因剔除小鼠模型，剖析腫瘤相關巨噬細胞（TAMs）如何適應葡萄糖匱乏壓力並維持免疫抑制表型。\n\n■ 核心作用機制：\n1. 營養匱乏感應：在肝細胞癌葡萄糖匱乏（Glucose-deprived）的微環境區域中，腫瘤相關巨噬細胞內的 Gαi3 表現量顯著上調，且與臨床不良預後密切相關。\n2. 脂質代謝重編程：透過無細胞激酶分析、代謝體學與海馬生物能量分析（Seahorse Analysis）證實，Gαi3 與 AMPK 交互作用並調控脂肪酸氧化（Fatty Acid Oxidation, FAO），驅動巨噬細胞在缺乏葡萄糖時轉向脂質代謝以獲取能量。\n3. 受體循環與極化：Gαi3 進一步透過調控 GBF1 與表皮生長因子受體（EGFR）之膜表面回收循環（Recycling），維持巨噬細胞的免疫抑制極化狀態，促進肝癌生長。\n\n■ 臨床轉譯與研究展望：\n在 DEN/CCl4 或高脂飲食（HFD）誘導之原位肝癌小鼠模型中，髓系專一性缺失 Gαi3 或藥理學抑制脂肪酸氧化，能有效逆轉巨噬細胞免疫抑制並抑制腫瘤進展，確立 Gαi3 為重塑肝癌髓系免疫微環境的新興代謝檢查點。\n\n■ 資料來源 (References)：\n1. Lu M, Li Y, Du S, Lian S, Luo J, Fang Y, et al. Gαi3 acts as a metabolic checkpoint orchestrating TAMs immunosuppression and lipid metabolism in glucose-deprived hepatocellular carcinoma. Journal for immunotherapy of cancer (SITC (癌症免疫治療學會) / JITC). 2026. https://doi.org/10.1136/jitc-2026-015875\n2. SITC (癌症免疫治療學會) / JITC. Gαi3 acts as a metabolic checkpoint orchestrating TAMs immunosuppression and lipid metabolism in glucose-deprived hepatocellular carcinoma.. https://doi.org/10.1136/jitc-2026-015875\n\n#肝細胞癌 #腫瘤相關巨噬細胞 #代謝檢查點 #脂肪酸氧化 #腫瘤微環境 #JITC #SITC",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "SITC 免疫代謝研究",
+          "headline": "鑑定肝細胞癌新興代謝檢查點\nGαi3 統籌巨噬細胞脂質代謝\n驅動微環境免疫抑制與腫瘤生長",
+          "subheadline": "解析葡萄糖匱乏壓力下 Gαi3 調控脂肪酸氧化與 EGFR 循環之分子機制",
+          "meta_badge": "研究焦點：肝細胞癌 (HCC) 腫瘤相關巨噬細胞",
+          "footer": "資料來源：Lu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "在葡萄糖匱乏的肝癌微環境中\n巨噬細胞如何維持免疫抑制活性？",
+          "points": [
+            "代謝壓力感應上調：於葡萄糖匱乏之肝細胞癌區域內，腫瘤相關巨噬細胞專一性高表達 Gαi3 蛋白",
+            "啟動脂肪酸氧化：Gαi3 透過與 AMPK 激酶交互作用重編程脂質代謝，增強脂肪酸氧化以維持能量供應",
+            "調控受體膜循環：藉由 GBF1 依賴性途徑促進 EGFR 表面回收循環，穩定維持巨噬細胞之促癌極化表型"
+          ],
+          "footer": "資料來源：Lu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "剔除髓系細胞 Gαi3 基因表現\n對肝癌進展與代謝有何具體影響？",
+          "points": [
+            "基因剔除抑制腫瘤：於化學誘導與高脂飲食肝癌小鼠模型中，髓系缺失 Gnai3 顯著延緩肝癌生長",
+            "生物能量代謝逆轉：標靶代謝體學與海馬分析證實，阻斷 Gαi3 或抑制脂肪酸氧化可瓦解免疫抑制表型",
+            "臨床預後獨立指標：多重免疫組化與多變項 Cox 迴歸顯示，TAMs 高表達 Gαi3 為肝癌不良預後因子"
+          ],
+          "footer": "資料來源：Lu et al. SITC / Journal for immunotherapy of cancer (202"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "靶向巨噬細胞脂質代謝轉換\n突破肝細胞癌免疫抑制瓶頸",
+          "summary": "腫瘤相關巨噬細胞是肝細胞癌微環境中最豐富的免疫抑制群體。本研究闡明 Gαi3 如何將環境中的葡萄糖匱乏訊號轉化為脂肪酸氧化與 EGFR 訊號活化，定義出連接營養壓力與髓系免疫逃逸的核心樞紐。",
+          "cta": "後續觀察：靶向髓系 Gαi3 或脂肪酸氧化抑制劑聯合免疫檢查點抑制劑於晚期肝癌之轉譯研究",
+          "footer": "資料來源：Lu et al. SITC / Journal for immunotherapy of cancer (202"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
