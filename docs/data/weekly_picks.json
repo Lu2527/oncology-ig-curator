@@ -4,7 +4,7 @@
       "date": "2026-11-08",
       "post_id": "post-1",
       "picked_at": "2026-11-09T15:02:52.256Z",
-      "issue": null,
+      "issue": "2026-11-09",
       "post": {
         "id": "post-1",
         "category": "乳癌精準治療",
@@ -64,7 +64,7 @@
       "date": "2026-11-07",
       "post_id": "post-3",
       "picked_at": "2026-11-09T15:03:41.732Z",
-      "issue": null,
+      "issue": "2026-11-09",
       "post": {
         "id": "post-3",
         "category": "基因體不穩定性",
@@ -124,7 +124,7 @@
       "date": "2026-11-06",
       "post_id": "post-2",
       "picked_at": "2026-11-09T15:04:18.394Z",
-      "issue": null,
+      "issue": "2026-11-09",
       "post": {
         "id": "post-2",
         "category": "液態切片檢測",
