@@ -59,6 +59,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-07",
+      "post_id": "post-3",
+      "picked_at": "2026-11-09T15:03:41.732Z",
+      "issue": null,
+      "post": {
+        "id": "post-3",
+        "category": "基因體不穩定性",
+        "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+        "source_url": "https://doi.org/10.1007/s10354-026-01202-2",
+        "original_title": "Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma.",
+        "theme_color": "#6D28D9",
+        "accent_color": "#8B5CF6",
+        "caption": "【AACR GENIE 世代研究：基因體改變比例（FGA）於浸潤性乳管癌死亡率預測全面優於腫瘤突變負荷（TMB）】\n\n基於美國癌症研究協會（AACR）GENIE 大型真實世界基因體資料庫，最新發表之機器學習預後研究針對 3,396 例浸潤性乳管癌（Invasive Ductal Carcinoma, IDC）患者進行深度解析。由於乳癌整體點突變率較低，傳統腫瘤突變負荷（Tumor Mutational Burden, TMB）難以捕捉染色體結構變異，導致預後預測價值受限；本研究證實反映拷貝數變異（Copy Number Changes）之基因體改變比例（Fraction Genome Altered, FGA）更能精準代表基因體不穩定性與疾病侵襲性。\n\n■ 研究核心發現：\n1. 四大突變亞型剖析：聚焦於浸潤性乳管癌中最關鍵的四大驅動基因突變亞型（TP53、PIK3CA、GATA3 與 MAP3K1），訓練邏輯迴歸與支援向量機（SVM）機器學習模型。\n2. MAP3K1 預測突破：在 MAP3K1 突變亞型中，以 FGA 作為主要預測因子較 TMB 大幅提升受試者工作特徵曲線下面積（AUROC 由 0.49 躍升至 0.75），使模型由無鑑別力轉為具高度區辨能力。\n3. TP53 準確度提升：於高風險之 TP53 突變患者群中，FGA 模型同樣優於 TMB，不僅改善 AUROC（0.70 vs. 0.69），更將整體死亡率預測準確率由 64% 提升至 67%。\n\n■ 臨床轉譯與研究展望：\n此項基於 AACR GENIE 世代的研究證明，結構性基因體改變（FGA）比單純累計點突變（TMB）更能反映乳癌生物學惡性度，未來整合至臨床基因檢測報告中將大幅強化死亡風險分層。\n\n■ 資料來源 (References)：\n1. Kumari B, Lahariya R, Anand G. Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma. Wiener medizinische Wochenschrift (1946) (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1007/s10354-026-01202-2\n2. AACR (美國癌症研究協會) / Cancer Discovery. Fraction genome altered outperforms tumor mutational burden for machine learning-based mortality prediction across TP53, PIK3CA, GATA3, and MAP3K1 subtypes in invasive ductal carcinoma.. https://doi.org/10.1007/s10354-026-01202-2\n\n#AACR #GENIE #浸潤性乳管癌 #乳癌基因體 #基因體不穩定性 #FGA #TMB #機器學習",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "AACR 基因體預後研究",
+            "headline": "基因體改變比例預測乳癌\n各基因亞型死亡風險表現\n全面超越腫瘤突變負荷",
+            "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1",
+            "subheadline": "AACR GENIE 世代 3,396 例浸潤性乳管癌之機器學習預後模型比較",
+            "meta_badge": "研究焦點：浸潤性乳管癌 (IDC) 結構變異標記"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "分子機制",
+            "headline": "為何基因體改變比例（FGA）\n比腫瘤突變負荷更能反映乳癌惡性度？",
+            "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1",
+            "points": [
+              "突變負荷盲區：浸潤性乳管癌（IDC）整體點突變率偏低，使 TMB 無法有效捕捉染色體結構異常",
+              "拷貝數變異量：FGA 量化全基因體受拷貝數增減影響之比例，直接反映染色體不穩定性與侵襲性",
+              "機器學習建模：結合臨床變數與邏輯迴歸、支援向量機（SVM），跨四大驅動基因亞型驗證預後"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "研究數據",
+            "headline": "三千三百餘例真實世界世代\n各突變亞型之模型鑑別度差異為何？",
+            "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1",
+            "points": [
+              "大型世代規模：納入 AACR GENIE 資料庫 3,396 例涵蓋 TP53、PIK3CA 等突變之患者",
+              "顯著鑑別躍升：於 MAP3K1 突變亞型中，FGA 模型之 AUROC 達 0.75，遠優於 TMB 之 0.49",
+              "提升預測準確：於 TP53 突變亞型中，FGA 預測死亡率之準確率達 67%（TMB 為 64%，AUROC 0.70）"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "從點突變計數轉向染色體\n結構變異主導之乳癌風險分層",
+            "footer": "資料來源：Kumari et al. AACR / Wiener medizinische Wochenschrift (1",
+            "summary": "本研究利用逾三千例 AACR GENIE 乳癌世代證實，基因體改變比例（FGA）在 TP53、PIK3CA、GATA3 與 MAP3K1 四大亞型之死亡率預測上全面超越 TMB，凸顯染色體拷貝數變異在乳癌預後評估中的核心地位。",
+            "cta": "後續觀察：將 FGA 指標整合至常規次世代定序（NGS）報告對早期乳癌治療決策之影響"
+          }
+        ]
+      }
     }
   ]
 }
