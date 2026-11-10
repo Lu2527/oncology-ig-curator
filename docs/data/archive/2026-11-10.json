@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:50:58.616820+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "存活模型外推",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00384",
+      "original_title": "Modeling Long-Term Progression-Free Survival in Newly Diagnosed Multiple Myeloma Treated With Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【ASCO / JCO：DVRd 四藥療法於新診斷多發性骨髓瘤之長期無惡化存活期外推模型】\n\n發表於美國臨床腫瘤學會（ASCO）官方旗艦期刊《臨床腫瘤學雜誌》（Journal of Clinical Oncology, JCO）的最新研究中，研究團隊針對新診斷多發性骨髓瘤（NDMM）患者，分析抗 CD38 單株抗體 Daratumumab 合併 Bortezomib、Lenalidomide 及 Dexamethasone（DVRd）對比傳統三藥（VRd）之長期預後。由於在適合幹細胞移植（TE）的 PERSEUS 試驗與不適合移植（TIE）的 CEPHEUS 試驗中，DVRd 組的中位無惡化存活期（PFS）皆尚未達到，研究團隊依據英國國家健康與照顧卓越研究院（NICE）存活數據外推指引，建立參數模型以評估長期效益。\n\n■ 研究核心發現：\n1. 參數分布擬合：遵循英國 NICE 存活外推指引，研究採用七種參數分布模型擬合 PERSEUS 與 CEPHEUS 試驗之無惡化存活期數據。\n2. 適合移植族群：於 PERSEUS 試驗（TE 族群）中，最佳擬合（指數分布）推估 DVRd 中位 PFS 高達 205 個月（17.1 年），顯著優於 VRd 的 87 個月（7.3 年）。\n3. 不適移植族群：於 CEPHEUS 試驗（TIE 亞群）中，最佳擬合推估 DVRd 中位 PFS 達 100 個月（8.3 年），相較於 VRd 的 53 個月（4.4 年）展現翻倍延長。\n\n■ 臨床轉譯與研究展望：\n此項生物統計建模研究將臨床試驗的中短期隨訪結果轉化為長期疾病控制預測，證實在一線治療中加入 Daratumumab 能為新診斷多發性骨髓瘤患者帶來超過十年的無惡化存活潛力，為第一線四藥聯合療法的長期醫療經濟學評估與臨床決策提供量化依據。\n\n■ 資料來源 (References)：\n1. Sonneveld P, Zweegman S, Facon T, Hungria V, Bahlis NJ, Moreau P, et al. Modeling Long-Term Progression-Free Survival in Newly Diagnosed Multiple Myeloma Treated With Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00384\n2. ASCO (美國臨床腫瘤學會) / JCO. Modeling Long-Term Progression-Free Survival in Newly Diagnosed Multiple Myeloma Treated With Daratumumab, Bortezomib, Lenalidomide, and Dexamethasone.. https://doi.org/10.1200/JCO-26-00384\n\n#多發性骨髓瘤 #Daratumumab #DVRd #無惡化存活期 #ASCO #JCO #血液腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床研究更新",
+          "headline": "DVRd 一線治療骨髓瘤\n推估中位無惡化存活期\n最長可突破 17.1 年",
+          "subheadline": "PERSEUS 與 CEPHEUS 三期臨床試驗之長期存活數據外推模型解析",
+          "meta_badge": "研究焦點：新診斷多發性骨髓瘤 (NDMM)",
+          "footer": "資料來源：Sonneveld et al. ASCO / Journal of clinical oncology : of"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究方法",
+          "headline": "當臨床試驗中位存活尚未達到\n如何精準量化長期治療效益？",
+          "points": [
+            "試驗數據基礎：整合適合移植（PERSEUS）與不適合移植（CEPHEUS）兩大三期試驗之未成熟 PFS 數據",
+            "國際方法指引：嚴格遵循英國國家健康與照顧卓越研究院（NICE）之存活數據外推統計規範",
+            "多重參數建模：套用七種參數分布模型進行曲線擬合，篩選最佳擬合模型以推估長期預後"
+          ],
+          "footer": "資料來源：Sonneveld et al. ASCO / Journal of clinical oncology : of"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "跨族群存活期顯著延長\n四藥聯合方案展現長期控制力",
+          "points": [
+            "適合移植預測：PERSEUS 試驗最佳擬合推估 DVRd 中位 PFS 達 205 個月（17.1 年），VRd 為 87 個月",
+            "不適移植預測：CEPHEUS 試驗最佳擬合推估 DVRd 中位 PFS 達 100 個月（8.3 年），VRd 為 53 個月",
+            "跨模型穩健性：於七種分布模型中，TE 與 TIE 族群之預測中位 PFS 範圍分別達 158-255 與 96-118 個月"
+          ],
+          "footer": "資料來源：Sonneveld et al. ASCO / Journal of clinical oncology : of"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "一線四藥誘導治療確立\n多發性骨髓瘤慢性病化新標竿",
+          "summary": "本研究透過嚴謹的參數存活外推模型，量化了新診斷多發性骨髓瘤接受 DVRd 治療的長期預後。無論患者是否適合接受自體幹細胞移植，加入 Daratumumab 皆能使推估中位無惡化存活期翻倍，支持其作為一線標準治療的長期臨床價值。",
+          "cta": "後續觀察：PERSEUS 與 CEPHEUS 試驗真實世界長期隨訪與整體存活期（OS）最終成熟數據",
+          "footer": "資料來源：Sonneveld et al. ASCO / Journal of clinical oncology : of"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "病理影像分型",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-25-02761",
+      "original_title": "Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ASCO / JCO：基於常規病理影像之共識分子分型（imCMS）提升第二/三期大腸直腸癌預後評估】\n\n發表於美國臨床腫瘤學會（ASCO）旗艦期刊《臨床腫瘤學雜誌》（JCO）的研究中，研究團隊針對局部性第二/三期大腸直腸癌（CRC）風險分層不足的臨床瓶頸，開發出基於常規病理切片影像的共識分子分型分類器（imCMS）。傳統基於轉錄組學（Transcriptome-based）的共識分子分型（CMS）雖能改善風險分層，但因檢測成本與技術門檻高而難以在臨床普及。本研究回溯性分析了探討術後 3 個月對比 6 個月 Oxaliplatin 輔助化療的 SCOT 第三期臨床試驗（ISRCTN59757862）樣本。\n\n■ 研究核心發現：\n1. 數位病理轉換：將轉錄組學 CMS 轉化為直接讀取常規 H&E 病理組織影像的深度學習模型（imCMS），克服基因表現檢測之臨床落地限制。\n2. 亞型分布比例：於 SCOT 試驗共 2,816 例可評估病例中，成功鑑定出 24% imCMS1（免疫型）、35% imCMS2（典型）、15% imCMS3（代謝型）與 23% imCMS4（間質型）。\n3. 預後與預測關聯：透過單變數與多變數 Cox 迴歸分析，證實 imCMS 亞型與臨床病理特徵、腫瘤微環境免疫因子、無復發間隔（RFI）、整體存活期（OS）及復發後存活期（SAR）具顯著關聯。\n\n■ 臨床轉譯與研究展望：\n此項研究證明人工智慧輔助之數位病理影像分析可直接從常規組織切片提取分子亞型資訊，無須額外進行昂貴的 RNA 定序即可完成大腸直腸癌風險分層，為術後輔助化療療程長度的精準決策提供高可近性的生物標記工具。\n\n■ 資料來源 (References)：\n1. Lafarge MW, Harkin A, Iveson T, Saunders M, Adams DJ, Oien K, et al. Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-25-02761\n2. ASCO (美國臨床腫瘤學會) / JCO. Image-Based Consensus Molecular Subtyping Refines Prognostication in Stage II/III Colorectal Cancer: A Retrospective Analysis of the SCOT Trial.. https://doi.org/10.1200/JCO-25-02761\n\n#大腸直腸癌 #數位病理 #共識分子分型 #imCMS #輔助化療 #ASCO #JCO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 分子診斷研究",
+          "headline": "數位病理影像分子分型\n突破基因檢測限制精準預測\n二至三期大腸直腸癌預後",
+          "subheadline": "SCOT 臨床試驗 2,816 例樣本之影像共識分子分型（imCMS）回溯性解析",
+          "meta_badge": "研究設計：SCOT 隨機試驗回溯性生物標記分析",
+          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "如何不依賴轉錄組定序\n完成大腸直腸癌分子分型？",
+          "points": [
+            "檢測瓶頸突破：傳統轉錄組共識分子分型（CMS）具預後價值，但受限於 RNA 檢測成本與操作複雜度",
+            "影像特徵映射：利用新型影像分類器（imCMS），直接從常規病理切片識別對應分子亞型之組織形態特徵",
+            "微環境關聯性：整合分析影像亞型與腫瘤分子變異、免疫細胞浸潤特徵及臨床病理參數之交互作用"
+          ],
+          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "超過兩千八百例臨床驗證\n清晰重現四大核心分子亞型",
+          "points": [
+            "大規模樣本集：納入 SCOT 試驗 2,816 例接受術後 3 或 6 個月 Oxaliplatin 輔助化療之二/三期患者",
+            "亞型精準劃分：鑑定出 24% 免疫型（imCMS1）、35% 典型（imCMS2）、15% 代謝型與 23% 間質型",
+            "多重存活終點：多變數 Cox 迴歸證實 imCMS 可有效細分無復發間隔、整體存活期與復發後存活率"
+          ],
+          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從高成本轉錄組定序邁向\n常規病理切片即時風險分層",
+          "summary": "本研究於大型隨機臨床試驗世代中驗證了影像共識分子分型（imCMS）的臨床效度。透過直接解析常規病理切片，imCMS 大幅降低了分子分型的技術門檻，有助於在臨床常規中識別高復發風險之大腸直腸癌患者並優化術後輔助治療策略。",
+          "cta": "後續觀察：前瞻性臨床試驗驗證 imCMS 指導術後輔助化療升降階之臨床效益",
+          "footer": "資料來源：Lafarge et al. ASCO / Journal of clinical oncology : offi"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "標靶微環境",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108621",
+      "original_title": "daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【ESMO Open：抗 TGF-β 單株抗體 NIS793 聯合化療一線治療轉移性胰臟癌之 daNIS-2 三期試驗解析】\n\n發表於歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》的 daNIS-2 研究，是一項隨機、雙盲的第三期臨床試驗，旨在評估抗轉化生長因子-β（TGF-β）單株抗體 NIS793 聯合標準化療（Gemcitabine 加 Nab-paclitaxel，SOC）對比安慰劑聯合標準化療，作為轉移性胰管腺癌（mPDAC）一線治療之療效與安全性。試驗包含 21 例安全性導入期患者與 490 例 1:1 隨機分派患者。\n\n■ 研究核心發現：\n1. 試驗提前終止：根據期中分析結果，由於 NIS793 聯合治療組顯示出不利的效益風險比（unfavorable benefit-risk profile），試驗宣告提前終止。\n2. 整體存活數據：主要終點整體存活期（OS）分析顯示，NIS793 組中位 OS 為 9.2 個月，反低於安慰劑加標準化療組的 11.2 個月（風險比 HR 為 1.26，95% CI 1.01-1.59）。\n3. 次要療效指標：在整體反應率（ORR）與中位無惡化存活期（PFS）之估計值上，NIS793 聯合治療組同樣呈現較不利的治療效應，儘管兩組整體安全性表現大致相當。\n\n■ 臨床轉譯與研究展望：\n轉移性胰管腺癌具有高度致密的促結締組織增生基質與免疫抑制微環境，TGF-β 長期被視為重塑基質的關鍵靶點。然而 daNIS-2 三期試驗的陰性結果顯示，在未經生物標記篩選的晚期胰臟癌族群中，單純系統性阻斷 TGF-β 不僅無法增強標準化療療效，甚至可能因破壞基質屏障或干擾其雙重抑癌功能而減損存活效益。\n\n■ 資料來源 (References)：\n1. Paulson S, Ikeda M, Shen L, Stein A, Macarulla T, Milella M, et al. daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108621\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. daNIS-2: a phase III, randomized, double-blind study of the anti-TGF-β monoclonal antibody NIS793 or placebo in combination with nab-paclitaxel/gemcitabine as first-line treatment in patients with metastatic pancreatic ductal adenocarcinoma.. https://doi.org/10.1016/j.esmoop.2026.108621\n\n#胰臟癌 #mPDAC #TGFb #NIS793 #臨床三期試驗 #ESMO #腫瘤微環境",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床三期更新",
+          "headline": "抗 TGF-β 單株抗體聯合化療\n一線治療轉移性胰臟癌\n中位存活 9.2 個月未達標",
+          "subheadline": "daNIS-2 隨機雙盲三期臨床試驗期中分析與效益風險評估",
+          "meta_badge": "研究焦點：轉移性胰管腺癌 (mPDAC) 一線治療",
+          "footer": "資料來源：Paulson et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "試驗設計",
+          "headline": "靶向抑制 TGF-β 訊號通路\n能否突破晚期胰臟癌基質屏障？",
+          "points": [
+            "標靶作用機制：NIS793 為抗轉化生長因子-β（TGF-β）單株抗體，旨在調節腫瘤微環境與免疫抑制狀態",
+            "標準化療聯合：評估 NIS793 合併 Gemcitabine 與 Nab-paclitaxel 對比安慰劑加標準化療之一線療效",
+            "嚴謹試驗架構：包含 21 例安全性導入期，隨後將 490 例轉移性胰管腺癌患者進行 1:1 隨機雙盲分派"
+          ],
+          "footer": "資料來源：Paulson et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "期中分析顯示效益風險失衡\n試驗組整體存活期反低於對照組",
+          "points": [
+            "整體存活減損：NIS793 組中位 OS 為 9.2 個月，顯著劣於安慰劑組的 11.2 個月（HR 1.26）",
+            "次要終點表現：無惡化存活期（PFS）與客觀反應率（ORR）之評估結果同樣顯示 NIS793 未具臨床優勢",
+            "研究提前終止：獨立數據監測委員會基於期中分析之不利效益風險比，決議提前終止 daNIS-2 試驗"
+          ],
+          "footer": "資料來源：Paulson et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "全面檢視 TGF-β 雙向調控角色\n反思胰臟癌基質標靶治療策略",
+          "summary": "daNIS-2 試驗的陰性結果為胰臟癌微環境標靶治療提供了重要的臨床警示。TGF-β 在腫瘤演化中兼具促癌與抑癌的複雜雙重功能，全面阻斷該路徑可能帶來非預期的微環境失衡，未來需依賴更精準的生物標記與給藥時機研究。",
+          "cta": "後續觀察：daNIS-2 試驗探索性生物標記分析與特定分子亞群之回溯性反應評估",
+          "footer": "資料來源：Paulson et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "腫瘤代謝免疫",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2385",
+      "original_title": "BRCA1 at the Crossroads of Genome Stability, Mitochondrial Homeostasis, and Tumor Immunity.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【AACR / CCR：BRCA1 於基因體穩定性、粒線體恆定與腫瘤免疫交匯點之整合機制】\n\n發表於美國癌症研究協會（AACR）官方期刊《臨床癌症研究》（Clinical Cancer Research）的最新深度綜述，重新定義了抑癌基因 BRCA1 的生物學版圖。過去 BRCA1 主要因其參與同源重組（HR）介導的 DNA 修復、維持基因體完整性而廣為人知，而同源重組缺陷（HRD）亦成為臨床使用聚腺苷二磷酸核糖聚合酶抑制劑（PARPi）的理論基礎。然而，PARP 抑制劑在臨床上的療效仍不完全，突顯出探索 DNA 修復缺陷以外之合成致死弱點的迫切性。\n\n■ 核心作用機制：\n1. 粒線體品質調控：最新證據顯示 BRCA1 在粒線體（mt）品質控制、細胞代謝重編程（Metabolic rewiring）及氧化還原調節（Redox regulation）中扮演關鍵角色。\n2. 粒線體 DNA 失穩：BRCA1 缺失會導致粒線體功能障礙，引發粒線體 DNA（mtDNA）不穩定與氧化壓力累積，進而重塑腫瘤微環境並強化腫瘤進展。\n3. 先天免疫軸線：BRCA1 協調了一個整合性的「基因體－粒線體－免疫軸線」（genome-mitochondria-immune axis），其網絡破壞會放大基因體不穩定性並觸發發炎訊號與先天免疫反應。\n\n■ 臨床轉譯與研究展望：\n從「基因體－粒線體－免疫」的整合框架檢視 BRCA1 缺陷，能將治療視角從單一的同源重組修復缺陷擴展至細胞代謝與免疫微環境脆弱性，為克服 PARP 抑制劑抗藥性及開發新型代謝與免疫聯合療法開闢新方向。\n\n■ 資料來源 (References)：\n1. Gohari Z, Stojanovic L, Nephew KP, Baylin SB, Rassool FV. BRCA1 at the Crossroads of Genome Stability, Mitochondrial Homeostasis, and Tumor Immunity. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2385\n2. AACR (美國癌症研究協會) / Cancer Discovery. BRCA1 at the Crossroads of Genome Stability, Mitochondrial Homeostasis, and Tumor Immunity.. https://doi.org/10.1158/1078-0432.CCR-26-2385\n\n#BRCA1 #同源重組缺陷 #PARP抑制劑 #粒線體代謝 #腫瘤免疫 #AACR #ClinicalCancerResearch",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 基礎轉譯研究",
+          "headline": "超越同源重組 DNA 修復\n解密 BRCA1 調控粒線體恆定\n與先天腫瘤免疫核心軸線",
+          "subheadline": "探討基因體－粒線體－免疫交互作用網絡與突破 PARP 抑制劑瓶頸之新靶點",
+          "meta_badge": "研究焦點：BRCA1 缺陷腫瘤之代謝與免疫脆弱性",
+          "footer": "資料來源：Gohari et al. AACR / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "BRCA1 缺失如何同時驅動\n代謝重編程與微環境免疫重塑？",
+          "points": [
+            "超越修復傳統：BRCA1 除負責同源重組 DNA 修復外，更直接參與粒線體品質控制與細胞氧化還原平衡",
+            "粒線體失穩態：BRCA1 喪失會誘導粒線體 DNA（mtDNA）不穩定與氧化壓力，驅動腫瘤細胞代謝重編程",
+            "免疫訊號激活：受損之基因體與粒線體釋放壓力訊號，啟動先天免疫路徑並重塑發炎性腫瘤微環境"
+          ],
+          "footer": "資料來源：Gohari et al. AACR / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "轉譯突破",
+          "headline": "突破單一 PARP 抑制劑限制\n發掘多重合成致死治療新契機",
+          "points": [
+            "臨床療效瓶頸：單純依賴同源重組缺陷（HRD）之 PARP 抑制劑臨床反應仍不完全，亟需開發新作用靶點",
+            "三元整合軸線：確立「基因體－粒線體－免疫軸線」為協調癌細胞適應內外在壓力之核心調控網絡",
+            "雙重治療靶點：粒線體功能障礙雖促進腫瘤演進，但也同時創造出對代謝抑制劑與免疫療法之獨特脆弱性"
+          ],
+          "footer": "資料來源：Gohari et al. AACR / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從單一 DNA 修復缺陷邁向\n基因體與粒線體免疫整合標靶",
+          "summary": "本研究將 BRCA1 的生物學功能從細胞核內的同源重組修復，擴展至粒線體代謝恆定與先天免疫訊號的跨胞器整合網絡。此一全新視角不僅解釋了 BRCA1 突變腫瘤的代謝與微環境特徵，更為克服 PARP 抑制劑抗藥性提供了跨領域的聯合治療策略。",
+          "cta": "後續觀察：靶向粒線體代謝或先天免疫路徑聯合 PARP 抑制劑於 BRCA1 缺陷腫瘤之臨床前與早期試驗",
+          "footer": "資料來源：Gohari et al. AACR / Clinical cancer research : an offici"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "標靶再分化",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2415",
+      "original_title": "Kinetics of Re-differentiation with Short-Course Dabrafenib and Trametinib in Patients with Radioiodine-Refractory Thyroid Cancer.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【AACR / CCR：短療程 Dabrafenib 合併 Trametinib 誘導放射碘難治性甲狀腺癌再分化之動力學研究】\n\n發表於美國癌症研究協會（AACR）官方期刊《臨床癌症研究》（Clinical Cancer Research）的多中心第二期臨床試驗，探討了絲裂原活化蛋白激酶（MAPK）路徑抑制劑於放射碘難治性（Radioiodine-refractory）甲狀腺癌中的「再分化」（Re-differentiation）動力學。MAPK 路徑過度活化會抑制包含鈉碘同向運輸蛋白（NIS）在內的碘處理基因表現，導致甲狀腺癌喪失碘親和力。過去 BRAF/MEK 抑制劑再分化試驗多採用經驗性的 4 至 6 週給藥，而本研究評估了短療程給藥能否快速恢復放射碘攝取。\n\n■ 研究核心發現：\n1. 分子影像定量：納入具 BRAF V600E 或 RAS 突變之惡化轉移性放射碘難治性甲狀腺癌患者，於接受 Dabrafenib 加 Trametinib 治療前與治療 2 週後進行 I-124 PET/CT 劑量測定（若未達標則於第 4 週重複造影）。\n2. 嚴謹劑量終點：主要終點設定為在給予不超過 300 mCi 之 I-131 活性下，病灶預測吸收輻射劑量需達到 ≥20 Gy。\n3. 臨床轉化成果：在 14 例受試患者中，高達 9 例（64%）成功達到劑量測定標準並接受放射碘（I-131）治療，證實短療程雙標靶抑制即可有效誘導 NIS 再表現。\n\n■ 臨床轉譯與研究展望：\n此項研究透過精準的 I-124 PET/CT 分子影像動力學監測，證實僅需 2 至 4 週的短療程 BRAF/MEK 雙標靶治療，即可讓超過六成的放射碘難治性甲狀腺癌患者恢復具臨床意義的放射碘攝取，大幅縮短標靶誘導時間並降低長期用藥毒性與醫療成本。\n\n■ 資料來源 (References)：\n1. Yang SP, Loke KSH, Chua WM, Chong WQ, Nga ME, Wong RTX, et al. Kinetics of Re-differentiation with Short-Course Dabrafenib and Trametinib in Patients with Radioiodine-Refractory Thyroid Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2415\n2. AACR (美國癌症研究協會) / Cancer Discovery. Kinetics of Re-differentiation with Short-Course Dabrafenib and Trametinib in Patients with Radioiodine-Refractory Thyroid Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2415\n\n#甲狀腺癌 #放射碘難治性 #再分化治療 #Dabrafenib #Trametinib #AACR #核子醫學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 臨床二期研究",
+          "headline": "短療程雙標靶誘導再分化\n使 64% 放射碘難治甲狀腺癌\n成功恢復放射碘攝取能力",
+          "subheadline": "Dabrafenib 合併 Trametinib 治療動力學與 I-124 PET/CT 劑量測定研究",
+          "meta_badge": "研究設計：多中心第二期臨床試驗 (BRAF/RAS 突變)",
+          "footer": "資料來源：Yang et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "阻斷 MAPK 致癌訊號通路\n如何逆轉甲狀腺癌放射碘抗性？",
+          "points": [
+            "失分化致病機轉：BRAF V600E 或 RAS 突變活化 MAPK 路徑，抑制鈉碘同向運輸蛋白（NIS）等碘代謝基因",
+            "縮短誘導週期：突破過往經驗性 4 至 6 週給藥模式，於雙標靶治療第 2 週即啟動高精準度分子影像評估",
+            "精準劑量導引：利用 I-124 PET/CT 進行病灶輻射劑量測定，確保在 ≤300 mCi 下病灶吸收劑量達 20 Gy"
+          ],
+          "footer": "資料來源：Yang et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "逾六成患者達標接受碘治療\n確立短療程標靶誘導臨床可行性",
+          "points": [
+            "收案患者特徵：納入 14 例攜帶 BRAF V600E 或 RAS 突變且疾病惡化之轉移性放射碘難治性甲狀腺癌患者",
+            "高再分化比例：14 例中有 9 例（64%）成功達到 I-124 PET/CT 預測吸收劑量 ≥20 Gy 之主要終點並接受治療",
+            "多重療效評估：同步追蹤 RECIST 客觀腫瘤反應、無惡化存活期（PFS）、甲狀腺球蛋白變化與治療安全性"
+          ],
+          "footer": "資料來源：Yang et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "結合定量分子影像劑量學\n實現精準短程標靶再分化治療",
+          "summary": "本研究證實短療程 Dabrafenib 與 Trametinib 即可快速逆轉 MAPK 路徑對碘攝取基因的抑制。結合 I-124 PET/CT 劑量學篩選，不僅能避免無效患者接受不必要的放射碘暴露，更確立了高效、低毒性的短程誘導再分化治療新模式。",
+          "cta": "後續觀察：短療程再分化治療後之長期無惡化存活期（PFS）與再次誘導治療之可行性評估",
+          "footer": "資料來源：Yang et al. AACR / Clinical cancer research : an official"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
