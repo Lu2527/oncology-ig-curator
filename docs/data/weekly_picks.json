@@ -179,6 +179,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-11",
+      "post_id": "post-1",
+      "picked_at": "2026-11-11T04:27:39.547Z",
+      "issue": null,
+      "post": {
+        "id": "post-1",
+        "category": "合成致死標靶",
+        "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+        "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2695",
+        "original_title": "Prevalence and Actionability of MTAP Loss in Driver Oncogene-Positive and Oncogene-Negative Lung Cancer.",
+        "theme_color": "#0F766E",
+        "accent_color": "#14B8A6",
+        "caption": "【AACR 臨床癌症研究：NSCLC 中 MTAP 缺失之盛行率與 PRMT5 標靶協同潛力】\n\n美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》發表最新研究，深入剖析非小細胞肺癌（NSCLC）中甲硫腺苷磷酸化酶（MTAP）表現缺失之臨床病理特徵。由於次世代定序（NGS）在檢測基因拷貝數缺失時可能低估實際發生率，研究團隊針對 243 例 NSCLC 檢體（包含 132 例早期與 111 例轉移性腫瘤）採用免疫組織化學染色（IHC）評估 MTAP 蛋白表現，並於帶有 EGFR、KRAS 突變或 ALK 基因重組之 MTAP 缺失細胞株中，測試蛋白質精胺酸甲基轉移酶 5（PRMT5）抑制劑單藥及合併酪胺酸激酶抑制劑（TKI）之抗腫瘤活性。\n\n■ 研究核心發現：\n1. 合成致死機制：MTAP 基因缺失在 NSCLC 中常與可標靶之驅動基因變異共同發生，並使癌細胞對 PRMT5 抑制產生合成致死（Synthetic Lethality）之高度脆弱性。\n2. 臨床盛行數據：在 240 位患者之 243 例檢體中（72% 具驅動基因變異、90% 為肺腺癌），IHC 鑑定出 17%（42 例）具 MTAP 缺失；其中早期佔 13%，轉移性佔 20%，第四期具驅動基因變異者達 24%。\n3. 轉移異質分析：在 33 對原發肺腫瘤與配對淋巴結檢體中，64%（21 對）表現具一致性，另有 8 例僅於淋巴結轉移灶中觀察到 MTAP 表現下降，顯示腫瘤演進過程中的空間異質性。\n\n■ 臨床轉譯與研究展望：\n本研究證實 IHC 能有效捕捉 NSCLC 中的 MTAP 蛋白缺失，且在第四期驅動基因陽性患者中具有相當比例的發生率。透過將 PRMT5 抑制劑與既有之 EGFR、KRAS 或 ALK 標靶藥物結合，為克服驅動基因陽性肺癌之標靶抗藥性與聯合治療策略提供了關鍵的臨床前與病理學依據。\n\n■ 資料來源 (References)：\n1. Sakai T, Piotrowska Z, Wang CI, Yeap BY, Sabbagh M, Heist RS, et al. Prevalence and Actionability of MTAP Loss in Driver Oncogene-Positive and Oncogene-Negative Lung Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2695\n2. AACR (美國癌症研究協會) / Cancer Discovery. Prevalence and Actionability of MTAP Loss in Driver Oncogene-Positive and Oncogene-Negative Lung Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2695\n\n#非小細胞肺癌 #NSCLC #MTAP缺失 #PRMT5抑制劑 #合成致死 #AACR #精準腫瘤學",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "AACR 轉譯醫學研究",
+            "headline": "非小細胞肺癌 MTAP 缺失\n於第四期驅動基因陽性腫瘤\n盛行率達 24% 具標靶潛力",
+            "footer": "資料來源：Sakai et al. AACR / Clinical cancer research : an officia",
+            "subheadline": "透過免疫組織化學染色解析 MTAP 缺失分佈與 PRMT5 抑制劑聯合療效",
+            "meta_badge": "研究焦點：非小細胞肺癌 (NSCLC) 合成致死標靶"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "分子機制",
+            "headline": "MTAP 蛋白缺失如何創造\nPRMT5 標靶治療之脆弱性？",
+            "footer": "資料來源：Sakai et al. AACR / Clinical cancer research : an officia",
+            "points": [
+              "合成致死效應：MTAP 缺失會導致細胞內代謝物累積，使癌細胞高度依賴 PRMT5 活性以維持生存",
+              "檢測方法優化：傳統次世代定序易低估基因拷貝數缺失，採用免疫組織化學染色可直接評估蛋白缺失",
+              "驅動基因共現：於 EGFR、KRAS 突變或 ALK 重組之細胞株中，探討 PRMT5 抑制劑合併 TKI 之協同活性"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "研究數據",
+            "headline": "243 例肺癌檢體免疫染色\n揭示臨床分期與淋巴結差異",
+            "footer": "資料來源：Sakai et al. AACR / Clinical cancer research : an officia",
+            "points": [
+              "整體盛行比例：於 243 例 NSCLC 檢體中鑑定出 42 例（17%）MTAP 缺失，早期與轉移性分別佔 13% 與 20%",
+              "驅動基因關聯：在第四期腫瘤中，具驅動基因變異者之 MTAP 缺失率為 24%，無驅動基因者則為 14%",
+              "原發轉移比對：33 對肺與淋巴結配對檢體中 64% 具一致性，惟有 8 例僅於淋巴結出現 MTAP 表現下降"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "結合蛋白層級生物標記篩檢\n拓展驅動基因肺癌聯合標靶",
+            "footer": "資料來源：Sakai et al. AACR / Clinical cancer research : an officia",
+            "summary": "本研究凸顯以 IHC 檢測 MTAP 表現於非小細胞肺癌之臨床實用性，特別是在晚期具驅動基因變異之肺腺癌族群中。釐清原發灶與淋巴結間的表現差異，並驗證 PRMT5 抑制劑與 TKI 之合併潛力，為未來精準分層臨床試驗奠定重要基礎。",
+            "cta": "後續觀察：PRMT5 抑制劑合併 TKI 於 MTAP 缺失伴隨 EGFR/KRAS/ALK 變異患者之臨床試驗數據"
+          }
+        ]
+      }
     }
   ]
 }
