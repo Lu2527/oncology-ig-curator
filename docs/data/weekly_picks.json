@@ -239,6 +239,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-11",
+      "post_id": "post-2",
+      "picked_at": "2026-11-11T04:29:06.774Z",
+      "issue": null,
+      "post": {
+        "id": "post-2",
+        "category": "鼻咽癌免疫治療",
+        "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+        "source_url": "https://doi.org/10.1200/JCO-26-02650",
+        "original_title": "Treatment of Recurrent and/or Metastatic Nasopharyngeal Carcinoma: CSCO and ASCO Joint Guideline.",
+        "theme_color": "#1D4ED8",
+        "accent_color": "#3B82F6",
+        "caption": "【ASCO 與 CSCO 聯合臨床指引：復發或轉移性鼻咽癌之全身性與局部整合治療標準】\n\n美國臨床腫瘤學會（ASCO）與中國臨床腫瘤學會（CSCO）於旗艦期刊《Journal of Clinical Oncology》（JCO）發布復發及／或轉移性鼻咽癌（R/M NPC）聯合臨床診療指引。專家委員會系統性回顧隨機對照臨床試驗、統合分析與前瞻性研究，針對第一線與後線全身性治療、維持性治療、局部區域鞏固治療以及救援性局部治療，以整體存活期（OS）、無惡化存活期（PFS）、客觀緩解率與生活品質為核心終點，提出具實證基礎之國際共識。\n\n■ 研究核心發現：\n1. 一線標準治療：針對體能狀態良好之復發或轉移性鼻咽癌患者，實證強烈支持以含鉑化學治療合併細胞程式死亡蛋白-1（PD-1）抑制劑作為首選第一線全身性治療方案。\n2. 維持治療策略：在達到疾病控制（Disease Control）後，臨床實證支持導入維持性治療策略以延緩疾病惡化，具體方案需依據既有療程、病灶範圍與耐受度進行個體化裁量。\n3. 局部鞏固介入：對於全身性治療反應良好的特定轉移性患者，可進一步評估給予局部區域鞏固性放射治療（Locoregional Consolidation Radiotherapy），以強化疾病控制。\n\n■ 臨床轉譯與研究展望：\n此份 CSCO-ASCO 聯合指引正式將「含鉑化療加上 PD-1 免疫檢查點抑制劑」確立為晚期鼻咽癌的一線治療基石，並強調全身性免疫化療與局部放射治療之多專科整合，為全球鼻咽癌高發區與歐美醫療體系提供了一致的循證決策框架。\n\n■ 資料來源 (References)：\n1. Jiang W, Ismaila N, Chua ML, Haddad R, Le QT, Colevas AD, et al. Treatment of Recurrent and/or Metastatic Nasopharyngeal Carcinoma: CSCO and ASCO Joint Guideline. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-02650\n2. ASCO (美國臨床腫瘤學會) / JCO. Treatment of Recurrent and/or Metastatic Nasopharyngeal Carcinoma: CSCO and ASCO Joint Guideline.. https://doi.org/10.1200/JCO-26-02650\n\n#鼻咽癌 #NPC #PD1抑制劑 #免疫合併化療 #ASCO #JCO #腫瘤臨床指引",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "ASCO 臨床指引發布",
+            "headline": "復發或轉移性鼻咽癌治療\n確立含鉑化療合併 PD-1\n為第一線首選標準方案",
+            "footer": "資料來源：Jiang et al. ASCO / Journal of clinical oncology : offici",
+            "subheadline": "CSCO 與 ASCO 聯合發布全身性免疫化療、維持治療與局部鞏固放療共識",
+            "meta_badge": "研究設計：系統性文獻回顧與多專科專家共識"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "治療策略",
+            "headline": "晚期鼻咽癌如何透過多模式\n整合治療極大化存活效益？",
+            "footer": "資料來源：Jiang et al. ASCO / Journal of clinical oncology : offici",
+            "points": [
+              "一線免疫化療：針對體能適合之患者，以含鉑化療結合 PD-1 抑制劑協同強化全身抗腫瘤免疫反應",
+              "疾病控制維持：於誘導階段達成疾病控制後銜接維持性治療，持續抑制微量殘存腫瘤克隆增殖",
+              "局部鞏固放療：對全身性治療具良好反應之特定患者，輔以局部區域鞏固性放射治療強化控制"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "評估指標",
+            "headline": "跨情境臨床實證綜合評估\n存活終點與患者生活品質",
+            "footer": "資料來源：Jiang et al. ASCO / Journal of clinical oncology : offici",
+            "points": [
+              "核心療效終點：全面檢視隨機臨床試驗之整體存活期（OS）、無惡化存活期（PFS）與疾病控制率",
+              "後線個體裁量：後續治療選擇須綜合考量既往用藥史、疾病侵犯範圍、體能狀態與醫療資源可近性",
+              "毒性與生活品質：平衡全身性與救援性局部治療之急慢性毒性風險，納入患者中心之生活品質結果"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "從傳統單一化學治療邁向\n免疫聯合與局部整合新典範",
+            "footer": "資料來源：Jiang et al. ASCO / Journal of clinical oncology : offici",
+            "summary": "CSCO 與 ASCO 聯合指引整合近年大型隨機臨床試驗成果，確立 PD-1 抑制劑於復發或轉移性鼻咽癌一線治療之核心地位，同時界定維持治療與局部鞏固放療之適用情境，實現全身與局部協同控制的精準管理。",
+            "cta": "後續觀察：PD-1 抑制劑抗藥後之二線標靶/雙特異性抗體策略與寡轉移局部鞏固放療之長期存活數據"
+          }
+        ]
+      }
     }
   ]
 }
