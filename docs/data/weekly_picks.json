@@ -299,6 +299,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-12",
+      "post_id": "post-2",
+      "picked_at": "2026-11-12T13:52:44.135Z",
+      "issue": null,
+      "post": {
+        "id": "post-2",
+        "category": "生物標記輔助",
+        "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+        "source_url": "https://doi.org/10.1007/s12029-026-01637-1",
+        "original_title": "From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer.",
+        "theme_color": "#1D4ED8",
+        "accent_color": "#3B82F6",
+        "caption": "【整合 ASCO 與 ESMO 臨床證據：PI3K 變異大腸直腸癌之術後 Aspirin 生物標記導向輔助治療架構】\n\n綜合美國臨床腫瘤學會（ASCO）、歐洲腫瘤內科學會（ESMO）及截至 2026 年 9 月之最新臨床試驗數據，《Journal of Gastrointestinal Cancer》發表針對磷脂醯肌醇 3-激酶（PI3K）路徑變異大腸直腸癌（CRC）術後使用 Aspirin 輔助治療之臨床實證綜述。過去在未經分子生物標記篩選的廣泛大腸直腸癌族群中，術後 Aspirin 輔助治療結果並不一致；然而 ALASCCA 隨機臨床試驗數據支持以 PIK3CA 突變作為分子篩選指標之精準預防策略，每日口服 160 mg Aspirin 持續 3 年，可使特定基因變異族群之 3 年復發率由 14.1% 顯著降至 7.7%（風險比 HR 0.49）。\n\n■ 研究核心發現：\n1. 未篩選族群限制：大型隨機試驗 ASCOLT 與 EPISODE-III/JCOG1503C 在未經分子篩選之大腸直腸癌患者中，均未達到無病存活期（DFS）主要終點。\n2. 热点突變獲益：ALASCCA 試驗顯示，針對 A 組（PIK3CA 外顯子 9 或 20 熱點突變）腫瘤患者，3 年 Aspirin 治療降低 51% 復發風險（HR 0.49，95% CI 0.24-0.98）。\n3. 次要分子亞群：ALASCCA 試驗中具分子異質性之 B 組次要分析亦呈現復發率下降趨勢（7.7% 對比 16.8%；HR 0.42，95% CI 0.21-0.83）。\n\n■ 臨床轉譯與研究展望：\n藥理學上，低劑量 Aspirin 對血小板環氧合酶-1（COX-1）與血栓素（Thromboxane）之抑制機制已明確建立，而對腫瘤細胞 COX-2 及 PI3K 路徑之直接抑制效應則待進一步釐清。此分析建立了從經驗性用藥轉向 PIK3CA 分子標記導向之大腸直腸癌術後輔助治療評估架構。\n\n■ 資料來源 (References)：\n1. Sagawa T, Hirakawa M, Nagashima H, Fujikawa K. From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer. Journal of gastrointestinal cancer (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1007/s12029-026-01637-1\n2. ASCO (美國臨床腫瘤學會) / JCO. From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer.. https://doi.org/10.1007/s12029-026-01637-1\n\n#大腸直腸癌 #PIK3CA #生物標記 #輔助治療 #ASCO #ESMO",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "ASCO / ESMO 實證綜述",
+            "headline": "生物標記導向阿斯匹靈\n降低 PIK3CA 突變腸癌\n三年術後復發風險 51%",
+            "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer (",
+            "subheadline": "從 ASCOLT 到 ALASCCA 試驗之 PI3K 變異大腸直腸癌輔助治療解析",
+            "meta_badge": "研究焦點：PIK3CA 突變大腸直腸癌術後輔助治療"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "分子機制",
+            "headline": "阿斯匹靈如何針對特定基因型\n抑制術後微轉移與腫瘤復發？",
+            "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer (",
+            "points": [
+              "血小板酶抑制：低劑量 Aspirin 不可逆抑制血小板 COX-1 與血栓素生成，阻斷血小板介導之腫瘤播散",
+              "訊號路徑交互：針對 PIK3CA 外顯子 9/20 熱點突變腫瘤，調節發炎微環境與潛在之 COX-2 下游反應",
+              "分子精準分層：排除無特定基因變異之非獲益族群，聚焦於 PI3K 訊號異常活化之高復發風險亞型"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "臨床數據",
+            "headline": "跨試驗隨機對照數據對比\n分子篩選前後療效差異為何？",
+            "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer (",
+            "points": [
+              "非篩選試驗結果：ASCOLT 與 JCOG1503C 於未篩選族群未達無病存活期（DFS）主要終點",
+              "熱點突變數據：ALASCCA 試驗 A 組（PIK3CA 外顯子 9/20）3 年復發率由 14.1% 降至 7.7%（HR 0.49）",
+              "次要亞群分析：ALASCCA 試驗 B 組異質性變異族群 3 年復發率亦由 16.8% 降至 7.7%（HR 0.42）"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "從廣譜經驗性化學預防\n轉向 PIK3CA 標記精準輔助",
+            "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer (",
+            "summary": "大腸直腸癌術後輔助使用 Aspirin 在未篩選族群中療效有限，但 ALASCCA 試驗確立了 PIK3CA 外顯子 9/20 熱點突變作為預測性生物標記的臨床價值，展示老藥新用結合次世代定序分層之精準腫瘤學潛力。",
+            "cta": "後續觀察：PIK3CA 非熱點突變亞群之確切獲益幅度與長期整體存活期（OS）與出血風險平衡"
+          }
+        ]
+      }
     }
   ]
 }
