@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T12:27:52.813086+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "中樞神經轉移",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2610",
+      "original_title": "Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【AACR 旗艦期刊公布去化療四藥聯合方案治療 HR+/HER2+ 乳癌腦轉移之二期臨床數據】\n\n發表於美國癌症研究協會（AACR）旗下權威期刊《Clinical Cancer Research》的多中心單臂二期臨床試驗，針對荷爾蒙受體陽性且第二型人類表皮生長因子受體陽性（HR+/HER2+）晚期乳癌（ABC）合併可測量腦轉移（BMs）患者，評估免化療四藥聯合方案：CDK4/6 抑制劑 Palbociclib、選擇性雌激素受體降解劑 Fulvestrant、抗 HER2 單株抗體 Trastuzumab 與不可逆泛 HER 酪胺酸激酶抑制劑 Pyrotinib。此類雙陽性乳癌患者發生中樞神經系統轉移風險高，但過去缺乏前瞻性全身系統治療實證。在未接受過目標病灶局部治療的 29 名可評估患者中，確認之中樞神經系統客觀緩解率（CNS-ORR）達 58.6%，整體客觀緩解率（ORR）達 62.1%，展現顯著顱內抗腫瘤活性。\n\n■ 核心作用機制：\n1. 雙重訊號阻斷：同時抑制雌激素受體（ER）與 HER2 訊息傳遞路徑，克服兩者交互作用所誘導之代償性抗藥機制。\n2. 穿透血腦屏障：小分子酪胺酸激酶抑制劑 Pyrotinib 結合 CDK4/6 抑制劑 Palbociclib，具備較佳的中樞神經系統穿透能力。\n3. 細胞週期逮捕：藉由阻斷細胞週期蛋白 D-CDK4/6-Rb 軸線並封鎖上游生長因子受體，協同誘導顱內外腫瘤細胞凋亡。\n\n■ 臨床轉譯與研究展望：\n此項自 2020 年 12 月至 2026 年 2 月收案 32 名患者的前瞻性試驗，確立了免化療全標靶與內分泌聯合策略於 HR+/HER2+ 乳癌腦轉移的可行性。在延緩顱內局部放射治療或手術需求的同時維持可控毒性，為三陽性晚期乳癌之中樞神經系統轉移提供具潛力的系統性治療新選擇。\n\n■ 資料來源 (References)：\n1. Chen D, Wang N, Xu F, Xia W, Lu Y, Huang J, et al. Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2610\n2. AACR (美國癌症研究協會) / Cancer Discovery. Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial.. https://doi.org/10.1158/1078-0432.CCR-26-2610\n\n#乳癌腦轉移 #雙陽性乳癌 #標靶治療 #AACR #臨床試驗 #腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 二期臨床試驗",
+          "headline": "免化療四藥標靶內分泌\n治療雙陽性乳癌腦轉移\n顱內緩解率達 58.6%",
+          "subheadline": "Palbociclib、Fulvestrant、Trastuzumab 與 Pyrotinib 聯合研究解析",
+          "meta_badge": "研究設計：前瞻性多中心單臂二期臨床試驗",
+          "footer": "資料來源：Chen et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "免化療全標靶內分泌聯合\n如何發揮顱內協同抑制效應？",
+          "points": [
+            "雙重路徑阻斷：同步封鎖 ER 與 HER2 訊號網路，阻絕雙路徑交叉激活引發之代償性存活訊號",
+            "小分子穿透性：小分子 TKI 藥物 Pyrotinib 與大分子抗體互補，強化穿越血腦屏障抑制腦轉移病灶",
+            "週期協同抑制：Palbociclib 抑制 CDK4/6 活性，配合上游受體阻斷使癌細胞停滯於 G1 期"
+          ],
+          "footer": "資料來源：Chen et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "未經局部治療腦轉移患者\n顱內與整體腫瘤控制表現如何？",
+          "points": [
+            "研究收案規模：自 2020 年 12 月至 2026 年 2 月共納入 32 名具可測量腦轉移之雙陽性乳癌患者",
+            "顱內緩解表現：於 29 名可評估患者中，確認之中樞神經系統客觀緩解率（CNS-ORR）達 58.6%",
+            "整體反應數據：全身整體客觀緩解率（ORR）達 62.1%，且整體安全性與毒性反應維持於可控範圍"
+          ],
+          "footer": "資料來源：Chen et al. AACR / Clinical cancer research : an official"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統化療與局部放療\n邁向精準全標靶顱內控制",
+          "summary": "HR+/HER2+ 晚期乳癌合併腦轉移長期缺乏前瞻性系統治療實證。本研究證實免化療四藥聯合方案在未經腦部局部治療患者中具備高顱內緩解率，為延緩腦部放射治療相關神經認知毒性及改善生活品質奠定臨床基礎。",
+          "cta": "後續觀察：中樞神經系統無惡化存活期（CNS-PFS）與整體存活期（OS）之長期隨訪數據",
+          "footer": "資料來源：Chen et al. AACR / Clinical cancer research : an official"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "生物標記輔助",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1007/s12029-026-01637-1",
+      "original_title": "From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【整合 ASCO 與 ESMO 臨床證據：PI3K 變異大腸直腸癌之術後 Aspirin 生物標記導向輔助治療架構】\n\n綜合美國臨床腫瘤學會（ASCO）、歐洲腫瘤內科學會（ESMO）及截至 2026 年 9 月之最新臨床試驗數據，《Journal of Gastrointestinal Cancer》發表針對磷脂醯肌醇 3-激酶（PI3K）路徑變異大腸直腸癌（CRC）術後使用 Aspirin 輔助治療之臨床實證綜述。過去在未經分子生物標記篩選的廣泛大腸直腸癌族群中，術後 Aspirin 輔助治療結果並不一致；然而 ALASCCA 隨機臨床試驗數據支持以 PIK3CA 突變作為分子篩選指標之精準預防策略，每日口服 160 mg Aspirin 持續 3 年，可使特定基因變異族群之 3 年復發率由 14.1% 顯著降至 7.7%（風險比 HR 0.49）。\n\n■ 研究核心發現：\n1. 未篩選族群限制：大型隨機試驗 ASCOLT 與 EPISODE-III/JCOG1503C 在未經分子篩選之大腸直腸癌患者中，均未達到無病存活期（DFS）主要終點。\n2. 热点突變獲益：ALASCCA 試驗顯示，針對 A 組（PIK3CA 外顯子 9 或 20 熱點突變）腫瘤患者，3 年 Aspirin 治療降低 51% 復發風險（HR 0.49，95% CI 0.24-0.98）。\n3. 次要分子亞群：ALASCCA 試驗中具分子異質性之 B 組次要分析亦呈現復發率下降趨勢（7.7% 對比 16.8%；HR 0.42，95% CI 0.21-0.83）。\n\n■ 臨床轉譯與研究展望：\n藥理學上，低劑量 Aspirin 對血小板環氧合酶-1（COX-1）與血栓素（Thromboxane）之抑制機制已明確建立，而對腫瘤細胞 COX-2 及 PI3K 路徑之直接抑制效應則待進一步釐清。此分析建立了從經驗性用藥轉向 PIK3CA 分子標記導向之大腸直腸癌術後輔助治療評估架構。\n\n■ 資料來源 (References)：\n1. Sagawa T, Hirakawa M, Nagashima H, Fujikawa K. From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer. Journal of gastrointestinal cancer (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1007/s12029-026-01637-1\n2. ASCO (美國臨床腫瘤學會) / JCO. From ASCOLT to ALASCCA: A Practical Framework for Biomarker-Selected Adjuvant Aspirin in PI3K-Altered Colorectal Cancer.. https://doi.org/10.1007/s12029-026-01637-1\n\n#大腸直腸癌 #PIK3CA #生物標記 #輔助治療 #ASCO #ESMO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO / ESMO 實證綜述",
+          "headline": "生物標記導向阿斯匹靈\n降低 PIK3CA 突變腸癌\n三年術後復發風險 51%",
+          "subheadline": "從 ASCOLT 到 ALASCCA 試驗之 PI3K 變異大腸直腸癌輔助治療解析",
+          "meta_badge": "研究焦點：PIK3CA 突變大腸直腸癌術後輔助治療",
+          "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer ("
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "阿斯匹靈如何針對特定基因型\n抑制術後微轉移與腫瘤復發？",
+          "points": [
+            "血小板酶抑制：低劑量 Aspirin 不可逆抑制血小板 COX-1 與血栓素生成，阻斷血小板介導之腫瘤播散",
+            "訊號路徑交互：針對 PIK3CA 外顯子 9/20 熱點突變腫瘤，調節發炎微環境與潛在之 COX-2 下游反應",
+            "分子精準分層：排除無特定基因變異之非獲益族群，聚焦於 PI3K 訊號異常活化之高復發風險亞型"
+          ],
+          "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer ("
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "跨試驗隨機對照數據對比\n分子篩選前後療效差異為何？",
+          "points": [
+            "非篩選試驗結果：ASCOLT 與 JCOG1503C 於未篩選族群未達無病存活期（DFS）主要終點",
+            "熱點突變數據：ALASCCA 試驗 A 組（PIK3CA 外顯子 9/20）3 年復發率由 14.1% 降至 7.7%（HR 0.49）",
+            "次要亞群分析：ALASCCA 試驗 B 組異質性變異族群 3 年復發率亦由 16.8% 降至 7.7%（HR 0.42）"
+          ],
+          "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer ("
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從廣譜經驗性化學預防\n轉向 PIK3CA 標記精準輔助",
+          "summary": "大腸直腸癌術後輔助使用 Aspirin 在未篩選族群中療效有限，但 ALASCCA 試驗確立了 PIK3CA 外顯子 9/20 熱點突變作為預測性生物標記的臨床價值，展示老藥新用結合次世代定序分層之精準腫瘤學潛力。",
+          "cta": "後續觀察：PIK3CA 非熱點突變亞群之確切獲益幅度與長期整體存活期（OS）與出血風險平衡",
+          "footer": "資料來源：Sagawa et al. ASCO / Journal of gastrointestinal cancer ("
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "代謝放射增敏",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-0700",
+      "original_title": "Targeting DHFR to suppress one-carbon metabolism and enhance radiation sensitivity in patients with NRF2-active head and neck squamous cell carcinoma.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【AACR 旗艦期刊揭示靶向 DHFR 抑制單碳代謝可逆轉 NRF2 活化頭頸癌之放射治療抗性】\n\n發表於美國癌症研究協會（AACR）旗下《Clinical Cancer Research》的轉譯醫學研究與早期臨床試驗（NCT05678348），探討二氫葉酸還原酶（DHFR）抑制劑 Pyrimethamine 及其強效類似物 WCDD115 於核因子 E2 相關因子 2（NRF2）高度活化之頭頸部鱗狀細胞癌（HNSCC）中的放射增敏機制。臨床上 NRF2 過度活化與頭頸癌之放射治療抗性密切相關；研究團隊結合臨床前同源腫瘤移植模型與針對未曾治療之人類乳突病毒陰性（HPV-）第三/四期 HNSCC 患者之術前機會之窗（Window-of-opportunity）早期一期臨床試驗，證實抑制單碳代謝（One-carbon metabolism）可顯著增強放射線誘導之 DNA 損傷。\n\n■ 核心作用機制：\n1. 阻斷單碳代謝：透過小分子抑制劑靶向 DHFR，抑制葉酸循環與單碳代謝路徑，削弱腫瘤細胞抗氧化與修復資源。\n2. 耗竭核苷酸庫：抑制核苷酸生物合成（Nucleotide biosynthesis），使放射線照射後之 DNA 雙股斷裂無法有效進行同源重組或修復。\n3. 具基因型專一性：小鼠同源腫瘤實驗證實，WCDD115 僅在 NRF2 具活性（NRF2-competent）腫瘤中增強放療療效，對 NRF2 缺失型則無增敏作用。\n\n■ 臨床轉譯與研究展望：\n在收治 HPV(-) 局部晚期 HNSCC 患者之術前 Pyrimethamine（50 mg）臨床試驗中，研究團隊透過質譜分析、西方墨點法與路徑分析評估腫瘤組織之 DHFR 蛋白表現與代謝變化，為克服 NRF2 驅動之頭頸癌放療抗性提供了代謝標靶聯合放射治療的新策略。\n\n■ 資料來源 (References)：\n1. Zolkind P, Wilkerson EM, Panda H, Chembo J, Sun J, Zhao K, et al. Targeting DHFR to suppress one-carbon metabolism and enhance radiation sensitivity in patients with NRF2-active head and neck squamous cell carcinoma. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-0700\n2. AACR (美國癌症研究協會) / Cancer Discovery. Targeting DHFR to suppress one-carbon metabolism and enhance radiation sensitivity in patients with NRF2-active head and neck squamous cell carcinoma.. https://doi.org/10.1158/1078-0432.CCR-26-0700\n\n#頭頸癌 #放射增敏 #腫瘤代謝 #NRF2 #AACR #轉譯醫學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 轉譯與早期臨床",
+          "headline": "靶向 DHFR 阻斷單碳代謝\n逆轉 NRF2 活化頭頸癌\n克服放射治療抗性機制",
+          "subheadline": "Pyrimethamine 與新型類似物 WCDD115 之放射增敏機制與臨床前導試驗",
+          "meta_badge": "研究設計：臨床前模型與一期術前機會之窗試驗",
+          "footer": "資料來源：Zolkind et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "抑制二氫葉酸還原酶（DHFR）\n如何瓦解頭頸癌之放療防禦？",
+          "points": [
+            "單碳代謝抑制：WCDD115 與 Pyrimethamine 靶向抑制 DHFR，阻斷葉酸介導之單碳代謝通量",
+            "核苷酸合成受阻：耗竭細胞內核苷酸生物合成原料，使放療引發之廣泛 DNA 損傷無法順利修復",
+            "NRF2 依賴效應：選擇性針對 NRF2 過度活化之抗放療腫瘤發揮增敏作用，具高度分子專一性"
+          ],
+          "footer": "資料來源：Zolkind et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "從同源小鼠腫瘤模型到臨床試驗\n轉譯驗證呈現哪些關鍵結果？",
+          "points": [
+            "動物模型驗證：於小鼠同源腫瘤移植模型中，WCDD115 顯著強化 NRF2 活性腫瘤之放射治療反應",
+            "機會之窗試驗：啟動 NCT05678348 早期一期試驗，於 HPV(-) 第三/四期頭頸癌術前給予 Pyrimethamine 50mg",
+            "多體學關聯分析：結合轉錄體學、代謝體學與質譜分析，驗證腫瘤組織中 DHFR 表現與代謝路徑變化"
+          ],
+          "footer": "資料來源：Zolkind et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "以代謝脆弱性為突破口\n破解 NRF2 驅動之放療抗性",
+          "summary": "NRF2 路徑活化賦予頭頸部鱗狀細胞癌強大的氧化壓力耐受性與放療抗性。本研究揭示此类腫瘤對 DHFR 介導之單碳代謝與核苷酸合成具有高度依賴性，結合老藥 Pyrimethamine 與新型化合物 WCDD115 開啟代謝放射增敏新方向。",
+          "cta": "後續觀察：Pyrimethamine 術前臨床試驗之完整藥效學指標與後續合併放化療之劑量遞增試驗",
+          "footer": "資料來源：Zolkind et al. AACR / Clinical cancer research : an offic"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "微生物組防癌",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
+      "original_title": "Cancer-fighting chewing gum slashes HPV levels by up to 93%",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【生物工程植物蛋白口香糖於頭頸癌離體臨床檢體中降低高達 93% 人類乳突病毒（HPV）負荷量】\n\n由賓夕法尼亞大學（University of Pennsylvania）研究團隊主導、發表於《Scientific Reports》的離體臨床研究（Ex vivo clinical studies），開發出一種利用生物工程植物表現系統生產抗病毒與抗菌蛋白之特殊口香糖。頭頸部鱗狀細胞癌（HNSCC）與口腔內高風險人類乳突病毒（HPV）感染及特定致癌細菌菌叢失調密切相關。研究團隊採集頭頸癌患者之唾液與口腔臨床檢體進行離體測試，發現單次劑量之生物工程口香糖萃取物即可使檢體中之 HPV 病毒量降低達 93%，並同時清除兩種與癌症相關之有害細菌。\n\n■ 核心作用機制：\n1. 植物分子農業：運用基因工程改造植物生產具備醫療活性之抗病毒與抗菌功能性蛋白質，降低生物製劑生產成本。\n2. 靶向清除病原：於口腔黏膜微環境中直接中和並降低高達 93% 之人類乳突病毒（HPV）顆粒負荷量。\n3. 保留有益菌叢：強化版配方在近乎完全消除兩種致癌有害細菌物種的同時，不影響口腔內正常有益共生菌群之存活。\n\n■ 臨床轉譯與研究展望：\n頭頸部鱗狀細胞癌起源於覆蓋口腔與咽喉表面的鱗狀上皮細胞，治療過程常伴隨顯著解剖與功能損傷。此項以植物蛋白為基礎之非侵入性局部遞送技術，展現了精準調控口腔致癌微生物組（Oncogenic microbiome）並輔助現有頭頸癌防治策略之轉譯潛力。\n\n■ 資料來源 (References)：\n1. Daniell H, Wakade G, Singh R, Nair S, Basak SK, Srivatsan ES, et al. Ex vivo HNSCC clinical studies using saliva and antiviral or antibacterial chewing gums reveal reduction in carcinogenic microbes. Scientific Reports. 2026. https://doi.org/10.1038/s41598-026-39062-w\n2. ScienceDaily Cancer News. Cancer-fighting chewing gum slashes HPV levels by up to 93%. https://www.sciencedaily.com/releases/2026/11/261108203832.htm\n\n#頭頸癌 #人類乳突病毒 #HPV #口腔微生物組 #生物工程 #腫瘤預防",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "離體臨床檢體研究",
+          "headline": "生物工程植物蛋白口香糖\n於頭頸癌患者口腔檢體中\n降低 HPV 病毒量達 93%",
+          "subheadline": "靶向清除口腔致癌病毒與有害細菌並保留共生益菌之實驗性局部策略",
+          "meta_badge": "研究焦點：頭頸部鱗狀細胞癌 (HNSCC) 致癌微生物組",
+          "footer": "資料來源：Daniell et al. Scientific Reports (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "生物工程改造之植物蛋白製劑\n如何精準調節口腔致癌微環境？",
+          "points": [
+            "植物表現系統：利用基因工程植物合成具生物活性之特定抗病毒與抗菌蛋白，具備高穩定性與低成本優勢",
+            "病毒負荷削減：透過局部釋放活性蛋白直接作用於唾液與黏膜，高效中和並降低 HPV 病毒載量",
+            "選擇性菌叢調控：精準抑制兩種與頭頸癌相關之致病細菌，同時維持口腔正常有益共生菌之生態平衡"
+          ],
+          "footer": "資料來源：Daniell et al. Scientific Reports (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "頭頸癌患者離體唾液檢體測試\n對致癌微生物清除率表現如何？",
+          "points": [
+            "病毒抑制幅度：於頭頸癌患者口腔檢體測試中，口香糖萃取物使 HPV 水準降低高達 93%",
+            "致病細菌清除：單次劑量之強化版配方萃取物，即可近乎完全消除檢體中兩種有害致癌細菌物種",
+            "共生菌安全性：微生物組分析顯示治療過程未傷害口腔有益細菌，避免廣譜抗生素引發之菌叢失調"
+          ],
+          "footer": "資料來源：Daniell et al. Scientific Reports (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從全身性抗癌治療延伸至\n局部致癌微生物組精準干預",
+          "summary": "高風險 HPV 與特定口腔致病菌在頭頸部鱗狀細胞癌的發生與演進中扮演關鍵角色。本研究透過植物生物工程技術開發局部釋放載體，在不破壞口腔共生菌群的前提下高效降低致癌微生物負荷，提供經濟且具潛力的輔助預防方向。",
+          "cta": "後續觀察：人體一期臨床試驗之口腔黏膜滯留時間、蛋白釋放動力學與體內實際減毒效益",
+          "footer": "資料來源：Daniell et al. Scientific Reports (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "放射免疫聯合",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXhPLW5oM2dvZ3ktYkc3RXBZNjZraS1WS3dYSjNIRDg0VTdmZFVnMEVIMHVfZU1Yc0d1UlZDWnhUYUM3RVZTRGMwZmhmckdZZXlvNkMzU1M5bVFsTWVpVjl6QTJrSEZIS0FQQWJCQUpBNEFVTGRWYUFwY1hTeXdfZXVrR3NxdFg2aF95NmFNRVc5aXRFN3ZmQ2o2ejh1a2o3bXJORUFlNDBzT21lWUNCa3ZCSVVwWUNGVzFTWnBVU2J3OGI1eVhjcVJOUQ?oc=5",
+      "original_title": "KEYNOTE-867 Immunotherapy Should Not Be Combined With SBRT in Unresected Early-Stage NSCLC - The ASCO Post",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ASCO 臨床新訊：KEYNOTE-867 試驗顯示無法手術之早期非小細胞肺癌不宜常規合併 SBRT 與免疫治療】\n\n根據美國臨床腫瘤學會（ASCO Post）公布之 KEYNOTE-867 臨床試驗重要結論，針對無法接受手術切除（Unresected）之早期非小細胞肺癌（Early-Stage NSCLC）患者，立體定位消融放射治療（SBRT）合併免疫檢查點抑制劑治療未能帶來預期的臨床獲益改善，研究明確指出在此類患者中不應將免疫治療常規與 SBRT 進行合併使用。過去臨床前研究曾假設高劑量精準放療可促進腫瘤新抗原釋放並與 PD-1 抑制劑產生協同遠隔效應（Abscopal effect），但大型隨機對照試驗數據為此策略劃定了嚴格的臨床界限。\n\n■ 研究核心發現：\n1. 臨床終點評估：在無法手術之早期非小細胞肺癌族群中，SBRT 聯合免疫治療未能展現優於單獨標準 SBRT 之風險獲益比。\n2. 毒性與效益平衡：放射治療合併全身性免疫檢查點阻斷可能增加治療相關不良事件（如放射性肺炎或免疫相關肺炎）風險，抵銷潛在局部控制優勢。\n3. 治療準則確立：試驗結果直接影響臨床實踐，確立單獨使用立體定位放射治療（SBRT）仍為無法手術早期 NSCLC 之核心標準方案。\n\n■ 臨床轉譯與研究展望：\nKEYNOTE-867 的陰性結果凸顯了早期肺癌與局部晚期（如 PACIFIC 試驗之第三期不可切除 NSCLC）在腫瘤微環境與全身微轉移負荷上的本質差異。未來早期肺癌之放射聯合免疫策略，需仰賴更精準的高風險復發生物標記（如治療後循環腫瘤 DNA 陽性）進行患者篩選。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). KEYNOTE-867 Immunotherapy Should Not Be Combined With SBRT in Unresected Early-Stage NSCLC - The ASCO Post. https://news.google.com/rss/articles/CBMiywFBVV95cUxONXhPLW5oM2dvZ3ktYkc3RXBZNjZraS1WS3dYSjNIRDg0VTdmZFVnMEVIMHVfZU1Yc0d1UlZDWnhUYUM3RVZTRGMwZmhmckdZZXlvNkMzU1M5bVFsTWVpVjl6QTJrSEZIS0FQQWJCQUpBNEFVTGRWYUFwY1hTeXdfZXVrR3NxdFg2aF95NmFNRVc5aXRFN3ZmQ2o2ejh1a2o3bXJORUFlNDBzT21lWUNCa3ZCSVVwWUNGVzFTWnBVU2J3OGI1eVhjcVJOUQ?oc=5\n\n#非小細胞肺癌 #NSCLC #立體定位放療 #SBRT #免疫治療 #ASCO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床試驗更新",
+          "headline": "KEYNOTE-867 臨床結論\n無法手術早期非小細胞肺癌\n不宜合併 SBRT 與免疫",
+          "subheadline": "立體定位放射治療聯合免疫檢查點抑制劑於早期肺癌之臨床試驗解析",
+          "meta_badge": "研究焦點：無法手術之早期非小細胞肺癌 (NSCLC)",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估限制",
+          "headline": "為何放射免疫協同效應在早期肺癌\n未能轉化為整體臨床獲益？",
+          "points": [
+            "局部控制飽和：單獨立體定位放射治療（SBRT）對早期原發腫瘤已具備極高局部控制率，加成空間有限",
+            "微環境反應差異：早期局限性病灶之全身性微轉移負荷與免疫微環境，異於局部晚期同步放化療後狀態",
+            "疊加毒性風險：胸部高劑量消融放療合併全身性免疫激活，易增加肺部發炎反應等治療相關不良事件"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "KEYNOTE-867 試驗核心發現\n對早期肺癌臨床實踐有何影響？",
+          "points": [
+            "研究目標族群：鎖定因內科共病或肺功能限制而無法接受手術切除之早期非小細胞肺癌（NSCLC）患者",
+            "聯合策略結論：試驗數據證實免疫檢查點抑制劑不應與 SBRT 常規合併用於此類未篩選之早期患者",
+            "標準療法維持：單獨 SBRT 繼續作為無法手術早期非小細胞肺癌之標準根治性局部治療基石"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "界定放射免疫聯合療法邊界\n避免早期肺癌過度全身治療",
+          "summary": "儘管免疫合併放療在局部晚期非小細胞肺癌取得成功，KEYNOTE-867 試驗證實將此模式直接前推至無法手術的早期 NSCLC 並不可行。這項重要發現避免了早期患者承受不必要的全身性免疫毒性與醫療負擔。",
+          "cta": "後續觀察：利用液態切片 ctDNA 最小殘存疾病（MRD）檢測篩選 SBRT 後真正需要輔助免疫治療之高危亞群",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
