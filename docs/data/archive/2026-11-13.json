@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:42:41.026915+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "肺癌基因標記",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106250",
+      "original_title": "Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【WCLC / JTO 研究：EGFR 突變非小細胞肺癌第一線 Osimertinib 單藥早期惡化之臨床基因體決定因子】\n\n隨著 FLAURA2 與 MARIPOSA 聯合治療方案獲准用於第一線表皮生長因子受體（EGFR）突變之晚期非小細胞肺癌（NSCLC），如何精準識別在第一線 Osimertinib 單藥治療下預後不佳的高風險族群，成為臨床治療選擇的關鍵。發表於世界肺癌大會（WCLC / IASLC）官方期刊《Journal of Thoracic Oncology》（JTO）的一項多中心回溯性研究，納入了來自 13 個醫療中心共 1,488 名帶有常見 EGFR 突變（Exon 19 缺失［ex19del］或 L858R）並接受第一線 Osimertinib 單藥治療的晚期 NSCLC 患者，結合臨床與全方位基因體定序（CGP）及 RNA 定序數據進行深入剖析。\n\n■ 研究核心發現：\n1. 真實世界存活數據：在長達 43.3 個月的中位追蹤期間，1,488 名臨床世代患者的真實世界無惡化存活期（rwPFS）中位數為 16.3 個月（95% CI 15.3-17.4），整體存活期（OS）中位數則為 36.7 個月（95% CI 34.8-39.4）。\n2. 共同突變風險分層：與野生型（TP53WT）相比，帶有 TP53 共同突變（TP53MUT）是預測 rwPFS 縮短的獨立不良預後因子，特別是在預後通常較佳的 EGFR ex19del 亞群中，其疾病惡化風險顯著上升（調整後風險比 aHR 達 1.68，p<0.001）。\n3. 多體學整合驗證：研究結合 DFCI 與 MSKCC 之腫瘤組織基線基因體數據，並運用 Caris Life Science 世代進行轉錄組 RNA 定序分析，進一步界定出驅動單藥早期惡化的分子特徵。\n\n■ 臨床轉譯與研究展望：\n此項大型真實世界臨床基因體學研究證實，基線 TP53 突變狀態能有效區分出 EGFR ex19del 患者中對 Osimertinib 單藥反應較差的高風險亞群，為第一線選擇單藥標靶或升級至化療/雙特異性抗體聯合方案提供了重要的生物標記依據。\n\n■ 資料來源 (References)：\n1. Pecci F, Jeng MY, Di Federico A, Mazzola E, Peroni M, Monaca F, et al. Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106250\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC.. https://doi.org/10.1016/j.jtho.2026.106250\n\n#非小細胞肺癌 #NSCLC #EGFR突變 #Osimertinib #TP53 #基因體生物標記 #WCLC #JTO #精準腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "WCLC 肺癌基因體研究",
+          "headline": "解析 EGFR 突變肺癌\n第一線單藥標靶治療\n早期惡化之基因因子",
+          "subheadline": "1,488 例真實世界世代揭露 TP53 共同突變對存活預後之影響",
+          "meta_badge": "研究設計：13 中心回溯性臨床基因體世代",
+          "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究背景與設計",
+          "headline": "如何識別第一線標靶單藥\n預後不佳之高風險患者？",
+          "points": [
+            "臨床決策痛點：隨 FLAURA2 與 MARIPOSA 獲批，急需生物標記指導一線單藥或聯合治療選擇",
+            "常見突變世代：納入 13 中心共 1,488 名具 EGFR ex19del 或 L858R 晚期非小細胞肺癌患者",
+            "多體學分析：結合腫瘤組織基線全方位基因體定序與 RNA 定序，評估真實世界無惡化存活"
+          ],
+          "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "真實世界存活數據與\nTP53 共同突變風險量化",
+          "points": [
+            "整體存活表現：中位追蹤 43.3 個月，中位 rwPFS 為 16.3 個月，中位 OS 達 36.7 個月",
+            "獨立不良因子：TP53 突變較野生型顯著縮短無惡化存活期，為早期惡化之獨立預測指標",
+            "亞群風險倍增：於 EGFR ex19del 患者中，合併 TP53 突變之惡化風險顯著增加（aHR 1.68）"
+          ],
+          "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "以臨床基因體風險分層\n優化第一線標靶治療決策",
+          "summary": "本研究透過近 1,500 例多中心真實世界數據證實，即便在傳統預後較佳的 EGFR ex19del 肺癌亞群中，基線合併 TP53 突變仍會顯著削弱第一線 Osimertinib 單藥療效，提供精準分流至聯合治療的重要分子依據。",
+          "cta": "後續觀察：前瞻性臨床試驗中依基線 TP53 與共突變譜系分層治療之整體存活效益",
+          "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "直腸癌前導免疫",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108617",
+      "original_title": "Nivolumab and total neoadjuvant treatment for locally advanced rectal cancer: results of a phase II trial (CA209-8M4).",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ESMO Open 臨床試驗：局部晚期直腸癌全前導性治療合併 Nivolumab 之二期試驗（CA209-8M4）結果】\n\n全前導性治療（Total Neoadjuvant Treatment, TNT）已成為局部晚期直腸癌（LARC）的重要治療策略，但微衛星穩定（MSS）腫瘤對免疫檢查點抑制劑的反應仍具挑戰。發表於歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》的前瞻性二期臨床試驗 CA209-8M4，評估了在標準同步放化療（CRT）後，接續 mFOLFOX6 化療合併抗 PD-1 單株抗體 Nivolumab 之化療免疫療法（CIMT）於 LARC 患者的療效與安全性。\n\n■ 研究核心發現：\n1. 試驗世代與複合終點：研究納入 29 名距肛門口 12 公分內之 LARC 患者（96.6% 為 cT3/cT4、69.0% 為 cN+、96.6% 為微衛星穩定 MSS）。研究定義了創新複合主要終點「改良式病理完全緩解率（mpCR）」，整合手術患者的病理完全緩解（pCR）與選擇觀察等待（Watchful waiting）患者的長期（≥12 個月）臨床完全緩解（cCR）。\n2. 治療方案設計：患者先接受標準同步放化療（CRT），隨後接受 6 個週期的標準 mFOLFOX6 合併 Nivolumab（240 mg）全身性化療免疫鞏固治療。\n3. 安全性與免疫不良反應：於化療免疫治療期間，51.7% 患者出現第 3 級以上不良事件（AEs），包含 1 例歸因於前期放化療毒性未緩解之腸繫膜發炎致死個案；免疫相關不良事件（irAEs）發生率為 13.8%（4 例），包含 1 例第 3 級糖尿病與 3 例第 1 級肝炎。\n\n■ 臨床轉譯與研究展望：\nCA209-8M4 試驗建立了結合手術 pCR 與保留器官長期 cCR 的 mpCR 複合評估標準，同時揭示了放化療後接續高強度化療免疫治療的毒性管理挑戰，為直腸癌器官保留策略提供關鍵安全性數據。\n\n■ 資料來源 (References)：\n1. Brenner B, Perl G, Rosenberg-Ayal A, Cohavi M, Sulkes A, Cohen Z, et al. Nivolumab and total neoadjuvant treatment for locally advanced rectal cancer: results of a phase II trial (CA209-8M4). ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108617\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Nivolumab and total neoadjuvant treatment for locally advanced rectal cancer: results of a phase II trial (CA209-8M4).. https://doi.org/10.1016/j.esmoop.2026.108617\n\n#直腸癌 #LARC #全前導性治療 #Nivolumab #免疫檢查點抑制劑 #ESMO #器官保留 #臨床二期試驗",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床二期研究",
+          "headline": "局部晚期直腸癌導入\n全前導性放化療接續\nNivolumab 免疫聯合治療",
+          "subheadline": "CA209-8M4 試驗評估微衛星穩定直腸癌之複合完全緩解與安全性",
+          "meta_badge": "研究焦點：局部晚期直腸癌 (LARC) 前導治療",
+          "footer": "資料來源：Brenner et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "試驗設計與終點",
+          "headline": "放化療接續化療免疫\n如何整合器官保留評估？",
+          "points": [
+            "高風險受試群：納入 29 名距肛門 12 公分內直腸癌患者，高達 96.6% 為微衛星穩定型",
+            "序貫治療模組：先施行標準同步放化療，再給予 6 週期 mFOLFOX6 合併 Nivolumab 240 mg",
+            "創新複合終點：首創 mpCR 指標，結合手術病理完全緩解與觀察等待滿 12 個月之臨床完全緩解"
+          ],
+          "footer": "資料來源：Brenner et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床安全性數據",
+          "headline": "CA209-8M4 試驗之\n治療毒性與免疫不良反應",
+          "points": [
+            "腫瘤分期特徵：受試者中位年齡 53 歲，96.6% 屬 cT3-T4 局部晚期，69.0% 具淋巴結轉移",
+            "整體毒性負荷：化療免疫期間 51.7% 發生 3 級以上不良事件，含 1 例前期放化療相關腸繫膜發炎",
+            "免疫相關毒性：共 13.8%（4 例）出現免疫不良反應，含 1 例 3 級糖尿病與 3 例 1 級肝炎"
+          ],
+          "footer": "資料來源：Brenner et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "推進直腸癌非手術保留策略\n並確立聯合毒性監測基準",
+          "summary": "CA209-8M4 試驗針對高比例微衛星穩定之局部晚期直腸癌，驗證了將長期臨床完全緩解納入主要終點的可行性；同時提醒臨床在同步放化療後銜接 FOLFOX 與 PD-1 抑制劑時，必須嚴密監控腸道未緩解毒性與內分泌免疫不良反應。",
+          "cta": "後續觀察：改良式病理完全緩解（mpCR）與長期無轉移存活期之最終統計關聯",
+          "footer": "資料來源：Brenner et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "乳癌預防標記",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108636",
+      "original_title": "Variation in baseline estrogen levels, menopause-related adverse events and early study discontinuation among women on the placebo-controlled MAP.3 exemestane prevention trial.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【ESMO Open 研究：MAP.3 Exemestane 乳癌預防試驗中基線雌激素濃度對更年期不良事件與早期停藥之影響】\n\n芳香環酶抑制劑（Aromatase Inhibitors, AIs）如 Exemestane 已證實能有效預防停經後高風險女性發生乳癌，但治療引發的更年期相關不良事件常導致患者提前中斷服藥。發表於歐洲腫瘤內科學會（ESMO）旗下《ESMO Open》的研究，針對大型隨機雙盲安慰劑對照試驗 MAP.3 的 4,111 份基線血清檢體進行分析，探討基線雌激素濃度是否能作為預測 AI 相關不良事件的生物標記。\n\n■ 研究核心發現：\n1. 高靈敏度質譜檢測：研究團隊運用液相層析串聯質譜法（LC-MS/MS），精準測定 4,111 名受試女性基線血清中的雌酮（Estrone, E1）與雌二醇（Estradiol, E2）濃度，並依 CTCAE v4.0 評估第 1 年與第 5 年的熱潮紅、疲勞與關節痛程度。\n2. 嚴重熱潮紅風險倍增：在服用 Exemestane 的女性中，基線 E1 或 E2 處於最高四分位數者，第 1 年發生嚴重熱潮紅（Grade ≥3）的風險顯著高於最低四分位數者，其中基線高 E1 之勝算比（OR）達 3.8（95% CI 1.6-10.5），高 E2 之勝算比更達 4.2（95% CI 1.6-13.1）。\n3. 明確劑量效應關係：基線內源性雌激素濃度與服藥第 1 年發生更年期嚴重血管舒縮症狀呈現顯著的劑量反應關係（Dose-response relationship）。\n\n■ 臨床轉譯與研究展望：\n此項基於逾四千人大型預防試驗的生物標記分析證實，停經後女性殘餘的基線 E1 與 E2 濃度越高，接受芳香環酶抑制劑強力剝奪雌激素時的生理落差越大，進而誘發嚴重熱潮紅，為乳癌化學預防的副作用風險預警提供客觀指標。\n\n■ 資料來源 (References)：\n1. Ho V, Pasquet R, Singh RJ, Goetz MP, Tu D, Ingle JN, et al. Variation in baseline estrogen levels, menopause-related adverse events and early study discontinuation among women on the placebo-controlled MAP.3 exemestane prevention trial. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108636\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Variation in baseline estrogen levels, menopause-related adverse events and early study discontinuation among women on the placebo-controlled MAP.3 exemestane prevention trial.. https://doi.org/10.1016/j.esmoop.2026.108636\n\n#乳癌預防 #芳香環酶抑制劑 #Exemestane #雌二醇 #生物標記 #藥物不良反應 #ESMO #內分泌治療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 乳癌預防生物標記",
+          "headline": "基線雌激素濃度預測\n乳癌預防用藥引發之\n嚴重熱潮紅風險達 4 倍",
+          "subheadline": "MAP.3 隨機對照試驗 4,111 例血清質譜分析揭示內分泌毒性標記",
+          "meta_badge": "研究設計：MAP.3 三期預防試驗生物標記分析",
+          "footer": "資料來源：Ho et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子檢測機制",
+          "headline": "內源性雌激素波動\n如何影響芳香環酶抑制耐受性？",
+          "points": [
+            "臨床順從性瓶頸：Exemestane 可有效預防乳癌，但更年期相關毒性常導致受試者提早停藥",
+            "高通量質譜定量：利用液相層析串聯質譜法測定 4,111 名受試者基線血清雌酮與雌二醇",
+            "毒性分級對照：依 CTCAE v4.0 追蹤第 1 與第 5 年之熱潮紅、疲勞與關節疼痛嚴重度"
+          ],
+          "footer": "資料來源：Ho et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "基線 E1 與 E2 濃度與\n嚴重不良事件之風險量化",
+          "points": [
+            "雌酮風險關聯：基線 E1 最高四分位數女性，第 1 年發生嚴重熱潮紅風險增加（OR 3.8）",
+            "雌二醇強預測力：基線 E2 最高四分位數者，發生 3 級以上嚴重熱潮紅勝算比高達 4.2 倍",
+            "劑量反應曲線：基線雌激素濃度與服藥後早期嚴重血管舒縮毒性呈現顯著之劑量效應關係"
+          ],
+          "footer": "資料來源：Ho et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "導入給藥前內分泌生物標記\n實現個人化乳癌化學預防",
+          "summary": "本研究透過高靈敏度質譜分析證實，停經後女性基線雌酮（E1）與雌二醇（E2）濃度是預測 Exemestane 誘發嚴重熱潮紅的強效生物標記，有助於識別高毒性風險族群並理解早期停藥的生理機制。",
+          "cta": "後續觀察：基線雌激素四分位數與關節痛、疲勞及最終早期停藥率之長期多變項關聯",
+          "footer": "資料來源：Ho et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "臨床試驗生態",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/OP-26-00529",
+      "original_title": "Global Authorship Patterns in Phase III Solid-Tumor Trials Presented at the ASCO Annual Meeting, 2015-2025.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【ASCO / JCO OP 研究：2015 至 2025 年 ASCO 年會發表之三期實體腫瘤臨床試驗全球作者結構與性別趨勢解析】\n\n大型三期腫瘤臨床試驗的作者署名結構，直接反映了全球腫瘤學研究的科學領導力、資源分配與研究基礎設施參與度。發表於美國臨床腫瘤學會（ASCO）旗下期刊《JCO Oncology Practice》的一項重複橫斷面研究，全面盤點了 2015 年至 2025 年間於 ASCO 年會發表的 1,517 篇三期實體腫瘤臨床試驗摘要（涵蓋 3,034 個第一與資深作者署名），量化分析了十年間性別比例與全球區域資源的交互演變。\n\n■ 研究核心發現：\n1. 十年間整體趨勢：在總計 3,034 個關鍵作者席次中，女性作者占 27.9%。比較前後五年區間，女性作者比例由 2015-2020 年的 24.9%，顯著提升至 2021-2025 年的 30.0%（P = .002）。\n2. 第一與資深作者落差：在女性作者群體中，擔任第一作者（First author）的比例顯著高於擔任最後一位資深/通訊作者（Senior author）的比例（54.7% vs 45.3%，P = .002）。\n3. 資深領導力差距：經多變項邏輯斯迴歸調整腫瘤領域、經費來源、試驗發起地區與世界銀行收入分組後，女性獲得三期試驗資深作者席次的機率仍顯著較低（調整後勝算比 aOR 為 0.76）。\n\n■ 臨床轉譯與研究展望：\n此項跨越十年的大數據計量研究顯示，儘管全球三期實體腫瘤試驗的女性研究者參與度穩定攀升，但在代表最高學術領導地位的資深作者席次上仍存在結構性落差，為未來國際多中心臨床試驗的指導委員會（Steering Committee）組成提供重要改革指標。\n\n■ 資料來源 (References)：\n1. Sarfraz A, Hodgson LC, Abraham SM, Rath S, Bawek S, Aung KL, et al. Global Authorship Patterns in Phase III Solid-Tumor Trials Presented at the ASCO Annual Meeting, 2015-2025. JCO oncology practice (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/OP-26-00529\n2. ASCO (美國臨床腫瘤學會) / JCO. Global Authorship Patterns in Phase III Solid-Tumor Trials Presented at the ASCO Annual Meeting, 2015-2025.. https://doi.org/10.1200/OP-26-00529\n\n#ASCO #臨床三期試驗 #實體腫瘤 #腫瘤學研究 #學術領導力 #JCO #全球醫療體系 #臨床試驗設計",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床試驗生態研究",
+          "headline": "十年三期實體腫瘤試驗\n女性關鍵作者比例升至 30%\n資深領導席次仍存落差",
+          "subheadline": "2015-2025 年 ASCO 年會 1,517 項三期臨床試驗之全球作者結構分析",
+          "meta_badge": "研究設計：3,034 個三期試驗作者席次橫斷面分析",
+          "footer": "資料來源：Sarfraz et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究方法與維度",
+          "headline": "如何量化全球三期腫瘤試驗\n之科學領導力與結構演變？",
+          "points": [
+            "十年全樣本盤點：納入 2015 至 2025 年 ASCO 年會發表之 1,517 篇三期實體腫瘤摘要",
+            "多維度變項校正：整合腫瘤次專科、資金來源、地理區域與世界銀行國家收入分組進行迴歸分析",
+            "雙核心角色比對：聚焦評估代表執行主力的第一作者與代表最高領導地位之資深作者席次"
+          ],
+          "footer": "資料來源：Sarfraz et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "跨時期成長幅度與\n資深作者席次之統計差距",
+          "points": [
+            "整體比例攀升：女性作者占比由 2015-2020 年之 24.9%，顯著增至 2021-2025 年之 30.0%",
+            "角色分布不均：女性關鍵作者中 54.7% 為第一作者，僅 45.3% 擔任資深通訊作者（P = .002）",
+            "資深席次勝算比：多變項調整後，女性擔任三期試驗資深作者之調整後勝算比（aOR）為 0.76"
+          ],
+          "footer": "資料來源：Sarfraz et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從早期研究執行主力邁向\n全球三期試驗頂層設計領導",
+          "summary": "本研究透過逾三千個 ASCO 三期臨床試驗作者席次證實，近五年女性腫瘤學家在大型臨床試驗的參與度已突破三成，但由第一作者晉升至資深總主持人的轉換率仍待提升，反映出全球臨床試驗治理結構的演進空間。",
+          "cta": "後續觀察：不同國家收入分組與藥廠/學研經費來源對三期試驗總主持人結構之影響",
+          "footer": "資料來源：Sarfraz et al. ASCO / JCO oncology practice (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "比較基因體學",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-NW2026-0105",
+      "original_title": "Genomic Atlas Reveals Where Dog and Human Cancers Diverge.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【AACR / Cancer Discovery 研究：667 例犬類腫瘤基因體圖譜揭示犬類與人類癌症之演化異同】\n\n自發性犬類腫瘤因具備完整的免疫系統與自然演化的腫瘤微環境，長期被視為轉譯腫瘤學極具潛力的臨床前動物模型。發表於美國癌症研究協會（AACR）旗艦期刊《Cancer Discovery》的最新研究，建構了涵蓋 667 例犬類腫瘤的大型基因體圖譜（Genomic Atlas），系統性地比對犬類癌症與人類惡性腫瘤在基因體驅動機制上的高度相似處與分歧點。\n\n■ 研究核心發現：\n1. 大規模跨物種基因體圖譜：研究團隊完成 667 例犬類腫瘤樣本的基因體定序與圖譜繪製，建立高解析度的跨物種比較腫瘤學資料庫。\n2. 界定分子保守與分歧區段：圖譜精確標示出哪些犬類腫瘤在遺傳致病基礎上高度鏡像模擬（Mirror）人類同類癌症，同時揭露兩者在特定致癌路徑與基因突變譜上的演化分歧。\n3. 雙向轉譯醫學價值：此基因體圖譜不僅協助基礎與臨床前研究人員針對特定人類標靶藥物挑選最適配的犬類自發性腫瘤模型，同時也為獸醫腫瘤醫學鑑定出全新的潛在治療標靶。\n\n■ 臨床轉譯與研究展望：\n透過 667 例犬類腫瘤基因體圖譜的建立，比較腫瘤學（Comparative Oncology）得以擺脫過往僅依組織學相似性選擇動物模型的限制，改以分子基因體對齊（Genomic alignment）精準橋接新藥臨床前測試與人類臨床試驗。\n\n■ 資料來源 (References)：\n1. . Genomic Atlas Reveals Where Dog and Human Cancers Diverge. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-NW2026-0105\n2. AACR (美國癌症研究協會) / Cancer Discovery. Genomic Atlas Reveals Where Dog and Human Cancers Diverge.. https://doi.org/10.1158/2159-8290.CD-NW2026-0105\n\n#比較腫瘤學 #基因體圖譜 #AACR #CancerDiscovery #轉譯醫學 #癌症模型 #標靶治療 #精準醫學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 比較基因體研究",
+          "headline": "建構 667 例犬類腫瘤\n高解析基因體圖譜\n精準對齊人類癌症模型",
+          "subheadline": "Cancer Discovery 揭示跨物種腫瘤遺傳演化之保守性與分歧點",
+          "meta_badge": "研究焦點：667 例跨物種比較腫瘤基因體學",
+          "footer": "資料來源：AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "比較基因體機制",
+          "headline": "跨物種基因體圖譜如何\n革新抗癌新藥臨床前評估？",
+          "points": [
+            "自發腫瘤優勢：犬類自發性癌症具天然免疫微環境與異質性，優於傳統人工誘導小鼠模型",
+            "跨物種序列比對：針對 667 例犬類腫瘤進行基因體剖析，與人類癌症致病基因譜進行系統性對照",
+            "演化分歧鑑定：釐清跨物種間共同保守之核心驅動突變，以及物種特異性之遺傳分歧路徑"
+          ],
+          "footer": "資料來源：AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究核心成果",
+          "headline": "667 例腫瘤圖譜之\n雙向轉譯醫學應用價值",
+          "points": [
+            "圖譜樣本規模：完成 667 例犬類腫瘤之基因體定序，建立高代表性之比較腫瘤學分子基準",
+            "優化模型篩選：依據分子特徵而非單憑組織病理，為人類癌症研究匹配高度鏡像之犬類模型",
+            "跨界標靶開發：同步發掘犬類腫瘤專屬之致病基因變異，拓展伴侶動物精準標靶治療契機"
+          ],
+          "footer": "資料來源：AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "以分子基因體對齊取代傳統分類\n加速跨物種抗癌藥物轉譯",
+          "summary": "此項涵蓋 667 例腫瘤的基因體圖譜清楚界定了犬類與人類癌症在基因層面的交集與差異，使研究人員能精準挑選具相同分子驅動機制的自發性動物模型，大幅提升新藥由臨床前邁向人體試驗的預測準確度。",
+          "cta": "後續觀察：基於跨物種基因體對齊所設計之比較腫瘤學共同臨床試驗（Co-clinical trials）成果",
+          "footer": "資料來源：AACR / Cancer discovery (2026)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
