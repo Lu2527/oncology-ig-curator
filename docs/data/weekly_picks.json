@@ -359,6 +359,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-13",
+      "post_id": "post-1",
+      "picked_at": "2026-11-13T14:18:49.608Z",
+      "issue": null,
+      "post": {
+        "id": "post-1",
+        "category": "肺癌基因標記",
+        "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+        "source_url": "https://doi.org/10.1016/j.jtho.2026.106250",
+        "original_title": "Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC.",
+        "theme_color": "#0F766E",
+        "accent_color": "#14B8A6",
+        "caption": "【WCLC / JTO 研究：EGFR 突變非小細胞肺癌第一線 Osimertinib 單藥早期惡化之臨床基因體決定因子】\n\n隨著 FLAURA2 與 MARIPOSA 聯合治療方案獲准用於第一線表皮生長因子受體（EGFR）突變之晚期非小細胞肺癌（NSCLC），如何精準識別在第一線 Osimertinib 單藥治療下預後不佳的高風險族群，成為臨床治療選擇的關鍵。發表於世界肺癌大會（WCLC / IASLC）官方期刊《Journal of Thoracic Oncology》（JTO）的一項多中心回溯性研究，納入了來自 13 個醫療中心共 1,488 名帶有常見 EGFR 突變（Exon 19 缺失［ex19del］或 L858R）並接受第一線 Osimertinib 單藥治療的晚期 NSCLC 患者，結合臨床與全方位基因體定序（CGP）及 RNA 定序數據進行深入剖析。\n\n■ 研究核心發現：\n1. 真實世界存活數據：在長達 43.3 個月的中位追蹤期間，1,488 名臨床世代患者的真實世界無惡化存活期（rwPFS）中位數為 16.3 個月（95% CI 15.3-17.4），整體存活期（OS）中位數則為 36.7 個月（95% CI 34.8-39.4）。\n2. 共同突變風險分層：與野生型（TP53WT）相比，帶有 TP53 共同突變（TP53MUT）是預測 rwPFS 縮短的獨立不良預後因子，特別是在預後通常較佳的 EGFR ex19del 亞群中，其疾病惡化風險顯著上升（調整後風險比 aHR 達 1.68，p<0.001）。\n3. 多體學整合驗證：研究結合 DFCI 與 MSKCC 之腫瘤組織基線基因體數據，並運用 Caris Life Science 世代進行轉錄組 RNA 定序分析，進一步界定出驅動單藥早期惡化的分子特徵。\n\n■ 臨床轉譯與研究展望：\n此項大型真實世界臨床基因體學研究證實，基線 TP53 突變狀態能有效區分出 EGFR ex19del 患者中對 Osimertinib 單藥反應較差的高風險亞群，為第一線選擇單藥標靶或升級至化療/雙特異性抗體聯合方案提供了重要的生物標記依據。\n\n■ 資料來源 (References)：\n1. Pecci F, Jeng MY, Di Federico A, Mazzola E, Peroni M, Monaca F, et al. Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106250\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Clinicogenomic determinants of early progression on first-line osimertinib in EGFR-mutant NSCLC.. https://doi.org/10.1016/j.jtho.2026.106250\n\n#非小細胞肺癌 #NSCLC #EGFR突變 #Osimertinib #TP53 #基因體生物標記 #WCLC #JTO #精準腫瘤學",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "WCLC 肺癌基因體研究",
+            "headline": "解析 EGFR 突變肺癌\n第一線單藥標靶治療\n早期惡化之基因因子",
+            "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici",
+            "subheadline": "1,488 例真實世界世代揭露 TP53 共同突變對存活預後之影響",
+            "meta_badge": "研究設計：13 中心回溯性臨床基因體世代"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "研究背景與設計",
+            "headline": "如何識別第一線標靶單藥\n預後不佳之高風險患者？",
+            "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici",
+            "points": [
+              "臨床決策痛點：隨 FLAURA2 與 MARIPOSA 獲批，急需生物標記指導一線單藥或聯合治療選擇",
+              "常見突變世代：納入 13 中心共 1,488 名具 EGFR ex19del 或 L858R 晚期非小細胞肺癌患者",
+              "多體學分析：結合腫瘤組織基線全方位基因體定序與 RNA 定序，評估真實世界無惡化存活"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "臨床數據",
+            "headline": "真實世界存活數據與\nTP53 共同突變風險量化",
+            "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici",
+            "points": [
+              "整體存活表現：中位追蹤 43.3 個月，中位 rwPFS 為 16.3 個月，中位 OS 達 36.7 個月",
+              "獨立不良因子：TP53 突變較野生型顯著縮短無惡化存活期，為早期惡化之獨立預測指標",
+              "亞群風險倍增：於 EGFR ex19del 患者中，合併 TP53 突變之惡化風險顯著增加（aHR 1.68）"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "以臨床基因體風險分層\n優化第一線標靶治療決策",
+            "footer": "資料來源：Pecci et al. WCLC / Journal of thoracic oncology : offici",
+            "summary": "本研究透過近 1,500 例多中心真實世界數據證實，即便在傳統預後較佳的 EGFR ex19del 肺癌亞群中，基線合併 TP53 突變仍會顯著削弱第一線 Osimertinib 單藥療效，提供精準分流至聯合治療的重要分子依據。",
+            "cta": "後續觀察：前瞻性臨床試驗中依基線 TP53 與共突變譜系分層治療之整體存活效益"
+          }
+        ]
+      }
     }
   ]
 }
