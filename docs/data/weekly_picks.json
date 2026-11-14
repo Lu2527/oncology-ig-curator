@@ -419,66 +419,6 @@
           }
         ]
       }
-    },
-    {
-      "date": "2026-11-14",
-      "post_id": "post-5",
-      "picked_at": "2026-11-14T07:05:38.445Z",
-      "issue": null,
-      "post": {
-        "id": "post-5",
-        "category": "早期肺癌治療",
-        "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajYxUmI5WFBxQ005LURPMzV5dVRmTG05MDA5RDZxTzJUcG5hSndSVEI3MlFlOFAySndUSGpmd2Jpc0J2bVVKZWt6aFBlN0NGM2F3OEZobkZPZ3hLbWRaLUFONmVPNmdrZ0FQa3ZhVVd1V2dyUkQxTmphLW1MeFdBelVvSlZ2bkp5UG5PLU5KYWNMcEJjRXVtVENsLWN2SVVKQ3RIUi1WZlpsS1g3NVg4NHl5VWZIeEluMDNpYmw3UQ?oc=5",
-        "original_title": "Surgical Resection Associated With Lower Mortality Than SABR in Early-Stage NSCLC - The ASCO Post",
-        "theme_color": "#BE123C",
-        "accent_color": "#F43F5E",
-        "caption": "【ASCO Post 臨床研究聚焦：早期非小細胞肺癌接受手術切除與立體定位消融放射治療（SABR）之死亡率比較】\n\n根據《The ASCO Post》報導之最新腫瘤學臨床數據，針對早期非小細胞肺癌（Early-Stage NSCLC）患者，比較外科手術切除（Surgical Resection）與立體定位消融放射治療（Stereotactic Ablative Radiotherapy, SABR）在長期存活與死亡率上之臨床結果差異。\n\n■ 研究核心發現：\n1. 核心療法比較：聚焦於早期非小細胞肺癌（NSCLC）局部根治性治療選擇，直接對照標準外科手術切除與高精準度之立體定位消融放射治療（SABR）。\n2. 存活結果差異：研究分析顯示，在早期非小細胞肺癌患者群體中，接受外科手術切除相較於接受 SABR 治療，與較低之整體死亡率（Lower Mortality）具有顯著關聯。\n3. 臨床決策意義：該項比較數據為早期可手術非小細胞肺癌患者之多專科團隊（MDT）局部治療模式選擇提供了重要的長期存活參考實證。\n\n■ 臨床轉譯與研究展望：\n在早期非小細胞肺癌的治療版圖中，儘管立體定位消融放射治療（SABR）具備非侵入性與高局部控制率優勢，針對心肺功能適合手術之患者，外科手術切除與系統性淋巴結廓清仍在降低長期死亡率上展現關鍵臨床價值。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Surgical Resection Associated With Lower Mortality Than SABR in Early-Stage NSCLC - The ASCO Post. https://news.google.com/rss/articles/CBMivwFBVV95cUxPajYxUmI5WFBxQ005LURPMzV5dVRmTG05MDA5RDZxTzJUcG5hSndSVEI3MlFlOFAySndUSGpmd2Jpc0J2bVVKZWt6aFBlN0NGM2F3OEZobkZPZ3hLbWRaLUFONmVPNmdrZ0FQa3ZhVVd1V2dyUkQxTmphLW1MeFdBelVvSlZ2bkp5UG5PLU5KYWNMcEJjRXVtVENsLWN2SVVKQ3RIUi1WZlpsS1g3NVg4NHl5VWZIeEluMDNpYmw3UQ?oc=5\n\n#非小細胞肺癌 #NSCLC #早期肺癌 #手術切除 #SABR #立體定位放射治療 #ASCO #胸腔腫瘤學",
-        "slides": [
-          {
-            "slide_num": 1,
-            "type": "cover",
-            "tag": "ASCO 早期肺癌數據",
-            "headline": "早期非小細胞肺癌局部治療\n外科手術切除相較於 SABR\n顯著關聯於較低整體死亡率",
-            "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-            "subheadline": "早期非小細胞肺癌根治性手術與立體定位消融放射治療之長期預後比較",
-            "meta_badge": "研究焦點：早期非小細胞肺癌 (NSCLC) 局部治療"
-          },
-          {
-            "slide_num": 2,
-            "type": "points",
-            "tag": "治療定位",
-            "headline": "早期非小細胞肺癌局部根治策略\n手術切除與立體定位放療之核心差異",
-            "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-            "points": [
-              "局部根治目標：針對無遠端轉移之早期非小細胞肺癌，外科切除與 SABR 為臨床兩大核心局部控制手段",
-              "外科切除優勢：手術除了完整移除原發腫瘤病灶外，同時能提供縱膈腔與肺門淋巴結之精確病理分期資訊",
-              "消融放療定位：立體定位消融放射治療（SABR）透過高劑量少分次照射，為高手術風險患者提供非侵入性替代方案"
-            ]
-          },
-          {
-            "slide_num": 3,
-            "type": "points",
-            "tag": "研究數據",
-            "headline": "比較長期存活與死亡率終點\n確立外科手術於早期肺癌之基準地位",
-            "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-            "points": [
-              "核心研究發現：於早期非小細胞肺癌世代比較中，接受外科手術切除之患者展現低於 SABR 組之死亡率表現",
-              "風險效益權衡：反映出在生理狀態可耐受手術之早期患者中，手術切除帶來的長期存活效益仍具臨床優勢",
-              "多專科評估：強調早期肺癌治療決策需綜合評估患者心肺功能儲備、手術風險及腫瘤解剖位置等臨床參數"
-            ]
-          },
-          {
-            "slide_num": 4,
-            "type": "takeaway",
-            "tag": "臨床轉譯意義",
-            "headline": "精準評估手術耐受度與病理分期\n優化早期非小細胞肺癌長期存活",
-            "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-            "summary": "本研究數據再次確認外科手術切除在早期非小細胞肺癌根治性治療中的核心地位，顯示手術切除相較於立體定位消融放射治療（SABR）與較低死亡率相關，為胸腔腫瘤多專科團隊權衡手術與非手術局部治療提供重要臨床依據。",
-            "cta": "後續觀察：SABR 合併周術期免疫檢查點抑制劑與手術切除之隨機對照試驗長期存活結果"
-          }
-        ]
-      }
     }
   ]
 }
