@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T11:41:17.330545+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "標靶劑量優化",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00899",
+      "original_title": "Dasatinib Dose Optimization With Weekend Drug Holiday for Improved Tolerability in Chronic Myeloid Leukemia (DasaHIT): A German Chronic Myeloid Leukemia Alliance Randomized Trial.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【JCO 三期試驗 DasaHIT：慢性骨髓性白血病接受 Dasatinib 週末停藥方案之療效與耐受性解析】\n\n發表於美國臨床腫瘤學會（ASCO）旗艦期刊《Journal of Clinical Oncology》（JCO）的德國慢性骨髓性白血病聯盟（German CML Alliance）隨機對照三期臨床試驗（DasaHIT），針對慢性期慢性骨髓性白血病（CP-CML）患者，評估標準劑量 Dasatinib（每日一次 100 mg）與週末藥物假期方案（每週服藥 5 日、週末停藥 2 日）之 24 個月主要分子學緩解率（MMR）與累積毒性表現。\n\n■ 研究核心發現：\n1. 試驗設計架構：共納入 289 名符合資格之 CP-CML 患者（147 名分配至標準每日給藥組，142 名分配至週末停藥間歇給藥組），其中 80%（232 名）為第一線治療患者。\n2. 分子緩解評估：於 24 個月評估點，標準給藥組之主要分子學緩解率（MMR）為 81%（95% CI, 74%-88%），間歇給藥組則為 78%（95% CI, 71%-85%），於預設之 15% 界值內達到統計學不劣性（P = .009）。\n3. 治療線數差異：在第二線及後線治療患者次族群中，間歇給藥組於 24 個月之 MMR 較標準組低 24%，未能達到不劣性標準；兩組在第 2 至 4 級不良反應比較上則未見顯著統計差異。\n\n■ 臨床轉譯與研究展望：\n本研究證實於新診斷第一線 CP-CML 患者中，Dasatinib 採行每週給藥 5 日、週末停藥 2 日之間歇性策略可維持與每日連續給藥相當之 24 個月分子學緩解深度，惟後線治療患者仍需維持標準連續給藥劑量以確保疾病控制。\n\n■ 資料來源 (References)：\n1. La Rosée P, Ernst P, Fabisch C, Brioli A, Wolf D, Teichmann LL, et al. Dasatinib Dose Optimization With Weekend Drug Holiday for Improved Tolerability in Chronic Myeloid Leukemia (DasaHIT): A German Chronic Myeloid Leukemia Alliance Randomized Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00899\n2. ASCO (美國臨床腫瘤學會) / JCO. Dasatinib Dose Optimization With Weekend Drug Holiday for Improved Tolerability in Chronic Myeloid Leukemia (DasaHIT): A German Chronic Myeloid Leukemia Alliance Randomized Trial.. https://doi.org/10.1200/JCO-26-00899\n\n#慢性骨髓性白血病 #CML #Dasatinib #標靶治療 #劑量優化 #ASCO #JCO #血液腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床三期研究",
+          "headline": "慢性骨髓性白血病標靶\n週末停藥間歇給藥方案\n一線分子緩解達不劣性",
+          "subheadline": "德國 DasaHIT 隨機三期試驗解析 Dasatinib 劑量優化與耐受性表現",
+          "meta_badge": "研究設計：多中心隨機對照三期臨床試驗",
+          "footer": "資料來源：La et al. ASCO / Journal of clinical oncology : official "
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "週末藥物假期能否兼顧\n慢性骨髓性白血病療效與安全性？",
+          "points": [
+            "研究族群分布：納入 289 名慢性期慢性骨髓性白血病患者，其中高達 80%（232 名）屬於第一線標靶治療族群",
+            "給藥方案對照：隨機分派至標準每日一次 Dasatinib 100 mg 連續治療，或每週服藥 5 日、週末停藥 2 日方案",
+            "共同主要終點：同步評估治療第 24 個月之主要分子學緩解率（MMR）以及新開發之累積毒性評分指標"
+          ],
+          "footer": "資料來源：La et al. ASCO / Journal of clinical oncology : official "
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "一線治療維持分子緩解深度\n後線治療則不宜調降給藥頻率",
+          "points": [
+            "整體緩解表現：標準組與間歇組於 24 個月之 MMR 分別為 81% 與 78%，達到預設統計學不劣性標準（P = .009）",
+            "後線治療限制：於第二線或更後線治療患者中，間歇給藥組之 24 個月 MMR 降低達 24%，未達不劣性標準",
+            "毒性事件分析：比較兩組患者發生第 2 至 4 級治療相關不良反應之比例，整體未觀察到顯著統計學差異"
+          ],
+          "footer": "資料來源：La et al. ASCO / Journal of clinical oncology : official "
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "酪胺酸激酶抑制劑邁向\n依治療線數精準調控給藥頻率",
+          "summary": "DasaHIT 三期試驗證實，針對初診斷第一線慢性期 CML 患者，Dasatinib 採行週末停藥之間歇給藥策略在 24 個月主要分子學緩解率上不劣於標準每日給藥；然而針對後線抗藥或不耐受患者，維持標準劑量強度仍為確保分子學反應之關鍵。",
+          "cta": "後續觀察：間歇給藥組長期深度分子學緩解率（DMR）與無治療緩解（TFR）可行性",
+          "footer": "資料來源：La et al. ASCO / Journal of clinical oncology : official "
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "雙特異性抗體",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-01039",
+      "original_title": "Early Treatment Failure in Patients With Relapsed/Refractory Multiple Myeloma Receiving Bispecific T-Cell Engagers: Development and Validation of the CHARGE Prognostic Index.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【JCO 多中心研究：復發或難治型多發性骨髓瘤接受雙特異性 T 細胞接合器之 CHARGE 預後指標開發與驗證】\n\n發表於美國臨床腫瘤學會（ASCO）官方期刊《Journal of Clinical Oncology》（JCO）的多中心研究，由美國多發性骨髓瘤免疫治療聯盟（US Multiple Myeloma Immunotherapy Consortium）15 家醫學中心合作，針對接受雙特異性 T 細胞接合器（Bispecific T-cell engagers, TCEs）治療之復發或難治型多發性骨髓瘤（RRMM）患者，建立並於國際骨髓瘤基金會（IMF）獨立世代驗證可預測無惡化存活期（PFS）之 CHARGE 預後模型。\n\n■ 研究核心發現：\n1. 大型真實世代：研究評估 577 例接受 B 細胞成熟抗原（BCMA）導向 TCE 與 366 例接受 GPRC5D 導向抗體 Talquetamab 治療之療程，其中高達 92% 患者對三類核心骨髓瘤藥物具抗藥性（Triple-class-refractory）。\n2. 存活時間剖析：中位追蹤 8.4 個月期間，整體世代之中位無惡化存活期（PFS）為 6.4 個月，其中 BCMA 導向 TCE 組中位 PFS 為 7.0 個月，Talquetamab 組則為 6.1 個月。\n3. 預後風險因子：多變數 Cox 迴歸模型鑑定出與不良 PFS 顯著相關之關鍵因子，包含高風險細胞遺傳學異常（del(17p) 或 ≥2 項高風險異常）、高鐵蛋白血症（≥600 ng/mL）、貧血（血紅素 <9 g/dL）及前線治療後早期復發（<18 個月）等指標。\n\n■ 臨床轉譯與研究展望：\nCHARGE 預後指標整合臨床、腫瘤生物學與宿主發炎狀態參數，協助識別接受 BCMA 或 GPRC5D 雙特異性抗體後易發生早期治療失敗之高風險多發性骨髓瘤族群，為後續聯合免疫策略設計提供精準分層依據。\n\n■ 資料來源 (References)：\n1. Zanwar S, Hansen DK, Pasvolsky O, Tan C, Peres LC, Goel U, et al. Early Treatment Failure in Patients With Relapsed/Refractory Multiple Myeloma Receiving Bispecific T-Cell Engagers: Development and Validation of the CHARGE Prognostic Index. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-01039\n2. ASCO (美國臨床腫瘤學會) / JCO. Early Treatment Failure in Patients With Relapsed/Refractory Multiple Myeloma Receiving Bispecific T-Cell Engagers: Development and Validation of the CHARGE Prognostic Index.. https://doi.org/10.1200/JCO-26-01039\n\n#多發性骨髓瘤 #RRMM #雙特異性抗體 #BCMA #GPRC5D #Talquetamab #ASCO #JCO",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 預後模型研究",
+          "headline": "多發性骨髓瘤雙抗治療\n建立 CHARGE 預後評分\n精準預測早期治療失敗",
+          "subheadline": "跨中心 943 例 BCMA 與 GPRC5D 雙特異性 T 細胞接合器治療世代解析",
+          "meta_badge": "研究設計：多中心真實世界世代開發與外部驗證",
+          "footer": "資料來源：Zanwar et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "模型架構",
+          "headline": "哪些生物與臨床特徵主導\n雙特異性抗體早期抗藥與復發？",
+          "points": [
+            "染色體高風險：帶有 del(17p) 缺失或合併兩項以上高風險細胞遺傳學異常（HRCAs），顯著縮短疾病控制時間",
+            "宿主發炎貧血：治療前表現高鐵蛋白血症（≥600 ng/mL）與嚴重貧血（血紅素 <9 g/dL）反映不良骨髓微環境",
+            "病程演化動力：自第一線治療起算 18 個月內發生早期復發及體能狀態受損，為預測雙抗無效之重要臨床指標"
+          ],
+          "footer": "資料來源：Zanwar et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "近千例三類藥物難治型患者\n雙特異性抗體存活數據與模型驗證",
+          "points": [
+            "世代結構特徵：涵蓋 577 例 BCMA 導向雙抗與 366 例 Talquetamab 治療，92% 屬三類藥物難治型患者",
+            "無惡化存活期：中位追蹤 8.4 個月，整體中位 PFS 為 6.4 個月（BCMA 雙抗 7.0 個月，Talquetamab 6.1 個月）",
+            "跨國外部驗證：整合 6 項獨立風險變數建構 CHARGE 指數，並於國際骨髓瘤基金會獨立多中心世代完成驗證"
+          ],
+          "footer": "資料來源：Zanwar et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從單一標靶選擇邁向\n整合腫瘤與宿主特徵之風險分層",
+          "summary": "儘管 BCMA 與 GPRC5D 雙特異性 T 細胞接合器為晚期多發性骨髓瘤帶來突破，患者預後仍具高度異質性。CHARGE 模型結合遺傳學、全身性發炎指標與復發時序，能有效識別早期惡化高風險族群，指導臨床試驗風險分層。",
+          "cta": "後續觀察：針對 CHARGE 高風險患者導入雙標靶接合器或免疫調節劑聯合方案之效益",
+          "footer": "資料來源：Zanwar et al. ASCO / Journal of clinical oncology : offic"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "腫瘤微環境",
+      "source_name": "SITC (癌症免疫治療學會) / JITC",
+      "source_url": "https://doi.org/10.1136/jitc-2026-015961",
+      "original_title": "Midkine identifies a Treg-enriched immune-evasive phenotype associated with poor outcomes in clear cell renal cell carcinoma.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【SITC / JITC 免疫微環境研究：Midkine 驅動亮細胞腎細胞癌調節性 T 細胞富集與免疫逃逸表型】\n\n發表於癌症免疫治療學會（SITC）官方期刊《Journal for ImmunoTherapy of Cancer》（JITC）的研究，透過單細胞 RNA 定序（scRNA-seq）結合空間多重免疫螢光與同基因小鼠模型，深入解析亮細胞腎細胞癌（ccRCC）中驅動調節性 T 細胞（Tregs）活化與抗 PD-1 免疫檢查點抑制劑抗藥性之腫瘤內在訊號軸。\n\n■ 核心作用機制：\n1. 單細胞互作圖譜：研究團隊運用 CellChat 演算法分析 ccRCC 單細胞轉錄組數據，繪製腫瘤上皮細胞與調節性 T 細胞（Tregs）間之配體-受體通訊網絡，鑑定出 Midkine（MDK）為核心訊號配體。\n2. 臨床預後關聯：於大型轉錄組世代、免疫治療世代及前瞻性機構 ccRCC 世代驗證顯示，MDK 在腫瘤組織中顯著高表達，且與晚期腫瘤分期、高侵襲性組織學特徵及不良存活預後密切相關。\n3. 空間與動物驗證：多重免疫螢光染色證實 MDK 高表達區域伴隨 Tregs 空間富集與免疫排斥微環境；體外與抗 PD-1 治療之同基因小鼠模型進一步確立其促進免疫逃逸之功能角色。\n\n■ 臨床轉譯與研究展望：\n本研究揭示腫瘤分泌之 Midkine 為塑造亮細胞腎細胞癌免疫抑制微環境的關鍵媒介，不僅可作為預測免疫檢查點抑制劑療效之生物標記，更提供靶向抑制 MDK 以逆轉 Treg 介導抗藥性之潛在聯合治療方向。\n\n■ 資料來源 (References)：\n1. Wang Z, Chen J, Wei X, Shi Y, Chen J, Zhou Z, et al. Midkine identifies a Treg-enriched immune-evasive phenotype associated with poor outcomes in clear cell renal cell carcinoma. Journal for immunotherapy of cancer (SITC (癌症免疫治療學會) / JITC). 2026. https://doi.org/10.1136/jitc-2026-015961\n2. SITC (癌症免疫治療學會) / JITC. Midkine identifies a Treg-enriched immune-evasive phenotype associated with poor outcomes in clear cell renal cell carcinoma.. https://doi.org/10.1136/jitc-2026-015961\n\n#腎細胞癌 #ccRCC #腫瘤微環境 #調節性T細胞 #Midkine #免疫逃逸 #SITC #JITC",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "SITC 腫瘤免疫研究",
+          "headline": "亮細胞腎細胞癌微環境\n鑑定關鍵配體 Midkine\n驅動調節性T細胞免疫逃逸",
+          "subheadline": "結合單細胞轉錄組與抗 PD-1 小鼠模型揭示上皮與免疫細胞交互作用",
+          "meta_badge": "研究焦點：亮細胞腎細胞癌 (ccRCC) 免疫抑制機制",
+          "footer": "資料來源：Wang et al. SITC / Journal for immunotherapy of cancer (2"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "腎癌細胞如何透過旁分泌訊號\n重塑調節性 T 細胞抑制性微環境？",
+          "points": [
+            "細胞通訊解析：應用 CellChat 分析單細胞 RNA 定序數據，精準繪製腫瘤上皮細胞與 Tregs 間之訊號交互作用",
+            "核心配體鑑定：篩選出 Midkine（MDK）為腫瘤內在關鍵配體，在亮細胞腎細胞癌組織中呈現顯著上調趨勢",
+            "空間免疫排斥：多重免疫螢光染色證實 MDK 高表達腫瘤區域與 Tregs 空間聚集及免疫抑制性表型高度共定位"
+          ],
+          "footer": "資料來源：Wang et al. SITC / Journal for immunotherapy of cancer (2"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "跨多組學世代與動物模型驗證\nMidkine 對抗 PD-1 療效之負向影響",
+          "points": [
+            "多世代轉錄組：於體積轉錄組數據集、免疫治療世代與前瞻性機構世代中，一致驗證 MDK 之不良預後價值",
+            "病理分期關聯：腫瘤高表達 MDK 顯著關聯於晚期臨床分期、高侵襲性病理特徵以及特徵性基因體變異譜",
+            "體內功能驗證：透過體外功能分析與接受抗 PD-1 治療之同基因小鼠模型，確立 MDK 誘導免疫逃逸之直接作用"
+          ],
+          "footer": "資料來源：Wang et al. SITC / Journal for immunotherapy of cancer (2"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "阻斷腫瘤上皮與 Treg 通訊軸\n開啟腎癌逆轉免疫抗藥新策略",
+          "summary": "調節性 T 細胞浸潤是亮細胞腎細胞癌對免疫檢查點抑制劑產生抗藥性的核心屏障。本研究確立腫瘤衍生之 Midkine 為驅動上皮-Treg 交互作用的關鍵樞紐，為開發靶向微環境通訊之新型免疫聯合療法奠定分子基礎。",
+          "cta": "後續觀察：靶向抑制 Midkine 訊號軸合併抗 PD-1 抗體於臨床前與早期試驗之協同療效",
+          "footer": "資料來源：Wang et al. SITC / Journal for immunotherapy of cancer (2"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "腫瘤學人工智能",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1186/s12874-026-02978-y",
+      "original_title": "AI as gatekeeper: a cross-sectional study of AI-generated peer review of landmark oncological studies.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【腫瘤學研究方法學評估：大型語言模型對 ASCO / ESMO 指標性癌症臨床試驗進行同儕審查之橫斷面分析】\n\n發表於《BMC Medical Research Methodology》並針對歐洲腫瘤內科學會（ESMO）、美國臨床腫瘤學會（ASCO）及美國國家癌症資訊網（NCCN）臨床指引所引用之 50 項指標性腫瘤學臨床試驗進行的研究，系統性評估三款主流大型語言模型（Claude Sonnet 4.5、Google Gemini 3.0 Thinking 與 OpenAI ChatGPT 5.1）在盲性去識別化條件下執行學術同儕審查（Peer Review）之嚴謹度與差異。\n\n■ 研究核心發現：\n1. 盲性審查設計：研究篩選來自 ASCO、ESMO 與 NCCN 指引之 50 篇里程碑腫瘤學臨床試驗手稿，移除所有識別資訊後以標準化提示詞輸入各模型，由兩位獨立研究人員針對生物學、方法學、統計學、試驗分組與報告規範五大維度進行雙盲評估。\n2. 審查裁決差異：各模型在最終審查裁決上呈現高度顯著統計差異（p < 0.001），顯示不同架構之大型語言模型對腫瘤學臨床數據之批判標準存在明顯分歧。\n3. 嚴格程度分布：分析顯示 Claude Sonnet 4.5 展現最高之審查嚴謹度，對高達 74% 的指標性試驗給出「重大修正（Major revisions）」建議，並對 6% 給出退稿（Rejections）裁決。\n\n■ 臨床轉譯與研究展望：\n隨著腫瘤學臨床試驗文獻量急遽攀升，大型語言模型展現出識別試驗設計、統計與方法學潛在限制之能力，惟各模型間裁決標準的高度變異性提示 AI 輔助同儕審查仍須建立標準化驗證框架與專家監督機制。\n\n■ 資料來源 (References)：\n1. Erdat EC, Utkan G. AI as gatekeeper: a cross-sectional study of AI-generated peer review of landmark oncological studies. BMC medical research methodology (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1186/s12874-026-02978-y\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. AI as gatekeeper: a cross-sectional study of AI-generated peer review of landmark oncological studies.. https://doi.org/10.1186/s12874-026-02978-y\n\n#人工智能 #大型語言模型 #同儕審查 #臨床試驗設計 #ASCO #ESMO #腫瘤學研究 #生物統計",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO/ASCO 試驗方法學",
+          "headline": "大型語言模型輔助同儕審查\n評估五十項指標性癌症試驗\n審查嚴謹度呈顯著差異",
+          "subheadline": "橫斷面研究剖析 AI 模型對腫瘤學臨床試驗方法學與統計設計之批判能力",
+          "meta_badge": "研究設計：50 項盲性指標性臨床試驗橫斷面分析",
+          "footer": "資料來源：Erdat et al. ESMO / BMC medical research methodology (202"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估架構",
+          "headline": "如何客觀驗證人工智能模型\n對頂尖腫瘤學臨床試驗之審查能力？",
+          "points": [
+            "指標文獻取樣：自 ASCO、ESMO 與 NCCN 臨床實踐指引中挑選 50 項具代表性之里程碑腫瘤學臨床試驗",
+            "去識別化處理：完整移除手稿中之作者、機構與試驗代號等識別資訊，透過標準化提示詞進行盲性審查測試",
+            "五大維度剖析：由雙人獨立評估模型於生物學合理性、研究方法學、統計分析、試驗分組與報告規範之意見"
+          ],
+          "footer": "資料來源：Erdat et al. ESMO / BMC medical research methodology (202"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "不同模型審查標準差異顯著\n對方法學與統計限制具高度敏感性",
+          "points": [
+            "裁決分布差異：經卡方檢定與 Bonferroni 校正分析，三款模型之審查最終裁決存在顯著差異（p < 0.001）",
+            "嚴格程度量化：其中 Claude Sonnet 4.5 審查最為嚴格，提出高達 74% 重大修正與 6% 退稿之審查建議",
+            "多維邏輯迴歸：透過邏輯迴歸量化各模型對試驗識別度、期刊適配度及五大方法學領域缺陷之檢出效能"
+          ],
+          "footer": "資料來源：Erdat et al. ESMO / BMC medical research methodology (202"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "人工智能成為學術研究守門員前\n須建立標準化方法學驗證框架",
+          "summary": "本研究首次以 ASCO、ESMO 及 NCCN 指引之指標性癌症試驗為基準，實證評估大型語言模型執行學術同儕審查之表現。結果顯示 AI 具備批判性檢視方法學與統計設計的潛力，但模型間標準不一，突顯人類腫瘤學專家最終裁量之必要性。",
+          "cta": "後續觀察：結合腫瘤學統計規範微調之專用模型與人類專家審查一致性之前瞻對照研究",
+          "footer": "資料來源：Erdat et al. ESMO / BMC medical research methodology (202"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "早期肺癌治療",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajYxUmI5WFBxQ005LURPMzV5dVRmTG05MDA5RDZxTzJUcG5hSndSVEI3MlFlOFAySndUSGpmd2Jpc0J2bVVKZWt6aFBlN0NGM2F3OEZobkZPZ3hLbWRaLUFONmVPNmdrZ0FQa3ZhVVd1V2dyUkQxTmphLW1MeFdBelVvSlZ2bkp5UG5PLU5KYWNMcEJjRXVtVENsLWN2SVVKQ3RIUi1WZlpsS1g3NVg4NHl5VWZIeEluMDNpYmw3UQ?oc=5",
+      "original_title": "Surgical Resection Associated With Lower Mortality Than SABR in Early-Stage NSCLC - The ASCO Post",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ASCO Post 臨床研究聚焦：早期非小細胞肺癌接受手術切除與立體定位消融放射治療（SABR）之死亡率比較】\n\n根據《The ASCO Post》報導之最新腫瘤學臨床數據，針對早期非小細胞肺癌（Early-Stage NSCLC）患者，比較外科手術切除（Surgical Resection）與立體定位消融放射治療（Stereotactic Ablative Radiotherapy, SABR）在長期存活與死亡率上之臨床結果差異。\n\n■ 研究核心發現：\n1. 核心療法比較：聚焦於早期非小細胞肺癌（NSCLC）局部根治性治療選擇，直接對照標準外科手術切除與高精準度之立體定位消融放射治療（SABR）。\n2. 存活結果差異：研究分析顯示，在早期非小細胞肺癌患者群體中，接受外科手術切除相較於接受 SABR 治療，與較低之整體死亡率（Lower Mortality）具有顯著關聯。\n3. 臨床決策意義：該項比較數據為早期可手術非小細胞肺癌患者之多專科團隊（MDT）局部治療模式選擇提供了重要的長期存活參考實證。\n\n■ 臨床轉譯與研究展望：\n在早期非小細胞肺癌的治療版圖中，儘管立體定位消融放射治療（SABR）具備非侵入性與高局部控制率優勢，針對心肺功能適合手術之患者，外科手術切除與系統性淋巴結廓清仍在降低長期死亡率上展現關鍵臨床價值。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Surgical Resection Associated With Lower Mortality Than SABR in Early-Stage NSCLC - The ASCO Post. https://news.google.com/rss/articles/CBMivwFBVV95cUxPajYxUmI5WFBxQ005LURPMzV5dVRmTG05MDA5RDZxTzJUcG5hSndSVEI3MlFlOFAySndUSGpmd2Jpc0J2bVVKZWt6aFBlN0NGM2F3OEZobkZPZ3hLbWRaLUFONmVPNmdrZ0FQa3ZhVVd1V2dyUkQxTmphLW1MeFdBelVvSlZ2bkp5UG5PLU5KYWNMcEJjRXVtVENsLWN2SVVKQ3RIUi1WZlpsS1g3NVg4NHl5VWZIeEluMDNpYmw3UQ?oc=5\n\n#非小細胞肺癌 #NSCLC #早期肺癌 #手術切除 #SABR #立體定位放射治療 #ASCO #胸腔腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 早期肺癌數據",
+          "headline": "早期非小細胞肺癌局部治療\n外科手術切除相較於 SABR\n顯著關聯於較低整體死亡率",
+          "subheadline": "早期非小細胞肺癌根治性手術與立體定位消融放射治療之長期預後比較",
+          "meta_badge": "研究焦點：早期非小細胞肺癌 (NSCLC) 局部治療",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "治療定位",
+          "headline": "早期非小細胞肺癌局部根治策略\n手術切除與立體定位放療之核心差異",
+          "points": [
+            "局部根治目標：針對無遠端轉移之早期非小細胞肺癌，外科切除與 SABR 為臨床兩大核心局部控制手段",
+            "外科切除優勢：手術除了完整移除原發腫瘤病灶外，同時能提供縱膈腔與肺門淋巴結之精確病理分期資訊",
+            "消融放療定位：立體定位消融放射治療（SABR）透過高劑量少分次照射，為高手術風險患者提供非侵入性替代方案"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "比較長期存活與死亡率終點\n確立外科手術於早期肺癌之基準地位",
+          "points": [
+            "核心研究發現：於早期非小細胞肺癌世代比較中，接受外科手術切除之患者展現低於 SABR 組之死亡率表現",
+            "風險效益權衡：反映出在生理狀態可耐受手術之早期患者中，手術切除帶來的長期存活效益仍具臨床優勢",
+            "多專科評估：強調早期肺癌治療決策需綜合評估患者心肺功能儲備、手術風險及腫瘤解剖位置等臨床參數"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "精準評估手術耐受度與病理分期\n優化早期非小細胞肺癌長期存活",
+          "summary": "本研究數據再次確認外科手術切除在早期非小細胞肺癌根治性治療中的核心地位，顯示手術切除相較於立體定位消融放射治療（SABR）與較低死亡率相關，為胸腔腫瘤多專科團隊權衡手術與非手術局部治療提供重要臨床依據。",
+          "cta": "後續觀察：SABR 合併周術期免疫檢查點抑制劑與手術切除之隨機對照試驗長期存活結果",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
