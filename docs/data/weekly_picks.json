@@ -184,7 +184,7 @@
       "date": "2026-11-11",
       "post_id": "post-1",
       "picked_at": "2026-11-11T04:27:39.547Z",
-      "issue": null,
+      "issue": "2026-11-16",
       "post": {
         "id": "post-1",
         "category": "合成致死標靶",
@@ -244,7 +244,7 @@
       "date": "2026-11-11",
       "post_id": "post-2",
       "picked_at": "2026-11-11T04:29:06.774Z",
-      "issue": null,
+      "issue": "2026-11-16",
       "post": {
         "id": "post-2",
         "category": "鼻咽癌免疫治療",
@@ -304,7 +304,7 @@
       "date": "2026-11-12",
       "post_id": "post-2",
       "picked_at": "2026-11-12T13:52:44.135Z",
-      "issue": null,
+      "issue": "2026-11-16",
       "post": {
         "id": "post-2",
         "category": "生物標記輔助",
@@ -364,7 +364,7 @@
       "date": "2026-11-13",
       "post_id": "post-1",
       "picked_at": "2026-11-13T14:18:49.608Z",
-      "issue": null,
+      "issue": "2026-11-16",
       "post": {
         "id": "post-1",
         "category": "肺癌基因標記",
@@ -424,7 +424,7 @@
       "date": "2026-11-15",
       "post_id": "post-2",
       "picked_at": "2026-11-15T09:49:17.636Z",
-      "issue": null,
+      "issue": "2026-11-16",
       "post": {
         "id": "post-2",
         "category": "抗體藥物複合體",
