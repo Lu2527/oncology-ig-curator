@@ -419,6 +419,66 @@
           }
         ]
       }
+    },
+    {
+      "date": "2026-11-15",
+      "post_id": "post-2",
+      "picked_at": "2026-11-15T09:49:17.636Z",
+      "issue": null,
+      "post": {
+        "id": "post-2",
+        "category": "抗體藥物複合體",
+        "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+        "source_url": "https://doi.org/10.1158/2159-8290.CD-NW2026-0107",
+        "original_title": "TROP-2-Directed ADC Could Be New Standard for Some NSCLCs.",
+        "theme_color": "#1D4ED8",
+        "accent_color": "#3B82F6",
+        "caption": "【AACR 旗艦期刊報導：TROP-2 標靶 ADC 聯合免疫治療大幅延長 PD-L1 陰性晚期非鱗狀 NSCLC 無惡化存活期】\n\n美國癌症研究協會（AACR）官方期刊《Cancer Discovery》報導三期臨床試驗 Opti-TROP-Lung06 之突破性成果。針對新診斷、PD-L1 表現陰性且無可用標靶基因變異之晚期非鱗狀非小細胞肺癌（nonsquamous non-small cell lung cancer, NSCLC）患者，第一線使用靶向 TROP-2 之抗體藥物複合體（antibody-drug conjugate, ADC）sacituzumab tirumotecan 合併 PD-1 抑制劑 pembrolizumab，其無惡化存活期（progression-free survival, PFS）中位數高達 15 個月，顯著優於傳統標準化學治療合併 pembrolizumab 對照組的 5.7 個月。\n\n■ 研究核心發現：\n1. 突破治療瓶頸：聚焦於缺乏驅動基因突變且 PD-L1 陰性之晚期非鱗狀 NSCLC，此族群對傳統免疫單藥或化療聯合療法之反應相對受限。\n2. 雙重協同機制：結合靶向腫瘤表面 TROP-2 抗原之新型 ADC（sacituzumab tirumotecan）與 PD-1 免疫檢查點抑制劑（pembrolizumab）作為第一線治療。\n3. 顯著存活效益：試驗組中位無惡化存活期（mPFS）達到 15.0 個月，相較於標準化療聯合 pembrolizumab 組的 5.7 個月，疾病控制時間延長近三倍。\n\n■ 臨床轉譯與研究展望：\nOpti-TROP-Lung06 三期試驗數據顯示，以 TROP-2 導向之抗體藥物複合體取代傳統細胞毒性化療並與免疫檢查點抑制劑聯用，有望重新定義 PD-L1 陰性、無驅動突變晚期非鱗狀非小細胞肺癌的第一線標準治療版圖。\n\n■ 資料來源 (References)：\n1. . TROP-2-Directed ADC Could Be New Standard for Some NSCLCs. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-NW2026-0107\n2. AACR (美國癌症研究協會) / Cancer Discovery. TROP-2-Directed ADC Could Be New Standard for Some NSCLCs.. https://doi.org/10.1158/2159-8290.CD-NW2026-0107\n\n#非小細胞肺癌 #NSCLC #抗體藥物複合體 #ADC #TROP2 #AACR",
+        "slides": [
+          {
+            "slide_num": 1,
+            "type": "cover",
+            "tag": "AACR 臨床三期突破",
+            "headline": "TROP-2 抗體藥物複合體\n一線治療 PD-L1 陰性肺癌\n無惡化存活期達 15 個月",
+            "footer": "資料來源：AACR / Cancer discovery (2026)",
+            "subheadline": "Opti-TROP-Lung06 三期試驗驗證 Sacituzumab Tirumotecan 聯合免疫療法之效益",
+            "meta_badge": "研究焦點：晚期非鱗狀非小細胞肺癌 (NSCLC)"
+          },
+          {
+            "slide_num": 2,
+            "type": "points",
+            "tag": "治療策略設計",
+            "headline": "針對免疫反應受限之肺癌亞群\n如何透過新型聯合療法突破？",
+            "footer": "資料來源：AACR / Cancer discovery (2026)",
+            "points": [
+              "鎖定難治族群：收案對象為新診斷、無可用標靶基因變異且 PD-L1 陰性之晚期非鱗狀非小細胞肺癌",
+              "靶向藥物投遞：採用靶向 TROP-2 之抗體藥物複合體 sacituzumab tirumotecan 取代傳統雙藥化療",
+              "免疫檢查點協同：合併 PD-1 抑制劑 pembrolizumab 作為一線治療，強化抗腫瘤免疫微環境反應"
+            ]
+          },
+          {
+            "slide_num": 3,
+            "type": "points",
+            "tag": "臨床三期數據",
+            "headline": "Opti-TROP-Lung06 試驗中\nADC 聯合免疫展現何種數據優勢？",
+            "footer": "資料來源：AACR / Cancer discovery (2026)",
+            "points": [
+              "試驗組存活期：接受 sacituzumab tirumotecan 合併 pembrolizumab 患者之中位 PFS 達 15 個月",
+              "對照組存活期：接受標準化學治療合併 pembrolizumab 之對照組患者，中位 PFS 僅為 5.7 個月",
+              "臨床療效跨越：在缺乏 PD-L1 表現的劣勢條件下，新型 ADC 聯合方案將疾病無惡化時間大幅延長"
+            ]
+          },
+          {
+            "slide_num": 4,
+            "type": "takeaway",
+            "tag": "臨床轉譯意義",
+            "headline": "無化療 ADC 聯合免疫方案\n重塑 PD-L1 陰性肺癌一線標準",
+            "footer": "資料來源：AACR / Cancer discovery (2026)",
+            "summary": "《Cancer Discovery》披露之 Opti-TROP-Lung06 三期試驗證明，TROP-2 導向之 ADC 聯合 PD-1 抑制劑能克服 PD-L1 陰性非鱗狀 NSCLC 對傳統免疫化療反應不佳的困境，以 15 個月 vs 5.7 個月的顯著 PFS 差距確立新治療標竿。",
+            "cta": "後續觀察：Opti-TROP-Lung06 試驗之長期整體存活期（OS）成熟數據與治療相關不良反應譜分析"
+          }
+        ]
+      }
     }
   ]
 }
