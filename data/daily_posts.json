@@ -1,279 +1,279 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T11:17:23.724468+08:00",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T11:19:44.484978+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "液態切片檢測",
-      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
-      "source_url": "https://doi.org/10.1016/j.annonc.2026.11.005",
-      "original_title": "Circulating tumor DNA to direct adjuvant immunotherapy across mismatch repair-deficient solid tumors.",
+      "category": "乳癌腦轉移標靶",
+      "source_name": "SABCS (聖安東尼奧乳癌研討會)",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2610",
+      "original_title": "Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【ESMO 旗艦期刊發表：循環腫瘤 DNA (ctDNA) 導引 dMMR 實體腫瘤術後 PD-1 免疫輔助治療】\n\n歐洲腫瘤內科學會（ESMO）官方期刊《Annals of Oncology》最新發表一項前瞻性二期介入性臨床試驗，探討在錯配修復缺陷（mismatch repair-deficient, dMMR）之早期實體腫瘤患者接受根治性手術切除後，利用循環腫瘤 DNA（circulating tumor DNA, ctDNA）偵測微量殘存疾病（minimal residual disease, MRD），並以此導引術後 PD-1 抑制劑輔助治療之臨床效益。研究證實，透過液態切片精準篩選出高復發風險之 MRD 陽性患者並給予免疫介入，能有效清除隱匿性殘存癌細胞並改善無復發存活期（recurrence-free survival, RFS）。\n\n■ 研究核心發現：\n1. 突變比對確認：術後檢測血漿中可偵測之 ctDNA，並將其突變圖譜與切除之原發腫瘤組織體細胞突變進行比對，嚴格定義並確認 MRD 陽性狀態。\n2. 跨癌種適應症：研究納入來自不同解剖部位、已完成根治性切除之早期 dMMR 實體腫瘤患者，展現組織不限（tissue-agnostic）之分子導引治療潛力。\n3. 免疫介入評估：確診為 MRD 陽性之高風險患者接受為期 6 個月的 PD-1 阻斷劑治療，系統性評估其 ctDNA 清除率與 24 個月無復發存活期（RFS）。\n\n■ 臨床轉譯與研究展望：\n過去針對術後 MRD 陽性患者是否能透過早期治療介入逆轉復發風險之實證相當有限。本研究建立了以分子殘存疾病為基礎的精準輔助治療模式，不僅讓高風險 dMMR 患者即時獲得 PD-1 抑制劑的保護，亦有助於避免 MRD 陰性患者承受非必要的免疫相關不良反應。\n\n■ 資料來源 (References)：\n1. Janjigian YY, Lumish MA, Foote MB, Socolow F, Perissinotto E, Darmofal M, et al. Circulating tumor DNA to direct adjuvant immunotherapy across mismatch repair-deficient solid tumors. Annals of oncology : official journal of the European Society for Medical Oncology (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.annonc.2026.11.005\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Circulating tumor DNA to direct adjuvant immunotherapy across mismatch repair-deficient solid tumors.. https://doi.org/10.1016/j.annonc.2026.11.005\n\n#液態切片 #ctDNA #微量殘存疾病 #dMMR #免疫輔助治療 #ESMO",
+      "caption": "【SABCS / CCR 臨床研究更新：免化療四藥標靶與內分泌聯合方案治療 HR+/HER2+ 乳癌腦轉移展現 58.6% 顱內緩解率】\n\n荷爾蒙受體陽性且第二型人類表皮生長因子受體陽性（HR+/HER2+）之晚期乳癌（ABC）患者面臨極高的腦轉移（BMs）風險，然而針對此特定亞群的前瞻性全身性治療證據長期匱乏。最新發表於美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》（並列入 SABCS 聖安東尼奧乳癌研討會重點研究）的前瞻性多中心二期臨床試驗，評估了結合 Palbociclib、Fulvestrant、Trastuzumab 與 Pyrotinib 之免化療（Chemotherapy-sparing）四藥方案，在未接受過局部治療之可測量腦轉移患者中展現顯著的顱內抗腫瘤活性。\n\n■ 研究核心發現：\n1. 雙重訊號阻斷：同時靶向 CDK4/6、雌激素受體（ER）以及胞內外 HER2 酪胺酸激酶結構域，克服單一途徑之抗藥性與血腦障壁限制。\n2. 顱內客觀緩解：於 29 名可評估療效之患者中，確認之中樞神經系統客觀緩解率（CNS-ORR）達 58.6%（95% CI 40.7-74.5）。\n3. 全身疾病控制：整體客觀緩解率（Overall ORR）達 62.1%，證實免化療四藥聯合方案兼具顱內與顱外病灶之控制能力。\n\n■ 臨床轉譯與研究展望：\n此項多中心二期試驗為 HR+/HER2+ 伴隨腦轉移之晚期乳癌提供了具高度潛力的去化療系統性治療策略，未來值得透過大型隨機對照試驗進一步確立其無惡化存活期（PFS）與整體存活期（OS）效益。\n\n■ 資料來源 (References)：\n1. Chen D, Wang N, Xu F, Xia W, Lu Y, Huang J, et al. Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial. Clinical cancer research : an official journal of the American Association for Cancer Research (SABCS (聖安東尼奧乳癌研討會)). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2610\n2. SABCS (聖安東尼奧乳癌研討會). Palbociclib, Fulvestrant, Trastuzumab, and Pyrotinib for Patients with Advanced Breast Cancer with Brain Metastases: A Prospective Multicenter Phase 2 Trial.. https://doi.org/10.1158/1078-0432.CCR-26-2610\n\n#乳癌腦轉移 #SABCS #HER2陽性乳癌 #標靶治療 #Pyrotinib #CDK46抑制劑 #臨床腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ESMO 臨床研究更新",
-          "headline": "液態切片 ctDNA 精準導引\ndMMR 腫瘤術後免疫治療\n清除微量殘存疾病防復發",
-          "subheadline": "前瞻性二期臨床試驗驗證跨癌種 MRD 陽性患者接受 PD-1 阻斷劑之效益",
-          "meta_badge": "研究設計：前瞻性二期跨癌種介入性臨床試驗",
-          "footer": "資料來源：Janjigian et al. ESMO / Annals of oncology : official jou"
+          "tag": "SABCS 乳癌標靶突破",
+          "headline": "免化療四藥聯合方案治療\nHR+/HER2+ 乳癌腦轉移\n顱內客觀緩解率達 58.6%",
+          "subheadline": "Palbociclib、Fulvestrant、Trastuzumab 與 Pyrotinib 前瞻性二期臨床試驗解析",
+          "meta_badge": "研究設計：前瞻性多中心單臂二期臨床試驗",
+          "footer": "資料來源：Chen et al. SABCS / Clinical cancer research : an officia"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子檢測機制",
-          "headline": "如何透過液態切片精準定義\n術後隱匿性微量殘存疾病？",
+          "tag": "分子機制",
+          "headline": "免化療四藥聯合方案如何協同\n突破血腦障壁並阻斷腫瘤生長？",
           "points": [
-            "隱匿病灶偵測：根治性手術後若血液檢出 ctDNA，代表體內仍存在具高度復發與死亡風險的殘存癌細胞",
-            "組織突變比對：將血漿 ctDNA 檢出之突變與手術切除腫瘤組織之體細胞突變進行比對以確認相關性",
-            "雙重標準確認：唯有同時具備可偵測之 ctDNA 且突變圖譜與原發腫瘤相符者，方判定為 MRD 陽性"
+            "雙靶點抗體與小分子：結合大分子單株抗體 Trastuzumab 與具高血腦障壁穿透力之小分子不可逆泛 HER 抑制劑 Pyrotinib",
+            "內分泌途徑降解：透過選擇性雌激素受體降解劑 Fulvestrant 阻斷 ER 訊號傳遞，抑制與 HER2 路徑之交互代償活化",
+            "細胞週期抑制：藉由 CDK4/6 抑制劑 Palbociclib 阻斷磷酸化視網膜母細胞瘤蛋白，協同誘導中樞神經系統轉移病灶停滯"
           ],
-          "footer": "資料來源：Janjigian et al. ESMO / Annals of oncology : official jou"
+          "footer": "資料來源：Chen et al. SABCS / Clinical cancer research : an officia"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床試驗設計",
-          "headline": "以分子標記導引 PD-1 抑制劑\n能否改變高風險患者預後？",
+          "tag": "臨床數據",
+          "headline": "未曾接受局部治療之腦轉移患者\n接受四藥聯合方案之實證療效為何？",
           "points": [
-            "不限腫瘤部位：納入任何解剖起源、具錯配修復缺陷（dMMR）且完成根治性切除之早期實體腫瘤患者",
-            "短期免疫介入：經確認為 MRD 陽性之高風險患者，給予為期 6 個月的術後 PD-1 阻斷劑輔助治療",
-            "核心療效終點：系統性追蹤患者治療後之血漿 ctDNA 分子清除率，以及術後 24 個月無復發存活期"
+            "試驗收案設計：自 2020 年 12 月至 2026 年 2 月共納入 32 名具可測量腦轉移且靶病灶未受局部治療之 HR+/HER2+ 患者",
+            "顱內緩解表現：於 29 名可評估療效之受試者中，確認之中樞神經系統客觀緩解率（CNS-ORR）高達 58.6%",
+            "整體腫瘤反應：包含顱內外病灶之整體客觀緩解率（Overall ORR）達 62.1%，且整體藥物毒性反應維持於可控範圍"
           ],
-          "footer": "資料來源：Janjigian et al. ESMO / Annals of oncology : official jou"
+          "footer": "資料來源：Chen et al. SABCS / Clinical cancer research : an officia"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從傳統解剖分期邁向\n分子殘存導引之精準輔助治療",
-          "summary": "本研究於《Annals of Oncology》證實，結合腫瘤組織與液態切片比對之 MRD 檢測，能跨越腫瘤原生部位限制，精準識別出真正需要術後強化的 dMMR 實體腫瘤患者，並透過短期 PD-1 免疫治療有效攔截臨床復發。",
-          "cta": "後續觀察：跨癌種 dMMR 患者接受 ctDNA 導引輔助治療之長期整體存活期（OS）與陰性世代對照數據",
-          "footer": "資料來源：Janjigian et al. ESMO / Annals of oncology : official jou"
+          "headline": "從傳統化療與局部放療邁向\n全標靶與內分泌跨血腦障壁聯合治療",
+          "summary": "本研究首次以前瞻性多中心試驗數據證實，結合 CDK4/6 抑制劑、SERD 與大小分子雙重抗 HER2 標靶之免化療方案，能在無局部放療介入下為 HR+/HER2+ 乳癌腦轉移患者帶來近六成的顱內客觀緩解，開拓中樞神經系統轉移系統性治療新典範。",
+          "cta": "後續觀察：中樞神經系統無惡化存活期（CNS-PFS）與整體存活期（OS）之長期追蹤成熟數據",
+          "footer": "資料來源：Chen et al. SABCS / Clinical cancer research : an officia"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "抗體藥物複合體",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/2159-8290.CD-NW2026-0107",
-      "original_title": "TROP-2-Directed ADC Could Be New Standard for Some NSCLCs.",
+      "category": "腫瘤免疫代謝",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+      "original_title": "A simple supplement could help your immune system fight cancer and viral infections",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【AACR 旗艦期刊報導：TROP-2 標靶 ADC 聯合免疫治療大幅延長 PD-L1 陰性晚期非鱗狀 NSCLC 無惡化存活期】\n\n美國癌症研究協會（AACR）官方期刊《Cancer Discovery》報導三期臨床試驗 Opti-TROP-Lung06 之突破性成果。針對新診斷、PD-L1 表現陰性且無可用標靶基因變異之晚期非鱗狀非小細胞肺癌（nonsquamous non-small cell lung cancer, NSCLC）患者，第一線使用靶向 TROP-2 之抗體藥物複合體（antibody-drug conjugate, ADC）sacituzumab tirumotecan 合併 PD-1 抑制劑 pembrolizumab，其無惡化存活期（progression-free survival, PFS）中位數高達 15 個月，顯著優於傳統標準化學治療合併 pembrolizumab 對照組的 5.7 個月。\n\n■ 研究核心發現：\n1. 突破治療瓶頸：聚焦於缺乏驅動基因突變且 PD-L1 陰性之晚期非鱗狀 NSCLC，此族群對傳統免疫單藥或化療聯合療法之反應相對受限。\n2. 雙重協同機制：結合靶向腫瘤表面 TROP-2 抗原之新型 ADC（sacituzumab tirumotecan）與 PD-1 免疫檢查點抑制劑（pembrolizumab）作為第一線治療。\n3. 顯著存活效益：試驗組中位無惡化存活期（mPFS）達到 15.0 個月，相較於標準化療聯合 pembrolizumab 組的 5.7 個月，疾病控制時間延長近三倍。\n\n■ 臨床轉譯與研究展望：\nOpti-TROP-Lung06 三期試驗數據顯示，以 TROP-2 導向之抗體藥物複合體取代傳統細胞毒性化療並與免疫檢查點抑制劑聯用，有望重新定義 PD-L1 陰性、無驅動突變晚期非鱗狀非小細胞肺癌的第一線標準治療版圖。\n\n■ 資料來源 (References)：\n1. . TROP-2-Directed ADC Could Be New Standard for Some NSCLCs. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-NW2026-0107\n2. AACR (美國癌症研究協會) / Cancer Discovery. TROP-2-Directed ADC Could Be New Standard for Some NSCLCs.. https://doi.org/10.1158/2159-8290.CD-NW2026-0107\n\n#非小細胞肺癌 #NSCLC #抗體藥物複合體 #ADC #TROP2 #AACR",
+      "caption": "【Cell 腫瘤免疫重大發現：飲食精胺酸透過密碼子依賴性調控 MHC-I 轉譯並強化結腸癌抗腫瘤免疫】\n\n腫瘤微環境中的胺基酸耗竭是導致免疫逃逸的關鍵機制之一。洛克斐勒大學（Rockefeller University）研究團隊發表於頂尖期刊《Cell》的最新研究揭示，當體內精胺酸（Arginine）濃度低下時，免疫系統辨識癌細胞與病毒感染的核心防禦機制將受到嚴重抑制；而在小鼠模型中補充飲食精胺酸，能顯著減少結腸癌腫瘤形成並改善抗病毒免疫反應。\n\n■ 核心作用機制：\n1. 密碼子依賴轉譯：飲食精胺酸能特異性驅動具有密碼子依賴性（Codon-dependent）之第一類主要組織相容性複合體（MHC class I）蛋白質轉譯。\n2. 抗原呈現修復：當精胺酸缺乏時，MHC class I 分子合成受阻，使異常細胞得以逃避細胞毒性 T 細胞之免疫監視。\n3. 抑制結腸腫瘤：於小鼠實驗中提高飲食精胺酸攝取量，可修復抗原呈現功能並顯著抑制結腸腫瘤生成（Colon tumorigenesis）。\n\n■ 臨床轉譯與研究展望：\n此項研究從轉譯調控層次解開了低精胺酸血症與結腸癌免疫逃逸之分子連結，為結合營養代謝干預與癌症免疫治療提供了全新的轉譯醫學切入點。\n\n■ 資料來源 (References)：\n1. Wu Q, Seydlitz LM, Iakimov V, Hsu DJ, Habibzadeh P, Hoffmann HH, et al. Dietary arginine drives codon-dependent MHC class I translation and improves immunity in colon tumorigenesis and respiratory viral infection. Cell. 2026. https://doi.org/10.1016/j.cell.2026.07.020\n2. ScienceDaily Cancer News. A simple supplement could help your immune system fight cancer and viral infections. https://www.sciencedaily.com/releases/2026/11/261113232000.htm\n\n#腫瘤免疫代謝 #精胺酸 #結腸癌 #MHCI #抗原呈現 #密碼子轉譯 #基礎腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 臨床三期突破",
-          "headline": "TROP-2 抗體藥物複合體\n一線治療 PD-L1 陰性肺癌\n無惡化存活期達 15 個月",
-          "subheadline": "Opti-TROP-Lung06 三期試驗驗證 Sacituzumab Tirumotecan 聯合免疫療法之效益",
-          "meta_badge": "研究焦點：晚期非鱗狀非小細胞肺癌 (NSCLC)",
-          "footer": "資料來源：AACR / Cancer discovery (2026)"
+          "tag": "腫瘤免疫代謝研究",
+          "headline": "飲食精胺酸驅動密碼子依賴性\nMHC-I 轉譯並顯著抑制\n小鼠結腸癌腫瘤生成與免疫逃逸",
+          "subheadline": "洛克斐勒大學揭示胺基酸供給調控抗原呈現與抗腫瘤免疫之分子機制",
+          "meta_badge": "研究焦點：結腸癌生成與 MHC-I 轉譯調控",
+          "footer": "資料來源：Wu et al. Cell (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "治療策略設計",
-          "headline": "針對免疫反應受限之肺癌亞群\n如何透過新型聯合療法突破？",
+          "tag": "分子機制",
+          "headline": "精胺酸缺乏如何瓦解抗原呈現\n並導致腫瘤細胞逃避免疫監視？",
           "points": [
-            "鎖定難治族群：收案對象為新診斷、無可用標靶基因變異且 PD-L1 陰性之晚期非鱗狀非小細胞肺癌",
-            "靶向藥物投遞：採用靶向 TROP-2 之抗體藥物複合體 sacituzumab tirumotecan 取代傳統雙藥化療",
-            "免疫檢查點協同：合併 PD-1 抑制劑 pembrolizumab 作為一線治療，強化抗腫瘤免疫微環境反應"
+            "代謝環境耗竭：結腸癌等病態微環境常伴隨精胺酸濃度異常下降，直接衝擊依賴該胺基酸合成之關鍵免疫防禦蛋白",
+            "密碼子特異調控：精胺酸供給量直接決定密碼子依賴性（Codon-dependent）之第一類主要組織相容性複合體（MHC-I）轉譯效率",
+            "恢復免疫識別：補充精胺酸可重啟 MHC-I 分子合成與細胞表面抗原呈現，使免疫系統重新識別並清除惡性轉化細胞"
           ],
-          "footer": "資料來源：AACR / Cancer discovery (2026)"
+          "footer": "資料來源：Wu et al. Cell (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床三期數據",
-          "headline": "Opti-TROP-Lung06 試驗中\nADC 聯合免疫展現何種數據優勢？",
+          "tag": "實驗驗證",
+          "headline": "體內補充精胺酸對結腸癌模型\n與黏膜免疫防禦產生何種影響？",
           "points": [
-            "試驗組存活期：接受 sacituzumab tirumotecan 合併 pembrolizumab 患者之中位 PFS 達 15 個月",
-            "對照組存活期：接受標準化學治療合併 pembrolizumab 之對照組患者，中位 PFS 僅為 5.7 個月",
-            "臨床療效跨越：在缺乏 PD-L1 表現的劣勢條件下，新型 ADC 聯合方案將疾病無惡化時間大幅延長"
+            "抑制結腸腫瘤：於小鼠實驗模型中增加飲食精胺酸攝取，顯著減少結腸癌腫瘤（Colon tumors）之形成與發展",
+            "跨疾病防禦效益：除了抗腫瘤活性外，補充精胺酸亦能同步減輕流感病毒與 SARS-CoV-2 感染之嚴重程度",
+            "感染後介入潛力：在小鼠已感染呼吸道病毒後再行給予精胺酸，依然能有效改善免疫防禦表現與整體預後結果"
           ],
-          "footer": "資料來源：AACR / Cancer discovery (2026)"
+          "footer": "資料來源：Wu et al. Cell (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "無化療 ADC 聯合免疫方案\n重塑 PD-L1 陰性肺癌一線標準",
-          "summary": "《Cancer Discovery》披露之 Opti-TROP-Lung06 三期試驗證明，TROP-2 導向之 ADC 聯合 PD-1 抑制劑能克服 PD-L1 陰性非鱗狀 NSCLC 對傳統免疫化療反應不佳的困境，以 15 個月 vs 5.7 個月的顯著 PFS 差距確立新治療標竿。",
-          "cta": "後續觀察：Opti-TROP-Lung06 試驗之長期整體存活期（OS）成熟數據與治療相關不良反應譜分析",
-          "footer": "資料來源：AACR / Cancer discovery (2026)"
+          "tag": "學術意義與展望",
+          "headline": "從腫瘤微環境營養競爭邁向\n密碼子轉譯層次之精準免疫調控",
+          "summary": "本研究突破過往僅關注 T 細胞活化訊號的框架，證實單一必需胺基酸（精胺酸）即可透過密碼子依賴性轉譯機制直接掌控 MHC-I 抗原呈現效率，揭示代謝營養狀態與抗腫瘤免疫監視之間密不可分的分子樞紐。",
+          "cta": "後續觀察：精胺酸代謝調節劑或飲食補充策略合併免疫檢查點抑制劑於大腸直腸癌之臨床轉譯驗證",
+          "footer": "資料來源：Wu et al. Cell (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "肺癌篩檢預防",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.1016/j.jtho.2026.106251",
-      "original_title": "Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening.",
+      "category": "胃癌化學預防",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "original_title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【WCLC 旗艦期刊發表：低劑量電腦斷層 (LDCT) 篩檢結合戒菸對降低肺癌死亡率之獨立與聯合效益解析】\n\n世界肺癌大會（WCLC / IASLC）官方期刊《Journal of Thoracic Oncology (JTO)》最新發表針對美國國家肺癌篩檢試驗（National Lung Screening Trial, NLST）之大規模事後分析（post-hoc analysis）。研究團隊量化評估符合篩檢資格之吸菸族群中，低劑量電腦斷層（low-dose CT, LDCT）篩檢與近期戒菸對肺癌特異性死亡率及全因死亡率的影響。結果證實，單純接受 LDCT 篩檢可降低 12% 肺癌死亡風險，凸顯在高品質肺癌篩檢計畫中整合戒菸介入之必要性。\n\n■ 研究核心發現：\n1. 大規模世代追蹤：納入 NLST 試驗中 31,560 名持續吸菸者與近期戒菸者（定義為入組前 2 年內戒菸），中位追蹤時間長達 12.3 年，期間共記錄 7,197 例死亡事件。\n2. 死因特異性分析：於納入死因分析之 30,915 名受試者中，共有 1,783 人（5.8%）死於肺癌，透過 Cox 比例風險模型量化篩檢與戒菸之獨立與交互效應。\n3. 篩檢降險幅度：在符合篩檢資格的當前吸菸者中，相較於胸部 X 光（CXR），LDCT 篩檢與肺癌特異性死亡率降低 12% 顯著相關（HR 0.88; 95% CI, 0.79-0.97），但單純篩檢對全因死亡率則無顯著影響（HR 0.98）。\n\n■ 臨床轉譯與研究展望：\n本研究以逾三萬人的長期隨訪實證指出，僅依賴影像學篩檢雖能降低肺癌特異性死亡，但若未同步改變吸菸行為，對整體存活的改善仍有限，為臨床推動「LDCT 篩檢結合結構化戒菸介入」提供了堅實的流行病學依據。\n\n■ 資料來源 (References)：\n1. Wang H, Frick C, Sha S, Edelmann D, Bhardwaj M, Brenner H. Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106251\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening.. https://doi.org/10.1016/j.jtho.2026.106251\n\n#肺癌篩檢 #低劑量電腦斷層 #LDCT #戒菸介入 #NLST #WCLC",
+      "caption": "【致癌物動力學建模研究：維生素 C 抑制胃內亞硝化反應並阻斷致癌亞硝基化合物生成之量化評估】\n\n飲食中硝酸鹽（Nitrates）與亞硝酸鹽（Nitrites）在胃部酸性環境中經由亞硝化反應（Nitrosation）轉化為具潛在致癌性之亞硝基化合物，長期被視為消化道癌症的重要環境風險因子。加拿大滑鐵盧大學（University of Waterloo）團隊發表於《Journal of Theoretical Biology》的最新研究，透過數學建模系統性剖析了維生素 C 在不同飲食型態與水質條件下對胃內致癌化學反應之抑制動力學。\n\n■ 研究核心發現：\n1. 亞硝化反應動力：建立消化道化學反應數學模型，量化加工肉品與受污染水土蔬果中之硝酸鹽及亞硝酸鹽於胃內的轉化過程。\n2. 還原劑競爭抑制：維生素 C 可作為強效亞硝化抑制劑（Nitrosation inhibitor），於胃部反應環境中阻斷致癌性化學物質之形成。\n3. 攝取時機最佳化：模型預測顯示，於餐後攝取維生素 C 能最有效干預消化過程中的有害亞硝化反應，降低潛在致癌物暴露量。\n\n■ 臨床轉譯與研究展望：\n本研究首次以精確的生物數學模型釐清了自 1990 年代以來關於硝酸鹽致癌風險與抗氧化劑干預的矛盾結果，為消化道腫瘤之初級化學預防（Chemoprevention）提供了量化理論基礎。\n\n■ 資料來源 (References)：\n1. McNicol GR, Basu NB, Layton AT. Vitamin C as a nitrosation inhibitor: A modelling study across dietary patterns and water quality. Journal of Theoretical Biology. 2026. https://doi.org/10.1016/j.jtbi.2026.112444\n2. ScienceDaily Cancer News. Vitamin C could help block cancer-linked chemicals in your stomach, study finds. https://www.sciencedaily.com/releases/2026/11/261114202236.htm\n\n#胃癌預防 #亞硝化反應 #維生素C #化學預防 #硝酸鹽 #系統生物學 #腫瘤流行病學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "WCLC 篩檢世代研究",
-          "headline": "超過三萬人長期追蹤證實\n低劑量電腦斷層篩檢降低\n吸菸者肺癌死亡風險 12%",
-          "subheadline": "NLST 試驗 12.3 年隨訪解析 LDCT 篩檢與戒菸介入對死亡率之獨立與聯合影響",
-          "meta_badge": "研究設計：NLST 大規模隨機試驗事後分析",
-          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+          "tag": "生物數學建模研究",
+          "headline": "餐後維生素 C 作為亞硝化抑制劑\n可有效阻斷胃內硝酸鹽轉化為\n具潛在致癌性之亞硝基化合物",
+          "subheadline": "跨飲食型態與水質條件之胃內化學反應動力學與癌症風險建模分析",
+          "meta_badge": "研究設計：消化系統化學動力學數學模型",
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "研究方法設計",
-          "headline": "如何量化評估影像篩檢與戒菸\n對高風險族群存活之長期影響？",
+          "tag": "分子機制",
+          "headline": "飲食中之硝酸鹽如何在胃內轉化\n並由維生素 C 阻斷致癌途徑？",
           "points": [
-            "大型世代納入：分析 NLST 試驗中 31,560 名符合篩檢資格之持續吸菸者與入組前兩年內戒菸者",
-            "長期終點追蹤：中位隨訪時間達 12.3 年，期間共發生 7,197 例全因死亡（佔總群體 22.8%）",
-            "統計模型建立：針對 30,915 名受試者（含 1,783 例肺癌死亡）以 Cox 模型解析篩檢與戒菸效應"
+            "外源性前驅物：加工肉品以及受污染土壤與水源培育之蔬果，使北美飲食中硝酸鹽與亞硝酸鹽暴露量於數十年間顯著上升",
+            "胃內亞硝化作用：硝酸鹽與亞硝酸鹽進入胃部後參與亞硝化反應（Nitrosation），生成被懷疑促使癌症發生的有害物質",
+            "化學反應攔截：維生素 C 於消化道環境中扮演亞硝化抑制劑角色，直接改變胃內化學反應路徑以防止致癌化合物合成"
           ],
-          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "核心統計數據",
-          "headline": "單純依靠低劑量電腦斷層篩檢\n能帶來多少死亡風險降幅？",
+          "tag": "研究數據",
+          "headline": "數學模型如何解開過往研究矛盾\n並確立最佳化學預防干預時機？",
           "points": [
-            "肺癌死亡下降：在持續吸菸者中，LDCT 相較胸部 X 光可降低 12% 肺癌死亡率（HR 0.88）",
-            "全因死亡限制：單純接受 LDCT 篩檢而未戒菸者，其全因死亡率並未出現顯著下降（HR 0.98）",
-            "雙重介入必要：數據證實戒菸介入必須作為高品質肺癌篩檢（LCS）的核心組件以改善整體預後"
+            "整合多變項模擬：模型全面納入不同飲食結構、飲用水質污染程度與消化生理參數，解析亞硝化反應之動態變化",
+            "釐清歷史爭議：解釋自 1990 年代以來流行病學研究對硝酸鹽致癌性結果不一的原因，指出內源性抑制劑濃度的關鍵調節作用",
+            "餐後介入效益：模擬結果證實於進食後補充維生素 C，能精準針對消化期高峰之亞硝化反應發揮最大幅度的化學阻斷效果"
           ],
-          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "整合影像早期偵測與戒菸行為\n最大化肺癌篩檢公共衛生效益",
-          "summary": "發表於《JTO》的 NLST 長期隨訪分析明確指出，對於當前吸菸者而言，單獨進行 LDCT 篩檢雖能有效降低 12% 肺癌特異性死亡，但難以撼動全因死亡率；唯有將戒菸輔導深度整合至篩檢流程，方能全面降低吸菸相關死亡風險。",
-          "cta": "後續觀察：臨床實務中不同強度之戒菸干預措施結合 LDCT 篩檢對長期心血管與全因死亡率之協同改善幅度",
-          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+          "headline": "以定量系統生物學模型指引\n消化道致癌物暴露之精準化學預防",
+          "summary": "本研究透過理論生物學建模，將複雜的飲食硝酸鹽暴露、水質環境因子與胃內生物化學反應轉化為可量化的動力學方程，證實維生素 C 的攝取時機與劑量對阻斷內源性致癌物合成具有決定性影響。",
+          "cta": "後續觀察：結合胃液生物標記檢測之前瞻性人體營養干預試驗與消化道癌症發生率關聯分析",
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "白血病治療評估",
-      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
-      "source_url": "https://doi.org/10.3390/cancers18213462",
-      "original_title": "A Value-Based Framework for CLL Care: Results of a Scoping Review.",
+      "category": "胰臟癌標靶治療",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUY2R2xmWU96cjFCckhIMEcxSXNZZXJpXzRvZm5BRGpGNGR6RVdhTUNscjdjSUwyQVhmdi02Z0hYeVEwMUt5QnVnVFNsbmp5akNVNlpVdTdqcE9NcHRUdk5oZUR4aUI0bktMdjFZZ0JGYmNqZVZjRnNHRVdMdTZ4ZGs2Z1AtN09HdXFpRlZ6bjVfU2l0Z3RRbTNaMkFod05tNll4RjNIQmxOSDJPT19jQ0xBSDBqV3dwWGxnMXhGXzBQeXluMHZTR2Fac2xScE5kc3hmczdpanJzelU?oc=5",
+      "original_title": "ESMO 2026 Data Continue to Shine a Spotlight on Daraxonrasib’s Activity in Pretreated Metastatic Pancreatic Cancer - OncLive",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【ESMO 相關領域綜述：整合臨床試驗與真實世界數據建構慢性淋巴球性白血病 (CLL) 價值導向治療框架】\n\n針對慢性淋巴球性白血病（chronic lymphocytic leukemia, CLL）治療選擇日益多元卻伴隨抗藥性演化與高昂醫療成本的挑戰，最新發表之範圍性文獻回顧（scoping review）系統性整合了隨機對照試驗、替代終點與衛生經濟學數據，建立一套多維度的價值導向決策框架。研究涵蓋截至 2026 年 6 月之 65 篇核心文獻，證實持續性共價布魯頓氏酪胺酸激酶抑制劑（Bruton tyrosine kinase inhibitor, BTKi）能提供持久的疾病控制。\n\n■ 研究核心發現：\n1. 多維度證據整合：檢索 PubMed、Embase、Cochrane 與 ClinicalTrials.gov 截至 2026 年 6 月之文獻，嚴格篩選出 65 篇核心研究與 22 篇輔助文獻進行方法學與偏差風險評估。\n2. 克服評估複雜性：針對 CLL 臨床試驗中不同的終點階層（endpoint hierarchies）、患者異質性、治療抗藥性機轉及醫療成本進行跨維度權衡。\n3. 標靶治療持久性：綜合三期隨機對照試驗與真實世界世代數據顯示，持續性共價 BTK 抑制劑（covalent BTKi）治療展現出穩定且長期的無惡化存活控制效益。\n\n■ 臨床轉譯與研究展望：\n隨著共價 BTKi 與固定療程標靶組合在 CLL 領域的廣泛應用，單一療效指標已不足以指導個體化醫療。此價值框架將臨床療效、替代指標與藥物經濟學相結合，為血液腫瘤學界提供了系統性的決策評估工具。\n\n■ 資料來源 (References)：\n1. Molica S, Allsup D. A Value-Based Framework for CLL Care: Results of a Scoping Review. Cancers (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.3390/cancers18213462\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. A Value-Based Framework for CLL Care: Results of a Scoping Review.. https://doi.org/10.3390/cancers18213462\n\n#慢性淋巴球性白血病 #CLL #BTK抑制劑 #標靶治療 #抗藥性機轉 #真實世界數據",
+      "caption": "【ESMO 臨床研究聚焦：新型標靶藥物 Daraxonrasib 於經治轉移性胰臟癌展現抗腫瘤活性】\n\n轉移性胰臟癌（Metastatic Pancreatic Cancer）長期缺乏有效的後線標靶治療選擇，多數患者在第一線化學治療失敗後面臨極為有限的存活時間。根據歐洲腫瘤內科學會（ESMO 2026）最新公布的臨床試驗更新數據，新型標靶藥物 Daraxonrasib 在先前已接受過治療（Pretreated）的轉移性胰臟癌患者群體中，持續展現出令人矚目的臨床抗腫瘤活性。\n\n■ 研究核心發現：\n1. 鎖定經治族群：研究聚焦於標準治療失敗後預後極差之經治轉移性胰臟癌（Pretreated metastatic pancreatic cancer）患者。\n2. 靶向關鍵驅動：Daraxonrasib 針對胰臟癌核心致癌驅動途徑進行特異性阻斷，突破傳統小分子藥物難以成藥之瓶頸。\n3. 持續臨床活性：ESMO 2026 更新數據進一步驗證該藥物在晚期胰臟癌患者中的腫瘤控制潛力與臨床獲益持續性。\n\n■ 臨床轉譯與研究展望：\nDaraxonrasib 於 ESMO 大會發表的最新數據強化了RAS相關標靶治療在胰臟導管腺癌（PDAC）領域的臨床轉譯價值，有望改寫晚期胰臟癌二線以後的治療格局。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO 2026 Data Continue to Shine a Spotlight on Daraxonrasib’s Activity in Pretreated Metastatic Pancreatic Cancer - OncLive. https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUY2R2xmWU96cjFCckhIMEcxSXNZZXJpXzRvZm5BRGpGNGR6RVdhTUNscjdjSUwyQVhmdi02Z0hYeVEwMUt5QnVnVFNsbmp5akNVNlpVdTdqcE9NcHRUdk5oZUR4aUI0bktMdjFZZ0JGYmNqZVZjRnNHRVdMdTZ4ZGs2Z1AtN09HdXFpRlZ6bjVfU2l0Z3RRbTNaMkFod05tNll4RjNIQmxOSDJPT19jQ0xBSDBqV3dwWGxnMXhGXzBQeXluMHZTR2Fac2xScE5kc3hmczdpanJzelU?oc=5\n\n#ESMO2026 #胰臟癌 #Daraxonrasib #轉移性胰臟癌 #標靶治療 #RAS抑制劑 #臨床試驗",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "血液腫瘤系統綜述",
-          "headline": "整合六十五篇核心文獻\n建構慢性淋巴球性白血病\n多維度價值導向治療框架",
-          "subheadline": "綜合三期臨床試驗、抗藥性機轉與衛生經濟學數據解析共價 BTKi 長期效益",
-          "meta_badge": "研究焦點：慢性淋巴球性白血病 (CLL) 治療決策",
-          "footer": "資料來源：Molica et al. ESMO / Cancers (2026)"
+          "tag": "ESMO 胰臟癌標靶數據",
+          "headline": "ESMO 大會公布最新臨床數據\n新型標靶藥物 Daraxonrasib\n於經治轉移性胰臟癌展現持續活性",
+          "subheadline": "針對先前接受過系統性治療之晚期轉移性胰臟癌標靶治療研究更新",
+          "meta_badge": "研究焦點：ESMO 2026 經治轉移性胰臟癌臨床研究",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估挑戰解析",
-          "headline": "為何慢性淋巴球性白血病需要\n建立多維度價值評估體系？",
+          "tag": "分子機制",
+          "headline": "Daraxonrasib 如何針對晚期胰臟癌\n核心致癌訊號發揮標靶抑制作用？",
           "points": [
-            "終點階層差異：不同臨床試驗採用之主要終點與替代指標各異，增加跨研究直接比較的複雜度",
-            "生物學異質性：患者基因體風險分層與後天治療抗藥性機轉演化，深刻影響各線標靶藥物選擇",
-            "衛生經濟負擔：長期標靶治療伴隨龐大醫療支出，需將成本效益模型納入個人化治療決策考量"
+            "突破治療瓶頸：轉移性胰臟癌高度依賴致癌驅動突變維持生長，傳統化療於一線失敗後往往難以克服腫瘤抗藥性",
+            "精準分子靶向：Daraxonrasib 透過靶向抑制胰臟癌關鍵分子傳遞途徑，直接阻斷下游促增殖與存活訊號",
+            "克服經治抗藥：於先前已接受過全身性治療之難治型腫瘤微環境中，依然能維持對腫瘤細胞的特異性毒殺與抑制能力"
           ],
-          "footer": "資料來源：Molica et al. ESMO / Cancers (2026)"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實證文獻整合",
-          "headline": "橫跨臨床試驗與真實世界數據\n揭示何種核心治療結論？",
+          "tag": "臨床數據",
+          "headline": "ESMO 2026 公布之經治轉移性胰臟癌\n研究更新揭示了哪些關鍵臨床訊號？",
           "points": [
-            "嚴謹文獻篩選：雙人獨立審閱截至 2026 年 6 月之四大資料庫，納入 65 篇高品質核心文獻",
-            "多元研究涵蓋：綜合評估三期隨機對照臨床試驗（RCT）、真實世界世代研究與醫療經濟學模型",
-            "持續標靶控制：實證數據確認持續性共價 BTK 抑制劑（BTKi）能為患者帶來持久的疾病控制效益"
+            "明確受試族群：專門評估已接受過前期治療（Pretreated）且發生遠端轉移之晚期胰臟癌患者之臨床反應",
+            "驗證抗腫瘤活性：最新追蹤數據持續顯示 Daraxonrasib 單藥或相關方案於此高難度治療族群中具備實質抗腫瘤活性",
+            "奠定後線地位：為長期缺乏精準標靶藥物可用的晚期胰臟癌後線治療，提供了具高度說服力的前瞻性臨床實證"
           ],
-          "footer": "資料來源：Molica et al. ESMO / Cancers (2026)"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "結合臨床替代終點與經濟模型\n推進白血病個人化精準醫療",
-          "summary": "面對 CLL 標靶治療百花齊放的時代，本研究透過整合 65 篇核心實證文獻，將分子抗藥性、替代存活指標與成本效益納入統一評估架構，不僅確立共價 BTKi 的長期控制地位，更為精準醫療決策提供客觀量尺。",
-          "cta": "後續觀察：固定療程標靶療法與持續性 BTKi 治療在不同分子風險亞群中之長期藥物經濟學與抗藥性比較",
-          "footer": "資料來源：Molica et al. ESMO / Cancers (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統細胞毒性化療邁向\n晚期胰臟癌精準分子標靶治療時代",
+          "summary": "ESMO 2026 釋出的 Daraxonrasib 最新研究數據，再次印證精準靶向治療在經治轉移性胰臟癌中的臨床可行性，為向來被視為「標靶治療荒漠」的晚期胰臟癌帶來延長存活與改善疾病控制的關鍵突破。",
+          "cta": "後續觀察：Daraxonrasib 於轉移性胰臟癌三期隨機對照臨床試驗之無惡化存活期（PFS）與整體存活期（OS）終點數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "表觀遺傳標記",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-      "original_title": "Yale scientists reveal what really slows aging and what doesn't",
+      "category": "膀胱癌圍手術免疫",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXRnelRTZlIxNXBodTBBVTFaRzFCckF1cGlfenJmdzJQd0RNNUNxV0VWZ2lmb2g5bTJHUjJ6Sm5ncm1fbzRlWDBabW5XZ0RSczN3NmRoUGppLXJVQzhMVnJneHpmUjR2MU5rLXBoZkY4NTdCVFB3WUVJcUVkRUZTUmxTcUI4d3FTOGV4cTM0QThDYm5zSHZQMjNULTFpWmtBX01Cb0JRZEJNTzlMX29GTFNNd0JwbS1TeGxMR016OUtkUWFM?oc=5",
+      "original_title": "FDA Approves Durvalumab Plus EV Before Surgery in Cisplatin-Ineligible MIBC - The American Journal of Managed Care",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【Nature Medicine 發表：耶魯大學解析人類表觀遺傳老化生物標記對長壽介入措施之反應性】\n\n耶魯大學醫學院（Yale School of Medicine）研究團隊於頂尖期刊《Nature Medicine》發表一項涵蓋 51 項研究的綜合分析，系統性評估各類臨床介入措施對人類表觀遺傳老化生物標記（epigenetic aging biomarkers）的影響。研究團隊從計算生物學與腫瘤學研究背景出發，利用基於 DNA 甲基化的血液檢測量化「生物學年齡（biological age）」，發現特定處方藥物、健康飲食與規律運動能可測量地減緩生物學老化速度，而市售常見的抗衰老保健食品則幾乎未見實質效益。\n\n■ 研究核心發現：\n1. 表觀遺傳定量：應用基於血液 DNA 之表觀遺傳生物標記（epigenetic biomarkers），客觀量化評估人體受內外在因素影響之生物學年齡變化。\n2. 介入措施鑑別：綜合分析 51 項人類臨床研究數據，證實特定處方藥物、飲食調整與運動介入能顯著降低血液檢測中之生物學年齡指標。\n3. 保健食品驗證：研究檢視多款熱門非處方抗衰老補充劑（over-the-counter supplements），數據顯示其對逆轉或減緩 DNA 表觀遺傳老化標記缺乏可測量之實證效果。\n\n■ 臨床轉譯與研究展望：\n老化與癌症等年齡相關疾病之發生密切相關。儘管研究人員強調表觀遺傳年齡標記的改善尚未直接等同於實際壽命延長或疾病豁免，但此項建立於 51 項研究的評估框架，為未來篩選具潛力的抗衰老與疾病預防干預措施提供了標準化的分子驗證工具。\n\n■ 資料來源 (References)：\n1. Sehgal R, Borrus D, Armstrong JF, Gonzalez J, Kasamoto J, Markov Y, et al. Responsiveness of epigenetic aging biomarkers to longevity interventions in humans. Nature Medicine. 2026. https://doi.org/10.1038/s41591-026-04562-9\n2. ScienceDaily Cancer News. Yale scientists reveal what really slows aging and what doesn't. https://www.sciencedaily.com/releases/2026/11/261112230452.htm\n\n#表觀遺傳學 #生物標記 #DNA甲基化 #生物學年齡 #計算生物學 #NatureMedicine",
+      "caption": "【泌尿腫瘤臨床重大進展：FDA 核准 Durvalumab 合併 Enfortumab Vedotin 用於不適用順鉑之肌肉侵犯型膀胱癌術前治療】\n\n肌肉侵犯型膀胱癌（Muscle-Invasive Bladder Cancer, MIBC）之標準術前前導性治療長期依賴以順鉑（Cisplatin）為基礎的化學治療，然而臨床上有高比例患者因腎功能不全等因素而不適用順鉑（Cisplatin-ineligible），面臨極高的術後復發風險。美國食品藥物管理局（FDA）最新核准 PD-L1 免疫檢查點抑制劑 Durvalumab 聯合抗體藥物複合體（ADC）Enfortumab vedotin（EV）作為不適用順鉑之 MIBC 患者的術前治療方案。\n\n■ 核心作用機制：\n1. 靶向細胞毒殺：Enfortumab vedotin 專一性結合腫瘤表面高度表現之 Nectin-4，釋放微管破壞劑 MMAE 誘導免疫原性細胞死亡。\n2. 解除免疫煞車：Durvalumab 阻斷 PD-L1 與 PD-1 之結合，重啟腫瘤微環境中之抗腫瘤 T 細胞免疫反應。\n3. 術前協同降期：ADC 與免疫檢查點抑制劑於根治性膀胱切除術（Radical cystectomy）前產生協同效應，清除微轉移病灶。\n\n■ 臨床轉譯與研究展望：\n此項核准正式將「ADC 聯合免疫檢查點抑制劑」之去順鉑策略推進至早期肌肉侵犯型膀胱癌的圍手術期（Perioperative）治療，徹底改寫不適用順鉑患者之臨床照護標準。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). FDA Approves Durvalumab Plus EV Before Surgery in Cisplatin-Ineligible MIBC - The American Journal of Managed Care. https://news.google.com/rss/articles/CBMixAFBVV95cUxOdXRnelRTZlIxNXBodTBBVTFaRzFCckF1cGlfenJmdzJQd0RNNUNxV0VWZ2lmb2g5bTJHUjJ6Sm5ncm1fbzRlWDBabW5XZ0RSczN3NmRoUGppLXJVQzhMVnJneHpmUjR2MU5rLXBoZkY4NTdCVFB3WUVJcUVkRUZTUmxTcUI4d3FTOGV4cTM0QThDYm5zSHZQMjNULTFpWmtBX01Cb0JRZEJNTzlMX29GTFNNd0JwbS1TeGxMR016OUtkUWFM?oc=5\n\n#膀胱癌 #MIBC #Durvalumab #EnfortumabVedotin #抗體藥物複合體 #術前輔助治療 #泌尿腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "分子生物標記研究",
-          "headline": "耶魯分析五十一項研究\n藉由 DNA 表觀遺傳標記\n量化藥物與生活型態抗老效益",
-          "subheadline": "《Nature Medicine》揭示處方藥物與運動可降低生物學年齡，市售保健品則無顯著影響",
-          "meta_badge": "研究設計：51 項人類介入研究之系統性統合分析",
-          "footer": "資料來源：Sehgal et al. Nature Medicine (2026)"
+          "tag": "泌尿腫瘤臨床突破",
+          "headline": "FDA 核准 Durvalumab 合併 EV\n作為不適用順鉑之肌肉侵犯型\n膀胱癌患者術前前導性治療方案",
+          "subheadline": "結合 PD-L1 抑制劑與 Nectin-4 抗體藥物複合體改寫圍手術期治療標準",
+          "meta_badge": "研究焦點：不適用順鉑之 MIBC 術前免疫聯合治療",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子評估工具",
-          "headline": "如何利用血液 DNA 生物標記\n客觀測量人體真實生物學年齡？",
+          "tag": "分子機制",
+          "headline": "抗體藥物複合體合併免疫療法\n如何在手術前協同清除膀胱腫瘤？",
           "points": [
-            "表觀遺傳時鐘：透過血液檢測分析 DNA 表觀遺傳學變化，作為評估生理退化速度的量化生物標記",
-            "跨研究標準化：耶魯團隊結合計算生物學技術，系統性彙整 51 項人類長壽與抗老介入研究數據",
-            "反應性驗證：比較不同臨床干預手段在改變表觀遺傳老化生物標記（epigenetic biomarkers）上的敏感度"
+            "精準抗體投遞：Enfortumab vedotin（EV）靶向泌尿上皮癌高表現之 Nectin-4 蛋白，精準將細胞毒素導入癌細胞內",
+            "免疫原性死亡：EV 引起之腫瘤細胞崩解會釋放大量腫瘤新抗原與危險訊號，促進樹突細胞成熟與抗原呈現",
+            "雙重免疫激活：Durvalumab 阻斷 PD-L1 免疫抑制訊號，與 EV 協同放大全身性抗腫瘤 T 細胞免疫記憶"
           ],
-          "footer": "資料來源：Sehgal et al. Nature Medicine (2026)"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "關鍵研究數據",
-          "headline": "哪些介入能實質減緩生物老化\n哪些則缺乏分子層級實證？",
+          "tag": "臨床數據",
+          "headline": "此項核准解決了肌肉侵犯型膀胱癌\n長期面臨的哪些臨床未滿足需求？",
           "points": [
-            "有效醫療介入：特定處方藥物結合健康飲食與運動，能在 DNA 血液測試中可測量地減緩生物老化",
-            "無效保健食品：受檢視之熱門非處方抗衰老營養補充劑，皆缺乏能產生同等表觀遺傳改善的證據",
-            "臨床詮釋限制：研究強調生物年齡標記下降尚不能直接等同於實際壽命延長或免於年齡相關疾病"
+            "突破順鉑限制：針對因腎功能受損或共病症而無法耐受標準順鉑化療（Cisplatin-ineligible）之 MIBC 患者提供強效替代方案",
+            "術前前導介入：於根治性手術前（Before surgery）給予 Durvalumab 加上 EV，提早控制原發腫瘤並根除潛在微轉移",
+            "確立治療新標竿：成為首個獲批用於不適用順鉑之肌肉侵犯型膀胱癌圍手術期治療的「ADC 加免疫」雙藥組合"
           ],
-          "footer": "資料來源：Sehgal et al. Nature Medicine (2026)"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "以嚴謹表觀遺傳學生物標記\n革新抗老化與疾病預防臨床評估",
-          "summary": "本研究於《Nature Medicine》確立了表觀遺傳生物標記在評估人類抗老化介入措施中的核心價值，成功區分出具備分子實證的處方藥物與生活型態調整，同時戳破缺乏實證之非處方補充劑迷思，為精準預防醫學奠定基礎。",
-          "cta": "後續觀察：表觀遺傳年齡標記之降低幅度與癌症等高齡相關疾病實際發生率及長期存活率之因果關聯驗證",
-          "footer": "資料來源：Sehgal et al. Nature Medicine (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統順鉑化療限制邁向\nADC 聯合免疫之去化療圍手術期新標準",
+          "summary": "Durvalumab 合併 Enfortumab vedotin 獲准用於不適用順鉑之肌肉侵犯型膀胱癌術前治療，標誌著抗體藥物複合體與免疫檢查點抑制劑的協同策略已成功從晚期轉移性階段前移至早期根治性圍手術期階段。",
+          "cta": "後續觀察：病理完全緩解率（pCR）與長期無事件存活期（EFS）於真實世界不適用順鉑族群之表現",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     }
