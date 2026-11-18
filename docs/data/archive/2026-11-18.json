@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:47:42.209349+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "精準放射腫瘤",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00969",
+      "original_title": "Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【IRMA 三期試驗五年分析：低風險侵犯性乳癌之加速部分乳房照射（APBI）展現優異局部控制率】\n\n發表於美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）的多中心、隨機對照第三期臨床試驗 IRMA（NCT01803958），針對低風險侵犯性乳癌患者，系統性比較了體外加速部分乳房照射（External-beam Accelerated Partial-Breast Irradiation, APBI）與傳統全乳照射（Whole-Breast Irradiation, WBI）之長期局部控制效益。研究共納入 3,309 名年齡 ≥49 歲、腫瘤直徑 ≤3 cm、切除邊緣 ≥2 mm 且淋巴結狀態為 pN0-1 之早期乳癌患者，中位追蹤期達 97.5 個月。\n\n■ 研究核心發現：\n1. 局部復發控制：APBI 組（總劑量 38.5 Gy，分 10 次、每日兩次照射）之 5 年累積同側乳房腫瘤復發率（Ipsilateral Breast Tumor Recurrence, IBTR）為 1.0%（95% CI, 0.6–1.6），WBI 對照組則為 0.8%（95% CI, 0.5–1.4），兩組皆展現極低的復發率。\n2. 統計非劣性設計：試驗以修正意向治療分析（mITT）評估主要終點 IBTR，預設非劣性邊界風險比（HR）為 1.5（檢定力 90%），以排除 APBI 組五年復發率增加超過 2% 之風險。\n3. 療程時間優化：APBI 透過縮小照射靶區至腫瘤床周邊並提高單次分次劑量，在維持精準局部控制的同時，顯著縮短整體輔助放射線治療之療程時間。\n\n■ 臨床轉譯與研究展望：\nIRMA 試驗長達 8 年以上的中位追蹤數據，為早期低風險侵犯性乳癌採取體外 APBI 策略提供了大型三期臨床試驗證據，有助於根據病理風險特徵進行輔助放療之精準降階與個人化排程。\n\n■ 資料來源 (References)：\n1. Meduri B, Baldissera A, Iotti C, Scheijmans LJEE, Stam MR, Parisi S, et al. Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00969\n2. ASCO (美國臨床腫瘤學會) / JCO. Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial.. https://doi.org/10.1200/JCO-26-00969\n\n#ASCO #JCO #乳癌放射治療 #加速部分乳房照射 #APBI #IRMA試驗 #精準腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床三期研究",
+          "headline": "早期低風險侵犯性乳癌\n加速部分乳房放射治療\n五年局部復發率僅 1.0%",
+          "subheadline": "IRMA 多中心隨機對照三期試驗：體外 APBI 對比全乳照射之長期局部控制解析",
+          "meta_badge": "研究設計：3,309 人隨機對照三期臨床試驗",
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "體外加速部分乳房照射\n如何實現精準降階放射治療？",
+          "points": [
+            "入組條件：納入 ≥49 歲、腫瘤 ≤3 公分、手術切緣 ≥2 毫米且 pN0-1 之低風險侵犯性乳癌患者",
+            "劑量分割：APBI 組採體外放射治療，總劑量 38.5 Gy 分 10 次給予，每日進行兩次高精準照射",
+            "評估終點：主要終點為同側乳房腫瘤復發率（IBTR），採修正意向治療分析與非劣性統計設計"
+          ],
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "長達 97.5 個月中位追蹤\n兩組局部控制數據表現如何？",
+          "points": [
+            "收案規模：橫跨 35 個醫療中心共隨機分配 3,309 名患者（APBI 組 1,652 人，WBI 組 1,657 人）",
+            "復發數據：APBI 組 5 年累積同側乳房腫瘤復發率為 1.0%（95% CI, 0.6–1.6），表現極為優異",
+            "對照比較：傳統全乳照射（WBI）組之 5 年累積同側復發率為 0.8%（95% CI, 0.5–1.4），兩組相當"
+          ],
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從常規全乳照射邁向\n風險導向之精準部分乳房放療",
+          "summary": "IRMA 三期試驗透過超過三千名患者、中位追蹤逾八年的大型數據證實，針對符合嚴格病理篩選條件之低風險早期乳癌，體外加速部分乳房照射（APBI）與全乳照射同樣具備極低的五年局部復發率，支持臨床放療策略之精準化。",
+          "cta": "後續觀察：APBI 每日兩次分割照射之長期晚期組織毒性、美容結果與十年整體存活率數據",
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "多體學免疫圖譜",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0302",
+      "original_title": "A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【AACR 旗艦期刊突破：13 層多體學與免疫胜肽體圖譜深度解碼皮膚黑色素瘤之免疫原性與存活機制】\n\n發表於美國癌症研究協會（AACR）官方期刊《Cancer Discovery》的重磅研究，針對 183 例皮膚黑色素瘤（Cutaneous Melanoma）檢體進行了涵蓋 13 個體學層次（Omic layers）的系統性剖析。研究整合蛋白基因體學（Proteogenomics）、質譜分析之 HLA-I 免疫胜肽體學（Immunopeptidomics）、代謝體學、蛋白質泛素化（Ubiquitylation）與糖基化（Glycosylation）圖譜，全面解構腫瘤突變負荷、抗原呈現與轉譯後修飾如何共同調控免疫微環境。\n\n■ 核心作用機制：\n1. 免疫胜肽呈現：基於質譜分析之 HLA-I 免疫胜肽體學直接證實，腫瘤表面實際呈現之抗原圖譜與腫瘤微環境中 CD8+ T 細胞浸潤程度呈高度正相關。\n2. 泛素化抗藥軸：泛素化體學（Ubiquitylomics）鑑定出一群預後不良之黑色素瘤亞群，其特徵為干擾素（IFN）訊號路徑蛋白高度泛素化，並伴隨泛素化依賴性之 AKT1 異常活化。\n3. 糖基化性別差異：糖蛋白體學發現 GPNMB 糖基化修飾與性別特異性存活率密切相關，此訊號連結至溶小體（Lysosome）相關轉錄計畫，揭示免疫治療反應潛在的性別差異機制。\n\n■ 臨床轉譯與研究展望：\n此研究亦透過代謝體學揭示原發與轉移性腫瘤間截然不同的醚脂類（Ether-linked lipids）與粒線體代謝特徵，為克服黑色素瘤免疫逃脫與開發轉譯後修飾標靶提供全新藍圖。\n\n■ 資料來源 (References)：\n1. Gong J, Petralia F, Ruiz Cuevas MV, Tignor N, Jain R, Gritsenko MA, et al. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0302\n2. AACR (美國癌症研究協會) / Cancer Discovery. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.. https://doi.org/10.1158/2159-8290.CD-26-0302\n\n#AACR #CancerDiscovery #黑色素瘤 #免疫胜肽體學 #蛋白基因體學 #腫瘤免疫原性 #多體學圖譜",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 多體學圖譜研究",
+          "headline": "整合十三層多體學圖譜\n深度解碼皮膚黑色素瘤\n抗原呈現與免疫逃脫機制",
+          "subheadline": "結合 HLA-I 免疫胜肽體、泛素化與糖蛋白體學剖析 183 例黑色素瘤免疫原性",
+          "meta_badge": "研究焦點：黑色素瘤轉譯後修飾與免疫微環境",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "轉譯後修飾與抗原呈現\n如何決定黑色素瘤免疫反應？",
+          "points": [
+            "抗原呈現：質譜 HLA-I 免疫胜肽體分析證實，腫瘤抗原呈現密度與 CD8+ T 細胞浸潤直接相關",
+            "泛素調控：預後不良亞群表現干擾素（IFN）路徑高度泛素化，並誘發泛素化依賴之 AKT1 致癌活化",
+            "糖基特徵：GPNMB 蛋白質糖基化驅動溶小體相關程序，與患者性別特異性之存活差異顯著相關"
+          ],
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "橫跨 183 例臨床腫瘤檢體\n多維度體學揭示哪些關鍵特徵？",
+          "points": [
+            "分析維度：整合基因體、轉錄體、免疫胜肽體、代謝體、泛素化與糖基化等共 13 個體學層次",
+            "代謝重編：代謝體學鑑定出原發性與轉移性黑色素瘤之間具備截然不同的醚脂類與粒線體代謝特徵",
+            "預後分群：透過蛋白質轉譯後修飾特徵，成功區分出干擾素訊號受損與 AKT1 活化之高風險亞群"
+          ],
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "超越單純腫瘤突變負荷\n邁向轉譯後修飾之免疫精準預測",
+          "summary": "本研究突破以往僅依賴基因體突變負荷評估免疫原性的限制，證實蛋白質泛素化對 IFN/AKT1 軸的調控以及 GPNMB 糖基化修飾，皆深度影響黑色素瘤之免疫反應與存活預後，建立了系統生物學層級的免疫治療生物標記框架。",
+          "cta": "後續觀察：靶向 AKT1 泛素化活化或溶小體路徑於克服免疫檢查點抑制劑抗藥性之轉譯驗證",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "液態切片檢測",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1981",
+      "original_title": "Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【AACR 臨床癌症研究：個人化 ddPCR 液態切片實現兒童胸膜肺母細胞瘤（PPB）之縱向 ctDNA 監測】\n\n發表於美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》的研究，由國際 PPB/DICER1 登錄計畫（International PPB/DICER1 Registry）團隊主導，探討循環腫瘤 DNA（ctDNA）在幼兒最常見原發性肺部惡性腫瘤——胸膜肺母細胞瘤（Pleuropulmonary Blastoma, PPB）中的臨床監測價值。由於幾乎所有 PPB 皆具有雙等位基因 DICER1 變異（包含一生殖細胞系功能喪失型變異，以及一腫瘤特異性 RNase IIIb 結構域熱點突變），研究團隊藉此開發出高度專一性的個人化液態切片策略。\n\n■ 研究核心發現：\n1. 專一熱點鎖定：透過腫瘤定序鑑定個別患者之 DICER1 RNase IIIb 體細胞熱點突變，量身打造個人化微滴式數位 PCR（ddPCR）檢測，共分析 73 名患者之 482 份血液檢體。\n2. 術前檢出效能：在 13 名接受術前採血之第 II/III 型 PPB 患者中，高達 11 名（85%）可檢出 ctDNA，且 ctDNA 負荷量與腫瘤大小呈中度正相關（Spearman's ρ=0.574, p=0.051）。\n3. 術後與化療動態：8 名已完成手術切除但尚未化療之患者，其 ctDNA 檢出率為 0%（對比未切除者 p<0.001）；而在開始化學治療後 1–2 天內，ctDNA 濃度會出現短暫急遽上升，隨後迅速下降。\n\n■ 臨床轉譯與研究展望：\n此研究證實針對 DICER1 RNase IIIb 熱點之個人化 ddPCR 具備極高靈敏度，能有效反映手術根除性與化療初期之腫瘤裂解動力學，為兒童罕見肺部腫瘤提供低侵入性的縱向追蹤工具。\n\n■ 資料來源 (References)：\n1. Schultz KAP, Field AL, Mallinger PHR, Xu C, Deonovic B, Nelson AT, et al. Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1981\n2. AACR (美國癌症研究協會) / Cancer Discovery. Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry.. https://doi.org/10.1158/1078-0432.CCR-26-1981\n\n#AACR #ClinicalCancerResearch #液態切片 #ctDNA #胸膜肺母細胞瘤 #DICER1 #兒童腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 分子診斷研究",
+          "headline": "鎖定 DICER1 突變熱點\n個人化液態切片精準監測\n兒童胸膜肺母細胞瘤動態",
+          "subheadline": "國際 PPB/DICER1 登錄計畫：以微滴式數位 PCR 追蹤 482 份血液 ctDNA 檢體",
+          "meta_badge": "研究焦點：兒童胸膜肺母細胞瘤 (PPB) 液態切片",
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "雙等位基因 DICER1 變異\n如何成為理想液態切片標靶？",
+          "points": [
+            "致病特徵：幾乎所有胸膜肺母細胞瘤（PPB）皆帶有生殖細胞系與體細胞雙等位基因 DICER1 突變",
+            "熱點標靶：第二個體細胞突變集中於 RNase IIIb 結構域熱點，具備高度腫瘤特異性與追蹤價值",
+            "數位定量：依據患者腫瘤定序結果設計個人化 ddPCR 探針，於常規靜脈採血中縱向定量 ctDNA"
+          ],
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "482 份血液檢體縱向追蹤\n展現哪些關鍵臨床動力學特徵？",
+          "points": [
+            "術前敏感度：第 II/III 型 PPB 術前患者高達 85%（11/13）檢出 ctDNA，負荷量與腫瘤大小相關",
+            "手術清除：8 名完成腫瘤切除但尚未化療之患者，術後血液皆未檢出 ctDNA（p<0.001 對比未切除）",
+            "化療反應：化療啟動後 1 至 2 天內 ctDNA 出現短暫釋放高峰，隨後因腫瘤受抑而迅速下降"
+          ],
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從侵入性影像與組織檢查\n邁向兒童罕見腫瘤精準血液監測",
+          "summary": "本研究利用 PPB 特有的 DICER1 RNase IIIb 結構域體細胞突變，驗證了個人化 ddPCR 液態切片在評估腫瘤負荷、確認手術微量殘存病灶清除及監測化療早期反應上的高度可行性，減少幼兒重複侵入性檢查之負擔。",
+          "cta": "後續觀察：治療後追蹤期之 ctDNA 陽性轉換率對於早期預測 PPB 臨床復發之敏感度與前瞻性驗證",
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "抗藥性演化",
+      "source_name": "SABCS (聖安東尼奧乳癌研討會)",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2631",
+      "original_title": "CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【SABCS / CCR 臨床基因體學剖析：CCNE1 基因擴增賦予乳癌侵襲性病理特徵與不良預後】\n\n發表於《Clinical Cancer Research》並受聖安東尼奧乳癌研討會（SABCS）領域高度關注的轉譯醫學研究，深入解析了細胞週期蛋白 E1（Cyclin E1, CCNE1）基因擴增在乳癌中的臨床與基因體學特徵。研究團隊調閱紀念斯隆-凱特琳癌症中心（MSK）乳癌轉譯資料庫中 2014 年 1 月至 2025 年 10 月間接受標靶次世代定序之 6,318 例乳癌患者數據，並運用 FACETS 演算法精確評估包含 CCNE1 在內的等位基因特異性拷貝數變異（Allele-specific copy number）。\n\n■ 研究核心發現：\n1. 亞型盛行率差異：在 6,318 例乳癌中，共有 251 例（4.0%）檢出 CCNE1 擴增；其盛行率在三陰性乳癌（TNBC，8.7%）與 HER2 陽性乳癌（6.7%）中顯著高於 HR+/HER2- 乳癌（2.1%，P<2.2x10⁻¹⁶）。\n2. 高度侵襲性病理：在 HR+/HER2- 亞型中，帶有 CCNE1 擴增之腫瘤展現顯著較高的高組織學分級比例（77.1% vs. 57.1%，P=8.3x10⁻⁴）與黃體素受體（PR）缺失率（27.0% vs. 15.2%，P=8.8x10⁻³）。\n3. 雌激素受體低表現：帶有 CCNE1 擴增之 HR+/HER2- 乳癌，呈現雌激素受體低表現（ER ≤10%）的比例高達 25.4%，遠高於未擴增組的 6.5%（P=8.4x10⁻⁷），並與不良預後及治療抗藥性密切相關。\n\n■ 臨床轉譯與研究展望：\n本研究明確界定出 CCNE1 擴增作為跨乳癌亞型之高風險分子生物標記，特別在 HR+/HER2- 族群中與內分泌敏感度下降特徵高度重疊，支持針對此亞群開發 CDK2 抑制劑或合成致死標靶策略。\n\n■ 資料來源 (References)：\n1. Marra A, Boscolo-Bielo L, Selenica P, Zhu Y, Safonov A, Gazzo AM, et al. CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (SABCS (聖安東尼奧乳癌研討會)). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2631\n2. SABCS (聖安東尼奧乳癌研討會). CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2631\n\n#SABCS #ClinicalCancerResearch #乳癌基因體學 #CCNE1擴增 #抗藥性機制 #細胞週期蛋白E1 #精準醫療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "SABCS 乳癌基因體研究",
+          "headline": "剖析逾六千例乳癌基因體\nCCNE1 擴增驅動高侵襲性\n並賦予治療抗藥與不良預後",
+          "subheadline": "MSK 乳癌轉譯資料庫 6,318 例定序解析：跨亞型盛行率與臨床病理特徵",
+          "meta_badge": "研究設計：6,318 例乳癌臨床基因體世代分析",
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "細胞週期蛋白 E1 基因擴增\n如何重塑乳癌臨床病理表型？",
+          "points": [
+            "拷貝數評估：運用 FACETS 演算法分析標靶定序數據，精準鑑定等位基因特異性 CCNE1 基因擴增",
+            "分化喪失：在 HR+/HER2- 腫瘤中，CCNE1 擴增顯著伴隨高腫瘤分級（77.1%）與黃體素受體缺失",
+            "受體降調：CCNE1 擴增組出現高達 25.4% 之雌激素受體低表現（ER ≤10%），削弱荷爾蒙路徑依賴"
+          ],
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "橫跨三大乳癌分子亞型\nCCNE1 擴增之分布數據為何？",
+          "points": [
+            "整體占比：於 6,318 例乳癌檢體中，共鑑定出 251 例（4.0%）帶有明確之 CCNE1 基因擴增",
+            "亞型分布：三陰性乳癌盛行率最高（8.7%），其次為 HER2+（6.7%）與 HR+/HER2-（2.1%）",
+            "顯著差異：HR+/HER2- 伴隨 CCNE1 擴增者之 ER 低表現率為未擴增組近 4 倍（25.4% vs 6.5%）"
+          ],
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "鎖定細胞週期失控關鍵節點\n引領 CCNE1 擴增乳癌標靶開發",
+          "summary": "此項超過六千例的大型臨床基因體研究證實，CCNE1 擴增不僅富集於三陰性與 HER2 陽性乳癌，亦使 HR+/HER2- 乳癌偏向高分級與低 ER 表現之侵襲性表型，確立其作為抗藥性預測因子與新藥開發標靶之臨床價值。",
+          "cta": "後續觀察：新型高選擇性 CDK2 抑制劑或 PKMYT1 抑制劑於 CCNE1 擴增乳癌臨床試驗之療效數據",
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "心臟腫瘤醫學",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108638",
+      "original_title": "Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis.",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO Open 統合分析：重新評估 HER2 標靶治療期間之高頻率心臟超音波監測策略與成本效益】\n\n發表於歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》的系統性回顧、單臂統合分析（Meta-analysis）與成本效益研究，針對接受 Trastuzumab 基礎之抗 HER2 標靶治療的乳癌患者，重新檢視了自 2000 年代初期建立之「每三個月定期心臟超音波（Echocardiography）監測」常規。隨著現代化療處方演進與新一代抗體藥物複合體（ADC）問世，左心室射出分率（LVEF）下降之發生率已顯著降低，促使學界重新評估頻繁心臟影像檢查之臨床必要性。\n\n■ 研究核心發現：\n1. 大規模實證整合：研究納入 1999 年至 2026 年間共 57 項臨床試驗、涵蓋 37,847 名接受 Trastuzumab、T-DM1（Trastuzumab emtansine）或 T-DXd（Trastuzumab deruxtecan）治療之乳癌患者數據。\n2. 早期乳癌監測策略：針對為期 12 個月之早期乳癌輔助治療，模型比較了「基準點＋第 6 個月」、「基準點＋第 6、12 個月」以及傳統「基準點＋第 3、6、9、12 個月」三種心臟超音波追蹤頻率。\n3. 轉移性乳癌策略：針對持續性治療之轉移性乳癌，研究系統性評估了「基準點＋每年一次」、「基準點＋每 6 個月一次」與「基準點＋每 3 個月一次」之毒性檢出效益與醫療資源配置。\n\n■ 臨床轉譯與研究展望：\n透過近三萬八千名患者的實證數據與成本效益分析，本研究指出在新一代 HER2 標靶與 ADC 時代，適度降低無症狀患者之心臟超音波檢查頻率，可在維持心臟安全性之前提下優化醫療資源運用。\n\n■ 資料來源 (References)：\n1. Saad Menezes MC, Barac A, Upshaw JN, Lin NU, Rabinowitz JB, DeMichele A, et al. Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108638\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis.. https://doi.org/10.1016/j.esmoop.2026.108638\n\n#ESMO #ESMOOpen #心臟腫瘤學 #HER2標靶治療 #Trastuzumab #抗體藥物複合體 #臨床指引優化",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 統合與成本分析",
+          "headline": "納入近三萬八千名乳癌患者\n重新評估抗 HER2 標靶治療\n常規每季心臟超音波必要性",
+          "subheadline": "涵蓋 Trastuzumab、T-DM1 與 T-DXd 之 57 項臨床試驗統合與成本效益解析",
+          "meta_badge": "研究設計：57 項試驗、37,847 人統合分析",
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估限制",
+          "headline": "沿用二十餘年之每季監測常規\n為何需要實證醫學重新檢視？",
+          "points": [
+            "歷史背景：每三個月定期心臟超音波監測源自 2000 年代初期，當時常與高心毒性化療併用",
+            "處方演進：現代輔助治療處方與新一代抗體藥物複合體（T-DM1、T-DXd）之 LVEF 下降率已顯著降低",
+            "效益權衡：過度頻繁之無症狀影像篩檢可能增加醫療支出與檢查負荷，需以當代發生率重新建模"
+          ],
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "橫跨早期與轉移性乳癌世代\n研究如何設計監測比較模型？",
+          "points": [
+            "統合規模：彙整 1999 至 2026 年共 57 項臨床試驗、37,847 名患者之左心室射出分率下降數據",
+            "早期模型：於 12 個月療程中，系統性對比每 3 個月、每 6 個月及僅於第 6 個月追蹤之成本效益",
+            "晚期模型：於轉移性乳癌持續治療中，比較每 3 個月、每 6 個月與每年一次心臟超音波之臨床價值"
+          ],
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從一體適用之高頻率篩檢\n邁向實證導向之精準心臟監測",
+          "summary": "本研究結合近三萬八千名接受 Trastuzumab、T-DM1 與 T-DXd 患者的臨床試驗數據與衛生經濟學模型，挑戰了傳統每三個月進行心臟超音波的慣例，為未來修訂抗 HER2 治療期間之心臟監測頻率指引提供堅實依據。",
+          "cta": "後續觀察：依據患者基準點心血管風險分層之個人化 LVEF 監測間隔於臨床指引之更新採納",
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}

@@ -1,279 +1,279 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T13:19:20.970890+08:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T12:47:42.209349+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "肺癌免疫治療",
-      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
-      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108623",
-      "original_title": "Cemiplimab plus chemotherapy versus chemotherapy in non-small-cell lung cancer with PD-L1 ≥1%: 5-year update of EMPOWER-Lung 3 Part 2 results.",
+      "category": "精準放射腫瘤",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00969",
+      "original_title": "Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【EMPOWER-Lung 3 五年長期追蹤更新：Cemiplimab 合併化療於 PD-L1 ≥1% 晚期非小細胞肺癌展現持久存活優勢】\n\n根據歐洲腫瘤內科學會（ESMO）官方期刊《ESMO Open》最新發表之 EMPOWER-Lung 3 Part 2 臨床三期試驗 5 年追蹤數據，針對未曾接受治療且無 EGFR、ALK 或 ROS1 基因變異之晚期非小細胞肺癌（NSCLC）患者，PD-1 抑制劑 Cemiplimab 合併含鉑雙藥化學治療在計畫性死亡配體-1（PD-L1）表現量 ≥1% 的次群體中，展現出顯著且持久的整體存活期（OS）與無惡化存活期（PFS）臨床獲益。\n\n■ 研究核心發現：\n1. 試驗設計與族群：本研究為隨機、雙盲、安慰劑對照之第三期臨床試驗，共納入 327 名 PD-L1 ≥1% 之晚期 NSCLC 患者（佔總體試驗 466 人之次群體），以 2:1 比例隨機分派接受組職學特異性含鉑雙藥化療合併 Cemiplimab（350 mg，每 3 週一次，共 217 人）或安慰劑合併化療（110 人），治療最長持續至 108 週。\n2. 五年整體存活期：在中位追蹤時間達 60.5 個月（最後一位患者訪視日為 2025 年 2 月 27 日）後，Cemiplimab 合併化療組的中位整體存活期（mOS）達 24.0 個月（95% CI: 20.9-28.4），顯著優於單純化療對照組，證實一線免疫合併療法具備長期存活效益。\n3. 雙重次要終點驗證：除主要終點 OS 外，本研究同步評估無惡化存活期（PFS）與客觀緩解率（ORR），長期隨訪數據進一步確立 Cemiplimab 合併含鉑化療在涵蓋鱗狀與非鱗狀組織學亞型之晚期 NSCLC 一線標準治療地位。\n\n■ 臨床轉譯與研究展望：\n本研究提供長達 5 年的關鍵隨訪證據，證實完成最長 108 週 Cemiplimab 合併化療療程後，PD-L1 陽性（≥1%）之晚期無驅動基因突變 NSCLC 患者仍能維持長期腫瘤控制與存活高原期，為臨床一線治療策略之長期預後評估提供堅實實證基礎。\n\n■ 資料來源 (References)：\n1. Gogishvili M, Makharadze T, Melkadze T, Giorgadze D, Penkov K, Laktionov K, et al. Cemiplimab plus chemotherapy versus chemotherapy in non-small-cell lung cancer with PD-L1 ≥1%: 5-year update of EMPOWER-Lung 3 Part 2 results. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108623\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Cemiplimab plus chemotherapy versus chemotherapy in non-small-cell lung cancer with PD-L1 ≥1%: 5-year update of EMPOWER-Lung 3 Part 2 results.. https://doi.org/10.1016/j.esmoop.2026.108623\n\n#非小細胞肺癌 #NSCLC #Cemiplimab #免疫檢查點抑制劑 #ESMO #臨床三期試驗 #腫瘤內科學",
+      "caption": "【IRMA 三期試驗五年分析：低風險侵犯性乳癌之加速部分乳房照射（APBI）展現優異局部控制率】\n\n發表於美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）的多中心、隨機對照第三期臨床試驗 IRMA（NCT01803958），針對低風險侵犯性乳癌患者，系統性比較了體外加速部分乳房照射（External-beam Accelerated Partial-Breast Irradiation, APBI）與傳統全乳照射（Whole-Breast Irradiation, WBI）之長期局部控制效益。研究共納入 3,309 名年齡 ≥49 歲、腫瘤直徑 ≤3 cm、切除邊緣 ≥2 mm 且淋巴結狀態為 pN0-1 之早期乳癌患者，中位追蹤期達 97.5 個月。\n\n■ 研究核心發現：\n1. 局部復發控制：APBI 組（總劑量 38.5 Gy，分 10 次、每日兩次照射）之 5 年累積同側乳房腫瘤復發率（Ipsilateral Breast Tumor Recurrence, IBTR）為 1.0%（95% CI, 0.6–1.6），WBI 對照組則為 0.8%（95% CI, 0.5–1.4），兩組皆展現極低的復發率。\n2. 統計非劣性設計：試驗以修正意向治療分析（mITT）評估主要終點 IBTR，預設非劣性邊界風險比（HR）為 1.5（檢定力 90%），以排除 APBI 組五年復發率增加超過 2% 之風險。\n3. 療程時間優化：APBI 透過縮小照射靶區至腫瘤床周邊並提高單次分次劑量，在維持精準局部控制的同時，顯著縮短整體輔助放射線治療之療程時間。\n\n■ 臨床轉譯與研究展望：\nIRMA 試驗長達 8 年以上的中位追蹤數據，為早期低風險侵犯性乳癌採取體外 APBI 策略提供了大型三期臨床試驗證據，有助於根據病理風險特徵進行輔助放療之精準降階與個人化排程。\n\n■ 資料來源 (References)：\n1. Meduri B, Baldissera A, Iotti C, Scheijmans LJEE, Stam MR, Parisi S, et al. Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00969\n2. ASCO (美國臨床腫瘤學會) / JCO. Partial-Breast Irradiation Versus Whole-Breast Irradiation for Low-Risk Invasive Breast Carcinoma: 5-Year Results of the Multicenter, Randomized, Phase III IRMA Trial.. https://doi.org/10.1200/JCO-26-00969\n\n#ASCO #JCO #乳癌放射治療 #加速部分乳房照射 #APBI #IRMA試驗 #精準腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ESMO 臨床三期研究更新",
-          "headline": "Cemiplimab 合併化療\n治療 PD-L1 陽性晚期肺癌\n中位整體存活達 24 個月",
-          "subheadline": "EMPOWER-Lung 3 Part 2 臨床三期試驗五年長期追蹤次群體解析",
-          "meta_badge": "研究設計：雙盲隨機對照臨床三期試驗",
-          "footer": "資料來源：Gogishvili et al. ESMO / ESMO open (2026)"
+          "tag": "ASCO 臨床三期研究",
+          "headline": "早期低風險侵犯性乳癌\n加速部分乳房放射治療\n五年局部復發率僅 1.0%",
+          "subheadline": "IRMA 多中心隨機對照三期試驗：體外 APBI 對比全乳照射之長期局部控制解析",
+          "meta_badge": "研究設計：3,309 人隨機對照三期臨床試驗",
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "研究設計",
-          "headline": "免疫檢查點抑制劑合併化療\n如何設計長期存活驗證架構？",
+          "headline": "體外加速部分乳房照射\n如何實現精準降階放射治療？",
           "points": [
-            "受試者篩選：納入無 EGFR、ALK 或 ROS1 基因變異且 PD-L1 表現量 ≥1% 之初治晚期非小細胞肺癌患者",
-            "隨機分派設計：採 2 比 1 比例隨機分派至組織學特異性含鉑雙藥化療合併 Cemiplimab 350 mg 或安慰劑組",
-            "療程與終點：每 3 週給藥一次最長至 108 週，主要終點為整體存活期並同步評估無惡化存活與客觀緩解率"
+            "入組條件：納入 ≥49 歲、腫瘤 ≤3 公分、手術切緣 ≥2 毫米且 pN0-1 之低風險侵犯性乳癌患者",
+            "劑量分割：APBI 組採體外放射治療，總劑量 38.5 Gy 分 10 次給予，每日進行兩次高精準照射",
+            "評估終點：主要終點為同側乳房腫瘤復發率（IBTR），採修正意向治療分析與非劣性統計設計"
           ],
-          "footer": "資料來源：Gogishvili et al. ESMO / ESMO open (2026)"
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "長達五年追蹤期數據\n揭示何種長期臨床存活效益？",
+          "headline": "長達 97.5 個月中位追蹤\n兩組局部控制數據表現如何？",
           "points": [
-            "次群體規模：於總體 466 名受試者中鎖定 327 名 PD-L1 ≥1% 患者（實驗組 217 人，對照組 110 人）進行分析",
-            "長期追蹤時程：中位追蹤時間長達 60.5 個月，完整涵蓋完成 108 週給藥上限後之長期存活狀態評估",
-            "中位存活突破：Cemiplimab 合併化療組之中位整體存活期（OS）達到 24.0 個月（95% CI 20.9-28.4）"
+            "收案規模：橫跨 35 個醫療中心共隨機分配 3,309 名患者（APBI 組 1,652 人，WBI 組 1,657 人）",
+            "復發數據：APBI 組 5 年累積同側乳房腫瘤復發率為 1.0%（95% CI, 0.6–1.6），表現極為優異",
+            "對照比較：傳統全乳照射（WBI）組之 5 年累積同側復發率為 0.8%（95% CI, 0.5–1.4），兩組相當"
           ],
-          "footer": "資料來源：Gogishvili et al. ESMO / ESMO open (2026)"
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "確立 PD-L1 陽性晚期肺癌\n一線免疫合併化療五年實證",
-          "summary": "EMPOWER-Lung 3 Part 2 的五年追蹤數據證實，Cemiplimab 合併含鉑雙藥化療能為 PD-L1 ≥1% 且無特定驅動基因突變之晚期非小細胞肺癌患者帶來長達 24.0 個月的中位整體存活期，強化一線免疫聯合療法的長期臨床證據。",
-          "cta": "後續觀察：不同 PD-L1 表現梯度與組織學亞型在五年追蹤期下之長期存活曲線高原特徵",
-          "footer": "資料來源：Gogishvili et al. ESMO / ESMO open (2026)"
+          "headline": "從常規全乳照射邁向\n風險導向之精準部分乳房放療",
+          "summary": "IRMA 三期試驗透過超過三千名患者、中位追蹤逾八年的大型數據證實，針對符合嚴格病理篩選條件之低風險早期乳癌，體外加速部分乳房照射（APBI）與全乳照射同樣具備極低的五年局部復發率，支持臨床放療策略之精準化。",
+          "cta": "後續觀察：APBI 每日兩次分割照射之長期晚期組織毒性、美容結果與十年整體存活率數據",
+          "footer": "資料來源：Meduri et al. ASCO / Journal of clinical oncology : offic"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "分子病理分型",
-      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
-      "source_url": "https://doi.org/10.1186/s12885-026-16656-1",
-      "original_title": "Clinicopathological characterization and prognostic significance of HER2-low expression in endometrial cancer: a ProMisE molecular classification-based analysis.",
+      "category": "多體學免疫圖譜",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0302",
+      "original_title": "A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【ASCO/CAP 判讀標準整合 ProMisE 分子分型：解析子宮內膜癌 HER2 低表現之臨床病理特徵與預後意義】\n\n隨著抗體藥物複合體（ADC）在低度第 2 型人類表皮生長因子受體（HER2-low）實體腫瘤展現突破性療效，釐清子宮內膜癌中 HER2-low 的分布與預後價值成為重要課題。本研究結合美國臨床腫瘤學會／美國病理學會（ASCO/CAP）乳癌與胃癌判讀標準，並整合子宮內膜癌 ProMisE（Proactive Molecular Risk Classifier for Endometrial Cancer）分子分型系統，針對 385 例接受手術治療之原發性子宮內膜癌進行深度病理與預後剖析。\n\n■ 研究核心發現：\n1. 雙重標準病理評估：研究團隊採用福馬林固定石蠟包埋（FFPE）之子宮切除腫瘤檢體，依據乳癌 ASCO/CAP 準則將腫瘤定義為 HER2-zero、HER2-low（IHC 1+ 或 IHC 2+ 且原位雜交 ISH 未放大）與 HER2-positive，並同步以胃癌判讀標準重新評分比對。\n2. HER2 表現譜分布：在 385 例患者中，HER2-zero 佔 47.8%（184/385），HER2-low 高達 46.0%（177/385），而傳統 HER2-positive 僅佔 6.2%（24/385），顯示近半數子宮內膜癌具備潛在 ADC 標靶表現。\n3. 分子亞型分布差異：整合 ProMisE 分型後發現，傳統 HER2 陽性腫瘤高度集中於預後較差的 p53 異常（p53-abnormal）分子亞型；相較之下，HER2-low 表現則廣泛分布於所有四種 ProMisE 分子亞型中，展現截然不同的分子生物學分布特徵。\n\n■ 臨床轉譯與研究展望：\n本研究透過多變項 Cox 迴歸模型評估整體存活期（OS）與無惡化存活期（PFS），明確描繪出子宮內膜癌中高達 46.0% 的 HER2-low 族群跨分子亞型分布圖譜，為未來抗 HER2 抗體藥物複合體於不同 ProMisE 分子亞型子宮內膜癌之臨床試驗設計提供關鍵病理學依據。\n\n■ 資料來源 (References)：\n1. Li Y, Liu H, Tian L, Xiao J. Clinicopathological characterization and prognostic significance of HER2-low expression in endometrial cancer: a ProMisE molecular classification-based analysis. BMC cancer (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1186/s12885-026-16656-1\n2. ASCO (美國臨床腫瘤學會) / JCO. Clinicopathological characterization and prognostic significance of HER2-low expression in endometrial cancer: a ProMisE molecular classification-based analysis.. https://doi.org/10.1186/s12885-026-16656-1\n\n#子宮內膜癌 #HER2low #ProMisE分子分型 #抗體藥物複合體 #ASCOCAP #分子病理學 #婦科腫瘤",
+      "caption": "【AACR 旗艦期刊突破：13 層多體學與免疫胜肽體圖譜深度解碼皮膚黑色素瘤之免疫原性與存活機制】\n\n發表於美國癌症研究協會（AACR）官方期刊《Cancer Discovery》的重磅研究，針對 183 例皮膚黑色素瘤（Cutaneous Melanoma）檢體進行了涵蓋 13 個體學層次（Omic layers）的系統性剖析。研究整合蛋白基因體學（Proteogenomics）、質譜分析之 HLA-I 免疫胜肽體學（Immunopeptidomics）、代謝體學、蛋白質泛素化（Ubiquitylation）與糖基化（Glycosylation）圖譜，全面解構腫瘤突變負荷、抗原呈現與轉譯後修飾如何共同調控免疫微環境。\n\n■ 核心作用機制：\n1. 免疫胜肽呈現：基於質譜分析之 HLA-I 免疫胜肽體學直接證實，腫瘤表面實際呈現之抗原圖譜與腫瘤微環境中 CD8+ T 細胞浸潤程度呈高度正相關。\n2. 泛素化抗藥軸：泛素化體學（Ubiquitylomics）鑑定出一群預後不良之黑色素瘤亞群，其特徵為干擾素（IFN）訊號路徑蛋白高度泛素化，並伴隨泛素化依賴性之 AKT1 異常活化。\n3. 糖基化性別差異：糖蛋白體學發現 GPNMB 糖基化修飾與性別特異性存活率密切相關，此訊號連結至溶小體（Lysosome）相關轉錄計畫，揭示免疫治療反應潛在的性別差異機制。\n\n■ 臨床轉譯與研究展望：\n此研究亦透過代謝體學揭示原發與轉移性腫瘤間截然不同的醚脂類（Ether-linked lipids）與粒線體代謝特徵，為克服黑色素瘤免疫逃脫與開發轉譯後修飾標靶提供全新藍圖。\n\n■ 資料來源 (References)：\n1. Gong J, Petralia F, Ruiz Cuevas MV, Tignor N, Jain R, Gritsenko MA, et al. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0302\n2. AACR (美國癌症研究協會) / Cancer Discovery. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.. https://doi.org/10.1158/2159-8290.CD-26-0302\n\n#AACR #CancerDiscovery #黑色素瘤 #免疫胜肽體學 #蛋白基因體學 #腫瘤免疫原性 #多體學圖譜",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 判讀標準與分子分型",
-          "headline": "子宮內膜癌近半數呈現\nHER2 低表現分子特徵\n廣泛跨越四大分子亞型",
-          "subheadline": "結合 ProMisE 分子分類系統與 ASCO/CAP 標準之 385 例臨床病理解析",
-          "meta_badge": "研究焦點：子宮內膜癌 HER2-low 生物標記",
-          "footer": "資料來源：Li et al. ASCO / BMC cancer (2026)"
+          "tag": "AACR 多體學圖譜研究",
+          "headline": "整合十三層多體學圖譜\n深度解碼皮膚黑色素瘤\n抗原呈現與免疫逃脫機制",
+          "subheadline": "結合 HLA-I 免疫胜肽體、泛素化與糖蛋白體學剖析 183 例黑色素瘤免疫原性",
+          "meta_badge": "研究焦點：黑色素瘤轉譯後修飾與免疫微環境",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子病理",
-          "headline": "如何精準定義子宮內膜癌\nHER2 低表現與分子亞型關聯？",
+          "tag": "分子機制",
+          "headline": "轉譯後修飾與抗原呈現\n如何決定黑色素瘤免疫反應？",
           "points": [
-            "組織檢體分析：針對 385 例接受手術之原發性子宮內膜癌石蠟包埋（FFPE）檢體進行免疫組織化學與分子檢測",
-            "判讀標準界定：依乳癌 ASCO/CAP 準則將 IHC 1+ 或 IHC 2+/ISH 未放大定義為 HER2-low 並輔以胃癌標準驗證",
-            "多變項統計模型：整合 ProMisE 四大分子分型系統，運用多變項 Cox 迴歸分析評估無惡化與整體存活預後"
+            "抗原呈現：質譜 HLA-I 免疫胜肽體分析證實，腫瘤抗原呈現密度與 CD8+ T 細胞浸潤直接相關",
+            "泛素調控：預後不良亞群表現干擾素（IFN）路徑高度泛素化，並誘發泛素化依賴之 AKT1 致癌活化",
+            "糖基特徵：GPNMB 蛋白質糖基化驅動溶小體相關程序，與患者性別特異性之存活差異顯著相關"
           ],
-          "footer": "資料來源：Li et al. ASCO / BMC cancer (2026)"
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "385 例世代研究揭示\n何種 HER2 表現與亞型分布？",
+          "tag": "實驗驗證",
+          "headline": "橫跨 183 例臨床腫瘤檢體\n多維度體學揭示哪些關鍵特徵？",
           "points": [
-            "表現比例分布：HER2-zero 佔 47.8%（184 例）、HER2-low 佔 46.0%（177 例），HER2 陽性佔 6.2%（24 例）",
-            "陽性亞型集中：傳統 HER2 陽性（6.2%）腫瘤呈現高度特異性，集中分布於 p53 異常（p53-abnormal）亞型",
-            "低表現廣譜性：高達 46.0% 之 HER2-low 腫瘤廣泛出現於所有四種 ProMisE 分子亞型，無單一亞型侷限性"
+            "分析維度：整合基因體、轉錄體、免疫胜肽體、代謝體、泛素化與糖基化等共 13 個體學層次",
+            "代謝重編：代謝體學鑑定出原發性與轉移性黑色素瘤之間具備截然不同的醚脂類與粒線體代謝特徵",
+            "預後分群：透過蛋白質轉譯後修飾特徵，成功區分出干擾素訊號受損與 AKT1 活化之高風險亞群"
           ],
-          "footer": "資料來源：Li et al. ASCO / BMC cancer (2026)"
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "突破傳統 p53 異常亞型限制\n拓展子宮內膜癌標靶治療版圖",
-          "summary": "本研究證實高達 46.0% 的原發性子宮內膜癌屬於 HER2-low 表現，且不若傳統 HER2 陽性侷限於 p53 異常亞型，而是廣泛存在於四大 ProMisE 分子亞型中，奠定次世代抗 HER2 療法跨亞型應用的病理基礎。",
-          "cta": "後續觀察：乳癌與胃癌 ASCO/CAP 判讀標準於子宮內膜癌 ADC 臨床試驗中之療效預測一致性",
-          "footer": "資料來源：Li et al. ASCO / BMC cancer (2026)"
+          "tag": "學術意義與展望",
+          "headline": "超越單純腫瘤突變負荷\n邁向轉譯後修飾之免疫精準預測",
+          "summary": "本研究突破以往僅依賴基因體突變負荷評估免疫原性的限制，證實蛋白質泛素化對 IFN/AKT1 軸的調控以及 GPNMB 糖基化修飾，皆深度影響黑色素瘤之免疫反應與存活預後，建立了系統生物學層級的免疫治療生物標記框架。",
+          "cta": "後續觀察：靶向 AKT1 泛素化活化或溶小體路徑於克服免疫檢查點抑制劑抗藥性之轉譯驗證",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "腫瘤基因體學",
+      "category": "液態切片檢測",
       "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1177/20363613261475461",
-      "original_title": "Genomic landscape of schwannomas: An analysis of somatic mutations and demographic disparities.",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1981",
+      "original_title": "Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry.",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【AACR GENIE 資料庫大數據解析：神經鞘瘤體細胞突變圖譜與性別、族裔特異性基因變異特徵】\n\n神經鞘瘤（Schwannomas）為起源於周邊神經鞘的腫瘤，過去已知第 2 型神經纖維瘤基因（NF2）突變為其核心驅動機制，然而跨不同人口學統計特徵的完整基因體圖譜仍未完全釐清。本研究運用美國癌症研究協會（AACR）旗下的 Project GENIE（Genomics Evidence Neoplasia Information Exchange）大型臨床基因體資料庫，針對 248 名神經鞘瘤患者之體細胞突變與拷貝數變異（CNA）進行深度解析。\n\n■ 研究核心發現：\n1. 核心驅動基因頻率：全世代基因體分析證實，NF2 為神經鞘瘤最常見之體細胞突變基因，突變率達 51.6%；其他高頻率共同突變基因依序包括 SOX10（7.66%）、FAT1（6.45%）、SMARCB1（5.65%）以及 LZTR1（5.65%）。\n2. 性別特異性突變譜：統計分析揭示顯著的性別分子差異，女性患者之腫瘤顯著富集同源重組修復與范可尼貧血路徑相關之 BRCA2 與 FANCA 基因突變；男性患者則更常出現 FGFR4、FLCN 與 KIT 等受體酪胺酸激酶與訊號傳導基因突變。\n3. 族裔差異相關變異：研究同時鑑定出 ROS1、NSD1 與 FAT1 等特定基因突變在不同人口學與族裔群體間存在顯著分布差異，證明神經鞘瘤具備高度異質性的分子遺傳背景。\n\n■ 臨床轉譯與研究展望：\n透過 AACR Project GENIE 跨機構真實世界基因體數據，本研究不僅確立 NF2 以外之關鍵次要驅動基因（如 SOX10、FAT1、SMARCB1、LZTR1），更首度揭示性別與族裔相關的特定可成藥靶點（如女性 BRCA2/FANCA 與男性 FGFR4/KIT/ROS1），為難治型或復發性神經鞘瘤提供精準分子分層標靶策略。\n\n■ 資料來源 (References)：\n1. Jacob J, Hsia B, Boyal N, Tauseef A. Genomic landscape of schwannomas: An analysis of somatic mutations and demographic disparities. Rare tumors (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1177/20363613261475461\n2. AACR (美國癌症研究協會) / Cancer Discovery. Genomic landscape of schwannomas: An analysis of somatic mutations and demographic disparities.. https://doi.org/10.1177/20363613261475461\n\n#神經鞘瘤 #AACR #ProjectGENIE #腫瘤基因體學 #NF2突變 #體細胞突變 #精準腫瘤學",
+      "caption": "【AACR 臨床癌症研究：個人化 ddPCR 液態切片實現兒童胸膜肺母細胞瘤（PPB）之縱向 ctDNA 監測】\n\n發表於美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》的研究，由國際 PPB/DICER1 登錄計畫（International PPB/DICER1 Registry）團隊主導，探討循環腫瘤 DNA（ctDNA）在幼兒最常見原發性肺部惡性腫瘤——胸膜肺母細胞瘤（Pleuropulmonary Blastoma, PPB）中的臨床監測價值。由於幾乎所有 PPB 皆具有雙等位基因 DICER1 變異（包含一生殖細胞系功能喪失型變異，以及一腫瘤特異性 RNase IIIb 結構域熱點突變），研究團隊藉此開發出高度專一性的個人化液態切片策略。\n\n■ 研究核心發現：\n1. 專一熱點鎖定：透過腫瘤定序鑑定個別患者之 DICER1 RNase IIIb 體細胞熱點突變，量身打造個人化微滴式數位 PCR（ddPCR）檢測，共分析 73 名患者之 482 份血液檢體。\n2. 術前檢出效能：在 13 名接受術前採血之第 II/III 型 PPB 患者中，高達 11 名（85%）可檢出 ctDNA，且 ctDNA 負荷量與腫瘤大小呈中度正相關（Spearman's ρ=0.574, p=0.051）。\n3. 術後與化療動態：8 名已完成手術切除但尚未化療之患者，其 ctDNA 檢出率為 0%（對比未切除者 p<0.001）；而在開始化學治療後 1–2 天內，ctDNA 濃度會出現短暫急遽上升，隨後迅速下降。\n\n■ 臨床轉譯與研究展望：\n此研究證實針對 DICER1 RNase IIIb 熱點之個人化 ddPCR 具備極高靈敏度，能有效反映手術根除性與化療初期之腫瘤裂解動力學，為兒童罕見肺部腫瘤提供低侵入性的縱向追蹤工具。\n\n■ 資料來源 (References)：\n1. Schultz KAP, Field AL, Mallinger PHR, Xu C, Deonovic B, Nelson AT, et al. Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1981\n2. AACR (美國癌症研究協會) / Cancer Discovery. Longitudinal Detection of Circulating Tumor DNA in Children with Pleuropulmonary Blastoma: A Report from the International PPB/DICER1 Registry.. https://doi.org/10.1158/1078-0432.CCR-26-1981\n\n#AACR #ClinicalCancerResearch #液態切片 #ctDNA #胸膜肺母細胞瘤 #DICER1 #兒童腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 基因體資料庫研究",
-          "headline": "解析神經鞘瘤基因圖譜\nNF2 突變佔比逾五成且具\n顯著性別特異性突變模式",
-          "subheadline": "基於 AACR Project GENIE 資料庫 248 例體細胞突變與人口學差異分析",
-          "meta_badge": "研究焦點：神經鞘瘤體細胞突變與拷貝數變異",
-          "footer": "資料來源：Jacob et al. AACR / Rare tumors (2026)"
+          "tag": "AACR 分子診斷研究",
+          "headline": "鎖定 DICER1 突變熱點\n個人化液態切片精準監測\n兒童胸膜肺母細胞瘤動態",
+          "subheadline": "國際 PPB/DICER1 登錄計畫：以微滴式數位 PCR 追蹤 482 份血液 ctDNA 檢體",
+          "meta_badge": "研究焦點：兒童胸膜肺母細胞瘤 (PPB) 液態切片",
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "基因體學",
-          "headline": "如何透過大型基因體資料庫\n解構神經鞘瘤分子異質性？",
+          "tag": "分子機制",
+          "headline": "雙等位基因 DICER1 變異\n如何成為理想液態切片標靶？",
           "points": [
-            "跨機構資料庫：萃取 AACR Project GENIE 資料庫中 248 名神經鞘瘤患者之臨床與次世代定序數據",
-            "變異全面篩檢：系統性量化腫瘤組織之體細胞點突變頻率與染色體拷貝數變異（CNA）分布特徵",
-            "人口學關聯統計：結合生物統計模型交叉比對基因突變譜與患者性別及族裔背景之顯著相關性"
+            "致病特徵：幾乎所有胸膜肺母細胞瘤（PPB）皆帶有生殖細胞系與體細胞雙等位基因 DICER1 突變",
+            "熱點標靶：第二個體細胞突變集中於 RNase IIIb 結構域熱點，具備高度腫瘤特異性與追蹤價值",
+            "數位定量：依據患者腫瘤定序結果設計個人化 ddPCR 探針，於常規靜脈採血中縱向定量 ctDNA"
           ],
-          "footer": "資料來源：Jacob et al. AACR / Rare tumors (2026)"
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "248 例定序數據揭示\n何種關鍵突變頻率與性別差異？",
+          "tag": "臨床數據",
+          "headline": "482 份血液檢體縱向追蹤\n展現哪些關鍵臨床動力學特徵？",
           "points": [
-            "高頻突變基因：NF2 突變率最高達 51.6%，次要突變依序為 SOX10（7.66%）、FAT1（6.45%）與 SMARCB1（5.65%）",
-            "女性富集突變：女性神經鞘瘤患者顯著較常出現 DNA 修復路徑相關之 BRCA2 與 FANCA 體細胞基因突變",
-            "男性與族裔特徵：男性患者顯著富集 FGFR4、FLCN 與 KIT 突變，而 ROS1 與 NSD1 亦呈現人口學分布差異"
+            "術前敏感度：第 II/III 型 PPB 術前患者高達 85%（11/13）檢出 ctDNA，負荷量與腫瘤大小相關",
+            "手術清除：8 名完成腫瘤切除但尚未化療之患者，術後血液皆未檢出 ctDNA（p<0.001 對比未切除）",
+            "化療反應：化療啟動後 1 至 2 天內 ctDNA 出現短暫釋放高峰，隨後因腫瘤受抑而迅速下降"
           ],
-          "footer": "資料來源：Jacob et al. AACR / Rare tumors (2026)"
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "從單一 NF2 基因認知邁向\n性別與族裔精準分子分層",
-          "summary": "本研究藉由 AACR GENIE 資料庫描繪出神經鞘瘤超越 NF2（51.6%）的次要驅動基因譜（SOX10、FAT1、SMARCB1、LZTR1），並揭示女性富集 BRCA2/FANCA、男性富集 FGFR4/KIT 之性別特異性突變，拓展罕見神經腫瘤精準標靶視野。",
-          "cta": "後續觀察：針對伴隨 BRCA2、FGFR4、KIT 或 ROS1 突變之難治型神經鞘瘤進行對應標靶藥物驗證",
-          "footer": "資料來源：Jacob et al. AACR / Rare tumors (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從侵入性影像與組織檢查\n邁向兒童罕見腫瘤精準血液監測",
+          "summary": "本研究利用 PPB 特有的 DICER1 RNase IIIb 結構域體細胞突變，驗證了個人化 ddPCR 液態切片在評估腫瘤負荷、確認手術微量殘存病灶清除及監測化療早期反應上的高度可行性，減少幼兒重複侵入性檢查之負擔。",
+          "cta": "後續觀察：治療後追蹤期之 ctDNA 陽性轉換率對於早期預測 PPB 臨床復發之敏感度與前瞻性驗證",
+          "footer": "資料來源：Schultz et al. AACR / Clinical cancer research : an offic"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "剪接體生物學",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
-      "original_title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+      "category": "抗藥性演化",
+      "source_name": "SABCS (聖安東尼奧乳癌研討會)",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-2631",
+      "original_title": "CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer.",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【《Nature Communications》分子機制突破：維生素 B12 透過磷脂質重塑緩解 RNA 剪接體突變引發之細胞代謝與發育缺陷】\n\n信使核糖核酸（mRNA）剪接（RNA splicing）是維持真核細胞基因表現與蛋白質轉譯精準度的核心步驟，剪接體（spliceosome）相關基因突變與多種罕見先天遺傳疾病（如 Verheij 症候群）及特定惡性腫瘤之剪接異常密切相關。發表於《Nature Communications》的最新研究發現，維生素 B12（Vitamin B12）能透過調控細胞內磷脂質重塑（phospholipid remodeling），顯著逆轉由剪接體基因突變所導致的代謝失衡與發育異常。\n\n■ 核心作用機制：\n1. 剪接體突變逆轉：研究團隊利用攜帶人類 Verheij 症候群相關剪接體基因突變之秀麗隱桿線蟲（C. elegans）活體模型進行篩選，證實補充維生素 B12 能大幅度修正因 mRNA 前驅物剪接缺陷所引發的生長停滯與發育異常表型。\n2. 磷脂質代謝重塑：深入機制解析顯示，剪接體功能障礙會連帶破壞細胞內脂質代謝恆定；維生素 B12 則透過驅動磷脂質重塑途徑，修復受損的細胞膜脂質組成與代謝網絡。\n3. 跨物種臨床印證：研究團隊進一步分析人類患者檢體，鑑定出與線蟲模型高度一致的細胞代謝改變特徵，證實剪接體病變（spliceosomopathy）與磷脂質代謝異常在演化上具有高度保守的病理連結。\n\n■ 臨床轉譯與研究展望：\n本研究首度建立「RNA 剪接體異常—磷脂質代謝失調—維生素 B12 代謝干預」之分子調控軸線。由於剪接體基因突變與磷脂質重塑異常亦廣泛參與骨髓增生異常症候群及多種實體腫瘤之致病過程，此項基礎分子生物學突破為靶向剪接體缺陷之代謝重編程療法開闢了全新研究方向。\n\n■ 資料來源 (References)：\n1. Kölschbach J, Dafsari HS, Baum E, Löhrke A, Kew C, Dikic I, et al. Vitamin B12 alleviates spliceosomopathy via phospholipid remodeling. Nature Communications. 2026. https://doi.org/10.1038/s41467-026-76295-9\n2. ScienceDaily Cancer News. Vitamin B12 may hold the key to treating a rare genetic disorder. https://www.sciencedaily.com/releases/2026/11/261115085552.htm\n\n#RNA剪接 #剪接體病變 #磷脂質重塑 #維生素B12 #代謝重編程 #分子生物學 #NatureCommunications",
+      "caption": "【SABCS / CCR 臨床基因體學剖析：CCNE1 基因擴增賦予乳癌侵襲性病理特徵與不良預後】\n\n發表於《Clinical Cancer Research》並受聖安東尼奧乳癌研討會（SABCS）領域高度關注的轉譯醫學研究，深入解析了細胞週期蛋白 E1（Cyclin E1, CCNE1）基因擴增在乳癌中的臨床與基因體學特徵。研究團隊調閱紀念斯隆-凱特琳癌症中心（MSK）乳癌轉譯資料庫中 2014 年 1 月至 2025 年 10 月間接受標靶次世代定序之 6,318 例乳癌患者數據，並運用 FACETS 演算法精確評估包含 CCNE1 在內的等位基因特異性拷貝數變異（Allele-specific copy number）。\n\n■ 研究核心發現：\n1. 亞型盛行率差異：在 6,318 例乳癌中，共有 251 例（4.0%）檢出 CCNE1 擴增；其盛行率在三陰性乳癌（TNBC，8.7%）與 HER2 陽性乳癌（6.7%）中顯著高於 HR+/HER2- 乳癌（2.1%，P<2.2x10⁻¹⁶）。\n2. 高度侵襲性病理：在 HR+/HER2- 亞型中，帶有 CCNE1 擴增之腫瘤展現顯著較高的高組織學分級比例（77.1% vs. 57.1%，P=8.3x10⁻⁴）與黃體素受體（PR）缺失率（27.0% vs. 15.2%，P=8.8x10⁻³）。\n3. 雌激素受體低表現：帶有 CCNE1 擴增之 HR+/HER2- 乳癌，呈現雌激素受體低表現（ER ≤10%）的比例高達 25.4%，遠高於未擴增組的 6.5%（P=8.4x10⁻⁷），並與不良預後及治療抗藥性密切相關。\n\n■ 臨床轉譯與研究展望：\n本研究明確界定出 CCNE1 擴增作為跨乳癌亞型之高風險分子生物標記，特別在 HR+/HER2- 族群中與內分泌敏感度下降特徵高度重疊，支持針對此亞群開發 CDK2 抑制劑或合成致死標靶策略。\n\n■ 資料來源 (References)：\n1. Marra A, Boscolo-Bielo L, Selenica P, Zhu Y, Safonov A, Gazzo AM, et al. CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer. Clinical cancer research : an official journal of the American Association for Cancer Research (SABCS (聖安東尼奧乳癌研討會)). 2026. https://doi.org/10.1158/1078-0432.CCR-26-2631\n2. SABCS (聖安東尼奧乳癌研討會). CCNE1 Amplification Confers Poor Outcomes and Therapeutic Resistance in Breast Cancer.. https://doi.org/10.1158/1078-0432.CCR-26-2631\n\n#SABCS #ClinicalCancerResearch #乳癌基因體學 #CCNE1擴增 #抗藥性機制 #細胞週期蛋白E1 #精準醫療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "基礎分子與代謝機制研究",
-          "headline": "維生素 B12 驅動磷脂質重塑\n逆轉 RNA 剪接體基因突變\n所引發之細胞代謝與發育缺陷",
-          "subheadline": "《Nature Communications》揭示剪接體病變之磷脂質代謝調控新機制",
-          "meta_badge": "研究焦點：RNA 剪接體異常與磷脂質代謝重塑",
-          "footer": "資料來源：Kölschbach et al. Nature Communications (2026)"
+          "tag": "SABCS 乳癌基因體研究",
+          "headline": "剖析逾六千例乳癌基因體\nCCNE1 擴增驅動高侵襲性\n並賦予治療抗藥與不良預後",
+          "subheadline": "MSK 乳癌轉譯資料庫 6,318 例定序解析：跨亞型盛行率與臨床病理特徵",
+          "meta_badge": "研究設計：6,318 例乳癌臨床基因體世代分析",
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "剪接體基因突變如何破壞細胞\n並藉由代謝途徑獲得修復？",
+          "headline": "細胞週期蛋白 E1 基因擴增\n如何重塑乳癌臨床病理表型？",
           "points": [
-            "剪接程序受損：剪接體相關基因突變導致非編碼序列移除與外顯子接合異常，擾亂核心蛋白質轉譯",
-            "磷脂質重塑：維生素 B12 介入後能啟動細胞內磷脂質重塑機制，修復因剪接缺陷誘發的下游脂質代謝失衡",
-            "跨物種保守性：於秀麗隱桿線蟲模型與人類 Verheij 症候群患者檢體中均驗證相同的代謝異常特徵"
+            "拷貝數評估：運用 FACETS 演算法分析標靶定序數據，精準鑑定等位基因特異性 CCNE1 基因擴增",
+            "分化喪失：在 HR+/HER2- 腫瘤中，CCNE1 擴增顯著伴隨高腫瘤分級（77.1%）與黃體素受體缺失",
+            "受體降調：CCNE1 擴增組出現高達 25.4% 之雌激素受體低表現（ER ≤10%），削弱荷爾蒙路徑依賴"
           ],
-          "footer": "資料來源：Kölschbach et al. Nature Communications (2026)"
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "活體模型與患者代謝分析\n證實何種生物學逆轉效應？",
+          "tag": "研究數據",
+          "headline": "橫跨三大乳癌分子亞型\nCCNE1 擴增之分布數據為何？",
           "points": [
-            "表型顯著逆轉：於攜帶 Verheij 症候群同源突變之線蟲模型中，補充維生素 B12 大幅恢復正常生長發育",
-            "代謝特徵鑑定：人類患者組織分析確認存在與線蟲模型一致的磷脂質代謝改變，確立轉譯醫學關聯",
-            "全新治療靶點：首度證實針對下游磷脂質重塑進行代謝干預，可繞過上游剪接體基因突變緩解細胞毒性"
+            "整體占比：於 6,318 例乳癌檢體中，共鑑定出 251 例（4.0%）帶有明確之 CCNE1 基因擴增",
+            "亞型分布：三陰性乳癌盛行率最高（8.7%），其次為 HER2+（6.7%）與 HR+/HER2-（2.1%）",
+            "顯著差異：HR+/HER2- 伴隨 CCNE1 擴增者之 ER 低表現率為未擴增組近 4 倍（25.4% vs 6.5%）"
           ],
-          "footer": "資料來源：Kölschbach et al. Nature Communications (2026)"
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "連結 RNA 剪接與脂質代謝\n開啟剪接體異常疾病干預新局",
-          "summary": "本研究於《Nature Communications》揭示 RNA 剪接體基因突變會引發特定磷脂質代謝失調，而維生素 B12 可透過磷脂質重塑有效緩解剪接體病變表型，為剪接體突變相關疾病與腫瘤生物學提供全新的代謝調控視角。",
-          "cta": "後續觀察：磷脂質重塑機制於伴隨剪接體因子突變之血液或實體腫瘤模型中的代謝干預潛力",
-          "footer": "資料來源：Kölschbach et al. Nature Communications (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "鎖定細胞週期失控關鍵節點\n引領 CCNE1 擴增乳癌標靶開發",
+          "summary": "此項超過六千例的大型臨床基因體研究證實，CCNE1 擴增不僅富集於三陰性與 HER2 陽性乳癌，亦使 HR+/HER2- 乳癌偏向高分級與低 ER 表現之侵襲性表型，確立其作為抗藥性預測因子與新藥開發標靶之臨床價值。",
+          "cta": "後續觀察：新型高選擇性 CDK2 抑制劑或 PKMYT1 抑制劑於 CCNE1 擴增乳癌臨床試驗之療效數據",
+          "footer": "資料來源：Marra et al. SABCS / Clinical cancer research : an offici"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "罕見婦癌標靶",
-      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUEUxZWFIVnNSQTBtVDNvbVU1UnR4YlQ2bmU5QTRaa1lRQlpyMzViek1od0l2U1ctSFJ2cUxaVHVxNHlXTmtZZU92RzBTeUpmMkRLbDhScS1lSmt3UlNTaUFFTWVkZFhrbWc1SFJqbV9wU1ZUVDlRZFI0YVlwaGJZNEk1MVRWdWN5UUo1cXk4ZlYwWmxJODdpaG9KZjV2dzIwcFd2ektBM3phN2ZDajlkRXFaNHJsR3VsT3NiQ2Q4YVFvWGhZcTA3QXdzUFQ3NnNVU01qaXNoLTNMRm82WkJ0dVZ3YzMzYkpZMXQtUGVpWWVEaDNHWnlUcHhPNWZJOUdPSllz?oc=5",
-      "original_title": "ESMO Rare Cancers Publishes Case Report Detailing Eight-Year Response to Relacorilant Plus Nab-Paclitaxel in Metastatic Vulvar Cancer - BioSpace",
+      "category": "心臟腫瘤醫學",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108638",
+      "original_title": "Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis.",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【ESMO Rare Cancers 臨床案例解析：選擇性糖皮質激素受體調節劑 Relacorilant 合併 Nab-Paclitaxel 於轉移性外陰癌達成八年持久緩解】\n\n轉移性外陰癌（Metastatic Vulvar Cancer）屬於治療選擇極度受限且預後不佳的罕見婦科惡性腫瘤，傳統化學治療反應時間普遍短暫。根據《ESMO Rare Cancers》最新發表的臨床研究報告，一名轉移性外陰癌患者在接受選擇性糖皮質激素受體（GR）調節劑 Relacorilant 合併白蛋白結合型紫杉醇（Nab-Paclitaxel）治療後，達成了長達 8 年的罕見持久臨床反應（durable response）。\n\n■ 核心作用機制：\n1. 糖皮質激素受體拮抗：內源性皮質醇透過活化腫瘤細胞上的糖皮質激素受體（GR），可誘導抗凋亡基因表現並降低紫杉醇類化療藥物之細胞毒殺敏感性；Relacorilant 作為選擇性 GR 調節劑，能專一性阻斷此一抗藥性訊號路徑。\n2. 化療增敏協同效應：透過結合奈米白蛋白載體技術之 Nab-Paclitaxel，Relacorilant 能逆轉糖皮質激素介導的化療抗性，恢復並強化微管穩定劑對轉移性外陰癌細胞的有絲分裂阻滯與促凋亡作用。\n3. 罕見八年長期控制：在缺乏標準後線標靶療法的轉移性外陰癌臨床情境中，該名患者在此雙藥聯合方案下維持長達 8 年的腫瘤緩解，展現極具突破性的長期存活效益。\n\n■ 臨床轉譯與研究展望：\n此項發表於 ESMO 罕見癌症期刊的長期臨床實證，凸顯了靶向糖皮質激素受體（GR）訊號途徑在逆轉婦科實體腫瘤紫杉醇抗藥性上的臨床潛力，為極度缺乏有效療法的晚期或復發轉移性外陰癌提供了值得深入探索的聯合治療方向。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO Rare Cancers Publishes Case Report Detailing Eight-Year Response to Relacorilant Plus Nab-Paclitaxel in Metastatic Vulvar Cancer - BioSpace. https://news.google.com/rss/articles/CBMigwJBVV95cUxQUEUxZWFIVnNSQTBtVDNvbVU1UnR4YlQ2bmU5QTRaa1lRQlpyMzViek1od0l2U1ctSFJ2cUxaVHVxNHlXTmtZZU92RzBTeUpmMkRLbDhScS1lSmt3UlNTaUFFTWVkZFhrbWc1SFJqbV9wU1ZUVDlRZFI0YVlwaGJZNEk1MVRWdWN5UUo1cXk4ZlYwWmxJODdpaG9KZjV2dzIwcFd2ektBM3phN2ZDajlkRXFaNHJsR3VsT3NiQ2Q4YVFvWGhZcTA3QXdzUFQ3NnNVU01qaXNoLTNMRm82WkJ0dVZ3YzMzYkpZMXQtUGVpWWVEaDNHWnlUcHhPNWZJOUdPSllz?oc=5\n\n#外陰癌 #罕見癌症 #Relacorilant #NabPaclitaxel #糖皮質激素受體 #ESMO #婦科腫瘤學",
+      "caption": "【ESMO Open 統合分析：重新評估 HER2 標靶治療期間之高頻率心臟超音波監測策略與成本效益】\n\n發表於歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》的系統性回顧、單臂統合分析（Meta-analysis）與成本效益研究，針對接受 Trastuzumab 基礎之抗 HER2 標靶治療的乳癌患者，重新檢視了自 2000 年代初期建立之「每三個月定期心臟超音波（Echocardiography）監測」常規。隨著現代化療處方演進與新一代抗體藥物複合體（ADC）問世，左心室射出分率（LVEF）下降之發生率已顯著降低，促使學界重新評估頻繁心臟影像檢查之臨床必要性。\n\n■ 研究核心發現：\n1. 大規模實證整合：研究納入 1999 年至 2026 年間共 57 項臨床試驗、涵蓋 37,847 名接受 Trastuzumab、T-DM1（Trastuzumab emtansine）或 T-DXd（Trastuzumab deruxtecan）治療之乳癌患者數據。\n2. 早期乳癌監測策略：針對為期 12 個月之早期乳癌輔助治療，模型比較了「基準點＋第 6 個月」、「基準點＋第 6、12 個月」以及傳統「基準點＋第 3、6、9、12 個月」三種心臟超音波追蹤頻率。\n3. 轉移性乳癌策略：針對持續性治療之轉移性乳癌，研究系統性評估了「基準點＋每年一次」、「基準點＋每 6 個月一次」與「基準點＋每 3 個月一次」之毒性檢出效益與醫療資源配置。\n\n■ 臨床轉譯與研究展望：\n透過近三萬八千名患者的實證數據與成本效益分析，本研究指出在新一代 HER2 標靶與 ADC 時代，適度降低無症狀患者之心臟超音波檢查頻率，可在維持心臟安全性之前提下優化醫療資源運用。\n\n■ 資料來源 (References)：\n1. Saad Menezes MC, Barac A, Upshaw JN, Lin NU, Rabinowitz JB, DeMichele A, et al. Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108638\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Rethinking cardiac monitoring in patients receiving trastuzumab-based HER2-directed therapies for breast cancer: a meta-analysis and cost-effectiveness analysis.. https://doi.org/10.1016/j.esmoop.2026.108638\n\n#ESMO #ESMOOpen #心臟腫瘤學 #HER2標靶治療 #Trastuzumab #抗體藥物複合體 #臨床指引優化",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ESMO 罕見癌症臨床報告",
-          "headline": "Relacorilant 合併紫杉醇\n治療轉移性外陰癌患者\n達成罕見八年持久緩解",
-          "subheadline": "《ESMO Rare Cancers》發表選擇性糖皮質激素受體調節劑聯合化療長期數據",
-          "meta_badge": "研究焦點：轉移性外陰癌長期存活臨床解析",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "tag": "ESMO 統合與成本分析",
+          "headline": "納入近三萬八千名乳癌患者\n重新評估抗 HER2 標靶治療\n常規每季心臟超音波必要性",
+          "subheadline": "涵蓋 Trastuzumab、T-DM1 與 T-DXd 之 57 項臨床試驗統合與成本效益解析",
+          "meta_badge": "研究設計：57 項試驗、37,847 人統合分析",
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "作用機制",
-          "headline": "選擇性糖皮質激素受體調節劑\n如何增強白蛋白紫杉醇抗癌活性？",
+          "tag": "評估限制",
+          "headline": "沿用二十餘年之每季監測常規\n為何需要實證醫學重新檢視？",
           "points": [
-            "受體訊號阻斷：Relacorilant 專一性結合並調節糖皮質激素受體（GR），抑制皮質醇誘導之促存活基因轉錄",
-            "逆轉化療抗性：消除糖皮質激素途徑對細胞凋亡的抑制作用，恢復腫瘤細胞對紫杉醇類藥物之高度敏感性",
-            "奈米載體協同：合併白蛋白結合型紫杉醇（Nab-Paclitaxel）提升腫瘤組織藥物穿透率並強化微管毒殺效應"
+            "歷史背景：每三個月定期心臟超音波監測源自 2000 年代初期，當時常與高心毒性化療併用",
+            "處方演進：現代輔助治療處方與新一代抗體藥物複合體（T-DM1、T-DXd）之 LVEF 下降率已顯著降低",
+            "效益權衡：過度頻繁之無症狀影像篩檢可能增加醫療支出與檢查負荷，需以當代發生率重新建模"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "《ESMO Rare Cancers》報告\n展現何種突破性臨床治療成果？",
+          "tag": "研究數據",
+          "headline": "橫跨早期與轉移性乳癌世代\n研究如何設計監測比較模型？",
           "points": [
-            "罕見婦癌挑戰：針對缺乏標準有效後線治療且預後極差之轉移性外陰癌進行標靶合併化療探索",
-            "八年持久反應：患者接受 Relacorilant 合併 Nab-Paclitaxel 治療後，維持長達 8 年之久遠臨床緩解期",
-            "長期耐受驗證：長達八年的治療與追蹤歷程證實此無類固醇前置給藥需求之聯合方案具備長期可行性"
+            "統合規模：彙整 1999 至 2026 年共 57 項臨床試驗、37,847 名患者之左心室射出分率下降數據",
+            "早期模型：於 12 個月療程中，系統性對比每 3 個月、每 6 個月及僅於第 6 個月追蹤之成本效益",
+            "晚期模型：於轉移性乳癌持續治療中，比較每 3 個月、每 6 個月與每年一次心臟超音波之臨床價值"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "靶向糖皮質激素受體途徑\n為轉移性罕見婦癌帶來長期緩解",
-          "summary": "《ESMO Rare Cancers》記錄之轉移性外陰癌長達 8 年緩解案例，展現了選擇性糖皮質激素受體調節劑 Relacorilant 合併 Nab-Paclitaxel 的強大協同潛力，為突破婦科惡性腫瘤化療抗性提供重要臨床啟示。",
-          "cta": "後續觀察：糖皮質激素受體（GR）表現量作為婦科鱗狀細胞癌接受 Relacorilant 聯合治療之預測生物標記",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "headline": "從一體適用之高頻率篩檢\n邁向實證導向之精準心臟監測",
+          "summary": "本研究結合近三萬八千名接受 Trastuzumab、T-DM1 與 T-DXd 患者的臨床試驗數據與衛生經濟學模型，挑戰了傳統每三個月進行心臟超音波的慣例，為未來修訂抗 HER2 治療期間之心臟監測頻率指引提供堅實依據。",
+          "cta": "後續觀察：依據患者基準點心血管風險分層之個人化 LVEF 監測間隔於臨床指引之更新採納",
+          "footer": "資料來源：Saad et al. ESMO / ESMO open (2026)"
         }
       ]
     }
