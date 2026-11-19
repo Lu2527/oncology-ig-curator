@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T12:38:44.891616+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "抗體藥物標的",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-1021",
+      "original_title": "Systematic Characterization of Clinically Actionable Antibody-Drug Targets Across Solid Tumors to Advance Precision Oncology.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【AACR 旗艦期刊發表：整合逾 3.2 萬份實體腫瘤多體學圖譜，建立 87 種抗體藥物標靶精準配對架構】\n\n隨著抗體藥物複合體（Antibody-Drug Conjugates, ADCs）與雙特異性抗體的快速發展，臨床腫瘤學的瓶頸已從藥物開發轉向精準的患者篩選。發表於美國癌症研究協會（AACR）官方旗艦期刊《Cancer Discovery》的最新研究中，研究團隊整合了超過 32,000 份實體腫瘤檢體的轉錄體（Transcriptomic）、蛋白質體（Proteomic）、空間體學（Spatial）與單細胞圖譜（Single-cell profiles），系統性解析了 87 種具臨床成藥潛力的腫瘤相關抗原（Tumor-Associated Antigens, TAAs）。\n\n■ 核心作用機制：\n1. 多維度特徵解析：全面定義 87 種標靶於各類實體腫瘤中的表現盛行率、腫瘤內異質性（Intratumoral Heterogeneity）、免疫微環境特徵，以及抗體內吞作用（Internalization）與彈頭藥物敏感性路徑。\n2. 標準化座標框架：建立名為 ANCHOR 的參考座標框架以標準化患者 RNA 定序（RNA-seq）數據，並開發雙層級評分系統 ReSort，實現大規模標靶優先級排序。\n3. 臨床配對與預測：ReSort 系統支援虛擬籃型與傘型臨床試驗（Basket and Umbrella Trials）配對，與臨床檢驗具高度一致性，能於患者衍生模型中預測療效，並發掘罕見惡性腫瘤的藥物老藥新用機會。\n\n■ 臨床轉譯與研究展望：\n研究團隊進一步結合腫瘤與蛋白質內在屬性建構多模態特徵空間，並開發出人工智慧（AI）決策支援代理系統，協助抗體臨床試驗的精準配對，為實體腫瘤抗體療法的個人化醫療提供可擴展的臨床轉譯工具。\n\n■ 資料來源 (References)：\n1. Hu Z, Sun Y, Yuan J, Su T, Wang Y, Huang J, et al. Systematic Characterization of Clinically Actionable Antibody-Drug Targets Across Solid Tumors to Advance Precision Oncology. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-1021\n2. AACR (美國癌症研究協會) / Cancer Discovery. Systematic Characterization of Clinically Actionable Antibody-Drug Targets Across Solid Tumors to Advance Precision Oncology.. https://doi.org/10.1158/2159-8290.CD-26-1021\n\n#AACR #CancerDiscovery #抗體藥物複合體 #精準腫瘤學 #多體學分析 #腫瘤相關抗原 #單細胞定序",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 轉譯醫學突破",
+          "headline": "整合逾三萬份腫瘤圖譜\n系統性解析 87 種\n臨床抗體藥物精準標靶",
+          "subheadline": "跨實體腫瘤多體學整合與 AI 決策系統推進抗體療法精準選患",
+          "meta_badge": "研究規模：逾 32,000 份實體腫瘤多體學檢體",
+          "footer": "資料來源：Hu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "多體學圖譜如何解析\n抗體藥物標靶之生物學特徵？",
+          "points": [
+            "多體學整合：結合轉錄體、蛋白質體、空間與單細胞數據，全面描繪 87 種腫瘤相關抗原圖譜",
+            "異質性評估：量化標靶於不同實體腫瘤之表現盛行率、腫瘤內異質性與免疫微環境交互作用",
+            "內吞與敏感性：解析抗體內吞作用機制與細胞毒性彈頭敏感性路徑，優化抗體藥物複合體設計"
+          ],
+          "footer": "資料來源：Hu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "運算模型",
+          "headline": "ANCHOR 與 ReSort 系統\n如何實現臨床試驗精準配對？",
+          "points": [
+            "標準化框架：建立 ANCHOR 座標參考框架，消除批次效應以標準化跨平台患者 RNA 定序數據",
+            "雙層級評分：開發 ReSort 評分系統進行標靶優先級排序，高度契合臨床檢測並預測模型療效",
+            "智慧試驗配對：結合多模態特徵空間與 AI 決策代理系統，支援虛擬籃型與傘型試驗及罕見癌種配對"
+          ],
+          "footer": "資料來源：Hu et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從抗體藥物研發邁向\n多模態驅動之精準患者篩選",
+          "summary": "本研究突破單一生物標記的限制，透過逾 3.2 萬份檢體的多體學整合，將標靶表現量、空間異質性、內吞效率與彈頭敏感性納入統一評估框架，為抗體藥物複合體（ADC）與雙特異性抗體的臨床試驗設計建立全新標準。",
+          "cta": "後續觀察：ReSort 評分系統與 AI 代理於前瞻性抗體籃型臨床試驗之配對效益驗證",
+          "footer": "資料來源：Hu et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "乳癌前導標靶",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108643",
+      "original_title": "Neoadjuvant talazoparib, irinotecan, and standard chemotherapy for early breast cancer in the I-SPY2 trial.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ESMO 期刊臨床試驗：I-SPY2 平台試驗評估 Talazoparib 合併 Irinotecan 用於 HER2 陰性早期乳癌前導性治療】\n\n臨床前研究顯示，多聚二磷酸腺苷核糖聚合酶（PARP）抑制劑與喜樹鹼類（Camptothecin）拓撲異構酶 I 抑制劑化療之間具有協同抗腫瘤效應。發表於歐洲腫瘤內科學會（ESMO）旗下期刊《ESMO Open》的 I-SPY2 第二期平台臨床試驗，評估了口服 PARP 抑制劑 Talazoparib 合併 Irinotecan（簡稱 TI 方案）用於 HER2 陰性局部晚期或高復發風險早期乳癌的前導性治療（Neoadjuvant Therapy）。\n\n■ 研究核心發現：\n1. 適應性隨機試驗設計：I-SPY2 針對第 II/III 期、具高復發風險的早期乳癌患者，依據荷爾蒙受體（HR）狀態、HER2 狀態與 MammaPrint 基因風險分級（MP1、MP2）進行適應性隨機分派。\n2. 給藥方案與控制組對照：納入試驗之 HER2 陰性患者皆接受每週 Paclitaxel 治療 12 週，接續接受 Doxorubicin 與 Cyclophosphamide（AC 方案）及手術切除；分派至 TI 實驗組者則額外接受每日口服 Talazoparib 並每兩週靜脈輸注 Irinotecan。\n3. 療效終點與生物標記：試驗主要終點為病理完全緩解率（Pathological Complete Response, pCR），設定當特定亞型在第三期試驗達 85% 貝氏成功機率時即告「畢業」，同時整合路徑特異性生物標記以預測治療反應。\n\n■ 臨床轉譯與研究展望：\nI-SPY2 平台試驗透過精準的分子亞型分層與貝氏適應性設計，快速驗證 PARP 抑制劑與拓撲異構酶抑制劑協同作用於早期高風險 HER2 陰性乳癌的臨床可行性與生物標記預測價值。\n\n■ 資料來源 (References)：\n1. Clark AS, Omene C, Yau C, Wallace AM, Stringer-Reasor E, Chien AJ, et al. Neoadjuvant talazoparib, irinotecan, and standard chemotherapy for early breast cancer in the I-SPY2 trial. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108643\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Neoadjuvant talazoparib, irinotecan, and standard chemotherapy for early breast cancer in the I-SPY2 trial.. https://doi.org/10.1016/j.esmoop.2026.108643\n\n#ESMO #ISPY2 #早期乳癌 #前導性治療 #PARP抑制劑 #Talazoparib #病理完全緩解",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床二期試驗",
+          "headline": "PARP 抑制劑合併化療\n挑戰 HER2 陰性早期乳癌\n前導性治療病理完全緩解",
+          "subheadline": "I-SPY2 平台試驗解析 Talazoparib 併用 Irinotecan 之協同抗癌策略",
+          "meta_badge": "研究設計：I-SPY2 第二期適應性隨機平台臨床試驗",
+          "footer": "資料來源：Clark et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "協同機制",
+          "headline": "PARP 抑制劑與喜樹鹼化療\n如何產生雙重 DNA 損傷協同效應？",
+          "points": [
+            "單股斷裂累積：Irinotecan 抑制拓撲異構酶 I 誘導 DNA 單股斷裂，干擾癌細胞複製叉穩定性",
+            "修復路徑阻斷：Talazoparib 抑制 PARP 酵素活性並產生 PARP 捕獲效應，阻斷單股損傷修復",
+            "分子亞型分層：結合荷爾蒙受體、HER2 狀態與 MammaPrint 風險分級，精準篩選高風險受試族群"
+          ],
+          "footer": "資料來源：Clark et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "試驗設計",
+          "headline": "I-SPY2 適應性平台試驗\n如何評估前導性聯合治療效益？",
+          "points": [
+            "聯合給藥時程：於標準紫杉醇與小紅莓類化療架構下，導入每日口服 Talazoparib 與雙週 Irinotecan",
+            "主要臨床終點：以手術時之病理完全緩解率（pCR）作為核心指標，衡量腫瘤微環境清除程度",
+            "貝氏畢業門檻：設定於特定分子亞型第三期試驗達 85% 貝氏成功預測機率，並同步分析路徑生物標記"
+          ],
+          "footer": "資料來源：Clark et al. ESMO / ESMO open (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "以分子分層與適應性設計\n加速早期乳癌靶向化療組合驗證",
+          "summary": "I-SPY2 試驗將臨床前發現的 PARP 抑制劑與拓撲異構酶 I 抑制劑協同機制轉譯至早期高風險 HER2 陰性乳癌，透過 MammaPrint 與訊息傳導路徑生物標記分析，為非傳統 BRCA 突變族群探索新型態的 DNA 損傷反應（DDR）聯合治療策略。",
+          "cta": "後續觀察：路徑特異性生物標記對 pCR 之預測效力與長期無事件存活期（EFS）追蹤",
+          "footer": "資料來源：Clark et al. ESMO / ESMO open (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "肺癌篩檢預後",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106251",
+      "original_title": "Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【WCLC / JTO 重磅分析：逾 3.1 萬名吸菸者長達 12.3 年追蹤，解析低劑量電腦斷層篩檢與戒菸對死亡率之獨立與聯合效益】\n\n戒菸介入已被公認為高品質肺癌篩檢（Lung Cancer Screening, LCS）的核心環節，但比較低劑量電腦斷層（LDCT）篩檢、戒菸及其聯合效應的真實世界長期實證仍待釐清。發表於世界肺癌大會（WCLC / IASLC）官方旗艦期刊《Journal of Thoracic Oncology》（JTO）的研究，針對美國國家肺癌篩檢試驗（NLST）進行事後分析（Post-hoc analysis），量化評估兩者對肺癌特異性死亡率與全因死亡率的影響。\n\n■ 研究核心發現：\n1. 大規模長期追蹤世代：研究納入 31,560 名符合篩檢資格的持續吸菸者與近期戒菸者（定義為入組前 2 年內戒菸），中位追蹤時間長達 12.3 年，期間共記錄 7,197 例（22.8%）全因死亡；於 30,915 名死因分析群體中，有 1,783 例（5.8%）死於肺癌。\n2. 單獨 LDCT 篩檢效益：在符合篩檢資格的持續吸菸者中，相較於胸部 X 光（CXR），接受 LDCT 篩檢可顯著降低 12% 的肺癌特異性死亡率（HR = 0.88; 95% CI, 0.79–0.97）。\n3. 全因死亡率之關鍵差異：在持續吸菸族群中，單靠 LDCT 篩檢並未顯著降低全因死亡率（HR = 0.98; 95% CI, 0.93–1.03），突顯同步整合戒菸介入對於改善整體存活預後的必要性。\n\n■ 臨床轉譯與研究展望：\n此項長達 12 年以上的大型世代分析證實，低劑量電腦斷層篩檢雖能有效降低肺癌專一死亡風險，但唯有將結構化戒菸計畫與 LDCT 篩檢緊密結合，方能跨越單一癌症篩檢的限制，全面降低高風險吸菸族群的整體死亡風險。\n\n■ 資料來源 (References)：\n1. Wang H, Frick C, Sha S, Edelmann D, Bhardwaj M, Brenner H. Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106251\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Low-dose CT Screening and Smoking Cessation: Separate and Joint Associations with Mortality among Ever-Smokers Eligible for Lung Cancer Screening.. https://doi.org/10.1016/j.jtho.2026.106251\n\n#WCLC #JTO #肺癌篩檢 #低劑量電腦斷層 #LDCT #NLST臨床試驗 #死亡率分析",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "WCLC 肺癌篩檢數據",
+          "headline": "低劑量電腦斷層篩檢\n降低持續吸菸高危族群\n肺癌特異性死亡率達 12%",
+          "subheadline": "NLST 試驗逾三萬人長達 12.3 年追蹤解析篩檢與戒菸之存活效益",
+          "meta_badge": "研究規模：31,560 名受試者中位追蹤 12.3 年",
+          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "研究設計",
+          "headline": "NLST 長期追蹤世代如何評估\n影像篩檢與戒菸之交互影響？",
+          "points": [
+            "世代族群定義：納入 31,560 名持續吸菸者與入組前兩年內戒菸者，模擬篩檢啟動時之戒菸狀態",
+            "長期存活追蹤：中位追蹤達 12.3 年，共記錄 7,197 例全因死亡與 1,783 例肺癌特異性死亡事件",
+            "風險比例模型：採用 Cox 比例風險模型，分別量化篩檢分派與戒菸狀態對特異性及全因死亡之貢獻"
+          ],
+          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "單獨 LDCT 篩檢與聯合戒菸\n在死亡率終點上有何顯著差異？",
+          "points": [
+            "肺癌死亡下降：於持續吸菸者中，LDCT 相較胸部 X 光顯著降低 12% 肺癌死亡率（HR 0.88）",
+            "全因死亡限制：若未配合戒菸，單獨 LDCT 篩檢對全因死亡率無顯著降幅（HR 0.98, 95% CI 0.93-1.03）",
+            "聯合介入價值：實證指出需結合篩檢啟動期之戒菸介入，方能同時最佳化肺癌與非肺癌相關之整體存活"
+          ],
+          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從單一早期影像偵測邁向\n整合危險因子控制之全面預防",
+          "summary": "本研究透過逾 3 萬人的長期數據釐清，低劑量電腦斷層（LDCT）雖可獨立降低持續吸菸者 12% 的肺癌死亡風險，但受限於心血管與其他吸菸相關共病，單靠影像篩檢無法撼動全因死亡率（HR 0.98），為肺癌篩檢計畫強制整合戒菸療程提供了最高等級的流行病學證據。",
+          "cta": "後續觀察：整合數位或藥物戒菸介入於國家級 LDCT 篩檢計畫之長期成本效益與存活數據",
+          "footer": "資料來源：Wang et al. WCLC / Journal of thoracic oncology : officia"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "腫瘤真實世界數據",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/OP-26-00619",
+      "original_title": "Improving Documentation Quality in Oncology: Impact of a Standardized Oncology-Specific Note Template With an Embedded Structured Data Capture Form.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【ASCO 期刊實證研究：導入內嵌結構化數據擷取表單之標準化腫瘤電子病歷範本，全面提升真實世界數據品質】\n\n腫瘤科臨床病歷記載往往篇幅冗長且格式不一，不僅增加臨床醫師的認知負擔，亦限制了下游真實世界數據（Real-World Data, RWD）的科研與臨床轉譯價值。發表於美國臨床腫瘤學會（ASCO）旗下《JCO Oncology Practice》的研究，評估了在門診腫瘤診所導入標準化、內嵌結構化數據擷取表單之電子病歷（EHR）範本對病歷完整度的影響。\n\n■ 研究核心發現：\n1. 對齊國際腫瘤資料標準：該電子病歷範本於 2019 年 3 月導入臨床照護端（Point-of-care），其結構化欄位嚴格對齊 ASCO 腫瘤照護品質倡議（QOPI）與最小共同腫瘤數據元素（mCODE）國際標準。\n2. 大規模病歷品質查核：研究團隊審閱了 2018 年至 2022 年間由 41 位臨床醫療人員撰寫的 2,366 份門診病歷，其中 917 份（38.8%）採用了標準化結構範本，並依據 8 項預設品質指標（Quality Metrics, QMs）進行量化比對。\n3. 採用特徵與品質提升：統計分析顯示，女性醫師、畢業年數較短以及專科疾病門診（Disease-specific clinic settings）具有顯著較高的範本採用率；且使用標準化範本與核心腫瘤數據元素的記載完整度提升呈顯著正相關。\n\n■ 臨床轉譯與研究展望：\n透過將 mCODE 等標準化資料架構直接嵌入日常門診電子病歷系統，醫療機構能在不增加額外人工登錄負擔的前提下，於第一線看診時同步擷取高完整度的疾病分期與治療反應數據，為精準腫瘤學的真實世界證據（RWE）奠定基礎。\n\n■ 資料來源 (References)：\n1. Augustine AM, Folstad MJ, Hollnagel F, Barbosa Carroll C, Saner AP, Pier JB, et al. Improving Documentation Quality in Oncology: Impact of a Standardized Oncology-Specific Note Template With an Embedded Structured Data Capture Form. JCO oncology practice (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/OP-26-00619\n2. ASCO (美國臨床腫瘤學會) / JCO. Improving Documentation Quality in Oncology: Impact of a Standardized Oncology-Specific Note Template With an Embedded Structured Data Capture Form.. https://doi.org/10.1200/OP-26-00619\n\n#ASCO #JCOOncologyPractice #真實世界數據 #mCODE #腫瘤資訊學 #電子病歷標準化 #醫療品質指標",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 醫療品質與數據",
+          "headline": "內嵌結構化數據擷取範本\n優化門診腫瘤病歷完整度\n賦能真實世界數據轉譯",
+          "subheadline": "對齊 ASCO QOPI 與 mCODE 標準之 2,366 份腫瘤門診病歷實證解析",
+          "meta_badge": "研究規模：審閱 41 位醫師之 2,366 份門診病歷",
+          "footer": "資料來源：Augustine et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "架構設計",
+          "headline": "標準化電子病歷範本\n如何打通臨床照護與科研數據？",
+          "points": [
+            "國際標準對齊：資料欄位嚴格對齊 ASCO 腫瘤照護品質倡議（QOPI）與最小共同腫瘤數據元素（mCODE）",
+            "照護端即時擷取：於門診電子病歷內嵌結構化數據表單，在看診同時完成核心疾病與治療變數登錄",
+            "八大指標評估：設定 8 項預定義品質指標（QMs），系統性比較範本使用前後與不同採用者之記錄品質"
+          ],
+          "footer": "資料來源：Augustine et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "跨越四年之門診病歷查核\n揭示哪些採用模式與品質差異？",
+          "points": [
+            "樣本涵蓋範圍：分析 2018 至 2022 年間共 2,366 份門診病歷，其中 917 份（38.8%）採用結構化範本",
+            "高採用率族群：女性醫療人員、畢業年資較淺者，以及於特定癌種專科門診執業者有顯著較高採用率",
+            "記載品質提升：導入標準化範本顯著提升關鍵腫瘤品質指標之記載完整度，同時降低非結構化檢索負擔"
+          ],
+          "footer": "資料來源：Augustine et al. ASCO / JCO oncology practice (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從非結構化文字紀錄邁向\n標準化可運算之精準腫瘤醫療數據",
+          "summary": "真實世界數據（RWD）的品質取決於源頭病歷的結構化程度。本研究證實將對齊 ASCO mCODE 標準的結構化表單嵌入日常電子病歷，能有效提升 8 項核心腫瘤品質指標的完整度，解決傳統自由文本病歷不一致與資訊缺失的痛點。",
+          "cta": "後續觀察：結構化 mCODE 數據與大型語言模型（LLM）結合於跨中心真實世界臨床試驗之應用",
+          "footer": "資料來源：Augustine et al. ASCO / JCO oncology practice (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "ESMO 關鍵試驗",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmtrazZFa0k4ZzNEc3lpYXVEOG1VQkhMUlpqazl2eXVqbVpyZVlqbGN5VlAyV2tqQ3RTcVZDX3AyUllETHh5bERXcGlCRW8xNWlkeHVmalBUTW90SFV2dmNwS1A5X2duYTFuLUwwM2ZwdHMyVkpNZXVSbDhGX01CNWU2TjN2YzdKdW5lX2x4aDU4LWs2T0FPbG5FOWl6THBRamNaMXRkUFBid1JFYW5nU0NMNkI2eXdLQlJQYTB5TQ?oc=5",
+      "original_title": "NATALEE, DeLLphi-305, INTerpath-001, and LITESPARK-012 Headline Key Oncology Data From ESMO 2026 - OncLive",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO 年度臨床試驗焦點：NATALEE、DeLLphi-305、INTerpath-001 與 LITESPARK-012 領銜跨癌種標靶與免疫新進展】\n\n在歐洲腫瘤內科學會（ESMO Congress 2026）相關學術報導中，四項極具指標性的跨癌種臨床試驗——NATALEE、DeLLphi-305、INTerpath-001 以及 LITESPARK-012 成為腫瘤學界高度關注的核心數據，涵蓋早期乳癌輔助治療、小細胞肺癌雙特異性 T 細胞銜接抗體、個人化新抗原疫苗以及晚期腎細胞癌聯合免疫標靶策略。\n\n■ 核心試驗焦點解析：\n1. 早期乳癌與個人化疫苗（NATALEE & INTerpath-001）：NATALEE 試驗持續追蹤 CDK4/6 抑制劑於早期荷爾蒙受體陽性乳癌輔助治療的長期無侵襲性疾病存活效益；INTerpath-001 則評估個人化新抗原 mRNA 療法合併免疫檢查點抑制劑於高風險腫瘤輔助治療的臨床潛力。\n2. 小細胞肺癌免疫工程（DeLLphi-305）：針對預後極差的小細胞肺癌，DeLLphi 系列研究聚焦於靶向 DLL3 之雙特異性 T 細胞銜接抗體（BiTE）療法，探索其在前線或維持治療階段的突破空間。\n3. 晚期腫瘤多機轉聯合（LITESPARK-012）：評估缺氧誘導因子（HIF-2α）抑制劑合併酪胺酸激酶抑制劑（TKI）及抗 PD-1 免疫治療，於晚期亮細胞腎細胞癌第一線治療的協同控制效益。\n\n■ 臨床轉譯與研究展望：\n從細胞週期抑制、HIF-2α 代謝靶向、雙特異性 T 細胞引導至個人化新抗原免疫激活，ESMO 大會聚焦的四大指標性試驗展現了當代腫瘤學由單一阻斷邁向多機轉協同及早期根治性干預的演進趨勢。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). NATALEE, DeLLphi-305, INTerpath-001, and LITESPARK-012 Headline Key Oncology Data From ESMO 2026 - OncLive. https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmtrazZFa0k4ZzNEc3lpYXVEOG1VQkhMUlpqazl2eXVqbVpyZVlqbGN5VlAyV2tqQ3RTcVZDX3AyUllETHh5bERXcGlCRW8xNWlkeHVmalBUTW90SFV2dmNwS1A5X2duYTFuLUwwM2ZwdHMyVkpNZXVSbDhGX01CNWU2TjN2YzdKdW5lX2x4aDU4LWs2T0FPbG5FOWl6THBRamNaMXRkUFBid1JFYW5nU0NMNkI2eXdLQlJQYTB5TQ?oc=5\n\n#ESMO #NATALEE #DeLLphi305 #INTerpath001 #LITESPARK012 #臨床試驗更新 #腫瘤免疫標靶",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床研究更新",
+          "headline": "四大指標性臨床試驗領銜\n揭示跨癌種免疫與標靶\n最新輔助與前線治療格局",
+          "subheadline": "NATALEE、DeLLphi-305、INTerpath-001 與 LITESPARK-012 核心聚焦",
+          "meta_badge": "研究焦點：ESMO 2026 跨癌種關鍵臨床試驗數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "作用機制",
+          "headline": "四大指標性臨床試驗\n分別鎖定哪些關鍵抗腫瘤路徑？",
+          "points": [
+            "細胞週期與新抗原：NATALEE 鎖定 CDK4/6 細胞週期路徑，INTerpath-001 則透過新抗原誘導專一性 T 細胞",
+            "雙特異性免疫銜接：DeLLphi-305 鎖定神經內分泌腫瘤表面 DLL3 抗原，直接招募 T 細胞殺傷癌細胞",
+            "缺氧微環境與血管：LITESPARK-012 結合 HIF-2α 抑制、抗血管新生與免疫檢查點阻斷三種互補機轉"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床佈局",
+          "headline": "跨癌種前瞻性臨床試驗\n如何重塑早期輔助與晚期一線標準？",
+          "points": [
+            "早期輔助防復發：NATALEE 與 INTerpath-001 聚焦術後高風險族群，旨在清除微量殘存病灶以降低遠端復發",
+            "高難度癌種突破：DeLLphi-305 將 DLL3 靶向免疫療法推進至更前線的小細胞肺癌治療階段",
+            "晚期一線三聯療法：LITESPARK-012 驗證多靶點聯合方案於晚期腎細胞癌第一線治療之深度反應與持久性"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從晚期後線挽救治療邁向\n早期術後精準防禦與前線多靶聯合",
+          "summary": "ESMO 2026 聚焦的 NATALEE、DeLLphi-305、INTerpath-001 與 LITESPARK-012 四大試驗，反映出新型態藥物（如 mRNA 新抗原療法、DLL3 雙特異性抗體與 HIF-2α 抑制劑）正快速向早期輔助治療與晚期第一線標準推進。",
+          "cta": "後續觀察：四大三期臨床試驗之最終整體存活期（OS）與次族群生物標記分層結果",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
