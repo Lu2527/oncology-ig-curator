@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T12:28:49.012624+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "多體學免疫圖譜",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0302",
+      "original_title": "A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【13 層多體學圖譜解碼皮膚黑色素瘤免疫原性與轉譯後修飾預後機制】\n\n根據美國癌症研究協會（AACR）旗下旗艦期刊《Cancer Discovery》發表之最新研究，研究團隊針對 183 例皮膚黑色素瘤（Cutaneous Melanoma）進行涵蓋免疫胜肽體學（Immunopeptidomics）、代謝體學、蛋白質泛素化與醣基化等 13 個體學層級的系統性剖析，建構出迄今最完整的腫瘤免疫原性（Tumor Immunogenicity）多維度圖譜。\n\n■ 研究核心發現：\n1. 抗原呈現關聯：透過質譜分析人類白血球抗原第一型（HLA-I）免疫胜肽體，證實腫瘤特異性抗原負荷與 CD8+ T 細胞浸潤程度具高度正向關聯。\n2. 泛素化促癌軸：泛素體學鑑定出特定高風險亞群，其特徵為干擾素（IFN）訊號路徑高度泛素化，並伴隨泛素化依賴型 AKT1 活化，導致患者整體存活期顯著惡化。\n3. 醣基化性別差異：醣蛋白體學發現跨膜蛋白 GPNMB 之醣基化修飾與溶小體（Lysosome）相關轉錄計畫連動，且與性別特異性存活率及免疫治療反應差異密切相關。\n\n■ 臨床轉譯與研究展望：\n本研究突破過往僅依賴腫瘤突變負荷（TMB）預測免疫反應的限制，揭示蛋白質轉譯後修飾（PTMs）與粒線體脂質代謝重塑在原發與轉移病灶間的差異，為開發次世代生物標記與聯合標靶策略奠定分子基礎。\n\n■ 資料來源 (References)：\n1. Gong J, Petralia F, Ruiz Cuevas MV, Tignor N, Jain R, Gritsenko MA, et al. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0302\n2. AACR (美國癌症研究協會) / Cancer Discovery. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.. https://doi.org/10.1158/2159-8290.CD-26-0302\n\n#黑色素瘤 #多體學研究 #免疫胜肽體學 #腫瘤免疫微環境 #AACR #CancerDiscovery",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 旗艦期刊研究",
+          "headline": "十三層多體學圖譜解碼\n皮膚黑色素瘤免疫原性\n與轉譯後修飾預後機制",
+          "subheadline": "整合 183 例檢體之免疫胜肽體、泛素化與醣蛋白體學深度解析",
+          "meta_badge": "研究設計：183 例黑色素瘤多維度體學定序",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "轉譯後修飾與代謝重塑\n如何調控黑色素瘤免疫反應？",
+          "points": [
+            "免疫胜肽呈現：質譜 HLA-I 免疫胜肽體分析證實腫瘤抗原呈現效率直接決定 CD8+ T 細胞浸潤規模",
+            "泛素化致病軸：干擾素訊號高度泛素化合併泛素化依賴性 AKT1 活化，驅動免疫逃脫與不良預後",
+            "醣基化調控網：GPNMB 醣基化修飾連結溶小體活性計畫，介導具性別特異性之免疫微環境差異"
+          ],
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "183 例皮膚黑色素瘤檢體\n跨體學層級之關鍵生物特徵",
+          "points": [
+            "多維度定序：整合 13 個體學層級，全面涵蓋基因體、蛋白質體、代謝體及多元轉譯後修飾圖譜",
+            "轉移代謝特徵：代謝體學揭示原發與轉移性黑色素瘤之間具有截然不同的醚脂類與粒線體代謝輪廓",
+            "預後亞群鑑定：泛素體學與醣蛋白體學成功區分出傳統基因定序無法識別之高致死風險與性別差異亞群"
+          ],
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "超越單一基因突變負荷\n邁向立體轉譯後修飾生物標記",
+          "summary": "此項 AACR《Cancer Discovery》多體學研究證實，黑色素瘤的免疫原性不僅取決於基因突變，更受控於蛋白質泛素化、醣基化與脂質代謝微環境。將 AKT1 泛素化與 GPNMB 醣基化納入評估，有助於精準預測免疫檢查點抑制劑療效。",
+          "cta": "後續觀察：針對泛素化 AKT1 訊號軸與性別特異性 GPNMB 醣基化之標靶干預臨床前驗證",
+          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "遺傳腫瘤基因",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+      "original_title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【《Cancer Discovery》鑑定出早發性轉移攝護腺癌之罕見生殖細胞系 CDK12 基因突變】\n\n由加拿大英屬哥倫比亞大學（UBC）領銜並發表於 AACR 旗艦期刊《Cancer Discovery》的研究，針對超過 4,500 名侵襲性攝護腺癌（Aggressive Prostate Cancer）患者進行大規模基因體篩檢，首次證實細胞週期蛋白依賴性激酶 12（CDK12）之罕見生殖細胞系突變（Germline Variants）為驅動早發性轉移攝護腺癌的關鍵遺傳風險因子。\n\n■ 研究核心發現：\n1. 大規模世代篩檢：研究團隊分析逾 4,500 例侵襲性攝護腺癌基因體數據，突破過往僅聚焦於體細胞 CDK12 突變的認知，成功識別出罕見遺傳性變異。\n2. 高致病性表型：於確認帶有生殖細胞系 CDK12 致病變異的 5 名帶因者中，全數（100%）於 44 至 62 歲之間發展為轉移性攝護腺癌，展現極高外顯率與早發侵襲特性。\n3. 遺傳風險擴充：過往約 5% 至 10% 攝護腺癌歸因於 BRCA1/2 等已知遺傳突變，本研究確立 CDK12 為獨立之高風險家族遺傳生物標記。\n\n■ 臨床轉譯與研究展望：\n體細胞 CDK12 雙對偶基因失活已知與串聯重複表現型（Tandem Duplicator Phenotype）及免疫新抗原產生相關。確認其生殖細胞系遺傳模式後，將有助於擴充高風險家族基因檢測面板（Gene Panel），完善精準腫瘤學之早期分子分型。\n\n■ 資料來源 (References)：\n1. Tolmeijer SH, Maurice-Dror C, Sandhu S, de la Calle CM, Kollmannsberger C, Adil M, et al. Germline CDK12 Variants in Aggressive Prostate Cancer. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-26-0084\n2. ScienceDaily Cancer News. Scientists discover a hidden hereditary form of aggressive prostate cancer. https://www.sciencedaily.com/releases/2026/11/261117033911.htm\n\n#攝護腺癌 #CDK12 #生殖細胞系突變 #遺傳性癌症 #基因體學 #CancerDiscovery",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 基因體學突破",
+          "headline": "鑑定罕見生殖細胞系\nCDK12 遺傳基因突變\n驅動早發轉移性攝護腺癌",
+          "subheadline": "逾 4,500 例侵襲性攝護腺癌世代定序揭示高風險家族遺傳新標記",
+          "meta_badge": "研究規模：>4,500 例侵襲性攝護腺癌基因分析",
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "生殖細胞系 CDK12 變異\n如何影響攝護腺癌發生與演進？",
+          "points": [
+            "基因穩定調控：CDK12 負責調控轉錄延伸與 DNA 損傷修復基因表現，缺失將引發基因體不穩定",
+            "垂直遺傳風險：不同於後天體細胞突變，生殖細胞系變異可跨代傳遞，顯著拉低腫瘤惡性轉化門檻",
+            "早發侵襲傾向：帶因者不需經歷漫長散發性突變累積，於中壯年即迅速演化為具高度轉移潛能之表型"
+          ],
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "跨世代大規模基因定序\n揭示之 CDK12 臨床病理特徵",
+          "points": [
+            "世代篩檢規模：系統性檢視超過 4,500 名侵襲性攝護腺癌患者之生殖細胞系外顯子與基因體資訊",
+            "百分之百轉移：鑑定出之 5 名生殖細胞系 CDK12 突變帶因者，全數進展為轉移性攝護腺癌",
+            "發病年齡分布：所有帶因者確診轉移性疾病之年齡皆落於 44 歲至 62 歲之間，顯著早於一般族群"
+          ],
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從 BRCA1/2 擴展至 CDK12\n重塑遺傳性攝護腺癌分子分型",
+          "summary": "此項發表於《Cancer Discovery》的研究證實，儘管生殖細胞系 CDK12 突變發生率罕見，但其導致早發性轉移攝護腺癌的致病力極強。將 CDK12 納入遺傳性癌症基因檢測面板，可填補高風險家族之分子診斷缺口。",
+          "cta": "後續觀察：生殖細胞系 CDK12 突變腫瘤對免疫檢查點抑制劑或標靶藥物之反應率評估",
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "放射基因體學",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.3389/fmolb.2026.2006861",
+      "original_title": "CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【跨中心驗證電腦斷層巢狀棲息地評分（NHS）用於肺腺癌術前 IASLC 病理分級預測】\n\n針對國際肺癌研究協會（IASLC / WCLC）於 2020 年制定之肺腺癌（Lung Adenocarcinoma, LUAD）病理分級系統，傳統術前電腦斷層（CT）評估常因腫瘤異質性空間平均效應而受限。最新發表之多中心研究開發出「CT 衍生巢狀棲息地評分（Nested Habitats Score, NHS）」，並結合放射基因體學（Radiogenomics）成功實現精準術前無創分級。\n\n■ 研究核心發現：\n1. 巢狀棲息地演算法：NHS 透過遞迴演算法（Recursive Identification）解析腫瘤內部次區域之空間異質性，克服傳統全腫瘤影像組學（Whole-tumor Radiomics）忽略局部高惡性度病灶的限制。\n2. 跨中心嚴謹驗證：研究納入兩大醫學中心共 650 例接受手術切除之肺腺癌患者（開發世代 390 例、外部驗證世代 130 例、獨立鎖定測試世代 130 例），精準區分 IASLC Grade 1 與 Grade 2/3 高風險群。\n3. 轉錄體生物學關聯：結合 TCGA-LUAD 與 TCIA 獨立影像轉錄體世代，證實高 NHS 評分次區域對應特定促增殖與侵襲相關之基因表現譜。\n\n■ 臨床轉譯與研究展望：\nIASLC 分級系統整合了主要組織學型態與高惡性度成分比例（如固實型、微乳突型）。NHS 模型提供無創且具生物可解釋性的術前風險分層工具，有助於肺腺癌手術範圍規劃與新輔助治療研究設計。\n\n■ 資料來源 (References)：\n1. Peng W, Liu J, Li L, Qi W, Zhao J, Li D. CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis. Frontiers in molecular biosciences (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.3389/fmolb.2026.2006861\n2. WCLC (世界肺癌大會 / IASLC) / JTO. CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis.. https://doi.org/10.3389/fmolb.2026.2006861\n\n#肺腺癌 #IASLC #WCLC #放射基因體學 #影像組學 #腫瘤異質性",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "IASLC 肺癌分級研究",
+          "headline": "電腦斷層巢狀棲息地評分\n精準預測肺腺癌術前\nIASLC 病理惡性分級",
+          "subheadline": "650 例跨中心影像組學驗證與 TCGA 轉錄體關聯之放射基因體學解析",
+          "meta_badge": "研究設計：650 例雙中心世代與 TCGA 轉錄體驗證",
+          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "評估機制",
+          "headline": "巢狀棲息地評分（NHS）如何克服\n肺腺癌腫瘤內部空間異質性？",
+          "points": [
+            "空間解構演算法：遞迴識別腫瘤內部與病理分級高度相關之 CT 次區域，避免空間平均稀釋效應",
+            "高惡性成分捕捉：針對 IASLC 2020 標準中決定預後之高惡性度組織型態比例進行次區域量化",
+            "放射基因體映射：串聯獨立 TCGA-LUAD/TCIA 世代，將影像棲息地特徵映射至特定轉錄體分子路徑"
+          ],
+          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "雙中心 650 例手術切除世代\n模型開發與外部鎖定測試架構",
+          "points": [
+            "世代嚴謹切分：中心一 390 例採用五折交叉估算開發，中心二 260 例一比一分為驗證與鎖定測試集",
+            "分級預測任務：預設主要終點為精準區分病理 IASLC 第一級（低風險）與第二、三級（中高風險）",
+            "多模態模型比較：整合臨床放射特徵、全腫瘤影像組學與 NHS，於單次鎖定測試中展現優異判別力"
+          ],
+          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從全腫瘤平均影像特徵\n邁向次區域空間棲息地精準分級",
+          "summary": "傳統 CT 影像組學將整顆腫瘤視為均質整體，難以反映肺腺癌內部微乳突或固實型等高惡性成分。NHS 巢狀棲息地評分透過跨中心驗證與轉錄體關聯，證實無創影像可精準映射 IASLC 病理分級與腫瘤生物學行為。",
+          "cta": "後續觀察：NHS 空間棲息地評分於早期肺腺癌亞肺葉切除術式選擇之前瞻性臨床試驗驗證",
+          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "先天免疫失調",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+      "original_title": "A rare disease reveals a hidden flaw in the immune system",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【《Immunity》揭示自然殺手細胞功能異常與干擾素-γ 風暴驅動甲羥戊酸激酶缺乏症發炎機制】\n\n澳洲加文醫學研究所（Garvan Institute of Medical Research）發表於頂尖免疫學期刊《Immunity》的研究，推翻了過去三十年來對罕見遺傳性發炎疾病「甲羥戊酸激酶缺乏症（Mevalonate Kinase Deficiency, MKD）」的致病認知，證實自然殺手細胞（NK Cells）功能失調與干擾素-γ（IFN-γ）過度分泌為觸發致命性自體發炎的核心機制，並確立 JAK 抑制劑之精準標靶潛力。\n\n■ 核心作用機制：\n1. 代謝途徑缺陷：MKD 源於甲羥戊酸途徑（Mevalonate Pathway）關鍵酵素基因突變；該途徑同時是腫瘤與免疫細胞合成膽固醇及異戊二烯化（Prenylation）修飾的核心代謝軸。\n2. NK 細胞失調：研究首次發現 MKD 患者體內負責清除感染與異常細胞的 NK 細胞出現內在功能障礙，在遭受感染刺激時無法正常調控免疫煞車。\n3. 干擾素-γ 風暴：失調的 NK 細胞大量釋放促炎細胞激素 IFN-γ，引發失控的全身性自體發炎反應；透過 JAK 抑制劑阻斷下游訊號，已在重症嬰兒患者中觀察到顯著臨床改善。\n\n■ 臨床轉譯與研究展望：\n甲羥戊酸代謝途徑與 NK 細胞活性調控亦是腫瘤免疫微環境（TME）與血液腫瘤學的重要研究焦點。釐清代謝酶缺失如何重塑 NK 細胞 IFN-γ 分泌模式，不僅為難治型 MKD 提供 JAK 抑制劑新療法，更深化了對免疫細胞代謝重編程（Metabolic Reprogramming）的理解。\n\n■ 資料來源 (References)：\n1. Munoz MA, Schuster IS, Cremasco J, Masle-Farquhar EN, Skinner OP, Vandeleur ZJ, et al. NK cell dysfunction and interferon-γ production underlie autoinflammation in mevalonate kinase deficiency. Immunity. 2026. https://doi.org/10.1016/j.immuni.2026.03.027\n2. ScienceDaily Cancer News. A rare disease reveals a hidden flaw in the immune system. https://www.sciencedaily.com/releases/2026/11/261117035052.htm\n\n#自然殺手細胞 #細胞免疫學 #JAK抑制劑 #干擾素 #免疫代謝 #Immunity",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "細胞免疫機制突破",
+          "headline": "自然殺手細胞功能失調\n與干擾素伽瑪過度分泌\n揭示自體發炎新標靶",
+          "subheadline": "《Immunity》推翻三十年傳統認知並驗證 JAK 抑制劑精準干預潛力",
+          "meta_badge": "研究焦點：甲羥戊酸代謝缺陷與 NK 細胞免疫調控",
+          "footer": "資料來源：Munoz et al. Immunity (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "甲羥戊酸激酶缺乏（MKD）\n如何誘發 NK 細胞促炎風暴？",
+          "points": [
+            "代謝酵素缺陷：甲羥戊酸激酶基因突變破壞細胞內異戊二烯化代謝平衡，影響免疫細胞訊號傳遞",
+            "NK 細胞失控：先天免疫自然殺手細胞於感染刺激下發生功能異常，喪失正常免疫負回饋調節能力",
+            "細胞激素級聯：異常活化之 NK 細胞大量釋放干擾素-γ（IFN-γ），驅動下游 JAK-STAT 促炎路徑"
+          ],
+          "footer": "資料來源：Munoz et al. Immunity (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "推翻三十年致病假說\n並實現老藥新用之臨床概念驗證",
+          "points": [
+            "典範轉移發現：突破過往僅關注骨髓系細胞發炎體之傳統觀點，確立 NK 細胞為核心致病驅動者",
+            "標靶路徑鎖定：實驗證實中和 IFN-γ 或使用既有之 JAK 抑制劑，能有效截斷過度活化的發炎訊號",
+            "臨床概念驗證：於對現有標準療法無反應之重症嬰兒個案中，導入標靶治療後展現實質臨床緩解"
+          ],
+          "footer": "資料來源：Munoz et al. Immunity (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "解開甲羥戊酸代謝與 NK 細胞連連結\n開啟 JAK 抑制劑精準干預新局",
+          "summary": "此項發表於《Immunity》的研究不僅為罕見致命疾病 MKD 找到 JAK 抑制劑與抗 IFN-γ 標靶策略，更揭示了甲羥戊酸代謝途徑對 NK 細胞效應功能的深遠影響，對免疫代謝學與細胞免疫調控具重要啟發。",
+          "cta": "後續觀察：評估 JAK 抑制劑或 IFN-γ 中和抗體於難治型 MKD 患者之前瞻性臨床試驗成效",
+          "footer": "資料來源：Munoz et al. Immunity (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "致癌物動力學",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "original_title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【《Journal of Theoretical Biology》建立數學動力學模型解析維生素 C 抑制胃內致癌亞硝化反應機制】\n\n加拿大滑鐵盧大學（University of Waterloo）發表於《Journal of Theoretical Biology》的研究，運用系統生物學與化學反應動力學數學模型，定量剖析飲食與飲水中的硝酸鹽（Nitrates）與亞硝酸鹽（Nitrites）在胃部消化過程中轉化為致癌性亞硝基化合物（N-nitroso Compounds）之「亞硝化反應（Nitrosation）」，並模擬維生素 C（抗壞血酸）阻斷該致癌生化路徑之時空動力學效應。\n\n■ 核心作用機制：\n1. 胃內亞硝化反應：源自加工肉品或受污染水土農作物的硝酸鹽與亞硝酸鹽進入酸性胃環境後，會與胺類物質發生亞硝化反應，生成具基因毒性的潛在致癌物。\n2. 氧化還原競爭：維生素 C 作為強效還原劑，能在胃酸環境中優先與亞硝化中間產物反應，將其還原為一氧化氮（NO），從而競爭性阻斷致癌性亞硝基化合物的合成。\n3. 飲食水質跨維模擬：研究整合不同飲食型態與水質硝酸鹽濃度參數，量化模擬餐後攝取維生素 C 的時間窗口與劑量對抑制內生性致癌物生成的動態影響。\n\n■ 臨床轉譯與研究展望：\n自 1990 年代以來，流行病學研究對於硝酸鹽暴露與消化道癌症風險的關聯屢現分歧。本研究透過定量化學動力學模型證實，抗氧化物共暴露時間點與胃內微環境參數是決定致癌物實際生成量的關鍵調節因子，為癌症化學預防（Chemoprevention）研究提供理論量化框架。\n\n■ 資料來源 (References)：\n1. McNicol GR, Basu NB, Layton AT. Vitamin C as a nitrosation inhibitor: A modelling study across dietary patterns and water quality. Journal of Theoretical Biology. 2026. https://doi.org/10.1016/j.jtbi.2026.112444\n2. ScienceDaily Cancer News. Vitamin C could help block cancer-linked chemicals in your stomach, study finds. https://www.sciencedaily.com/releases/2026/11/261114202236.htm\n\n#消化道腫瘤 #亞硝化反應 #癌症化學預防 #系統生物學 #致癌機轉 #數學模型",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "系統生物學模型研究",
+          "headline": "數學動力學模型量化解析\n維生素 C 阻斷胃內飲食\n致癌亞硝化反應機制",
+          "subheadline": "跨飲食型態與水質暴露之內生性致癌物合成動力學模擬",
+          "meta_badge": "研究方法：胃內化學反應動力學數學建模",
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "生化機制",
+          "headline": "維生素 C 如何在胃酸環境中\n攔截硝酸鹽轉化為致癌化合物？",
+          "points": [
+            "外源前驅暴露：加工肉品與受污染水源中之硝酸鹽與亞硝酸鹽進入胃部後形成亞硝化反應前驅池",
+            "酸性催化轉化：於低 pH 值胃酸催化下，亞硝酸鹽與含氮化合物進行亞硝化反應生成潛在致癌物質",
+            "還原競爭阻斷：維生素 C 透過氧化還原競爭機制消耗活性亞硝化中間體，從源頭抑制致癌物合成"
+          ],
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "模型數據",
+          "headline": "跨飲食結構與水質條件之\n定量系統生物學模擬結果",
+          "points": [
+            "多變項參數模擬：整合北美飲食硝酸鹽暴露趨勢、飲水水質標準及胃排空生理參數進行動態運算",
+            "時序效應量化：模型顯示餐後特定時間窗口內存在足量維生素 C 時，可顯著壓低亞硝化產物峰值",
+            "解釋流行病學分歧：闡明過往流行病學研究結果不一致，源於未納入抗氧化物共暴露之動力學交互作用"
+          ],
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "以定量化學動力學模型\n釐清飲食致癌物生成之微環境變數",
+          "summary": "此項理論生物學研究將複雜的胃內消化化學反應轉化為可量化的數學模型，證實內生性致癌物的生成並非單純取決於硝酸鹽攝取量，更受制於胃內氧化還原狀態與維生素 C 抑制動力學，為消化道腫瘤病因學提供嶄新視角。",
+          "cta": "後續觀察：結合人體胃液生物標記採樣與代謝體學驗證數學模型預測之亞硝化抑制效率",
+          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
