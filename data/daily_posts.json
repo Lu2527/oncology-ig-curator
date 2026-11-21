@@ -1,279 +1,279 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T12:28:49.012624+08:00",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T12:23:14.972062+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "多體學免疫圖譜",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0302",
-      "original_title": "A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.",
+      "category": "雙重免疫檢查點",
+      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
+      "source_url": "https://doi.org/10.1016/j.jtho.2026.106258",
+      "original_title": "Nivolumab Plus Ipilimumab as First-Line Treatment for Patients With Metastatic Non-Small Cell Lung Cancer: Final, 7.5-Year Outcomes From CheckMate 227.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【13 層多體學圖譜解碼皮膚黑色素瘤免疫原性與轉譯後修飾預後機制】\n\n根據美國癌症研究協會（AACR）旗下旗艦期刊《Cancer Discovery》發表之最新研究，研究團隊針對 183 例皮膚黑色素瘤（Cutaneous Melanoma）進行涵蓋免疫胜肽體學（Immunopeptidomics）、代謝體學、蛋白質泛素化與醣基化等 13 個體學層級的系統性剖析，建構出迄今最完整的腫瘤免疫原性（Tumor Immunogenicity）多維度圖譜。\n\n■ 研究核心發現：\n1. 抗原呈現關聯：透過質譜分析人類白血球抗原第一型（HLA-I）免疫胜肽體，證實腫瘤特異性抗原負荷與 CD8+ T 細胞浸潤程度具高度正向關聯。\n2. 泛素化促癌軸：泛素體學鑑定出特定高風險亞群，其特徵為干擾素（IFN）訊號路徑高度泛素化，並伴隨泛素化依賴型 AKT1 活化，導致患者整體存活期顯著惡化。\n3. 醣基化性別差異：醣蛋白體學發現跨膜蛋白 GPNMB 之醣基化修飾與溶小體（Lysosome）相關轉錄計畫連動，且與性別特異性存活率及免疫治療反應差異密切相關。\n\n■ 臨床轉譯與研究展望：\n本研究突破過往僅依賴腫瘤突變負荷（TMB）預測免疫反應的限制，揭示蛋白質轉譯後修飾（PTMs）與粒線體脂質代謝重塑在原發與轉移病灶間的差異，為開發次世代生物標記與聯合標靶策略奠定分子基礎。\n\n■ 資料來源 (References)：\n1. Gong J, Petralia F, Ruiz Cuevas MV, Tignor N, Jain R, Gritsenko MA, et al. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0302\n2. AACR (美國癌症研究協會) / Cancer Discovery. A comprehensive proteogenomic, immunopeptidomic, and metabolomic atlas decodes immunogenicity in cutaneous melanoma.. https://doi.org/10.1158/2159-8290.CD-26-0302\n\n#黑色素瘤 #多體學研究 #免疫胜肽體學 #腫瘤免疫微環境 #AACR #CancerDiscovery",
+      "caption": "【WCLC / JTO 重磅發表：CheckMate 227 最終 7.5 年長期隨訪，雙重免疫療法展現晚期非小細胞肺癌持久存活效益】\n由世界肺癌大會（WCLC / IASLC）官方旗艦期刊《Journal of Thoracic Oncology》（JTO）發表之第三期臨床試驗 CheckMate 227 Part 1 最終分析，揭示了第一線 Nivolumab（抗 PD-1 單株抗體）合併 Ipilimumab（抗 CTLA-4 單株抗體）對比傳統化學治療，於無 EGFR 或 ALK 敏感性突變之第四期或復發性非小細胞肺癌（NSCLC）患者的 7.5 年（最短隨訪時間 91.9 個月）長期療效與安全性數據。\n\n■ 研究核心發現：\n1. PD-L1 陽性群體存活率：在腫瘤 PD-L1 表現量 ≥1% 的患者群體（n = 1189）中，雙重免疫治療組的 7 年整體存活率（OS rate）達 19%，顯著優於傳統化療組的 10%（風險比 HR 為 0.78；95% CI: 0.67–0.91）。\n2. PD-L1 陰性群體突破：在臨床極具挑戰性的腫瘤 PD-L1 <1% 患者群體（n = 550）中，雙重免疫組的 7 年整體存活率達 14%，為化療組（4%）的 3.5 倍（HR 為 0.64；95% CI: 0.51–0.79）。\n3. 持久緩解記憶效應：於治療有反應的患者中，長達 7 年仍維持持續客觀緩解（Ongoing Response）的比例，在 PD-L1 ≥1% 與 <1% 亞群中分別高達 25% 與 20%，而化療組皆僅有 3%。\n\n■ 臨床轉譯與研究展望：\n此項長達 7.5 年的里程碑數據證實，去化療（Chemo-free）的 PD-1 與 CTLA-4 雙重免疫檢查點阻斷策略，能無論 PD-L1 表現狀態如何，在晚期 NSCLC 患者體內建立長期的抗腫瘤免疫記憶與存活高原期（Survival Plateau）。\n\n■ 資料來源 (References)：\n1. Reck M, Ciuleanu TE, Pluzanski A, Lee JS, Mahave M, Audigier-Valette C, et al. Nivolumab Plus Ipilimumab as First-Line Treatment for Patients With Metastatic Non-Small Cell Lung Cancer: Final, 7.5-Year Outcomes From CheckMate 227. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106258\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Nivolumab Plus Ipilimumab as First-Line Treatment for Patients With Metastatic Non-Small Cell Lung Cancer: Final, 7.5-Year Outcomes From CheckMate 227.. https://doi.org/10.1016/j.jtho.2026.106258\n\n#WCLC #JTO #非小細胞肺癌 #CheckMate227 #雙重免疫療法 #Nivolumab #Ipilimumab #腫瘤免疫學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 旗艦期刊研究",
-          "headline": "十三層多體學圖譜解碼\n皮膚黑色素瘤免疫原性\n與轉譯後修飾預後機制",
-          "subheadline": "整合 183 例檢體之免疫胜肽體、泛素化與醣蛋白體學深度解析",
-          "meta_badge": "研究設計：183 例黑色素瘤多維度體學定序",
-          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+          "tag": "WCLC 晚期肺癌數據",
+          "headline": "雙重免疫療法一線治療\n晚期非小細胞肺癌達\n7.5年長期存活里程碑",
+          "subheadline": "CheckMate 227 三期試驗最終分析：Nivolumab 合併 Ipilimumab 長期效益",
+          "meta_badge": "研究設計：多中心隨機對照第三期臨床試驗",
+          "footer": "資料來源：Reck et al. WCLC / Journal of thoracic oncology : officia"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "轉譯後修飾與代謝重塑\n如何調控黑色素瘤免疫反應？",
+          "headline": "雙重免疫檢查點阻斷\n如何跨越 PD-L1 表現限制？",
           "points": [
-            "免疫胜肽呈現：質譜 HLA-I 免疫胜肽體分析證實腫瘤抗原呈現效率直接決定 CD8+ T 細胞浸潤規模",
-            "泛素化致病軸：干擾素訊號高度泛素化合併泛素化依賴性 AKT1 活化，驅動免疫逃脫與不良預後",
-            "醣基化調控網：GPNMB 醣基化修飾連結溶小體活性計畫，介導具性別特異性之免疫微環境差異"
+            "協同免疫活化：CTLA-4 抑制劑於淋巴結促進初始 T 細胞活化，PD-1 抑制劑於微環境恢復效應功能",
+            "分層隨機設計：納入無 EGFR/ALK 敏感突變之四期或復發患者，依 PD-L1 表現量 ≥1% 或 <1% 嚴格分層",
+            "長效免疫記憶：誘導去化療之特異性記憶 T 細胞擴增，使有反應患者在停藥後仍維持長期腫瘤控制"
           ],
-          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+          "footer": "資料來源：Reck et al. WCLC / Journal of thoracic oncology : officia"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "183 例皮膚黑色素瘤檢體\n跨體學層級之關鍵生物特徵",
+          "tag": "臨床數據",
+          "headline": "最短隨訪逾 91.9 個月\n7 年存活率與持續緩解表現為何？",
           "points": [
-            "多維度定序：整合 13 個體學層級，全面涵蓋基因體、蛋白質體、代謝體及多元轉譯後修飾圖譜",
-            "轉移代謝特徵：代謝體學揭示原發與轉移性黑色素瘤之間具有截然不同的醚脂類與粒線體代謝輪廓",
-            "預後亞群鑑定：泛素體學與醣蛋白體學成功區分出傳統基因定序無法識別之高致死風險與性別差異亞群"
+            "陽性群體存活：PD-L1 ≥1% 患者之 7 年整體存活率達 19%，顯著優於化療組之 10%（HR 0.78）",
+            "陰性群體突破：PD-L1 <1% 患者之 7 年整體存活率達 14%，對比化療組僅 4%，死亡風險降低 36%",
+            "持久緩解比例：達 7 年仍維持緩解之比例於 PD-L1 陽性與陰性組分別為 25% 與 20%（化療組皆為 3%）"
           ],
-          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+          "footer": "資料來源：Reck et al. WCLC / Journal of thoracic oncology : officia"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "超越單一基因突變負荷\n邁向立體轉譯後修飾生物標記",
-          "summary": "此項 AACR《Cancer Discovery》多體學研究證實，黑色素瘤的免疫原性不僅取決於基因突變，更受控於蛋白質泛素化、醣基化與脂質代謝微環境。將 AKT1 泛素化與 GPNMB 醣基化納入評估，有助於精準預測免疫檢查點抑制劑療效。",
-          "cta": "後續觀察：針對泛素化 AKT1 訊號軸與性別特異性 GPNMB 醣基化之標靶干預臨床前驗證",
-          "footer": "資料來源：Gong et al. AACR / Cancer discovery (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "確立晚期肺癌去化療免疫方案\n長達七年以上之存活高原期",
+          "summary": "CheckMate 227 最終 7.5 年隨訪結果提供了迄今最長期的雙重免疫檢查點抑制劑臨床實證。無論腫瘤 PD-L1 表現是否大於 1%，Nivolumab 合併 Ipilimumab 皆能使約五分之一的緩解者維持超過 7 年的持久反應。",
+          "cta": "後續觀察：長期存活患者之免疫微環境生物標記特徵與次發性抗藥性演化機制",
+          "footer": "資料來源：Reck et al. WCLC / Journal of thoracic oncology : officia"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "遺傳腫瘤基因",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
-      "original_title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+      "category": "腫瘤微環境",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-25-0748",
+      "original_title": "Targeting Neutrophil Extracellular Traps to Inhibit Colon Cancer Tumor Necrosis and Metastasis.",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【《Cancer Discovery》鑑定出早發性轉移攝護腺癌之罕見生殖細胞系 CDK12 基因突變】\n\n由加拿大英屬哥倫比亞大學（UBC）領銜並發表於 AACR 旗艦期刊《Cancer Discovery》的研究，針對超過 4,500 名侵襲性攝護腺癌（Aggressive Prostate Cancer）患者進行大規模基因體篩檢，首次證實細胞週期蛋白依賴性激酶 12（CDK12）之罕見生殖細胞系突變（Germline Variants）為驅動早發性轉移攝護腺癌的關鍵遺傳風險因子。\n\n■ 研究核心發現：\n1. 大規模世代篩檢：研究團隊分析逾 4,500 例侵襲性攝護腺癌基因體數據，突破過往僅聚焦於體細胞 CDK12 突變的認知，成功識別出罕見遺傳性變異。\n2. 高致病性表型：於確認帶有生殖細胞系 CDK12 致病變異的 5 名帶因者中，全數（100%）於 44 至 62 歲之間發展為轉移性攝護腺癌，展現極高外顯率與早發侵襲特性。\n3. 遺傳風險擴充：過往約 5% 至 10% 攝護腺癌歸因於 BRCA1/2 等已知遺傳突變，本研究確立 CDK12 為獨立之高風險家族遺傳生物標記。\n\n■ 臨床轉譯與研究展望：\n體細胞 CDK12 雙對偶基因失活已知與串聯重複表現型（Tandem Duplicator Phenotype）及免疫新抗原產生相關。確認其生殖細胞系遺傳模式後，將有助於擴充高風險家族基因檢測面板（Gene Panel），完善精準腫瘤學之早期分子分型。\n\n■ 資料來源 (References)：\n1. Tolmeijer SH, Maurice-Dror C, Sandhu S, de la Calle CM, Kollmannsberger C, Adil M, et al. Germline CDK12 Variants in Aggressive Prostate Cancer. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-26-0084\n2. ScienceDaily Cancer News. Scientists discover a hidden hereditary form of aggressive prostate cancer. https://www.sciencedaily.com/releases/2026/11/261117033911.htm\n\n#攝護腺癌 #CDK12 #生殖細胞系突變 #遺傳性癌症 #基因體學 #CancerDiscovery",
+      "caption": "【AACR / Cancer Discovery：靶向嗜中性球胞外陷阱（NETs）可抑制大腸直腸癌腫瘤壞死並阻斷遠端轉移】\n發表於美國癌症研究協會（AACR）旗艦期刊《Cancer Discovery》的最新轉譯研究，顛覆了過去將「腫瘤壞死（Tumor Necrosis）」視為腫瘤快速生長下被動產物的傳統認知。研究團隊結合單細胞 RNA 定序（scRNA-seq）與空間轉錄組學（Spatial Transcriptomics），證實嗜中性球胞外陷阱（Neutrophil Extracellular Traps, NETs）驅動的腫瘤壞死是促進大腸直腸癌（CRC）肝轉移的主動推手。\n\n■ 核心作用機制：\n1. 壞死區空間轉錄特徵：分析人類原發性大腸直腸癌與肝轉移檢體發現，腫瘤壞死程度與轉移風險呈獨立於腫瘤大小的正相關，且壞死周圍區域（Peri-necrotic regions）高度富集促轉移基因轉錄程式。\n2. 血管內 NETs 聚集：CRC 患者血液中循環嗜中性球顯著增加，包含具 NET 形成傾向且血管外滲能力降低的 CD177-low 亞群；臨床組織切片證實血管內 NET 聚集物緊鄰腫瘤壞死區域分佈。\n3. 靶向阻斷與化療增敏：在錯配修復功能完整（pMMR）之大腸直腸癌小鼠模型中，透過基因剔除或藥理學手段抑制 NETs 形成，能顯著減少腫瘤壞死面積、抑制遠端轉移並增強傳統化學治療之療效。\n\n■ 臨床轉譯與研究展望：\n本研究將腫瘤壞死重新定義為可成藥的微環境免疫病理過程，為極度缺乏有效免疫療法的 pMMR 型大腸直腸癌提供了「靶向 NETs 合併化療」的全新抗轉移策略。\n\n■ 資料來源 (References)：\n1. Gazzara ER, Adrover JM, Dziadowicz SA, Liu AW, Han S, Aminzada Z, et al. Targeting Neutrophil Extracellular Traps to Inhibit Colon Cancer Tumor Necrosis and Metastasis. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-25-0748\n2. AACR (美國癌症研究協會) / Cancer Discovery. Targeting Neutrophil Extracellular Traps to Inhibit Colon Cancer Tumor Necrosis and Metastasis.. https://doi.org/10.1158/2159-8290.CD-25-0748\n\n#AACR #CancerDiscovery #大腸直腸癌 #嗜中性球胞外陷阱 #NETs #腫瘤微環境 #空間轉錄組學 #癌症轉移",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 基因體學突破",
-          "headline": "鑑定罕見生殖細胞系\nCDK12 遺傳基因突變\n驅動早發轉移性攝護腺癌",
-          "subheadline": "逾 4,500 例侵襲性攝護腺癌世代定序揭示高風險家族遺傳新標記",
-          "meta_badge": "研究規模：>4,500 例侵襲性攝護腺癌基因分析",
-          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+          "tag": "AACR 腫瘤微環境突破",
+          "headline": "靶向嗜中性球胞外陷阱\n阻斷大腸直腸癌壞死\n並抑制遠端肝臟轉移",
+          "subheadline": "空間轉錄組學揭示 NETs 驅動之腫瘤壞死為大腸癌轉移主動推手",
+          "meta_badge": "研究焦點：大腸直腸癌 (CRC) 微環境與轉移機制",
+          "footer": "資料來源：Gazzara et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "生殖細胞系 CDK12 變異\n如何影響攝護腺癌發生與演進？",
+          "headline": "嗜中性球胞外陷阱 (NETs)\n如何誘發腫瘤壞死與轉移？",
           "points": [
-            "基因穩定調控：CDK12 負責調控轉錄延伸與 DNA 損傷修復基因表現，缺失將引發基因體不穩定",
-            "垂直遺傳風險：不同於後天體細胞突變，生殖細胞系變異可跨代傳遞，顯著拉低腫瘤惡性轉化門檻",
-            "早發侵襲傾向：帶因者不需經歷漫長散發性突變累積，於中壯年即迅速演化為具高度轉移潛能之表型"
+            "單細胞空間圖譜：結合單細胞定序與空間轉錄組學，證實壞死周圍區域高度活化促轉移轉錄程式",
+            "特殊亞群滯留：患者循環中富含低表達 CD177 之嗜中性球，外滲能力下降並於腫瘤血管內形成 NETs",
+            "血管阻塞壞死：血管內 NET 聚集物緊鄰壞死區分佈，誘發局部缺血壞死並重塑有利癌細胞散播之微環境"
           ],
-          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+          "footer": "資料來源：Gazzara et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "跨世代大規模基因定序\n揭示之 CDK12 臨床病理特徵",
+          "tag": "實驗驗證",
+          "headline": "於 pMMR 大腸癌模型中\n抑制 NETs 展現何種抗癌效益？",
           "points": [
-            "世代篩檢規模：系統性檢視超過 4,500 名侵襲性攝護腺癌患者之生殖細胞系外顯子與基因體資訊",
-            "百分之百轉移：鑑定出之 5 名生殖細胞系 CDK12 突變帶因者，全數進展為轉移性攝護腺癌",
-            "發病年齡分布：所有帶因者確診轉移性疾病之年齡皆落於 44 歲至 62 歲之間，顯著早於一般族群"
+            "獨立預後指標：人類 CRC 檢體分析證實，腫瘤壞死與轉移性疾病密切相關，且獨立於原發腫瘤體積大小",
+            "阻斷轉移進程：於錯配修復完整（pMMR）小鼠模型中，基因或藥物抑制 NETs 可大幅降低腫瘤壞死與轉移",
+            "增強治療敏感：抑制血管內 NETs 形成不僅遏止癌細胞擴散，更能改善腫瘤灌流並顯著提升化學治療療效"
           ],
-          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+          "footer": "資料來源：Gazzara et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從 BRCA1/2 擴展至 CDK12\n重塑遺傳性攝護腺癌分子分型",
-          "summary": "此項發表於《Cancer Discovery》的研究證實，儘管生殖細胞系 CDK12 突變發生率罕見，但其導致早發性轉移攝護腺癌的致病力極強。將 CDK12 納入遺傳性癌症基因檢測面板，可填補高風險家族之分子診斷缺口。",
-          "cta": "後續觀察：生殖細胞系 CDK12 突變腫瘤對免疫檢查點抑制劑或標靶藥物之反應率評估",
-          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+          "tag": "學術意義與展望",
+          "headline": "顛覆腫瘤壞死被動假說\n開創抗 NETs 轉移標靶策略",
+          "summary": "過往臨床病理學多將腫瘤壞死視為生長過快導致的被動結果。本研究首度證實血管內嗜中性球胞外陷阱（NETs）為主動誘導壞死與促轉移的核心因子，為免疫冷腫瘤（pMMR CRC）提供全新治療切入點。",
+          "cta": "後續觀察：臨床級 NETs 抑制劑（如 PAD4 抑制劑或 DNase I）合併化療之早期臨床試驗表現",
+          "footer": "資料來源：Gazzara et al. AACR / Cancer discovery (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "放射基因體學",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.3389/fmolb.2026.2006861",
-      "original_title": "CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis.",
+      "category": "圍手術期標靶",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-26-00854",
+      "original_title": "Alectinib as Neoadjuvant Treatment in Potentially Resectable Stage III Anaplastic Lymphoma Kinase-Positive Non-Small Cell Lung Cancer: ALNEO Phase II Trial (GOIRC-01-2020-ML42316).",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【跨中心驗證電腦斷層巢狀棲息地評分（NHS）用於肺腺癌術前 IASLC 病理分級預測】\n\n針對國際肺癌研究協會（IASLC / WCLC）於 2020 年制定之肺腺癌（Lung Adenocarcinoma, LUAD）病理分級系統，傳統術前電腦斷層（CT）評估常因腫瘤異質性空間平均效應而受限。最新發表之多中心研究開發出「CT 衍生巢狀棲息地評分（Nested Habitats Score, NHS）」，並結合放射基因體學（Radiogenomics）成功實現精準術前無創分級。\n\n■ 研究核心發現：\n1. 巢狀棲息地演算法：NHS 透過遞迴演算法（Recursive Identification）解析腫瘤內部次區域之空間異質性，克服傳統全腫瘤影像組學（Whole-tumor Radiomics）忽略局部高惡性度病灶的限制。\n2. 跨中心嚴謹驗證：研究納入兩大醫學中心共 650 例接受手術切除之肺腺癌患者（開發世代 390 例、外部驗證世代 130 例、獨立鎖定測試世代 130 例），精準區分 IASLC Grade 1 與 Grade 2/3 高風險群。\n3. 轉錄體生物學關聯：結合 TCGA-LUAD 與 TCIA 獨立影像轉錄體世代，證實高 NHS 評分次區域對應特定促增殖與侵襲相關之基因表現譜。\n\n■ 臨床轉譯與研究展望：\nIASLC 分級系統整合了主要組織學型態與高惡性度成分比例（如固實型、微乳突型）。NHS 模型提供無創且具生物可解釋性的術前風險分層工具，有助於肺腺癌手術範圍規劃與新輔助治療研究設計。\n\n■ 資料來源 (References)：\n1. Peng W, Liu J, Li L, Qi W, Zhao J, Li D. CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis. Frontiers in molecular biosciences (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.3389/fmolb.2026.2006861\n2. WCLC (世界肺癌大會 / IASLC) / JTO. CT-derived nested habitats score for preoperative IASLC grading in lung adenocarcinoma: cross-center validation and radiogenomic analysis.. https://doi.org/10.3389/fmolb.2026.2006861\n\n#肺腺癌 #IASLC #WCLC #放射基因體學 #影像組學 #腫瘤異質性",
+      "caption": "【ASCO / JCO 臨床研究更新：ALNEO 第二期臨床試驗評估 Alectinib 用於可手術切除之第三期 ALK 陽性非小細胞肺癌之術前輔助治療】\n由美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）發表之 ALNEO（GOIRC-01-2020-ML42316）多中心第二期臨床試驗，針對高度異質性且缺乏單一標準治療共識的潛在可切除第三期 ALK 陽性非小細胞肺癌（NSCLC），系統性評估了第二代 ALK 酪胺酸激酶抑制劑（TKI）Alectinib 於圍手術期（Perioperative）應用的可行性與病理反應。\n\n■ 研究核心設計與發現：\n1. 圍手術期給藥方案：納入未曾接受治療之潛在可切除第三期 ALK 陽性 NSCLC 患者，給予術前先導性（Neoadjuvant）Alectinib 600 mg 每日兩次治療 8 週，隨後進行手術切除，並於術後給予輔助性（Adjuvant）Alectinib 長達 96 週。\n2. 臨床收案世代特徵：自 2021 年 5 月至 2024 年 7 月共納入 33 位患者，中位年齡為 62 歲（範圍 33–79 歲），70% 為女性，52% 為從未吸菸者；臨床分期包含 64% 之 IIIA 期與 36% 之 IIIB 期患者。\n3. 嚴格病理終點評估：所有入組患者皆順利完成術前 Alectinib 療程。研究主要終點設定為由盲態獨立中央審查（BICR）評估之主要病理緩解（MPR，定義為殘存活性腫瘤細胞 ≤10%），次要終點涵蓋病理完全緩解（pCR）、客觀緩解率（ORR）及無事件存活期（EFS）。\n\n■ 臨床轉譯與研究展望：\n隨著 ADAURA 與 ALINA 試驗確立了 EGFR 與 ALK 標靶藥物於術後輔助治療的地位，ALNEO 試驗進一步將 ALK-TKI 推進至第三期局部晚期患者的「術前降期與圍手術期全程管理」，為驅動基因陽性肺癌的外科整合治療奠定關鍵實證。\n\n■ 資料來源 (References)：\n1. Leonetti A, Boni L, Gnetti L, D'Agnelli S, Cortinovis DL, Pasello G, et al. Alectinib as Neoadjuvant Treatment in Potentially Resectable Stage III Anaplastic Lymphoma Kinase-Positive Non-Small Cell Lung Cancer: ALNEO Phase II Trial (GOIRC-01-2020-ML42316). Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-00854\n2. ASCO (美國臨床腫瘤學會) / JCO. Alectinib as Neoadjuvant Treatment in Potentially Resectable Stage III Anaplastic Lymphoma Kinase-Positive Non-Small Cell Lung Cancer: ALNEO Phase II Trial (GOIRC-01-2020-ML42316).. https://doi.org/10.1200/JCO-26-00854\n\n#ASCO #JCO #非小細胞肺癌 #ALK陽性 #Alectinib #術前輔助治療 #ALNEO試驗 #精準腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "IASLC 肺癌分級研究",
-          "headline": "電腦斷層巢狀棲息地評分\n精準預測肺腺癌術前\nIASLC 病理惡性分級",
-          "subheadline": "650 例跨中心影像組學驗證與 TCGA 轉錄體關聯之放射基因體學解析",
-          "meta_badge": "研究設計：650 例雙中心世代與 TCGA 轉錄體驗證",
-          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+          "tag": "ASCO 臨床研究更新",
+          "headline": "Alectinib 圍手術期標靶\n切入第三期 ALK 陽性\n可切除之非小細胞肺癌",
+          "subheadline": "ALNEO 第二期臨床試驗：術前 8 週先導性標靶合併術後 96 週輔助治療",
+          "meta_badge": "研究設計：開放標籤多中心單臂第二期臨床試驗",
+          "footer": "資料來源：Leonetti et al. ASCO / Journal of clinical oncology : off"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估機制",
-          "headline": "巢狀棲息地評分（NHS）如何克服\n肺腺癌腫瘤內部空間異質性？",
+          "tag": "試驗設計",
+          "headline": "針對局部晚期 ALK 陽性肺癌\nALNEO 試驗如何規劃圍手術療程？",
           "points": [
-            "空間解構演算法：遞迴識別腫瘤內部與病理分級高度相關之 CT 次區域，避免空間平均稀釋效應",
-            "高惡性成分捕捉：針對 IASLC 2020 標準中決定預後之高惡性度組織型態比例進行次區域量化",
-            "放射基因體映射：串聯獨立 TCGA-LUAD/TCIA 世代，將影像棲息地特徵映射至特定轉錄體分子路徑"
+            "術前先導降期：患者於手術前接受每日兩次 Alectinib 600 mg 治療共 8 週，旨在縮小腫瘤並清除微轉移",
+            "術後長效鞏固：手術切除後持續給予輔助性 Alectinib 長達 96 週，強化長期無病存活與中樞神經保護",
+            "獨立中央審查：以盲態獨立中央審查（BICR）評估之主要病理緩解（MPR，殘存活性癌細胞 ≤10%）為主要終點"
           ],
-          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+          "footer": "資料來源：Leonetti et al. ASCO / Journal of clinical oncology : off"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "雙中心 650 例手術切除世代\n模型開發與外部鎖定測試架構",
+          "tag": "世代特徵",
+          "headline": "納入 IIIA 與 IIIB 期患者\n臨床基線特徵與執行完成度為何？",
           "points": [
-            "世代嚴謹切分：中心一 390 例採用五折交叉估算開發，中心二 260 例一比一分為驗證與鎖定測試集",
-            "分級預測任務：預設主要終點為精準區分病理 IASLC 第一級（低風險）與第二、三級（中高風險）",
-            "多模態模型比較：整合臨床放射特徵、全腫瘤影像組學與 NHS，於單次鎖定測試中展現優異判別力"
+            "人口學分佈：共招募 33 位初治患者，中位年齡 62 歲，女性佔比達 70%，且高達 52% 為從未吸菸族群",
+            "高風險局部晚期：入組患者中 64% 為臨床 IIIA 期、36% 為臨床 IIIB 期，屬高度異質性之局部晚期群體",
+            "高耐受性表現：所有納入研究之患者（100%）皆順利完成為期 8 週的術前先導性 Alectinib 標靶療程"
           ],
-          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+          "footer": "資料來源：Leonetti et al. ASCO / Journal of clinical oncology : off"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從全腫瘤平均影像特徵\n邁向次區域空間棲息地精準分級",
-          "summary": "傳統 CT 影像組學將整顆腫瘤視為均質整體，難以反映肺腺癌內部微乳突或固實型等高惡性成分。NHS 巢狀棲息地評分透過跨中心驗證與轉錄體關聯，證實無創影像可精準映射 IASLC 病理分級與腫瘤生物學行為。",
-          "cta": "後續觀察：NHS 空間棲息地評分於早期肺腺癌亞肺葉切除術式選擇之前瞻性臨床試驗驗證",
-          "footer": "資料來源：Peng et al. WCLC / Frontiers in molecular biosciences (20"
+          "headline": "從術後輔助邁向圍手術期整合\n重塑驅動基因陽性肺癌治療典範",
+          "summary": "過往第三期 NSCLC 多仰賴同步放化療或術前免疫合併化療，惟 ALK 陽性患者對免疫療法反應有限。ALNEO 試驗驗證了將高活性 ALK 抑制劑前移至術前先導階段的高完成度與安全性。",
+          "cta": "後續觀察：完整之主要病理緩解率（MPR）、病理完全緩解率（pCR）與長期無事件存活期（EFS）數據",
+          "footer": "資料來源：Leonetti et al. ASCO / Journal of clinical oncology : off"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "先天免疫失調",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
-      "original_title": "A rare disease reveals a hidden flaw in the immune system",
+      "category": "腫瘤基因體學",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1093/bioinformatics/btag844",
+      "original_title": "pyGENIE: A Python library for programmatic access and mutational analysis of AACR Project GENIE.",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【《Immunity》揭示自然殺手細胞功能異常與干擾素-γ 風暴驅動甲羥戊酸激酶缺乏症發炎機制】\n\n澳洲加文醫學研究所（Garvan Institute of Medical Research）發表於頂尖免疫學期刊《Immunity》的研究，推翻了過去三十年來對罕見遺傳性發炎疾病「甲羥戊酸激酶缺乏症（Mevalonate Kinase Deficiency, MKD）」的致病認知，證實自然殺手細胞（NK Cells）功能失調與干擾素-γ（IFN-γ）過度分泌為觸發致命性自體發炎的核心機制，並確立 JAK 抑制劑之精準標靶潛力。\n\n■ 核心作用機制：\n1. 代謝途徑缺陷：MKD 源於甲羥戊酸途徑（Mevalonate Pathway）關鍵酵素基因突變；該途徑同時是腫瘤與免疫細胞合成膽固醇及異戊二烯化（Prenylation）修飾的核心代謝軸。\n2. NK 細胞失調：研究首次發現 MKD 患者體內負責清除感染與異常細胞的 NK 細胞出現內在功能障礙，在遭受感染刺激時無法正常調控免疫煞車。\n3. 干擾素-γ 風暴：失調的 NK 細胞大量釋放促炎細胞激素 IFN-γ，引發失控的全身性自體發炎反應；透過 JAK 抑制劑阻斷下游訊號，已在重症嬰兒患者中觀察到顯著臨床改善。\n\n■ 臨床轉譯與研究展望：\n甲羥戊酸代謝途徑與 NK 細胞活性調控亦是腫瘤免疫微環境（TME）與血液腫瘤學的重要研究焦點。釐清代謝酶缺失如何重塑 NK 細胞 IFN-γ 分泌模式，不僅為難治型 MKD 提供 JAK 抑制劑新療法，更深化了對免疫細胞代謝重編程（Metabolic Reprogramming）的理解。\n\n■ 資料來源 (References)：\n1. Munoz MA, Schuster IS, Cremasco J, Masle-Farquhar EN, Skinner OP, Vandeleur ZJ, et al. NK cell dysfunction and interferon-γ production underlie autoinflammation in mevalonate kinase deficiency. Immunity. 2026. https://doi.org/10.1016/j.immuni.2026.03.027\n2. ScienceDaily Cancer News. A rare disease reveals a hidden flaw in the immune system. https://www.sciencedaily.com/releases/2026/11/261117035052.htm\n\n#自然殺手細胞 #細胞免疫學 #JAK抑制劑 #干擾素 #免疫代謝 #Immunity",
+      "caption": "【AACR 生物資訊工具突破：開發 pyGENIE 套件實現近 25 萬名癌症患者真實世界基因體數據之高通量突變特徵解析】\n美國癌症研究協會（AACR）發起之 Project GENIE 是全球規模最大的真實世界腫瘤基因體資料庫之一，截至第 19 版資料釋出，已涵蓋近 250,000 名癌症患者、超過 268,000 份腫瘤檢體，並被逾 1,730 篇學術文獻引用。最新發表的研究推出名為「pyGENIE」的 Python 函式庫，大幅降低了大規模癌症基因體數據整合與突變特徵（Mutational Signatures）分析的技術門檻。\n\n■ 核心功能與技術突破：\n1. 統一介面與數據即服務（DaaS）：pyGENIE 提供統一的應用程式介面（API）以直接存取複雜的 GENIE 平面檔案，將臨床與基因體查詢結果直接輸出為原生 pandas DataFrames，無縫接軌機器學習模型。\n2. 突變負荷與特徵整合：內建自動化計算腫瘤突變負荷（Tumor Mutational Burden, TMB）功能，並直接整合 SigProfiler 與 SigMA 等頂尖突變特徵分析工具。\n3. 肺腺癌世代驗證：應用於肺腺癌（LUAD）案例研究中，pyGENIE 精準重現了已知的驅動基因突變頻率、共突變模式（Co-mutation patterns）與突變特徵圖譜，同時將所需撰寫的程式碼規模縮減達一個數量級（約 10 倍）。\n\n■ 臨床轉譯與研究展望：\n透過標準化與自動化的資料存取架構，pyGENIE 加速了大型真實世界臨床基因體數據（Clinico-genomic data）的跨癌種生物標記挖掘與機器學習預後模型開發。\n\n■ 資料來源 (References)：\n1. Dayan D, Gerstein M. pyGENIE: A Python library for programmatic access and mutational analysis of AACR Project GENIE. Bioinformatics (Oxford, England) (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1093/bioinformatics/btag844\n2. AACR (美國癌症研究協會) / Cancer Discovery. pyGENIE: A Python library for programmatic access and mutational analysis of AACR Project GENIE.. https://doi.org/10.1093/bioinformatics/btag844\n\n#AACR #ProjectGENIE #pyGENIE #癌症基因體學 #生物資訊學 #腫瘤突變負荷 #肺腺癌 #真實世界數據",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "細胞免疫機制突破",
-          "headline": "自然殺手細胞功能失調\n與干擾素伽瑪過度分泌\n揭示自體發炎新標靶",
-          "subheadline": "《Immunity》推翻三十年傳統認知並驗證 JAK 抑制劑精準干預潛力",
-          "meta_badge": "研究焦點：甲羥戊酸代謝缺陷與 NK 細胞免疫調控",
-          "footer": "資料來源：Munoz et al. Immunity (2026)"
+          "tag": "AACR 基因體學工具",
+          "headline": "pyGENIE 生物資訊框架\n加速近 25 萬名癌症患者\n真實世界基因體大數據解析",
+          "subheadline": "串聯 AACR Project GENIE 超過 26.8 萬份檢體之突變特徵與機器學習分析",
+          "meta_badge": "研究焦點：跨癌種臨床基因體大數據與突變特徵",
+          "footer": "資料來源：Dayan et al. AACR / Bioinformatics (Oxford, England) (202"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "甲羥戊酸激酶缺乏（MKD）\n如何誘發 NK 細胞促炎風暴？",
+          "tag": "運算架構",
+          "headline": "pyGENIE 如何解決大規模\n癌症基因體數據整合瓶頸？",
           "points": [
-            "代謝酵素缺陷：甲羥戊酸激酶基因突變破壞細胞內異戊二烯化代謝平衡，影響免疫細胞訊號傳遞",
-            "NK 細胞失控：先天免疫自然殺手細胞於感染刺激下發生功能異常，喪失正常免疫負回饋調節能力",
-            "細胞激素級聯：異常活化之 NK 細胞大量釋放干擾素-γ（IFN-γ），驅動下游 JAK-STAT 促炎路徑"
+            "數據即服務架構：提供統一 API 處理複雜平面檔案，將臨床與基因體查詢直接轉換為 pandas DataFrames",
+            "生物標記自動化：內建腫瘤突變負荷（TMB）運算模組，並無縫對接 SigProfiler 與 SigMA 突變特徵工具",
+            "機器學習相容性：標準化資料輸出格式可立即導入視覺化與機器學習演算法，免除繁瑣的自定義清洗流程"
           ],
-          "footer": "資料來源：Munoz et al. Immunity (2026)"
+          "footer": "資料來源：Dayan et al. AACR / Bioinformatics (Oxford, England) (202"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "實驗驗證",
-          "headline": "推翻三十年致病假說\n並實現老藥新用之臨床概念驗證",
+          "tag": "實證數據",
+          "headline": "立基於第 19 版 GENIE 資料庫\n於肺腺癌研究展現何種效能？",
           "points": [
-            "典範轉移發現：突破過往僅關注骨髓系細胞發炎體之傳統觀點，確立 NK 細胞為核心致病驅動者",
-            "標靶路徑鎖定：實驗證實中和 IFN-γ 或使用既有之 JAK 抑制劑，能有效截斷過度活化的發炎訊號",
-            "臨床概念驗證：於對現有標準療法無反應之重症嬰兒個案中，導入標靶治療後展現實質臨床緩解"
+            "龐大數據規模：支援最新第 19 版釋出資料，涵蓋近 250,000 名癌症患者與超過 268,000 份腫瘤定序檢體",
+            "肺腺癌圖譜重現：於肺腺癌（LUAD）驗證中，精準重現驅動基因突變頻率、共突變網路與突變特徵分佈",
+            "研發效率躍升：相較於傳統自建資料解析流程，pyGENIE 將所需之程式碼行數大幅縮減達一個數量級"
           ],
-          "footer": "資料來源：Munoz et al. Immunity (2026)"
+          "footer": "資料來源：Dayan et al. AACR / Bioinformatics (Oxford, England) (202"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "解開甲羥戊酸代謝與 NK 細胞連連結\n開啟 JAK 抑制劑精準干預新局",
-          "summary": "此項發表於《Immunity》的研究不僅為罕見致命疾病 MKD 找到 JAK 抑制劑與抗 IFN-γ 標靶策略，更揭示了甲羥戊酸代謝途徑對 NK 細胞效應功能的深遠影響，對免疫代謝學與細胞免疫調控具重要啟發。",
-          "cta": "後續觀察：評估 JAK 抑制劑或 IFN-γ 中和抗體於難治型 MKD 患者之前瞻性臨床試驗成效",
-          "footer": "資料來源：Munoz et al. Immunity (2026)"
+          "headline": "打破真實世界基因體分析壁壘\n賦能跨癌種精準醫療模型開發",
+          "summary": "AACR Project GENIE 累積了極具價值的真實世界臨床與基因體數據，但過往受限於複雜的檔案結構。pyGENIE 的開源釋出使研究人員能以極簡程式碼執行跨機構的共突變與突變特徵挖掘。",
+          "cta": "後續觀察：結合 pyGENIE 與深度學習模型於罕見突變亞群預後預測及抗藥性圖譜之應用",
+          "footer": "資料來源：Dayan et al. AACR / Bioinformatics (Oxford, England) (202"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "致癌物動力學",
+      "category": "代謝路徑調控",
       "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-      "original_title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "original_title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【《Journal of Theoretical Biology》建立數學動力學模型解析維生素 C 抑制胃內致癌亞硝化反應機制】\n\n加拿大滑鐵盧大學（University of Waterloo）發表於《Journal of Theoretical Biology》的研究，運用系統生物學與化學反應動力學數學模型，定量剖析飲食與飲水中的硝酸鹽（Nitrates）與亞硝酸鹽（Nitrites）在胃部消化過程中轉化為致癌性亞硝基化合物（N-nitroso Compounds）之「亞硝化反應（Nitrosation）」，並模擬維生素 C（抗壞血酸）阻斷該致癌生化路徑之時空動力學效應。\n\n■ 核心作用機制：\n1. 胃內亞硝化反應：源自加工肉品或受污染水土農作物的硝酸鹽與亞硝酸鹽進入酸性胃環境後，會與胺類物質發生亞硝化反應，生成具基因毒性的潛在致癌物。\n2. 氧化還原競爭：維生素 C 作為強效還原劑，能在胃酸環境中優先與亞硝化中間產物反應，將其還原為一氧化氮（NO），從而競爭性阻斷致癌性亞硝基化合物的合成。\n3. 飲食水質跨維模擬：研究整合不同飲食型態與水質硝酸鹽濃度參數，量化模擬餐後攝取維生素 C 的時間窗口與劑量對抑制內生性致癌物生成的動態影響。\n\n■ 臨床轉譯與研究展望：\n自 1990 年代以來，流行病學研究對於硝酸鹽暴露與消化道癌症風險的關聯屢現分歧。本研究透過定量化學動力學模型證實，抗氧化物共暴露時間點與胃內微環境參數是決定致癌物實際生成量的關鍵調節因子，為癌症化學預防（Chemoprevention）研究提供理論量化框架。\n\n■ 資料來源 (References)：\n1. McNicol GR, Basu NB, Layton AT. Vitamin C as a nitrosation inhibitor: A modelling study across dietary patterns and water quality. Journal of Theoretical Biology. 2026. https://doi.org/10.1016/j.jtbi.2026.112444\n2. ScienceDaily Cancer News. Vitamin C could help block cancer-linked chemicals in your stomach, study finds. https://www.sciencedaily.com/releases/2026/11/261114202236.htm\n\n#消化道腫瘤 #亞硝化反應 #癌症化學預防 #系統生物學 #致癌機轉 #數學模型",
+      "caption": "【Communications Biology：靶向磷酸鹽與脂質代謝路徑可抑制第 IX 型膠原蛋白缺陷誘導之脊椎韌帶異常礦化】\n發表於《Communications Biology》的最新基礎轉譯研究，針對脊椎退化與異常礦化（Abnormal Mineralization）的分子機制進行深入解析。研究團隊利用第 IX 型膠原蛋白基因（col9a1b）缺陷之斑馬魚模型，發現基因活性與細胞代謝路徑的改變是驅動脊椎韌帶鈣化與椎體融合的關鍵因素，並證實既有之骨質疏鬆症藥物具備阻斷此病理進程的潛力。\n\n■ 核心作用機制：\n1. 基因缺陷疾病模型：建立 col9a1b 基因缺陷斑馬魚模型，模擬人類椎間盤緩衝結構退化、脊椎組織硬化及椎體異常融合之病理表型。\n2. 磷酸鹽與脂質代謝失調：轉錄組與代謝分析揭示，col9a1b 缺失會誘發局部組織的磷酸鹽（Phosphate）與脂質代謝（Lipid metabolism）路徑異常活化，進而促發韌帶異位性礦化沉積。\n3. 老藥新用靶向干預：透過藥理學手段靶向調控磷酸鹽與脂質代謝（包含應用現有之骨質疏鬆症治療藥物），能有效阻止異常礦物質在脊椎韌帶中的沉積與骨化損傷。\n\n■ 臨床轉譯與研究展望：\n此研究不僅確立了斑馬魚作為高通量篩選脊椎退化疾病藥物的活體平台，更揭示了細胞外基質（ECM）膠原蛋白缺陷與礦物質代謝失衡之間的分子連結，為老藥新用（Drug Repurposing）提供具體實證。\n\n■ 資料來源 (References)：\n1. Kague E, Larraz Prieto B, Raele RA, Fernandes BV, Moss J, Hammond CL. Targeted modulation of phosphate and lipid metabolism reduces ligament mineralization in col9a1b deficient zebrafish. Communications Biology. 2026. https://doi.org/10.1038/s42003-026-10702-1\n2. ScienceDaily Cancer News. A common osteoporosis drug blocked spinal damage in a surprising new study. https://www.sciencedaily.com/releases/2026/11/261113232105.htm\n\n#CommunicationsBiology #代謝調控 #細胞外基質 #膠原蛋白 #老藥新用 #骨代謝 #基因體學 #轉譯醫學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "系統生物學模型研究",
-          "headline": "數學動力學模型量化解析\n維生素 C 阻斷胃內飲食\n致癌亞硝化反應機制",
-          "subheadline": "跨飲食型態與水質暴露之內生性致癌物合成動力學模擬",
-          "meta_badge": "研究方法：胃內化學反應動力學數學建模",
-          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+          "tag": "基礎轉譯醫學研究",
+          "headline": "靶向磷酸鹽與脂質代謝\n阻斷膠原蛋白基因缺陷\n誘導之脊椎異常礦化",
+          "subheadline": "col9a1b 缺陷模型揭示細胞外基質退化與異常礦物質沉積之代謝調控機制",
+          "meta_badge": "研究焦點：磷酸鹽與脂質代謝路徑之藥理調控",
+          "footer": "資料來源：Kague et al. Communications Biology (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "生化機制",
-          "headline": "維生素 C 如何在胃酸環境中\n攔截硝酸鹽轉化為致癌化合物？",
+          "tag": "分子機制",
+          "headline": "膠原蛋白基因 col9a1b 缺陷\n如何驅動組織異常礦化沉積？",
           "points": [
-            "外源前驅暴露：加工肉品與受污染水源中之硝酸鹽與亞硝酸鹽進入胃部後形成亞硝化反應前驅池",
-            "酸性催化轉化：於低 pH 值胃酸催化下，亞硝酸鹽與含氮化合物進行亞硝化反應生成潛在致癌物質",
-            "還原競爭阻斷：維生素 C 透過氧化還原競爭機制消耗活性亞硝化中間體，從源頭抑制致癌物合成"
+            "基質結構受損：col9a1b 基因缺失破壞細胞外基質與椎間盤緩衝結構，誘發脊椎組織漸進性硬化與椎體融合",
+            "雙重代謝失衡：基因表達譜分析顯示，病灶區域伴隨顯著的磷酸鹽與脂質代謝路徑異常活化，加速礦物質結晶",
+            "藥理靶向阻斷：介入調控磷酸鹽與脂質代謝途徑，能從上游切斷病理性鈣化訊號，保護韌帶組織免於骨化"
           ],
-          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+          "footer": "資料來源：Kague et al. Communications Biology (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "模型數據",
-          "headline": "跨飲食結構與水質條件之\n定量系統生物學模擬結果",
+          "tag": "實驗驗證",
+          "headline": "利用斑馬魚活體疾病模型\n老藥新用展現何種保護效益？",
           "points": [
-            "多變項參數模擬：整合北美飲食硝酸鹽暴露趨勢、飲水水質標準及胃排空生理參數進行動態運算",
-            "時序效應量化：模型顯示餐後特定時間窗口內存在足量維生素 C 時，可顯著壓低亞硝化產物峰值",
-            "解釋流行病學分歧：闡明過往流行病學研究結果不一致，源於未納入抗氧化物共暴露之動力學交互作用"
+            "活體表型重現：col9a1b 缺陷斑馬魚精準重現人類脊椎退化與韌帶礦化特徵，提供高通量藥物篩選平台",
+            "抑制礦物沉積：投予既有之骨質疏鬆症藥物進行靶向治療，成功阻斷脊椎韌帶中的異常礦物質累積",
+            "結構功能保留：代謝調控治療顯著減緩了椎間盤與韌帶的退化進程，證實代謝干預可逆轉基質缺陷表型"
           ],
-          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+          "footer": "資料來源：Kague et al. Communications Biology (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "以定量化學動力學模型\n釐清飲食致癌物生成之微環境變數",
-          "summary": "此項理論生物學研究將複雜的胃內消化化學反應轉化為可量化的數學模型，證實內生性致癌物的生成並非單純取決於硝酸鹽攝取量，更受制於胃內氧化還原狀態與維生素 C 抑制動力學，為消化道腫瘤病因學提供嶄新視角。",
-          "cta": "後續觀察：結合人體胃液生物標記採樣與代謝體學驗證數學模型預測之亞硝化抑制效率",
-          "footer": "資料來源：McNicol et al. Journal of Theoretical Biology (2026)"
+          "headline": "連結細胞外基質缺陷與代謝重編程\n拓展骨與軟組織病變老藥新用契機",
+          "summary": "本研究揭示了結構性膠原蛋白基因（col9a1b）缺陷並非單純的物理性退化，而是透過磷酸鹽與脂質代謝重編程主動驅動韌帶礦化。運用既有骨科藥物靶向此代謝軸線，展現了高度轉譯潛力。",
+          "cta": "後續觀察：磷酸鹽與脂質代謝調節劑於哺乳動物模型及人類軟組織異位性骨化之臨床前驗證",
+          "footer": "資料來源：Kague et al. Communications Biology (2026)"
         }
       ]
     }
