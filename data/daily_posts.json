@@ -1,279 +1,279 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T11:37:19.923733+08:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T12:10:34.270878+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "液態切片檢測",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-3037",
-      "original_title": "Molecularly profiling cell-free DNA from cerebrospinal fluid yields quantitative biomarkers to diagnose and monitor breast cancer leptomeningeal carcinomatosis.",
+      "category": "神經內分泌腫瘤微環境",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
+      "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【AACR 旗艦期刊發表：腦脊髓液游離 DNA 定序技術突破乳癌軟腦膜轉移定量診斷與預後監測】\n\n根據美國癌症研究協會（AACR）旗下權威期刊《Clinical Cancer Research》最新發表之分子診斷研究，研究團隊針對乳癌併發中樞神經系統軟腦膜轉移（Leptomeningeal Carcinomatosis, LC）患者，開發出基於腦脊髓液（Cerebrospinal Fluid, CSF）游離 DNA（cell-free DNA, cfDNA）之次世代定序（NGS）定量檢測工作流程。傳統細胞學與磁振造影（MRI）不僅診斷靈敏度受限，亦無法提供定量數據或鑑定用藥指導突變；本研究結合雙股去氧核醣核酸定序（TrueR）與低深度全基因組定序演算法（PolkaDot），成功建立高專一性之量化生物標記。\n\n■ 核心作用機制：\n1. 雙股錯誤校正：採用 TrueR 雙股定序工作流程（Duplex-based workflow），在體細胞突變探勘過程中大幅抑制背景偽陽性訊號，精準捕捉微量腫瘤變異。\n2. 基因體不穩定：開發新型 PolkaDot 低深度全基因組定序（Low-pass WGS）演算法，定量描繪腦脊髓液游離 DNA 中之染色體拷貝數變異與基因體不穩定性圖譜。\n3. 預後風險分層：在 35 例疑似軟腦膜轉移之乳癌受試者隊列中（23 例臨床確診、12 例排除），TrueR 檢測體細胞突變之靈敏度達 78.3%、專一性達 100%，且陽性結果與較差之整體存活期（OS）顯著相關（HR = 9.5 [95% CI: 3.5–25.5], P = 0.0003）。\n\n■ 臨床轉譯與研究展望：\n此項腦脊髓液 cfDNA 雙重分子剖析平台克服了傳統腦脊髓液細胞學偽陰性率高的瓶頸，不僅能於中樞神經轉移早期提供百分之百專一性的確診依據，更能藉由量化基因體不穩定性動態追蹤治療反應。\n\n■ 資料來源 (References)：\n1. Malani R, Farrell A, Bronner MP, Wei M, Race J, Harrison BE, et al. Molecularly profiling cell-free DNA from cerebrospinal fluid yields quantitative biomarkers to diagnose and monitor breast cancer leptomeningeal carcinomatosis. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-3037\n2. AACR (美國癌症研究協會) / Cancer Discovery. Molecularly profiling cell-free DNA from cerebrospinal fluid yields quantitative biomarkers to diagnose and monitor breast cancer leptomeningeal carcinomatosis.. https://doi.org/10.1158/1078-0432.CCR-26-3037\n\n#AACR #液態切片 #乳癌腦膜轉移 #腦脊髓液cfDNA #次世代定序 #精準腫瘤學",
+      "caption": "【Nature 重磅研究：雄性激素流失經由 HPA 軸活化加速膠質母細胞瘤生長】\n由美國國家衛生院（NIH）資助、克里夫蘭診所（Cleveland Clinic）研究團隊發表於《Nature》的最新研究，揭示了雄性激素（Androgens）如睪固酮（Testosterone）在抑制男性腦瘤生長中的關鍵調控機制。研究透過膠質母細胞瘤（Glioblastoma, GBM）臨床前模型與逾 1,300 名男性患者之臨床數據分析，證實雄性激素流失會誘導局部發炎反應並活化下視丘-腦下垂體-腎上腺軸（HPA axis），進而加速腫瘤惡化；反之，補充睪固酮則與整體存活期（OS）顯著延長相關。\n\n■ 核心作用機制：\n1. 激素剝奪效應：在膠質母細胞瘤臨床前模型中，雄性激素（如睪固酮）的流失並非維持中性狀態，而是直接成為驅動腦瘤加速生長的關鍵促癌因子。\n2. 壓力軸線活化：雄性激素缺失會誘發腫瘤微環境局部發炎反應，並進一步觸發下視丘-腦下垂體-腎上腺軸（HPA axis）活化，促使壓力荷爾蒙大量分泌。\n3. 臨床存活驗證：回溯分析超過 1,300 名男性膠質母細胞瘤患者之臨床數據顯示，接受睪固酮補充治療與患者整體存活期（Overall Survival）顯著改善呈正相關。\n\n■ 臨床轉譯與研究展望：\n過去針對膠質母細胞瘤性別差異的探討多聚焦於男性發病率較高之現象，本研究則顛覆傳統認知，證實生理濃度的睪固酮在男性體內具有抑制腦瘤進展的保護作用。未來透過調控神經內分泌與 HPA 壓力荷爾蒙軸線，有望為高度惡性腦瘤開闢全新的輔助治療策略。\n\n■ 資料來源 (References)：\n1. Lee J, Chung YM, Silver DJ, Hao Y, Harwood DSL, Ealy A, et al. Androgen loss accelerates brain tumour growth via HPA axis activation. Nature. 2026. https://doi.org/10.1038/s41586-026-10451-5\n2. National Cancer Institute (NCI). NIH-funded study suggests that testosterone suppresses brain tumor growth in males. https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth\n\n#膠質母細胞瘤 #Glioblastoma #腫瘤微環境 #神經內分泌 #HPA軸 #Nature論文 #腦瘤研究",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 分子診斷突破",
-          "headline": "腦脊髓液游離 DNA 定序\n診斷乳癌軟腦膜轉移\n專一性高達 100%",
-          "subheadline": "結合雙股定序與低深度全基因組演算法量化中樞神經轉移負荷",
-          "meta_badge": "研究設計：35 例乳癌疑似腦膜轉移隊列分析",
-          "footer": "資料來源：Malani et al. AACR / Clinical cancer research : an offici"
+          "tag": "Nature 基礎與轉譯研究",
+          "headline": "雄性激素流失活化壓力軸\n加速男性膠質母細胞瘤生長\n補充睪固酮顯著延長存活期",
+          "subheadline": "解析下視丘-腦下垂體-腎上腺軸（HPA axis）與腦瘤微環境之調控機制",
+          "meta_badge": "研究焦點：逾 1,300 例男性 GBM 臨床與動物模型",
+          "footer": "資料來源：Lee et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "雙重次世代定序技術\n如何突破傳統細胞學診斷極限？",
+          "headline": "雄性激素缺失如何透過神經內分泌\n重塑膠質母細胞瘤之促癌微環境？",
           "points": [
-            "雙股錯誤校正：運用 TrueR 雙股定序工作流程抑制背景偽陽性，精準鑑定腦脊髓液中微量體細胞突變",
-            "基因體不穩定：透過 PolkaDot 低深度全基因組定序演算法，定量繪製全基因體拷貝數變異與不穩定圖譜",
-            "用藥突變探勘：克服磁振造影與傳統細胞學無法定量的限制，同步解析中樞神經病灶之治療標的突變"
+            "激素流失促癌：臨床前模型證實睪固酮等雄性激素流失會解除對腦瘤的生長限制，直接驅動腫瘤增殖",
+            "局部發炎誘導：雄性激素下降會顯著改變中樞神經系統免疫微環境，誘發局部慢性發炎反應",
+            "HPA 軸線激活：發炎訊號進一步活化下視丘-腦下垂體-腎上腺軸，刺激壓力荷爾蒙分泌以加速腫瘤惡化"
           ],
-          "footer": "資料來源：Malani et al. AACR / Clinical cancer research : an offici"
+          "footer": "資料來源：Lee et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "腦脊髓液 cfDNA 檢測\n於確診與存活預後之量化表現",
+          "headline": "跨物種實驗與大型臨床世代驗證\n內分泌調控對腦瘤預後之實質影響",
           "points": [
-            "高診斷專一性：於 23 例確診與 12 例排除患者中，TrueR 體細胞突變檢測達 78.3% 靈敏度與 100% 專一性",
-            "存活風險預測：TrueR 檢測陽性與整體存活期惡化顯著相關，死亡風險比（HR）高達 9.5（P = 0.0003）",
-            "互補演算法驗證：PolkaDot 基因體不穩定性定量分析展現高達 87% 以上之靈敏度，強化早期微量病灶偵測"
+            "大型世代分析：納入超過 1,300 名男性膠質母細胞瘤患者之真實世界臨床數據進行生存相關性評估",
+            "存活效益顯著：數據顯示接受外源性睪固酮補充之男性患者，其整體存活期（OS）獲得統計學上顯著改善",
+            "轉譯高度一致：人類大型世代之存活分析結果與臨床前動物模型之荷爾蒙調控實驗結論高度吻合"
           ],
-          "footer": "資料來源：Malani et al. AACR / Clinical cancer research : an offici"
+          "footer": "資料來源：Lee et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從定性細胞學形態判讀\n邁向腦脊髓液定量分子監測",
-          "summary": "乳癌軟腦膜轉移病程凶險且傳統診斷工具靈敏度不足。本研究證實結合 TrueR 與 PolkaDot 之腦脊髓液 cfDNA 分子剖析，能以 100% 專一性輔助臨床確診，並提供獨立的存活預後風險指標與治療標的資訊。",
-          "cta": "後續觀察：前瞻性臨床試驗中腦脊髓液 cfDNA 動態變化對鞘內或全身性標靶治療之反應預測力",
-          "footer": "資料來源：Malani et al. AACR / Clinical cancer research : an offici"
+          "tag": "學術意義與展望",
+          "headline": "打破性別荷爾蒙單一促癌迷思\n開啟神經內分泌腦瘤標靶新視角",
+          "summary": "本研究首次在分子層級釐清雄性激素流失與 HPA 壓力軸活化在男性膠質母細胞瘤中的致病角色。不僅解釋了中老年男性隨睪固酮衰退而面臨的腦瘤惡化風險，更提供阻斷壓力荷爾蒙訊號或維持內分泌平衡之創新治療方向。",
+          "cta": "後續觀察：靶向 HPA 軸壓力荷爾蒙受體合併標準放化療於男性 GBM 患者之前瞻性臨床試驗設計",
+          "footer": "資料來源：Lee et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "術前免疫化療",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1735",
-      "original_title": "Serplulimab combined with nab-paclitaxel and epirubicin in high-risk, early HR+/HER2- breast cancer (HELEN-B 018): a multicentre, single-arm, phase 2 trial.",
+      "category": "表觀遺傳致癌機制",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk",
+      "original_title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【AACR 臨床試驗更新：Serplulimab 合併前導性化療於高風險早期 HR+/HER2- 乳癌展現顯著病理完全緩解優勢】\n\n發表於美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》之 HELEN-B 018 多中心二期臨床試驗（NCT06394661），評估了抗 PD-1 單株抗體 Serplulimab 合併白蛋白結合型紫杉醇（nab-paclitaxel）與表柔比星（epirubicin）作為高風險早期荷爾蒙受體陽性、第二型人類表皮生長因子受體陰性（HR+/HER2-）乳癌術前前導性治療（Neoadjuvant therapy）之療效與安全性。該研究納入 101 名腫瘤分期為 T1c N1-3 或 T2-4 且增殖指數 Ki-67 ≥ 20% 之高復發風險患者。\n\n■ 研究核心發現：\n1. 病理完全緩解：在全分析集（Full analysis set）101 名受試者中，接受 6 個週期前導性免疫合併化療後，有 23 名患者達成主要終點病理完全緩解（pCR，定義為 ypT0/is ypN0），整體 pCR 率達 22.8%（95% CI: 15.3%–32.4%）。\n2. 殘餘腫瘤負荷：共有 34 名患者在手術切除檢體中達到殘餘腫瘤負荷（Residual Cancer Burden, RCB）0 或 1 級，整體 RCB 0–1 達成率為 33.7%（95% CI: 24.8%–43.8%）。\n3. 生物標記分層：在 PD-L1 陽性（綜合陽性分數 CPS ≥ 1）亞組中，pCR 率高達 44.4%（95% CI: 30.0%–59.9%），顯著優於 PD-L1 陰性腫瘤的 5.4%（95% CI: 1.4%–15.8%, P < 0.001）。\n\n■ 臨床轉譯與研究展望：\n傳統上 HR+/HER2- 乳癌對免疫檢查點抑制劑反應較為冷淡；HELEN-B 018 試驗證明在 Ki-67 ≥ 20% 之高增殖族群中，透過無須類固醇前驅給藥之 nab-paclitaxel 搭配蒽環類化療與 PD-1 阻斷劑，能於 PD-L1 陽性患者誘導高達四成以上的病理完全緩解。\n\n■ 資料來源 (References)：\n1. Dai H, Lu Z, Sun X, Wei Y, Wang C, Jia H, et al. Serplulimab combined with nab-paclitaxel and epirubicin in high-risk, early HR+/HER2- breast cancer (HELEN-B 018): a multicentre, single-arm, phase 2 trial. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1735\n2. AACR (美國癌症研究協會) / Cancer Discovery. Serplulimab combined with nab-paclitaxel and epirubicin in high-risk, early HR+/HER2- breast cancer (HELEN-B 018): a multicentre, single-arm, phase 2 trial.. https://doi.org/10.1158/1078-0432.CCR-26-1735\n\n#AACR #早期乳癌 #術前前導性治療 #Serplulimab #病理完全緩解 #PDL1生物標記",
+      "caption": "【Nature 揭示發炎性腸道疾病致癌機制：慢性發炎於腸道幹細胞留下表觀遺傳記憶】\n由美國國家衛生院（NIH）資助並發表於頂尖期刊《Nature》的研究，深入剖析了慢性腸道發炎（如潰瘍性結腸炎）如何長期提高大腸直腸癌（Colorectal Cancer, CRC）的發生風險。研究團隊透過小鼠慢性結腸炎模型，追蹤腸道組織在發炎期與組織修復期的動態變化，發現反覆的黏膜損傷會在腸道幹細胞（Intestinal Stem Cells）中建立持久的「表觀遺傳記憶（Epigenetic Memory）」，即便發炎消退後仍持續活化 AP-1 轉錄因子家族，進而促進腫瘤生成。\n\n■ 核心作用機制：\n1. 表觀遺傳記憶：反覆發作的慢性結腸炎會改變腸道幹細胞的染色質結構，即使在黏膜組織完全修復、發炎緩解後，這些表觀遺傳印記依然長期留存。\n2. 轉錄因子活化：上述表觀遺傳改變會持續增強 AP-1（Activator Protein-1）轉錄因子蛋白家族的轉錄活性，使幹細胞處於高度增殖與易致癌狀態。\n3. 驅動腫瘤生長：當攜帶發炎記憶的腸道幹細胞遭遇後續基因突變時，持續活化的 AP-1 路徑會顯著加速腺瘤形成與大腸直腸癌的惡性演進。\n\n■ 臨床轉譯與研究展望：\n儘管臨床上早已確立慢性發炎與癌症的關聯，但對於發炎消退後致癌風險為何居高不下始終缺乏定論。本研究證實「表觀遺傳記憶」是連結慢性結腸炎與大腸直腸癌的分子橋樑，未來針對 AP-1 轉錄複合體或表觀遺傳修飾的干預策略，有望成為高風險族群的化學預防新標的。\n\n■ 資料來源 (References)：\n1. Nagaraja S, Ojeda-Miron L, Zhang R, Oreskovic E, Hock C, Hu Y, et al. Epigenetic memory of colitis promotes tumour growth. Nature. 2026. https://doi.org/10.1038/s41586-026-10258-4\n2. National Cancer Institute (NCI). Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk. https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk\n\n#大腸直腸癌 #表觀遺傳學 #腸道幹細胞 #慢性發炎 #AP1轉錄因子 #Nature研究 #腫瘤生物學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 臨床二期試驗",
-          "headline": "PD-1 抑制劑合併前導化療\n於 PD-L1 陽性早期乳癌\n病理完全緩解率達 44.4%",
-          "subheadline": "HELEN-B 018 試驗解析高風險早期 HR+/HER2- 乳癌術前免疫療法",
-          "meta_badge": "研究設計：101 例高風險患者多中心二期試驗",
-          "footer": "資料來源：Dai et al. AACR / Clinical cancer research : an official "
+          "tag": "Nature 表觀遺傳學研究",
+          "headline": "慢性腸道發炎重塑幹細胞\n留下持久表觀遺傳記憶\n持續活化 AP-1 促大腸癌生長",
+          "subheadline": "解析結腸炎反覆損傷與修復過程中驅動大腸直腸癌發生之分子機制",
+          "meta_badge": "研究焦點：腸道幹細胞表觀遺傳記憶與 AP-1 路徑",
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "治療策略",
-          "headline": "紫杉醇與蒽環類協同 PD-1 阻斷\n如何重塑冷腫瘤免疫微環境？",
+          "tag": "分子機制",
+          "headline": "慢性結腸炎消退且黏膜修復後\n為何腸道幹細胞仍具備高致癌潛能？",
           "points": [
-            "高增殖群篩選：鎖定 Ki-67 ≥ 20% 且具淋巴結轉移或較大原發腫瘤（T1c N1-3 或 T2-4）之高風險早期乳癌",
-            "去類固醇化療：採用白蛋白結合型紫杉醇（260 mg/m2）合併表柔比星（75 mg/m2），避免高劑量類固醇抑制免疫",
-            "時序性給藥：於化療第 1 天釋放腫瘤抗原後，於第 3 天輸注 Serplulimab（4.5 mg/kg），每三週一次共六週期"
+            "損傷記憶留存：模擬慢性結腸炎之反覆發炎與修復週期，證實腸道幹細胞在組織癒合後仍保留特定的表觀遺傳改變",
+            "AP-1 持續激活：表觀遺傳重編程專一性地提高 AP-1 轉錄因子蛋白群的活性，維持下游促增殖基因的開放狀態",
+            "協同加速致癌：在 AP-1 持續活化的表觀遺傳背景下，腸道上皮細胞對致癌訊號高度敏感，顯著加速腫瘤生成"
           ],
-          "footer": "資料來源：Dai et al. AACR / Clinical cancer research : an official "
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "HELEN-B 018 試驗\n病理緩解與生物標記分層數據",
+          "tag": "實驗驗證",
+          "headline": "動態追蹤發炎與修復週期\n確立表觀遺傳印記對腫瘤生長之影響",
           "points": [
-            "整體病理緩解：於 101 名受試者中，整體病理完全緩解率（pCR, ypT0/is ypN0）達 22.8%（23/101）",
-            "殘餘腫瘤負荷：33.7% 患者（34/101）達成殘餘腫瘤負荷（RCB）0 或 1 級之顯著腫瘤退縮反應",
-            "PD-L1 預測效益：CPS ≥ 1 陽性患者 pCR 率達 44.4%，顯著高於 PD-L1 陰性患者之 5.4%（P < 0.001）"
+            "動態週期模擬：於小鼠模型中精準模擬慢性結腸炎的發炎期與恢復期，全程追蹤結腸上皮幹細胞之分子演變",
+            "跨期活性維持：實驗證實即便腸道組織在組織學上已恢復正常，AP-1 相關染色質可及性依然維持異常高點",
+            "腫瘤負荷增加：帶有結腸炎表觀遺傳記憶的小鼠模型，其後續發展出大腸直腸腫瘤的生長速度與負荷量顯著提升"
           ],
-          "footer": "資料來源：Dai et al. AACR / Clinical cancer research : an official "
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "以 PD-L1 CPS 精準篩選\n高風險管腔型乳癌免疫獲益族群",
-          "summary": "HR+/HER2- 乳癌長期被視為免疫微環境冷腫瘤。HELEN-B 018 試驗確立了在 Ki-67 高表現且 PD-L1 CPS ≥ 1 之亞群中，Serplulimab 合併 nab-paclitaxel 與 epirubicin 能將 pCR 率大幅推升至 44.4%，為術前精準分層提供關鍵實證。",
-          "cta": "後續觀察：此高風險隊列之長期無事件存活期（EFS）與三期隨機對照試驗之驗證結果",
-          "footer": "資料來源：Dai et al. AACR / Clinical cancer research : an official "
+          "headline": "從單純控制急性發炎邁向\n逆轉幹細胞表觀遺傳致癌記憶",
+          "summary": "本研究解答了發炎性腸道疾病患者即便達到臨床黏膜癒合，其大腸直腸癌風險依然偏高的分子成因。藉由鎖定腸道幹細胞的「表觀遺傳記憶」與 AP-1 轉錄因子活性，為癌症早期的分子阻斷與風險評估提供了明確的生物標記。",
+          "cta": "後續觀察：靶向抑制 AP-1 轉錄活性或清除表觀遺傳記憶於慢性結腸炎患者之防癌轉譯研究",
+          "footer": "資料來源：Nagaraja et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "雙重標靶免疫",
-      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
-      "source_url": "https://doi.org/10.1016/j.ctrv.2026.103246",
-      "original_title": "Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.",
+      "category": "智慧醫療早期檢測",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "original_title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【ESMO 領域深度解析：消化道惡性腫瘤協同靶向 VEGF 與 PD-(L)1 軸線之生物學基礎與三期臨床突破】\n\n根據歐洲腫瘤內科學會（ESMO）相關學術體系與《Cancer Treatment Reviews》最新發表之系統性綜述，消化道（Gastrointestinal, GI）惡性腫瘤除錯配修復缺陷（dMMR/MSI-H）、PD-L1 高表現胃食道腺癌及肝細胞癌（HCC）外，多數對單一免疫檢查點抑制劑（ICI）呈現原發性抗藥。研究深入剖析發現，耐藥性消化道腫瘤普遍具有由血管內皮生長因子（VEGF）驅動之「免疫排斥型微環境（Immune-excluded microenvironment）」，為雙重靶向血管新生與 PD-(L)1 軸線提供了堅實的分子機制基礎。\n\n■ 核心作用機制與臨床實證：\n1. 微環境正常化：抗 VEGF 標靶藥物能逆轉腫瘤血管結構異常，減少免疫抑制性細胞浸潤，將免疫排斥型微環境轉化為有利於效應 T 細胞浸潤之狀態。\n2. 肝癌標準確立：IMbrave150 三期試驗確立了抗 PD-L1 抗體 Atezolizumab 合併抗 VEGF 抗體 Bevacizumab 作為晚期肝細胞癌（HCC）一線標準治療的基石地位。\n3. 微衛星穩定腸癌：在長期被視為免疫難治型的微衛星穩定（MSS）轉移性大腸直腸癌中，多激酶抑制劑 Zanzalintinib（靶向 VEGFR/MET/TAM 家族）合併 Atezolizumab 於第三期 STELLAR-303 試驗中，首次達成以免疫檢查點為基礎之整體存活期（OS）顯著獲益。\n\n■ 臨床轉譯與研究展望：\nSTELLAR-303 三期試驗的成功證明了協同阻斷多激酶受體（VEGFR/MET/TAM）與 PD-L1 能突破 MSS 大腸直腸癌的免疫屏障，這項臨床里程碑更進一步催生了新一代單一分子雙特異性抗體（Bispecific antibodies）的研發浪潮。\n\n■ 資料來源 (References)：\n1. Laliotis G, Pourbahrighesmat S, Tojjari A, Saeed A. Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers. Cancer treatment reviews (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.ctrv.2026.103246\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Co-targeting VEGF and PD-(L)1 in gastrointestinal cancers: biology, clinical landscape, and therapeutic frontiers.. https://doi.org/10.1016/j.ctrv.2026.103246\n\n#ESMO #消化道腫瘤 #微衛星穩定大腸癌 #STELLAR303 #腫瘤微環境 #雙重標靶免疫",
+      "caption": "【IEEE TBME 研究突破：AI 結合群體智慧演算法提前 5 年精準捕捉膀胱癌早期警訊】\n由英國普利茅斯大學（University of Plymouth）研究團隊發表於《IEEE Transactions on Biomedical Engineering》的最新研究，開發出一款結合進階特徵工程（Advanced Feature Engineering）與群體智慧優化演算法（Swarm Intelligence Optimization）的人工智慧系統。該系統透過分析近 70,000 名患者的電子健康紀錄（EHRs），成功在正式確診前長達 5 年即識別出隱藏的膀胱癌早期臨床警訊，整體檢出率高達 85%。\n\n■ 研究核心發現：\n1. 臨床鑑別困境：膀胱癌全球每年導致約 22 萬人死亡，其典型早期症狀為肉眼可見之血尿（Hematuria），但常與腎結石或攝護腺良性疾病高度重疊，導致早期轉診與確診困難。\n2. 演算法特徵提取：研究團隊運用群體智慧優化與進階特徵工程技術，深度挖掘電子健康紀錄中看似無關的症狀組合、共病症、危險因子及就醫頻率等微細縱向模式。\n3. 大規模驗證成效：在涵蓋近 70,000 名患者的大型世代研究中，該 AI 工具能提前至診斷前 5 年捕捉到早期訊號，並準確識別出 85% 的膀胱癌病例。\n\n■ 臨床轉譯與研究展望：\n傳統膀胱癌篩檢往往依賴侵入性的膀胱鏡檢查，本研究證實透過非侵入性的電子病歷大數據分析，即可在無明顯特異症狀前精準鎖定高風險族群，不僅有助於將治療時間窗大幅前移，更能減少非必要之侵入性檢查負擔。\n\n■ 資料來源 (References)：\n1. Wang X, Preston A, Aning J, Loizou M, Zhou SM. Early Detection of Bladder Cancer Using Advanced Feature Engineering and Swarm Intelligence Optimization on EHRs. IEEE Transactions on Biomedical Engineering. 2026. https://doi.org/10.1109/tbme.2026.3658230\n2. ScienceDaily Cancer News. AI uncovers hidden bladder cancer warning signs years before diagnosis. https://www.sciencedaily.com/releases/2026/11/261120075604.htm\n\n#膀胱癌 #人工智慧醫療 #早期癌症檢測 #電子健康紀錄 #群體智慧演算法 #泌尿腫瘤學 #精準醫療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ESMO 臨床與轉譯綜述",
-          "headline": "協同靶向 VEGF 與 PD-L1\n突破微衛星穩定大腸直腸癌\n免疫治療整體存活期瓶頸",
-          "subheadline": "從 IMbrave150 到 STELLAR-303 三期試驗解析消化道腫瘤微環境重塑",
-          "meta_badge": "研究焦點：消化道癌症血管新生與免疫檢查點共標靶",
-          "footer": "資料來源：Laliotis et al. ESMO / Cancer treatment reviews (2026)"
+          "tag": "IEEE 生物醫學工程研究",
+          "headline": "AI 挖掘電子病歷隱藏特徵\n提前五年預警膀胱癌風險\n大型世代檢出率高達 85%",
+          "subheadline": "結合進階特徵工程與群體智慧優化演算法之非侵入性早期風險預測模型",
+          "meta_badge": "研究設計：近 70,000 名患者電子健康紀錄分析",
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "阻斷血管新生與多激酶訊號\n如何逆轉消化道腫瘤免疫排斥？",
+          "tag": "技術原理",
+          "headline": "群體智慧演算法如何突破血尿混淆\n從常規病歷中識破早期膀胱癌？",
           "points": [
-            "解除免疫排斥：多數抗藥性消化道腫瘤具 VEGF 驅動之免疫排斥微環境，阻斷該軸線可促進 T 細胞浸潤",
-            "多激酶共抑制：Zanzalintinib 同步抑制 VEGFR、MET 與 TAM 家族受體，瓦解骨髓源性免疫抑制訊號",
-            "雙特異性研發：基於雙重標靶協同效應，推動單一分子同時結合 VEGF 與 PD-(L)1 之雙特異性抗體臨床開發"
+            "症狀重疊挑戰：傳統轉診高度依賴血尿（Hematuria）症狀，但易與腎結石及攝護腺疾病混淆而延誤早期診斷",
+            "進階特徵工程：利用人工智慧跨時間軸檢視電子健康紀錄（EHRs），整合多重非典型症狀、共病與就醫行為軌跡",
+            "群體智慧優化：導入 Swarm Intelligence 優化演算法篩選高權重風險特徵組合，揪出傳統臨床評估忽略的微弱訊號"
           ],
-          "footer": "資料來源：Laliotis et al. ESMO / Cancer treatment reviews (2026)"
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床實證",
-          "headline": "跨癌種三期臨床試驗\n確立雙重標靶之整體存活期優勢",
+          "tag": "研究數據",
+          "headline": "近七萬例真實世界數據驗證\n大幅推進膀胱癌早期發現時間窗",
           "points": [
-            "肝癌一線標準：IMbrave150 三期試驗驗證 Atezolizumab 合併 Bevacizumab 顯著延長晚期肝細胞癌存活期",
-            "MSS 腸癌突破：STELLAR-303 三期試驗中，Zanzalintinib 合併 Atezolizumab 首度在 MSS 大腸癌達成 OS 獲益",
-            "機制歸因解析：STELLAR-303 證實多激酶與免疫檢查點共標靶效益，惟單純 VEGF 抑制之獨立貢獻仍待界定"
+            "大型研究規模：納入近 70,000 名患者的縱向電子健康紀錄進行模型訓練與獨立驗證，具備高度真實世界代表性",
+            "高敏感度檢出：在傳統篩檢難以察覺的早期階段，該 AI 系統成功識別出高達 85% 最終確診為膀胱癌的患者",
+            "五年預警潛力：於部分患者病歷中，系統早在臨床正式確診前 5 年即偵測到異常的風險特徵聚落並發出預警"
           ],
-          "footer": "資料來源：Laliotis et al. ESMO / Cancer treatment reviews (2026)"
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "從單一免疫檢查點阻斷\n邁向微環境血管與多激酶共標靶",
-          "summary": "消化道癌症的免疫治療長期受限於 dMMR/MSI-H 亞群。藉由協同靶向 VEGFR/MET/TAM 軸線與 PD-(L)1，STELLAR-303 試驗首次在微衛星穩定（MSS）大腸直腸癌取得三期整體存活期突破，為冷腫瘤微環境重塑樹立新典範。",
-          "cta": "後續觀察：靶向 PD-(L)1/VEGF 單一分子雙特異性抗體於消化道腫瘤三期試驗之療效與安全性數據",
-          "footer": "資料來源：Laliotis et al. ESMO / Cancer treatment reviews (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從被動等待特異性血尿症狀\n邁向電子病歷主動式風險分層",
+          "summary": "全球每年約有 22 萬人死於膀胱癌，早期發現是決定存活率的關鍵。此項 AI 技術不需額外昂貴的分子檢測，僅憑現有醫療系統中的電子健康紀錄即可精準分流高風險患者，並避免低風險族群接受非必要的侵入性檢查。",
+          "cta": "後續觀察：該 AI 預警系統整合至基層醫療轉診流程後對早期膀胱癌確診率與膀胱鏡使用率之影響",
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "病理反應評估",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.1016/j.jtho.2026.106265",
-      "original_title": "IASLC Multidisciplinary Recommendations for Assessment and Reporting of Lymph Node Treatment Response in Lung Cancer Resection Specimens After Neoadjuvant Therapy.",
+      "category": "RAS 標靶聯合治療",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSFZaaURaZkN4dzJ4c2YybE9OWHhXUXVyZ2kzbU84ajQ3UVk1UUFvOElkWEt5TFVndktkYWJxNXozNzlOeVI4MmJ0UFdaZ1NUMUdXUzFMVkZvQVNp?oc=5",
+      "original_title": "Metastatic pancreatic cancer responds well to initial treatment with combination of daraxonrasib and chemotherapy - EurekAlert!",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【WCLC / IASLC 國際共識指南：肺癌術前前導性治療後切除檢體之區域淋巴結病理反應評估標準化建議】\n\n國際肺癌研究協會（IASLC / WCLC）於官方旗艦期刊《Journal of Thoracic Oncology》（JTO）正式發布跨學科專家共識指南，針對肺癌接受術前前導性治療（Neoadjuvant therapy）後手術切除檢體中之「區域淋巴結（Regional lymph nodes, LNs）治療反應評估與報告」建立全球統一標準。儘管原發腫瘤的病理反應（Pathologic response, PR）已廣泛作為臨床試驗替代終點，過去針對區域淋巴結轉移灶的退縮評估卻始終缺乏標準化規範。\n\n■ 研究核心發現與共識標準：\n1. 德爾菲法共識：由 IASLC 核心病理專家起草聲明，經涵蓋胸腔腫瘤內科、外科、放射科與病理科共 48 位國際權威專家進行兩輪德爾菲法（Delphi process）投票（預設共識門檻為 ≥ 85% 同意度），最終 13 項建議全數達成高達 86%–100% 之一致共識。\n2. 嚴格定義 pCR：明確定義病理完全緩解（Pathologic complete response, pCR）必須同時在「肺部原發腫瘤」與「所有取樣區域淋巴結」中皆完全無殘存活性腫瘤細胞（0% Residual viable tumor, RVT）。\n3. 創立 MPR(N+) 分類：針對原發腫瘤部位殘存活性腫瘤 ≤ 10%（已達主要病理緩解標準），但區域淋巴結仍存在殘存腫瘤細胞之案例，正式導入「MPR(N+)」全新病理分類，並規範須定量評估淋巴結內之 RVT、基質（Stroma）與壞死（Necrosis）比例。\n\n■ 臨床轉譯與研究展望：\n此項 IASLC 國際共識消除了各中心對前導性免疫或標靶治療後淋巴結病理判讀的異質性，特別是 MPR(N+) 的設立，將有助於精準量化淋巴結殘存病灶對術後無事件存活期（EFS）之獨立預後影響。\n\n■ 資料來源 (References)：\n1. Berezowska S, Dacic S, Weissferdt A, Cooper WA, Wynes MW, Wistuba II, et al. IASLC Multidisciplinary Recommendations for Assessment and Reporting of Lymph Node Treatment Response in Lung Cancer Resection Specimens After Neoadjuvant Therapy. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106265\n2. WCLC (世界肺癌大會 / IASLC) / JTO. IASLC Multidisciplinary Recommendations for Assessment and Reporting of Lymph Node Treatment Response in Lung Cancer Resection Specimens After Neoadjuvant Therapy.. https://doi.org/10.1016/j.jtho.2026.106265\n\n#WCLC #IASLC #JTO #肺癌前導性治療 #病理完全緩解 #淋巴結病理評估",
+      "caption": "【轉移性胰臟癌一線治療突破：新型 RAS 抑制劑 Daraxonrasib 合併化療展現初步療效】\n根據最新公布的臨床研究訊號，針對預後極差的轉移性胰臟癌（Metastatic Pancreatic Cancer），在初始一線治療（Initial Treatment）中採用新型標靶藥物 Daraxonrasib 合併標準化學治療，展現出良好的腫瘤治療反應。胰臟導管腺癌長期受限於高度致密的腫瘤基質與超過 90% 的 KRAS 基因突變率，傳統單純化療的反應率與無惡化存活期皆面臨瓶頸，此項聯合治療策略為晚期胰臟癌帶來重要契機。\n\n■ 核心作用機制：\n1. 靶向核心驅動：Daraxonrasib 為針對 RAS 訊號傳導路徑設計之新型小分子抑制劑，旨在直接阻斷胰臟癌最關鍵的致癌驅動訊號。\n2. 一線協同增效：將 Daraxonrasib 前推至轉移性胰臟癌的初始一線治療，與細胞毒性化學治療藥物併用，透過雙重機制作業克服原發性抗藥性。\n3. 臨床初步反應：臨床觀察顯示，轉移性胰臟癌患者對此靶向合併化療之初始治療方案耐受性良好，並表現出積極的客觀腫瘤緩解反應。\n\n■ 臨床轉譯與研究展望：\n過去針對 RAS 突變胰臟癌的標靶藥物多在後線單藥治療中進行測試，往往受限於旁路活化而迅速產生抗藥性。將 Daraxonrasib 結合化療直接用於轉移性胰臟癌的初始治療，不僅驗證了早期雙重阻斷的可行性，更為後續隨機對照三期臨床試驗奠定基礎。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Metastatic pancreatic cancer responds well to initial treatment with combination of daraxonrasib and chemotherapy - EurekAlert!. https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSFZaaURaZkN4dzJ4c2YybE9OWHhXUXVyZ2kzbU84ajQ3UVk1UUFvOElkWEt5TFVndktkYWJxNXozNzlOeVI4MmJ0UFdaZ1NUMUdXUzFMVkZvQVNp?oc=5\n\n#轉移性胰臟癌 #Daraxonrasib #RAS抑制劑 #標靶合併化療 #胰臟癌研究 #一線治療 #精準腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "WCLC / IASLC 國際共識",
-          "headline": "肺癌前導治療後淋巴結評估\n48 位國際專家達成共識\n首度確立 MPR(N+) 新分類",
-          "subheadline": "《Journal of Thoracic Oncology》發布 13 項區域淋巴結病理反應標準",
-          "meta_badge": "研究設計：跨學科兩輪德爾菲法國際專家共識",
-          "footer": "資料來源：Berezowska et al. WCLC / Journal of thoracic oncology : o"
+          "tag": "腫瘤學會臨床研究訊號",
+          "headline": "轉移性胰臟癌一線新突破\nDaraxonrasib 合併標準化療\n初始治療展現良好腫瘤反應",
+          "subheadline": "新型 RAS 路徑標靶藥物聯合化學治療於晚期胰臟癌之臨床療效解析",
+          "meta_badge": "研究焦點：轉移性胰臟癌初始一線聯合治療",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估規範",
-          "headline": "IASLC 跨學科專家委員會\n如何標準化淋巴結病理反應判讀？",
+          "tag": "作用機制",
+          "headline": "Daraxonrasib 合併化學治療如何克服\n轉移性胰臟癌的高度治療抗性？",
           "points": [
-            "嚴謹共識程序：召集全球 48 位胸腔腫瘤、外科、放射與病理專家，以 ≥85% 同意度為門檻完成兩輪德爾菲投票",
-            "高一致通過率：針對大體檢視與顯微鏡下淋巴結評估之 13 項核心建議，全數達成 86% 至 100% 高度共識",
-            "組織成分定量：規範病理報告須系統性估算治療後淋巴結內之殘存活性腫瘤（RVT）、纖維化基質與壞死組織比例"
+            "阻斷核心訊號：Daraxonrasib 精準靶向胰臟癌最主要的 RAS 致癌依賴路徑，抑制腫瘤細胞的異常增殖訊號",
+            "化療協同作用：搭配標準細胞毒性化療同步攻擊分裂中的癌細胞，降低單一標靶治療早期出現代償性逃逸的機率",
+            "前推一線介入：於轉移性胰臟癌尚未歷經多線藥物篩選出複雜抗藥株前，在初始治療階段即給予高強度聯合壓制"
           ],
-          "footer": "資料來源：Berezowska et al. WCLC / Journal of thoracic oncology : o"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "核心定義",
-          "headline": "重新界定病理完全緩解\n與淋巴結殘存病灶之分級標準",
+          "tag": "臨床表現",
+          "headline": "初始聯合治療臨床反應積極\n為難治型消化道腫瘤開啟新局",
           "points": [
-            "雙重清零標準：明確定義病理完全緩解（pCR）為肺部原發灶與所有檢驗淋巴結均完全無殘存活性腫瘤（RVT = 0%）",
-            "導入 MPR(N+)：針對原發腫瘤 RVT ≤ 10% 但淋巴結仍有殘存癌細胞者，建立 MPR(N+) 專屬次分類以利風險分層",
-            "統一試驗終點：解決過往臨床試驗僅聚焦原發腫瘤而忽略區域淋巴結退縮程度差異之替代終點偏誤"
+            "目標患者族群：鎖定臨床治療選擇極為有限、預後最差的初診斷轉移性胰臟癌（Metastatic Pancreatic Cancer）患者",
+            "良好初始反應：臨床數據顯示患者接受 Daraxonrasib 與化療聯合方案作為初始治療後，腫瘤呈現良好的緩解反應",
+            "可行性獲驗證：證實新型標靶藥物與標準化療在一線臨床情境下併用的安全性與治療可行性，支持擴大試驗規模"
           ],
-          "footer": "資料來源：Berezowska et al. WCLC / Journal of thoracic oncology : o"
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從原發腫瘤單一維度評估\n邁向原發灶與淋巴結雙重精準分期",
-          "summary": "隨著圍手術期免疫與標靶治療成為可切除肺癌標準療法，病理反應已成為關鍵臨床替代終點。IASLC 透過 13 項共識確立 pCR 雙重清零標準並創設 MPR(N+) 分類，為全球臨床試驗與術後輔助治療決策提供統一的病理度量衡。",
-          "cta": "後續觀察：前瞻性圍手術期肺癌試驗中 MPR(N+) 亞群相較於 MPR(N0) 之無復發存活期差異",
-          "footer": "資料來源：Berezowska et al. WCLC / Journal of thoracic oncology : o"
+          "headline": "從後線單藥挽救治療邁向\n一線標靶合併化療精準打擊",
+          "summary": "轉移性胰臟癌數十年來一線治療高度依賴傳統複方化療。Daraxonrasib 合併化療在初始治療展現的良好反應，標誌著 RAS 標靶療法正式向胰臟癌一線標準治療發起挑戰，有望改寫晚期胰臟癌的臨床治療版圖。",
+          "cta": "後續觀察：Daraxonrasib 聯合化療於轉移性胰臟癌隨機對照試驗之無惡化存活期（PFS）與整體存活期數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "數位病理AI",
-      "source_name": "WCLC (世界肺癌大會 / IASLC) / JTO",
-      "source_url": "https://doi.org/10.1016/j.jtho.2026.106259",
-      "original_title": "Artificial Intelligence in Thoracic Pathology and Biomarker Assessment: An IASLC Pathology Committee Review.",
+      "category": "兒少癌症分子檢測",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWQ2XzV3VDRBNEpBclJoTGFmT1F6QVRhVlp0ZkZjMWlqU2lrLUNLcWZpZXN2aFBKRmxWd2ptYlA1Nlg5eng0UFFmNlVZUHh1M1NRRGI0d2ZPVzhnclQteWJoRWVUY1NBdVk2U0d2LTVyWk9KbmNqcDEwSlhHY0ZyejBlUXpMajU3S2ZfbE5aMWd3M0VKWXpEZWtsUkUzLVJTbGlHTkFQRUtFVDZ3SlBVTFhJU2ZHbGdqdzlrNVhtYnR5b3Z0X2c?oc=5",
+      "original_title": "Expanding the Clinical Impact of Molecular Testing in Pediatric and AYA Cancers - The ASCO Post",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【WCLC / IASLC 病理委員會權威綜述：人工智慧於胸腔病理學與肺癌生物標記評估之演進與臨床轉譯】\n\n國際肺癌研究協會（IASLC / WCLC）病理委員會於官方旗艦期刊《Journal of Thoracic Oncology》（JTO）發表特別綜述，系統性剖析人工智慧（Artificial Intelligence, AI）如何透過高階運算分析全玻片數位影像（Whole-slide images, WSIs），重塑肺癌組織病理診斷、預後風險分層與治療反應預測。研究指出，當前臨床數位病理工具正從高度仰賴人工標註的監督式學習（Supervised learning），快速演進至弱監督與自監督學習（Self-supervised learning, SSL）架構。\n\n■ 核心作用機制與技術演進：\n1. 驅動突變預測：傳統監督式學習利用經標註之全玻片影像（WSIs），不僅能執行腫瘤亞型分類與組織參數定量，更能直接從常規 H&E 染色切片預測 EGFR、KRAS 突變及 ALK 基因重組等驅動基因變異，並量化腫瘤微環境（TME）特徵。\n2. 弱監督與自監督：多重實例學習（Multiple Instance Learning, MIL）與對比學習（Contrastive learning）等弱監督及自監督演算法，大幅降低了對耗時人工像素標註的依賴，並能從組織形態中挖掘出肉眼難以辨識的新型預後形態學特徵。\n3. 空間多體學整合：AI 模型在預測免疫檢查點抑制劑（ICI）療效及術前前導性治療病理反應上展現優異性能；結合空間轉錄組學（Spatial transcriptomics）與多色免疫螢光技術（Multiplex IF），更能進一步解碼複雜的空間生物學並開發新型空間生物標記。\n\n■ 臨床轉譯與研究展望：\nIASLC 病理委員會強調，將自監督深度學習與空間生物學技術整合至常規胸腔病理工作流程，將能以非破壞性、高通量的方式提供精準用藥預測，加速肺癌個人化醫療的普及。\n\n■ 資料來源 (References)：\n1. Le Quesne J, Yuan K, Akram F, Berezowska S, Bubendorf L, Chang WC, et al. Artificial Intelligence in Thoracic Pathology and Biomarker Assessment: An IASLC Pathology Committee Review. Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (WCLC (世界肺癌大會 / IASLC) / JTO). 2026. https://doi.org/10.1016/j.jtho.2026.106259\n2. WCLC (世界肺癌大會 / IASLC) / JTO. Artificial Intelligence in Thoracic Pathology and Biomarker Assessment: An IASLC Pathology Committee Review.. https://doi.org/10.1016/j.jtho.2026.106259\n\n#WCLC #IASLC #JTO #數位病理 #人工智慧醫療 #肺癌生物標記 #空間轉錄組學",
+      "caption": "【ASCO 臨床焦點：全面擴大分子檢測於兒童與年輕成人（AYA）癌症之臨床影響力】\n根據《The ASCO Post》發布之美國臨床腫瘤學會（ASCO）專題解析，分子基因檢測（Molecular Testing）在兒童腫瘤（Pediatric Cancers）以及青少年與年輕成人癌症（Adolescent and Young Adult, AYA Cancers）的臨床診療中，正發揮日益關鍵的決定性作用。與成人常見的上皮細胞癌不同，兒少與 AYA 癌症具有獨特的基因體圖譜與高比例的染色體轉位或生殖細胞突變，擴大全面性分子檢測能顯著提升精準診斷與標靶治療配對率。\n\n■ 研究核心發現：\n1. 獨特分子圖譜：兒童與 AYA 年輕族群癌症較少由長期環境致癌物累積所致，反而頻繁攜帶特異性基因融合（Gene Fusions）、結構變異與罕見驅動突變。\n2. 精準亞型分層：透過次世代定序（NGS）等全面性分子檢測，能將傳統病理組織學難以區分的罕見兒少腫瘤進行精準分子分型，直接修正臨床風險分層。\n3. 擴大治療選擇：整合 DNA 與 RNA 層級的分子檢測可識別出跨癌種的可成藥標靶（Actionable Targets），為復發或難治型兒少患者配對相對應的標靶藥物或臨床試驗。\n\n■ 臨床轉譯與研究展望：\n過去兒童與 AYA 癌症的分子檢測常受限於檢體取得不易或僅針對少數單一基因進行篩檢。隨著檢測技術成熟與臨床共識推進，將廣譜分子剖析納入初診斷與復發階段的常規評估，已成為提升兒少癌症長期存活率並減少傳統高強度化放療遠期副作用的核心關鍵。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Expanding the Clinical Impact of Molecular Testing in Pediatric and AYA Cancers - The ASCO Post. https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWQ2XzV3VDRBNEpBclJoTGFmT1F6QVRhVlp0ZkZjMWlqU2lrLUNLcWZpZXN2aFBKRmxWd2ptYlA1Nlg5eng0UFFmNlVZUHh1M1NRRGI0d2ZPVzhnclQteWJoRWVUY1NBdVk2U0d2LTVyWk9KbmNqcDEwSlhHY0ZyejBlUXpMajU3S2ZfbE5aMWd3M0VKWXpEZWtsUkUzLVJTbGlHTkFQRUtFVDZ3SlBVTFhJU2ZHbGdqdzlrNVhtYnR5b3Z0X2c?oc=5\n\n#ASCO #兒童癌症 #AYA癌症 #分子基因檢測 #次世代定序 #精準醫療 #基因融合",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "WCLC / IASLC 權威綜述",
-          "headline": "全玻片數位病理結合 AI\n直接由組織切片預測肺癌\nEGFR 與 ALK 驅動突變",
-          "subheadline": "IASLC 病理委員會解析自監督學習與空間生物學於胸腔腫瘤之應用",
-          "meta_badge": "研究焦點：胸腔數位病理與免疫生物標記預測",
-          "footer": "資料來源：Le et al. WCLC / Journal of thoracic oncology : official "
+          "tag": "ASCO 臨床研究解析",
+          "headline": "擴大分子檢測臨床應用\n精準剖析兒童與 AYA 癌症\n全面提升標靶治療配對效益",
+          "subheadline": "The ASCO Post 專題探討分子基因診斷於兒少與年輕成人腫瘤之轉譯價值",
+          "meta_badge": "ASCO 焦點：兒童與年輕成人 (AYA) 癌症分子診斷",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "演算法演進",
-          "headline": "從監督式學習到自監督模型\n如何解碼肺癌全玻片數位影像？",
+          "tag": "檢測核心",
+          "headline": "兒童與年輕成人（AYA）癌症之基因體\n為何需要全面性的分子檢測策略？",
           "points": [
-            "監督式影像分析：基於標註之全玻片影像（WSIs），自動化執行肺癌亞型分類、組織參數定量與微環境特徵評估",
-            "多重實例學習：運用弱監督（MIL）與自監督對比學習（SSL），免除繁瑣人工標註並挖掘未知之預後形態學特徵",
-            "空間生物學解碼：整合空間轉錄組學與多色免疫螢光影像，透過深度學習解析腫瘤與免疫細胞之空間交互作用"
+            "驅動變異特異：兒少與 AYA 腫瘤罕見成人常見的點突變，反而高度富集染色體轉位、基因融合與表觀遺傳調控異常",
+            "突破病理限制：許多軟組織肉瘤與中樞神經系統腫瘤在傳統顯微鏡下形態相似，需仰賴分子標記才能確立正確診斷",
+            "生殖細胞評估：年輕患者攜帶遺傳性癌症易感基因突變的比例較高，分子檢測能同步提供家族遺傳風險與治療指引"
           ],
-          "footer": "資料來源：Le et al. WCLC / Journal of thoracic oncology : official "
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床應用",
-          "headline": "AI 數位病理於驅動基因篩檢\n與免疫療效預測之核心價值",
+          "tag": "臨床影響",
+          "headline": "從診斷分期到個體化標靶配對\n分子檢測全方位改寫兒少腫瘤臨床決策",
           "points": [
-            "驅動基因預篩：直接從常規病理影像預測 EGFR、KRAS 突變與 ALK 基因重組狀態，輔助分子檢測資源配置",
-            "免疫療效預測：量化腫瘤微環境中淋巴球空間分布，高準確度預測免疫檢查點抑制劑（ICI）之臨床反應",
-            "前導病理反應：精準評估並預測肺癌患者接受術前前導性治療後之主要病理緩解（MPR）與預後轉歸"
+            "精準風險分層：依據特異性分子標記重新界定預後風險，避免低風險年輕患者承受過度強化療帶來的長期器官毒性",
+            "跨癌種標靶配對：識別如 NTRK、ALK、BRAF 等跨癌種驅動變異，使罕見兒少癌症也能受惠於最新核准之籃型標靶藥物",
+            "拓展試驗機會：擴大分子檢測普及率能協助復發或難治型 AYA 患者精準對接生物標記導向之早期創新臨床試驗"
           ],
-          "footer": "資料來源：Le et al. WCLC / Journal of thoracic oncology : official "
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "從主觀形態學判讀邁向\n高通量運算病理與空間生物標記",
-          "summary": "IASLC 病理委員會指出，自監督學習（SSL）與多重實例學習（MIL）已突破數位病理標註瓶頸。結合全玻片影像與空間多體學，AI 不僅能無創預測 EGFR/ALK 等關鍵驅動基因變異，更能精準量化免疫微環境以預測免疫治療反應。",
-          "cta": "後續觀察：跨國多中心前瞻性臨床試驗中 AI 數位病理生物標記之標準化驗證與法規取證進度",
-          "footer": "資料來源：Le et al. WCLC / Journal of thoracic oncology : official "
+          "tag": "臨床轉譯意義",
+          "headline": "從傳統組織形態學分類邁向\n全基因體導向之兒少精準腫瘤學",
+          "summary": "兒童與 AYA 年輕成人癌症患者擁有漫長的預期餘命，治療策略必須兼顧高治癒率與低遠期後遺症。ASCO 強調擴大分子檢測的臨床影響力，旨在讓每一位年輕患者都能在疾病早期獲得最精確的分子診斷與低毒性標靶治療機會。",
+          "cta": "後續觀察：全外顯子與轉錄體定序納入兒少與 AYA 癌症一線常規標準診療指引之全球普及率與長期存活效益",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
     }
