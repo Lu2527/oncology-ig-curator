@@ -1,268 +1,268 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T12:10:34.270878+08:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T15:10:50.398991+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "神經內分泌腫瘤微環境",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth",
-      "original_title": "NIH-funded study suggests that testosterone suppresses brain tumor growth in males",
+      "category": "抗藥性演化",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/2159-8290.CD-26-0390",
+      "original_title": "Clinical acquired resistance to mutant-selective PI3Kα inhibition.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【Nature 重磅研究：雄性激素流失經由 HPA 軸活化加速膠質母細胞瘤生長】\n由美國國家衛生院（NIH）資助、克里夫蘭診所（Cleveland Clinic）研究團隊發表於《Nature》的最新研究，揭示了雄性激素（Androgens）如睪固酮（Testosterone）在抑制男性腦瘤生長中的關鍵調控機制。研究透過膠質母細胞瘤（Glioblastoma, GBM）臨床前模型與逾 1,300 名男性患者之臨床數據分析，證實雄性激素流失會誘導局部發炎反應並活化下視丘-腦下垂體-腎上腺軸（HPA axis），進而加速腫瘤惡化；反之，補充睪固酮則與整體存活期（OS）顯著延長相關。\n\n■ 核心作用機制：\n1. 激素剝奪效應：在膠質母細胞瘤臨床前模型中，雄性激素（如睪固酮）的流失並非維持中性狀態，而是直接成為驅動腦瘤加速生長的關鍵促癌因子。\n2. 壓力軸線活化：雄性激素缺失會誘發腫瘤微環境局部發炎反應，並進一步觸發下視丘-腦下垂體-腎上腺軸（HPA axis）活化，促使壓力荷爾蒙大量分泌。\n3. 臨床存活驗證：回溯分析超過 1,300 名男性膠質母細胞瘤患者之臨床數據顯示，接受睪固酮補充治療與患者整體存活期（Overall Survival）顯著改善呈正相關。\n\n■ 臨床轉譯與研究展望：\n過去針對膠質母細胞瘤性別差異的探討多聚焦於男性發病率較高之現象，本研究則顛覆傳統認知，證實生理濃度的睪固酮在男性體內具有抑制腦瘤進展的保護作用。未來透過調控神經內分泌與 HPA 壓力荷爾蒙軸線，有望為高度惡性腦瘤開闢全新的輔助治療策略。\n\n■ 資料來源 (References)：\n1. Lee J, Chung YM, Silver DJ, Hao Y, Harwood DSL, Ealy A, et al. Androgen loss accelerates brain tumour growth via HPA axis activation. Nature. 2026. https://doi.org/10.1038/s41586-026-10451-5\n2. National Cancer Institute (NCI). NIH-funded study suggests that testosterone suppresses brain tumor growth in males. https://www.cancer.gov/news-events/press-releases/2026/study-suggests-testosterone-suppresses-brain-tumor-growth\n\n#膠質母細胞瘤 #Glioblastoma #腫瘤微環境 #神經內分泌 #HPA軸 #Nature論文 #腦瘤研究",
+      "caption": "【AACR 旗艦期刊揭露突變選擇性 PI3Kα 抑制劑之臨床後天抗藥性演化圖譜與雙位點協同克服策略】\n\n發表於美國癌症研究協會（AACR）官方旗艦期刊《Cancer Discovery》的最新轉譯研究，針對接受異位（allosteric）突變選擇性 PI3Kα 抑制劑 RLY-2608（zovegalisib）或 STX-478（tersolisib）治療之 PIK3CA 突變荷爾蒙受體陽性轉移性乳癌（HR+ MBC）患者，進行序列循環腫瘤 DNA（ctDNA）液態切片剖析。研究團隊深入探討此類新型高選擇性標靶藥物在臨床應用後所面臨的次發性基因體演化機制，並首度繪製出臨床後天抗藥性分子圖譜。\n\n■ 研究核心發現：\n1. 訊號路徑再活化：在 32 名接受治療的患者中，高達約 70% 於疾病惡化時在 PI3K 訊號傳導路徑內產生後天基因體變異，包含 40% 出現次發性 PIK3CA 突變、30% 發生 PTEN 基因變異，以及 25% 產生 AKT1 活化突變。\n2. 異位結合口袋突變：結構生物學建模與功能性驗證顯示，次發性 PIK3CA 突變高度聚集於藥物的異位結合口袋（allosteric binding-pocket），此突變位點與傳統正位（orthosteric）PI3Kα 抑制劑所誘導的抗藥性位點截然不同，且兩者之間不具交叉抗藥性。\n3. 雙位點協同抑制：在體外細胞與體內動物模型中，合併使用正位與異位 PI3Kα 抑制劑能有效阻斷抗藥性細胞株（resistant clones）的篩選與擴增，展現出顯著的協同抑癌效應。\n\n■ 臨床轉譯與研究展望：\n此項研究不僅界定了突變選擇性 PI3Kα 抑制劑的臨床抗藥性演化頻譜，更證實正位與異位抑制劑具備互補之結構藥理學特性，為未來設計雙位點聯合標靶策略以延緩或逆轉 HR+ 轉移性乳癌抗藥性奠定關鍵分子基礎。\n\n■ 資料來源 (References)：\n1. Varkaris A, Fece de la Cruz F, Okuma HS, Norden BL, Morales-Giron AA, Kim JS, et al. Clinical acquired resistance to mutant-selective PI3Kα inhibition. Cancer discovery (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/2159-8290.CD-26-0390\n2. AACR (美國癌症研究協會) / Cancer Discovery. Clinical acquired resistance to mutant-selective PI3Kα inhibition.. https://doi.org/10.1158/2159-8290.CD-26-0390\n\n#AACR #CancerDiscovery #轉移性乳癌 #PI3K抑制劑 #抗藥性演化 #液態切片 #精準腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "Nature 基礎與轉譯研究",
-          "headline": "雄性激素流失活化壓力軸\n加速男性膠質母細胞瘤生長\n補充睪固酮顯著延長存活期",
-          "subheadline": "解析下視丘-腦下垂體-腎上腺軸（HPA axis）與腦瘤微環境之調控機制",
-          "meta_badge": "研究焦點：逾 1,300 例男性 GBM 臨床與動物模型",
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "tag": "AACR 抗藥性研究",
+          "headline": "突變選擇性 PI3Kα 抑制劑\n於轉移性乳癌之臨床抗藥圖譜\n七成源於同路徑次發性突變",
+          "subheadline": "透過序列 ctDNA 解析 RLY-2608 與 STX-478 後天抗藥機制與協同克服策略",
+          "meta_badge": "研究焦點：HR+ 轉移性乳癌 ctDNA 追蹤",
+          "footer": "資料來源：Varkaris et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "雄性激素缺失如何透過神經內分泌\n重塑膠質母細胞瘤之促癌微環境？",
+          "headline": "異位突變選擇性抑制劑\n如何誘導獨特的抗藥性結構變異？",
           "points": [
-            "激素流失促癌：臨床前模型證實睪固酮等雄性激素流失會解除對腦瘤的生長限制，直接驅動腫瘤增殖",
-            "局部發炎誘導：雄性激素下降會顯著改變中樞神經系統免疫微環境，誘發局部慢性發炎反應",
-            "HPA 軸線激活：發炎訊號進一步活化下視丘-腦下垂體-腎上腺軸，刺激壓力荷爾蒙分泌以加速腫瘤惡化"
+            "液態切片追蹤：分析 32 名接受 RLY-2608 或 STX-478 治療之 PIK3CA 突變乳癌患者序列 ctDNA",
+            "異位口袋突變：次發性 PIK3CA 突變聚集於異位結合口袋，與傳統正位抑制劑抗藥位點完全不同",
+            "無交叉抗藥性：結構建模與功能測試證實，異位與正位 PI3Kα 抑制劑之間不具交叉抗藥性表型"
           ],
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "footer": "資料來源：Varkaris et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "跨物種實驗與大型臨床世代驗證\n內分泌調控對腦瘤預後之實質影響",
+          "tag": "研究數據",
+          "headline": "臨床抗藥基因體變異分布\n與雙位點協同抑癌驗證數據",
           "points": [
-            "大型世代分析：納入超過 1,300 名男性膠質母細胞瘤患者之真實世界臨床數據進行生存相關性評估",
-            "存活效益顯著：數據顯示接受外源性睪固酮補充之男性患者，其整體存活期（OS）獲得統計學上顯著改善",
-            "轉譯高度一致：人類大型世代之存活分析結果與臨床前動物模型之荷爾蒙調控實驗結論高度吻合"
+            "路徑內再活化：約 70% 患者於惡化時產生 PI3K 路徑內基因變異，維持對該下游訊號的高度依賴",
+            "次發突變比例：抗藥變異涵蓋 40% 次發性 PIK3CA 突變、30% PTEN 變異及 25% AKT1 突變",
+            "雙藥協同效應：正位與異位 PI3Kα 抑制劑併用可抑制抗藥株演化，於體內外模型展現高度協同性"
           ],
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "footer": "資料來源：Varkaris et al. AACR / Cancer discovery (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "打破性別荷爾蒙單一促癌迷思\n開啟神經內分泌腦瘤標靶新視角",
-          "summary": "本研究首次在分子層級釐清雄性激素流失與 HPA 壓力軸活化在男性膠質母細胞瘤中的致病角色。不僅解釋了中老年男性隨睪固酮衰退而面臨的腦瘤惡化風險，更提供阻斷壓力荷爾蒙訊號或維持內分泌平衡之創新治療方向。",
-          "cta": "後續觀察：靶向 HPA 軸壓力荷爾蒙受體合併標準放化療於男性 GBM 患者之前瞻性臨床試驗設計",
-          "footer": "資料來源：Lee et al. Nature (2026)"
+          "tag": "臨床轉譯意義",
+          "headline": "從單一位點標靶抑制邁向\n正異位雙重封鎖的抗藥克服策略",
+          "summary": "異位突變選擇性 PI3Kα 抑制劑雖大幅降低高血糖等傳統毒性，但高達七成患者仍透過次發性異位口袋突變或下游 PTEN/AKT1 變異重啟訊號。藉由正位與異位抑制劑無交叉抗藥之特性進行雙重標靶封鎖，為克服臨床抗藥性提供極具潛力的轉譯方向。",
+          "cta": "後續觀察：正位與異位 PI3Kα 抑制劑聯合療法於早期臨床試驗之安全性與抗藥抑制成效",
+          "footer": "資料來源：Varkaris et al. AACR / Cancer discovery (2026)"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "表觀遺傳致癌機制",
-      "source_name": "National Cancer Institute (NCI)",
-      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk",
-      "original_title": "Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk",
+      "category": "腫瘤微環境",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-0498",
+      "original_title": "Spatial profiling of primary CRC and synchronous lung and liver metastases identifies a liver-specific stromal niche associated with immune exclusion.",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【Nature 揭示發炎性腸道疾病致癌機制：慢性發炎於腸道幹細胞留下表觀遺傳記憶】\n由美國國家衛生院（NIH）資助並發表於頂尖期刊《Nature》的研究，深入剖析了慢性腸道發炎（如潰瘍性結腸炎）如何長期提高大腸直腸癌（Colorectal Cancer, CRC）的發生風險。研究團隊透過小鼠慢性結腸炎模型，追蹤腸道組織在發炎期與組織修復期的動態變化，發現反覆的黏膜損傷會在腸道幹細胞（Intestinal Stem Cells）中建立持久的「表觀遺傳記憶（Epigenetic Memory）」，即便發炎消退後仍持續活化 AP-1 轉錄因子家族，進而促進腫瘤生成。\n\n■ 核心作用機制：\n1. 表觀遺傳記憶：反覆發作的慢性結腸炎會改變腸道幹細胞的染色質結構，即使在黏膜組織完全修復、發炎緩解後，這些表觀遺傳印記依然長期留存。\n2. 轉錄因子活化：上述表觀遺傳改變會持續增強 AP-1（Activator Protein-1）轉錄因子蛋白家族的轉錄活性，使幹細胞處於高度增殖與易致癌狀態。\n3. 驅動腫瘤生長：當攜帶發炎記憶的腸道幹細胞遭遇後續基因突變時，持續活化的 AP-1 路徑會顯著加速腺瘤形成與大腸直腸癌的惡性演進。\n\n■ 臨床轉譯與研究展望：\n儘管臨床上早已確立慢性發炎與癌症的關聯，但對於發炎消退後致癌風險為何居高不下始終缺乏定論。本研究證實「表觀遺傳記憶」是連結慢性結腸炎與大腸直腸癌的分子橋樑，未來針對 AP-1 轉錄複合體或表觀遺傳修飾的干預策略，有望成為高風險族群的化學預防新標的。\n\n■ 資料來源 (References)：\n1. Nagaraja S, Ojeda-Miron L, Zhang R, Oreskovic E, Hock C, Hu Y, et al. Epigenetic memory of colitis promotes tumour growth. Nature. 2026. https://doi.org/10.1038/s41586-026-10258-4\n2. National Cancer Institute (NCI). Chronic inflammation leaves long-lasting impression on gut stem cells, increasing colorectal cancer risk. https://www.cancer.gov/news-events/press-releases/2026/chronic-inflammation-increased-colorectal-cancer-risk\n\n#大腸直腸癌 #表觀遺傳學 #腸道幹細胞 #慢性發炎 #AP1轉錄因子 #Nature研究 #腫瘤生物學",
+      "caption": "【AACR 臨床癌症研究揭示微衛星穩定大腸直腸癌肝轉移之特異性基質壁龕與免疫排斥機制】\n\n發表於美國癌症研究協會（AACR）旗下期刊《Clinical Cancer Research》的研究，針對微衛星穩定型大腸直腸癌（MSS CRC）肝轉移對免疫檢查點抑制劑（ICT）產生高度抗藥性的臨床難題進行空間生物學剖析。研究團隊對 MSS CRC 患者的原發腫瘤、同步性（synchronous）肝轉移與肺轉移病灶，進行空間轉錄體定序（spatial transcriptomic profiling）與多重免疫螢光染色，並結合 TCGA-COAD/READ 世代數據評估其臨床預後意義。\n\n■ 核心作用機制：\n1. 肝臟特異性纖維化壁龕：空間分析顯示，肝轉移病灶展現出高度緻密的纖維化微環境，其中富集了活化型肝星狀細胞（activated hepatic stellate cells, aHSCs）以及表現 MRC1+/SPP1+ 的免疫抑制型巨噬細胞，並伴隨 CXCL12-CXCR4 趨化因子訊號顯著上升。\n2. 效應 T 細胞空間排斥：在肝轉移病灶中，與基質相關的免疫排斥作用將效應 T 細胞（effector T cells）阻擋於腫瘤核心（tumor core）之外，使其僅能侷限於腫瘤浸潤邊緣（invasive margin）。\n3. 器官特異性微環境對比：相較於肝轉移的緻密免疫排斥壁龕，同一患者的同步性肺轉移病灶則呈現稀疏的基質結構，並允許免疫細胞均勻浸潤至腫瘤內部。\n\n■ 臨床轉譯與研究展望：\n本研究從空間體學維度證實器官特異性微環境（organ-specific microenvironment）是決定轉移病灶免疫表型的關鍵，未來針對 MSS CRC 肝轉移的免疫聯合療法，必須同時靶向 aHSCs、SPP1+ 巨噬細胞或 CXCL12-CXCR4 軸線以瓦解基質物理與生化屏障。\n\n■ 資料來源 (References)：\n1. Basu S, Anandappa G, Jindal S, Liu W, He Z, Chen Y, et al. Spatial profiling of primary CRC and synchronous lung and liver metastases identifies a liver-specific stromal niche associated with immune exclusion. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-0498\n2. AACR (美國癌症研究協會) / Cancer Discovery. Spatial profiling of primary CRC and synchronous lung and liver metastases identifies a liver-specific stromal niche associated with immune exclusion.. https://doi.org/10.1158/1078-0432.CCR-26-0498\n\n#AACR #大腸直腸癌 #肝轉移 #腫瘤微環境 #空間轉錄體 #免疫排斥 #癌症免疫治療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "Nature 表觀遺傳學研究",
-          "headline": "慢性腸道發炎重塑幹細胞\n留下持久表觀遺傳記憶\n持續活化 AP-1 促大腸癌生長",
-          "subheadline": "解析結腸炎反覆損傷與修復過程中驅動大腸直腸癌發生之分子機制",
-          "meta_badge": "研究焦點：腸道幹細胞表觀遺傳記憶與 AP-1 路徑",
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "tag": "AACR 空間體學研究",
+          "headline": "空間轉錄體解構大腸直腸癌\n同步肝肺轉移之微環境差異\n揭開肝轉移免疫排斥基質壁龕",
+          "subheadline": "活化肝星狀細胞與 SPP1+ 巨噬細胞透過 CXCL12-CXCR4 阻斷 T 細胞浸潤",
+          "meta_badge": "研究設計：原發與同步肝肺轉移空間體學分析",
+          "footer": "資料來源：Basu et al. AACR / Clinical cancer research : an official"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "慢性結腸炎消退且黏膜修復後\n為何腸道幹細胞仍具備高致癌潛能？",
+          "headline": "肝臟特異性基質微環境\n如何構築排斥 T 細胞的免疫屏障？",
           "points": [
-            "損傷記憶留存：模擬慢性結腸炎之反覆發炎與修復週期，證實腸道幹細胞在組織癒合後仍保留特定的表觀遺傳改變",
-            "AP-1 持續激活：表觀遺傳重編程專一性地提高 AP-1 轉錄因子蛋白群的活性，維持下游促增殖基因的開放狀態",
-            "協同加速致癌：在 AP-1 持續活化的表觀遺傳背景下，腸道上皮細胞對致癌訊號高度敏感，顯著加速腫瘤生成"
+            "纖維化基質壁龕：肝轉移病灶富含活化型肝星狀細胞 (aHSCs)，形成高度緻密的纖維化物理與生化屏障",
+            "免疫抑制細胞群：微環境內大量聚集 MRC1+/SPP1+ 免疫抑制型巨噬細胞，重塑局部抗炎與促腫瘤狀態",
+            "趨化軸線異常：CXCL12-CXCR4 訊號顯著上調，將效應 T 細胞限制於浸潤邊緣而無法進入腫瘤核心"
           ],
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "footer": "資料來源：Basu et al. AACR / Clinical cancer research : an official"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "實驗驗證",
-          "headline": "動態追蹤發炎與修復週期\n確立表觀遺傳印記對腫瘤生長之影響",
+          "headline": "同步性肝轉移與肺轉移病灶\n在空間免疫浸潤上呈現何種差異？",
           "points": [
-            "動態週期模擬：於小鼠模型中精準模擬慢性結腸炎的發炎期與恢復期，全程追蹤結腸上皮幹細胞之分子演變",
-            "跨期活性維持：實驗證實即便腸道組織在組織學上已恢復正常，AP-1 相關染色質可及性依然維持異常高點",
-            "腫瘤負荷增加：帶有結腸炎表觀遺傳記憶的小鼠模型，其後續發展出大腸直腸腫瘤的生長速度與負荷量顯著提升"
+            "配對空間剖析：結合空間轉錄體與多重免疫螢光技術，精準比對同一患者之原發灶與同步肝、肺轉移",
+            "肺轉移均勻浸潤：相較於肝轉移的核心免疫排斥，同步肺轉移展現稀疏基質結構與均勻的免疫細胞浸潤",
+            "臨床預後關聯：結合 TCGA-COAD/READ 世代存活分析，確認該肝特異性基質特徵與不良預後高度相關"
           ],
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "footer": "資料來源：Basu et al. AACR / Clinical cancer research : an official"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從單純控制急性發炎邁向\n逆轉幹細胞表觀遺傳致癌記憶",
-          "summary": "本研究解答了發炎性腸道疾病患者即便達到臨床黏膜癒合，其大腸直腸癌風險依然偏高的分子成因。藉由鎖定腸道幹細胞的「表觀遺傳記憶」與 AP-1 轉錄因子活性，為癌症早期的分子阻斷與風險評估提供了明確的生物標記。",
-          "cta": "後續觀察：靶向抑制 AP-1 轉錄活性或清除表觀遺傳記憶於慢性結腸炎患者之防癌轉譯研究",
-          "footer": "資料來源：Nagaraja et al. Nature (2026)"
+          "tag": "學術意義與展望",
+          "headline": "從腫瘤內在基因特徵邁向\n器官特異性轉移微環境標靶干預",
+          "summary": "微衛星穩定型大腸直腸癌（MSS CRC）一旦發生肝轉移，對免疫檢查點抑制劑反應極差。本研究證實這種抗藥性並非單純源於癌細胞本身，而是由肝臟特有的 aHSCs 與 SPP1+ 巨噬細胞基質壁龕所主導的空間免疫排斥所致。",
+          "cta": "後續觀察：靶向 CXCL12-CXCR4 軸線或基質重塑藥物合併免疫療法於 MSS CRC 肝轉移之療效",
+          "footer": "資料來源：Basu et al. AACR / Clinical cancer research : an official"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "智慧醫療早期檢測",
-      "source_name": "ScienceDaily Cancer News",
-      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
-      "original_title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "category": "放射與局部鞏固",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1200/JCO-25-02395",
+      "original_title": "Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002).",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【IEEE TBME 研究突破：AI 結合群體智慧演算法提前 5 年精準捕捉膀胱癌早期警訊】\n由英國普利茅斯大學（University of Plymouth）研究團隊發表於《IEEE Transactions on Biomedical Engineering》的最新研究，開發出一款結合進階特徵工程（Advanced Feature Engineering）與群體智慧優化演算法（Swarm Intelligence Optimization）的人工智慧系統。該系統透過分析近 70,000 名患者的電子健康紀錄（EHRs），成功在正式確診前長達 5 年即識別出隱藏的膀胱癌早期臨床警訊，整體檢出率高達 85%。\n\n■ 研究核心發現：\n1. 臨床鑑別困境：膀胱癌全球每年導致約 22 萬人死亡，其典型早期症狀為肉眼可見之血尿（Hematuria），但常與腎結石或攝護腺良性疾病高度重疊，導致早期轉診與確診困難。\n2. 演算法特徵提取：研究團隊運用群體智慧優化與進階特徵工程技術，深度挖掘電子健康紀錄中看似無關的症狀組合、共病症、危險因子及就醫頻率等微細縱向模式。\n3. 大規模驗證成效：在涵蓋近 70,000 名患者的大型世代研究中，該 AI 工具能提前至診斷前 5 年捕捉到早期訊號，並準確識別出 85% 的膀胱癌病例。\n\n■ 臨床轉譯與研究展望：\n傳統膀胱癌篩檢往往依賴侵入性的膀胱鏡檢查，本研究證實透過非侵入性的電子病歷大數據分析，即可在無明顯特異症狀前精準鎖定高風險族群，不僅有助於將治療時間窗大幅前移，更能減少非必要之侵入性檢查負擔。\n\n■ 資料來源 (References)：\n1. Wang X, Preston A, Aning J, Loizou M, Zhou SM. Early Detection of Bladder Cancer Using Advanced Feature Engineering and Swarm Intelligence Optimization on EHRs. IEEE Transactions on Biomedical Engineering. 2026. https://doi.org/10.1109/tbme.2026.3658230\n2. ScienceDaily Cancer News. AI uncovers hidden bladder cancer warning signs years before diagnosis. https://www.sciencedaily.com/releases/2026/11/261120075604.htm\n\n#膀胱癌 #人工智慧醫療 #早期癌症檢測 #電子健康紀錄 #群體智慧演算法 #泌尿腫瘤學 #精準醫療",
+      "caption": "【ASCO 旗艦期刊公布 NRG-LU002 隨機二期試驗：探討寡轉移非小細胞肺癌局部鞏固治療之臨床效益】\n\n發表於美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）的 NRG-LU002 多中心隨機對照二期臨床試驗，旨在評估無驅動基因突變之寡轉移非小細胞肺癌（oligometastatic NSCLC）患者，在第一線全身性治療達到疾病穩定或部分緩解後，於維持性全身治療（maintenance systemic therapy, MST）基礎上加入局部鞏固治療（local consolidative therapy, LCT，包含放射治療與/或手術）之臨床價值。\n\n■ 研究核心發現：\n1. 試驗設計與收案特徵：自 2017 年 4 月至 2021 年 11 月，於 68 個醫療中心共納入 215 名經四個療程一線治療後殘存不超過 3 個顱外轉移病灶（不含原發灶）的患者，以 1:2 比例隨機分配至單獨 MST 組（81 人）或 LCT + MST 組（134 人）。中位年齡為 65 歲，78% 為非鱗狀細胞癌，高達 90% 接受含免疫治療（IO）為基礎的全身性方案。\n2. 局部鞏固介入模式：試驗允許之局部鞏固治療涵蓋立體定位身體放射治療（SBRT）、低分次放射治療（hypofractionated radiation）以及外科手術切除，並依據組織學型態與是否使用免疫治療進行分層。\n3. 存活終點數據評估：在中位追蹤 21.9 個月後，單獨 MST 組的 1 年與 2 年無惡化存活率（PFS rates）分別為 48.0% 與 35.9%，試驗並同步評估整體存活期（OS）、生活品質與治療相關毒性反應。\n\n■ 臨床轉譯與研究展望：\nNRG-LU002 是免疫治療普及時代下評估寡轉移 NSCLC 局部鞏固治療的重要隨機對照試驗（90% 患者接受 IO 治療），其數據為臨床精準篩選適合接受 SBRT 或手術鞏固之寡轉移族群提供了嚴謹的循證基礎。\n\n■ 資料來源 (References)：\n1. Iyengar P, Hu C, Gomez D, Timmerman R, Simone CB, Robinson C, et al. Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002). Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-25-02395\n2. ASCO (美國臨床腫瘤學會) / JCO. Multicenter Randomized Phase II Trial of Maintenance Systemic Therapy Versus Local Consolidative Therapy Plus Maintenance Systemic Therapy for Limited Metastatic Non-Small Cell Lung Cancer (NRG-LU002).. https://doi.org/10.1200/JCO-25-02395\n\n#ASCO #JCO #非小細胞肺癌 #寡轉移 #局部鞏固治療 #立體定位放射治療 #癌症免疫治療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "IEEE 生物醫學工程研究",
-          "headline": "AI 挖掘電子病歷隱藏特徵\n提前五年預警膀胱癌風險\n大型世代檢出率高達 85%",
-          "subheadline": "結合進階特徵工程與群體智慧優化演算法之非侵入性早期風險預測模型",
-          "meta_badge": "研究設計：近 70,000 名患者電子健康紀錄分析",
-          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+          "tag": "ASCO 臨床試驗更新",
+          "headline": "寡轉移非小細胞肺癌\nNRG-LU002 隨機二期試驗解析\n九成含免疫治療下之局部鞏固評估",
+          "subheadline": "探討立體定位放療或手術加入維持性全身治療對無惡化存活期之影響",
+          "meta_badge": "研究設計：多中心 1:2 隨機對照二期試驗",
+          "footer": "資料來源：Iyengar et al. ASCO / Journal of clinical oncology : offi"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "技術原理",
-          "headline": "群體智慧演算法如何突破血尿混淆\n從常規病歷中識破早期膀胱癌？",
+          "tag": "試驗設計",
+          "headline": "免疫治療時代下的寡轉移肺癌\n如何設計局部鞏固隨機對照試驗？",
           "points": [
-            "症狀重疊挑戰：傳統轉診高度依賴血尿（Hematuria）症狀，但易與腎結石及攝護腺疾病混淆而延誤早期診斷",
-            "進階特徵工程：利用人工智慧跨時間軸檢視電子健康紀錄（EHRs），整合多重非典型症狀、共病與就醫行為軌跡",
-            "群體智慧優化：導入 Swarm Intelligence 優化演算法篩選高權重風險特徵組合，揪出傳統臨床評估忽略的微弱訊號"
+            "嚴格收案標準：納入一線治療四療程後達穩定或部分緩解、且殘存顱外轉移不超過 3 處之 NSCLC 患者",
+            "局部鞏固模式：以 1:2 隨機分配至單獨維持治療 (MST) 或先接受 SBRT/低分次放療/手術 (LCT) 再行 MST",
+            "免疫治療背景：高達 90% 受試者接受含免疫檢查點抑制劑 (IO) 之全身性療法，貼近當代臨床實務"
           ],
-          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+          "footer": "資料來源：Iyengar et al. ASCO / Journal of clinical oncology : offi"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "近七萬例真實世界數據驗證\n大幅推進膀胱癌早期發現時間窗",
+          "tag": "臨床數據",
+          "headline": "NRG-LU002 試驗收案分布\n與無惡化存活期追蹤數據表現",
           "points": [
-            "大型研究規模：納入近 70,000 名患者的縱向電子健康紀錄進行模型訓練與獨立驗證，具備高度真實世界代表性",
-            "高敏感度檢出：在傳統篩檢難以察覺的早期階段，該 AI 系統成功識別出高達 85% 最終確診為膀胱癌的患者",
-            "五年預警潛力：於部分患者病歷中，系統早在臨床正式確診前 5 年即偵測到異常的風險特徵聚落並發出預警"
+            "多中心收案規模：橫跨 68 個中心共招募 215 名患者（81 人單獨 MST 組，134 人 LCT + MST 組）",
+            "患者基線特徵：受試者中位年齡 65 歲，其中 78% 為非鱗狀細胞組織學型態，中位追蹤期達 21.9 個月",
+            "無惡化存活基準：單獨維持性全身治療 (MST) 組之 1 年與 2 年無惡化存活率分別為 48.0% 與 35.9%"
           ],
-          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+          "footer": "資料來源：Iyengar et al. ASCO / Journal of clinical oncology : offi"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從被動等待特異性血尿症狀\n邁向電子病歷主動式風險分層",
-          "summary": "全球每年約有 22 萬人死於膀胱癌，早期發現是決定存活率的關鍵。此項 AI 技術不需額外昂貴的分子檢測，僅憑現有醫療系統中的電子健康紀錄即可精準分流高風險患者，並避免低風險族群接受非必要的侵入性檢查。",
-          "cta": "後續觀察：該 AI 預警系統整合至基層醫療轉診流程後對早期膀胱癌確診率與膀胱鏡使用率之影響",
-          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+          "headline": "在全身性免疫治療基礎上\n重新審視局部鞏固治療之臨床定位",
+          "summary": "過去支持寡轉移肺癌局部鞏固治療（LCT）的證據多建立於化療時代。NRG-LU002 在高達 90% 患者接受免疫治療的現代背景下，以嚴謹的多中心隨機設計評估放療或手術介入的效益與毒性，為寡轉移多專科整合治療提供關鍵指標。",
+          "cta": "後續觀察：不同生物標記次族群於局部鞏固治療後之長期整體存活期（OS）與毒性分析",
+          "footer": "資料來源：Iyengar et al. ASCO / Journal of clinical oncology : offi"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "RAS 標靶聯合治療",
-      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSFZaaURaZkN4dzJ4c2YybE9OWHhXUXVyZ2kzbU84ajQ3UVk1UUFvOElkWEt5TFVndktkYWJxNXozNzlOeVI4MmJ0UFdaZ1NUMUdXUzFMVkZvQVNp?oc=5",
-      "original_title": "Metastatic pancreatic cancer responds well to initial treatment with combination of daraxonrasib and chemotherapy - EurekAlert!",
+      "category": "演化腫瘤學",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
+      "original_title": "Scientists discover that leukemia can begin developing 50 years before diagnosis",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【轉移性胰臟癌一線治療突破：新型 RAS 抑制劑 Daraxonrasib 合併化療展現初步療效】\n根據最新公布的臨床研究訊號，針對預後極差的轉移性胰臟癌（Metastatic Pancreatic Cancer），在初始一線治療（Initial Treatment）中採用新型標靶藥物 Daraxonrasib 合併標準化學治療，展現出良好的腫瘤治療反應。胰臟導管腺癌長期受限於高度致密的腫瘤基質與超過 90% 的 KRAS 基因突變率，傳統單純化療的反應率與無惡化存活期皆面臨瓶頸，此項聯合治療策略為晚期胰臟癌帶來重要契機。\n\n■ 核心作用機制：\n1. 靶向核心驅動：Daraxonrasib 為針對 RAS 訊號傳導路徑設計之新型小分子抑制劑，旨在直接阻斷胰臟癌最關鍵的致癌驅動訊號。\n2. 一線協同增效：將 Daraxonrasib 前推至轉移性胰臟癌的初始一線治療，與細胞毒性化學治療藥物併用，透過雙重機制作業克服原發性抗藥性。\n3. 臨床初步反應：臨床觀察顯示，轉移性胰臟癌患者對此靶向合併化療之初始治療方案耐受性良好，並表現出積極的客觀腫瘤緩解反應。\n\n■ 臨床轉譯與研究展望：\n過去針對 RAS 突變胰臟癌的標靶藥物多在後線單藥治療中進行測試，往往受限於旁路活化而迅速產生抗藥性。將 Daraxonrasib 結合化療直接用於轉移性胰臟癌的初始治療，不僅驗證了早期雙重阻斷的可行性，更為後續隨機對照三期臨床試驗奠定基礎。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Metastatic pancreatic cancer responds well to initial treatment with combination of daraxonrasib and chemotherapy - EurekAlert!. https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSFZaaURaZkN4dzJ4c2YybE9OWHhXUXVyZ2kzbU84ajQ3UVk1UUFvOElkWEt5TFVndktkYWJxNXozNzlOeVI4MmJ0UFdaZ1NUMUdXUzFMVkZvQVNp?oc=5\n\n#轉移性胰臟癌 #Daraxonrasib #RAS抑制劑 #標靶合併化療 #胰臟癌研究 #一線治療 #精準腫瘤學",
+      "caption": "【Nature 重磅研究重構急性骨髓性白血病演化史：起始致癌突變可於確診前逾 50 年出現】\n\n由劍橋大學（University of Cambridge）與倫敦大學學院（UCL）研究團隊主導並發表於頂尖期刊《Nature》的演化腫瘤學研究，透過分析長年保存（部分早於確診前 15 年採集）的血液樣本，成功重構了急性骨髓性白血病（Acute Myeloid Leukemia, AML）在患者一生中的基因體演化動力學。研究揭露這種高侵襲性血液腫瘤並非突發性病變，而是歷經數十年的可預測演化過程。\n\n■ 研究核心發現：\n1. 跨越半世紀的潛伏期：系統發育與基因體回溯分析顯示，AML 的起始演化可追溯至臨床確診前 50 年以上；在所研究的病例中，高達三分之二（2/3）患者的第一個致癌驅動突變（cancer-driving mutation）早在 20 歲以前即已出現。\n2. 可預測的克隆擴增模式：帶有初始突變的異常造血細胞在數十年間以高度可預測的動力學模式緩慢生長，並長期維持在無臨床症狀的潛伏狀態。\n3. 突變累積與指數加速：隨著時間推移，當異常細胞克隆陸續獲得額外的次發性驅動突變後，其擴增速度會出現戲劇性的急遽加速，最終跨越臨床閾值並演變為致命的急性白血病。\n\n■ 臨床轉譯與研究展望：\n此項將歷年儲存血液視為「基因化石」的研究，徹底改寫了對急性白血病病程時間軸的認知，證實藉由早期偵測克隆造血（clonal hematopoiesis）動力學並在疾病爆發前數十年減緩異常血球擴增，將成為未來白血病精準預防與早期攔截的全新典範。\n\n■ 資料來源 (References)：\n1. Watson CJ, Poon GYP, MacGregor HAJ, Fonseca AVA, Apostolidou S, Damaskou A, et al. Evolutionary dynamics in the years preceding acute myeloid leukaemia. Nature. 2026. https://doi.org/10.1038/s41586-026-11269-x\n2. ScienceDaily Cancer News. Scientists discover that leukemia can begin developing 50 years before diagnosis. https://www.sciencedaily.com/releases/2026/11/261121221122.htm\n\n#Nature #急性骨髓性白血病 #演化腫瘤學 #克隆造血 #驅動突變 #血液腫瘤學 #癌症早期攔截",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "腫瘤學會臨床研究訊號",
-          "headline": "轉移性胰臟癌一線新突破\nDaraxonrasib 合併標準化療\n初始治療展現良好腫瘤反應",
-          "subheadline": "新型 RAS 路徑標靶藥物聯合化學治療於晚期胰臟癌之臨床療效解析",
-          "meta_badge": "研究焦點：轉移性胰臟癌初始一線聯合治療",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "tag": "演化腫瘤學研究",
+          "headline": "急性骨髓性白血病演化溯源\n三分之二患者起始驅動突變\n早於二十歲前即已潛伏生成",
+          "subheadline": "劍橋與 UCL 團隊於 Nature 揭露跨越半世紀之白血病克隆擴增動力學",
+          "meta_badge": "研究焦點：AML 確診前數十年血液基因體回溯",
+          "footer": "資料來源：Watson et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "作用機制",
-          "headline": "Daraxonrasib 合併化學治療如何克服\n轉移性胰臟癌的高度治療抗性？",
+          "tag": "演化機制",
+          "headline": "急性白血病如何在無症狀下\n歷經半世紀演化為致命血液腫瘤？",
           "points": [
-            "阻斷核心訊號：Daraxonrasib 精準靶向胰臟癌最主要的 RAS 致癌依賴路徑，抑制腫瘤細胞的異常增殖訊號",
-            "化療協同作用：搭配標準細胞毒性化療同步攻擊分裂中的癌細胞，降低單一標靶治療早期出現代償性逃逸的機率",
-            "前推一線介入：於轉移性胰臟癌尚未歷經多線藥物篩選出複雜抗藥株前，在初始治療階段即給予高強度聯合壓制"
+            "基因化石回溯：分析確診前長達 15 年以上歷年採集之儲存血液樣本，重建造血細胞突變演化譜系",
+            "極早期起始突變：高達三分之二病例的第一個致癌驅動突變於 20 歲前出現，潛伏期可超過 50 年",
+            "多階段加速擴增：初始突變細胞長期依循可預測模式生長，待累積額外突變後才呈現急遽的指數型擴增"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：Watson et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床表現",
-          "headline": "初始聯合治療臨床反應積極\n為難治型消化道腫瘤開啟新局",
+          "tag": "研究數據",
+          "headline": "白血病克隆演化時間軸\n與突變累積動力學之關鍵發現",
           "points": [
-            "目標患者族群：鎖定臨床治療選擇極為有限、預後最差的初診斷轉移性胰臟癌（Metastatic Pancreatic Cancer）患者",
-            "良好初始反應：臨床數據顯示患者接受 Daraxonrasib 與化療聯合方案作為初始治療後，腫瘤呈現良好的緩解反應",
-            "可行性獲驗證：證實新型標靶藥物與標準化療在一線臨床情境下併用的安全性與治療可行性，支持擴大試驗規模"
+            "五十年演化跨度：基因體時鐘推算顯示，從首個驅動突變出現至臨床確診 AML 可橫跨逾 50 年時間",
+            "青少年期突變率：約 67%（三分之二）受試患者之起始白血病驅動基因變異發生於 20 歲生日之前",
+            "長達十五年追蹤：利用確診前 15 年之縱向實體血液檢體，直接驗證突變克隆由緩慢擴增至爆發的軌跡"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：Watson et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "從後線單藥挽救治療邁向\n一線標靶合併化療精準打擊",
-          "summary": "轉移性胰臟癌數十年來一線治療高度依賴傳統複方化療。Daraxonrasib 合併化療在初始治療展現的良好反應，標誌著 RAS 標靶療法正式向胰臟癌一線標準治療發起挑戰，有望改寫晚期胰臟癌的臨床治療版圖。",
-          "cta": "後續觀察：Daraxonrasib 聯合化療於轉移性胰臟癌隨機對照試驗之無惡化存活期（PFS）與整體存活期數據",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "tag": "學術意義與展望",
+          "headline": "從被動治療晚期急性白血病\n邁向長達數十年的癌前克隆攔截",
+          "summary": "急性骨髓性白血病（AML）向來被視為突發且病程猛爆的血液惡性腫瘤。此研究證實其演化軌跡不僅長達半世紀且具備高度可預測的生長動力學，為臨床提供了長達數十年的黃金窗口，得以透過分子監測識別高風險克隆並進行早期藥物干預。",
+          "cta": "後續觀察：針對高風險前白血病突變克隆之生長動力學預測模型與早期減緩擴增標靶策略",
+          "footer": "資料來源：Watson et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "兒少癌症分子檢測",
+      "category": "細胞工程免疫",
       "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWQ2XzV3VDRBNEpBclJoTGFmT1F6QVRhVlp0ZkZjMWlqU2lrLUNLcWZpZXN2aFBKRmxWd2ptYlA1Nlg5eng0UFFmNlVZUHh1M1NRRGI0d2ZPVzhnclQteWJoRWVUY1NBdVk2U0d2LTVyWk9KbmNqcDEwSlhHY0ZyejBlUXpMajU3S2ZfbE5aMWd3M0VKWXpEZWtsUkUzLVJTbGlHTkFQRUtFVDZ3SlBVTFhJU2ZHbGdqdzlrNVhtYnR5b3Z0X2c?oc=5",
-      "original_title": "Expanding the Clinical Impact of Molecular Testing in Pediatric and AYA Cancers - The ASCO Post",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQl9hcHktQ0JZX2lMaF9MNWxHRktVTlRsZEl1S1U2bnEyQnBITzZzZmF4ejByREJOS1VrYlJvYlQ1b3h1OEZMN21FWUNncFNWQWJXMkZ1ZjNhenZ2V0JEM0JyM1FuVGdfVkVzdE5uZ0tXX0o2ZW1meVNMS2tteGZqaFA3TXhCVjdrSk9rNmN5RU1ma1NTZ3h0MXJWS1V0Yl9tRDR4amlHX1VmckVLdk1ZdFZBLVpDZVhlWGxreHZYYzQzMVhEMlE?oc=5",
+      "original_title": "Multiple Myeloma Novel Dual-Targeted CAR T-Cell Therapy Tested in Phase I Trial - The ASCO Post",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【ASCO 臨床焦點：全面擴大分子檢測於兒童與年輕成人（AYA）癌症之臨床影響力】\n根據《The ASCO Post》發布之美國臨床腫瘤學會（ASCO）專題解析，分子基因檢測（Molecular Testing）在兒童腫瘤（Pediatric Cancers）以及青少年與年輕成人癌症（Adolescent and Young Adult, AYA Cancers）的臨床診療中，正發揮日益關鍵的決定性作用。與成人常見的上皮細胞癌不同，兒少與 AYA 癌症具有獨特的基因體圖譜與高比例的染色體轉位或生殖細胞突變，擴大全面性分子檢測能顯著提升精準診斷與標靶治療配對率。\n\n■ 研究核心發現：\n1. 獨特分子圖譜：兒童與 AYA 年輕族群癌症較少由長期環境致癌物累積所致，反而頻繁攜帶特異性基因融合（Gene Fusions）、結構變異與罕見驅動突變。\n2. 精準亞型分層：透過次世代定序（NGS）等全面性分子檢測，能將傳統病理組織學難以區分的罕見兒少腫瘤進行精準分子分型，直接修正臨床風險分層。\n3. 擴大治療選擇：整合 DNA 與 RNA 層級的分子檢測可識別出跨癌種的可成藥標靶（Actionable Targets），為復發或難治型兒少患者配對相對應的標靶藥物或臨床試驗。\n\n■ 臨床轉譯與研究展望：\n過去兒童與 AYA 癌症的分子檢測常受限於檢體取得不易或僅針對少數單一基因進行篩檢。隨著檢測技術成熟與臨床共識推進，將廣譜分子剖析納入初診斷與復發階段的常規評估，已成為提升兒少癌症長期存活率並減少傳統高強度化放療遠期副作用的核心關鍵。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Expanding the Clinical Impact of Molecular Testing in Pediatric and AYA Cancers - The ASCO Post. https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWQ2XzV3VDRBNEpBclJoTGFmT1F6QVRhVlp0ZkZjMWlqU2lrLUNLcWZpZXN2aFBKRmxWd2ptYlA1Nlg5eng0UFFmNlVZUHh1M1NRRGI0d2ZPVzhnclQteWJoRWVUY1NBdVk2U0d2LTVyWk9KbmNqcDEwSlhHY0ZyejBlUXpMajU3S2ZfbE5aMWd3M0VKWXpEZWtsUkUzLVJTbGlHTkFQRUtFVDZ3SlBVTFhJU2ZHbGdqdzlrNVhtYnR5b3Z0X2c?oc=5\n\n#ASCO #兒童癌症 #AYA癌症 #分子基因檢測 #次世代定序 #精準醫療 #基因融合",
+      "caption": "【ASCO Post 臨床研究快訊：新型雙標靶 CAR-T 細胞療法於多發性骨髓瘤一期臨床試驗之概念驗證】\n\n根據美國臨床腫瘤學會《The ASCO Post》報導之最新臨床進展，針對復發或難治型多發性骨髓瘤（Multiple Myeloma）開發之新型雙標靶嵌合抗原受體 T 細胞（Dual-Targeted CAR T-Cell）療法，已於第一期臨床試驗中展開安全性與初步療效評估，旨在克服傳統單一標靶 CAR-T 治療後常見的抗原逃逸（antigen escape）抗藥機制。\n\n■ 核心作用機制：\n1. 雙抗原識別工程：傳統多發性骨髓瘤 CAR-T 療法主要針對單一表面抗原進行攻擊，而新型雙標靶 CAR-T 透過基因工程技術使 T 細胞能同時識別骨髓瘤細胞上的兩種特異性表面抗原，擴大腫瘤覆蓋範圍。\n2. 阻斷抗原逃逸抗藥：在單一標靶選擇壓力下，骨髓瘤細胞常透過下調或丟失目標抗原（antigen loss）產生復發；雙標靶設計確保即使單一抗原表現降低，CAR-T 細胞仍能透過第二標靶維持細胞毒殺活性。\n3. 一期臨床試驗評估：該項第一期臨床試驗重點評估雙標靶 CAR-T 細胞輸注後的體內擴增動力學、細胞激素釋放症候群（CRS）等安全性耐受度指標，以及對重度經治骨髓瘤患者的微殘存疾病（MRD）清除潛力。\n\n■ 臨床轉譯與研究展望：\n雙標靶 CAR-T 細胞工程代表了血液腫瘤過繼性細胞免疫治療的重要演進方向，透過在單一細胞製劑中整合雙重抗原鎖定能力，有望大幅延長多發性骨髓瘤患者的深度緩解時間。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Multiple Myeloma Novel Dual-Targeted CAR T-Cell Therapy Tested in Phase I Trial - The ASCO Post. https://news.google.com/rss/articles/CBMixgFBVV95cUxOQl9hcHktQ0JZX2lMaF9MNWxHRktVTlRsZEl1S1U2bnEyQnBITzZzZmF4ejByREJOS1VrYlJvYlQ1b3h1OEZMN21FWUNncFNWQWJXMkZ1ZjNhenZ2V0JEM0JyM1FuVGdfVkVzdE5uZ0tXX0o2ZW1meVNMS2tteGZqaFA3TXhCVjdrSk9rNmN5RU1ma1NTZ3h0MXJWS1V0Yl9tRDR4amlHX1VmckVLdk1ZdFZBLVpDZVhlWGxreHZYYzQzMVhEMlE?oc=5\n\n#ASCO #多發性骨髓瘤 #CART細胞治療 #雙標靶免疫 #細胞免疫工程 #抗原逃逸 #血液腫瘤學",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 臨床研究解析",
-          "headline": "擴大分子檢測臨床應用\n精準剖析兒童與 AYA 癌症\n全面提升標靶治療配對效益",
-          "subheadline": "The ASCO Post 專題探討分子基因診斷於兒少與年輕成人腫瘤之轉譯價值",
-          "meta_badge": "ASCO 焦點：兒童與年輕成人 (AYA) 癌症分子診斷",
+          "tag": "ASCO 細胞治療進展",
+          "headline": "多發性骨髓瘤免疫新突破\n新型雙標靶 CAR-T 細胞療法\n進入一期臨床試驗評估階段",
+          "subheadline": "透過雙重表面抗原鎖定策略克服單一標靶治療後之抗原逃逸與疾病復發",
+          "meta_badge": "研究設計：多發性骨髓瘤一期臨床試驗",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "檢測核心",
-          "headline": "兒童與年輕成人（AYA）癌症之基因體\n為何需要全面性的分子檢測策略？",
+          "tag": "細胞工程",
+          "headline": "雙標靶 CAR-T 細胞設計\n如何克服骨髓瘤的抗原逃逸機制？",
           "points": [
-            "驅動變異特異：兒少與 AYA 腫瘤罕見成人常見的點突變，反而高度富集染色體轉位、基因融合與表觀遺傳調控異常",
-            "突破病理限制：許多軟組織肉瘤與中樞神經系統腫瘤在傳統顯微鏡下形態相似，需仰賴分子標記才能確立正確診斷",
-            "生殖細胞評估：年輕患者攜帶遺傳性癌症易感基因突變的比例較高，分子檢測能同步提供家族遺傳風險與治療指引"
+            "雙重抗原鎖定：透過嵌合抗原受體工程改造，使自體 T 細胞能同時識別多發性骨髓瘤表面之雙重標靶",
+            "克服異質性表達：針對腫瘤細胞表面抗原表現高低不一之異質性，雙標靶設計可提升全面清除之涵蓋率",
+            "防止抗原丟失復發：即使癌細胞在免疫壓力下丟失單一標的抗原，第二受體仍能啟動 T 細胞毒殺訊號"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床影響",
-          "headline": "從診斷分期到個體化標靶配對\n分子檢測全方位改寫兒少腫瘤臨床決策",
+          "tag": "臨床評估",
+          "headline": "第一期臨床試驗核心指標\n與細胞免疫動力學觀察重點",
           "points": [
-            "精準風險分層：依據特異性分子標記重新界定預後風險，避免低風險年輕患者承受過度強化療帶來的長期器官毒性",
-            "跨癌種標靶配對：識別如 NTRK、ALK、BRAF 等跨癌種驅動變異，使罕見兒少癌症也能受惠於最新核准之籃型標靶藥物",
-            "拓展試驗機會：擴大分子檢測普及率能協助復發或難治型 AYA 患者精準對接生物標記導向之早期創新臨床試驗"
+            "安全性與耐受度：一期試驗首要評估雙標靶 CAR-T 輸注後之劑量限制毒性與免疫相關不良反應特徵",
+            "體內擴增持久性：監測工程化 T 細胞於患者體內的擴增峰值與長期存續能力，以確保免疫監控效應",
+            "深度緩解潛力：針對重度經治之多發性骨髓瘤患者，評估其誘導客觀緩解與清除殘存癌細胞之臨床活性"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
@@ -270,9 +270,9 @@
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從傳統組織形態學分類邁向\n全基因體導向之兒少精準腫瘤學",
-          "summary": "兒童與 AYA 年輕成人癌症患者擁有漫長的預期餘命，治療策略必須兼顧高治癒率與低遠期後遺症。ASCO 強調擴大分子檢測的臨床影響力，旨在讓每一位年輕患者都能在疾病早期獲得最精確的分子診斷與低毒性標靶治療機會。",
-          "cta": "後續觀察：全外顯子與轉錄體定序納入兒少與 AYA 癌症一線常規標準診療指引之全球普及率與長期存活效益",
+          "headline": "從單一抗原標靶邁向\n多維度鎖定之次世代 CAR-T 工程",
+          "summary": "儘管單一標靶 CAR-T 已徹底改變復發或難治型多發性骨髓瘤的治療版圖，但因抗原下調或異質性所導致的後期復發仍是臨床最大挑戰。雙標靶 CAR-T 一期試驗的推進，標誌著細胞免疫工程正式進入主動防禦抗藥演化的次世代階段。",
+          "cta": "後續觀察：雙標靶 CAR-T 一期臨床試驗之客觀緩解率（ORR）與長期無惡化存活數據",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
