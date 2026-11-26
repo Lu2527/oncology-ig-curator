@@ -1,268 +1,268 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T13:44:52.518867+08:00",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T13:35:18.710638+08:00",
   "posts": [
     {
       "id": "post-1",
       "selected": true,
-      "category": "液態切片檢測",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-3112",
-      "original_title": "Molecular residual disease interception in locoregionally advanced head and neck squamous cell carcinoma: The MERIDIAN Phase II trial.",
+      "category": "術前前導免疫",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1016/j.clinre.2026.102976",
+      "original_title": "Neoadjuvant immune checkpoint inhibitors for dMMR/MSI colorectal cancer: literature review and meta-analysis.",
       "theme_color": "#0F766E",
       "accent_color": "#14B8A6",
-      "caption": "【AACR 旗艦期刊發表 MERIDIAN 二期試驗：頭頸癌分子殘存疾病（MRD）監測與雙特異性抗體精準攔截】\n\n美國癌症研究協會（AACR）旗下權威期刊《Clinical Cancer Research》最新公布 MERIDIAN 二期臨床試驗成果。該研究首度針對局部晚期頭頸部鱗狀細胞癌（LA-HNSCC）患者，探討以全外顯子定序腫瘤知情（tumor-informed）液態切片技術追蹤循環腫瘤 DNA（ctDNA），並於分子殘存疾病（MRD）陽性階段介入抗 PD-1/TIGIT 雙特異性抗體 rilvegostomig 之可行性與臨床成效。\n\n■ 核心作用機制與臨床設計：\n1. 外顯子定序追蹤：針對接受根治性治療（手術、放療或同步放化療）之第 III 期 HPV 陽性或第 III-IVB 期 HPV 陰性 LA-HNSCC 患者，於治療後 8 至 12 週之 MRD 窗口進行個人化 ctDNA 與血漿 HPV DNA 監測。\n2. 雙重免疫檢查點：對於 MRD 窗口檢測出 ctDNA 陽性、無影像學惡化且 PD-L1 綜合陽性分數（CPS）≥1 之患者，隨機分配接受同時阻斷 PD-1 與 TIGIT 抑制訊號之雙特異性抗體 rilvegostomig 進行早期免疫攔截。\n3. 臨床清除與預後：在 42 名可評估患者中，14%（6 名）於 MRD 窗口呈現 ctDNA 陽性；其中接受 rilvegostomig 治療之患者於 10 週內達成 ctDNA 完全清除，並在長達 23.4 個月追蹤期內維持無復發狀態。\n\n■ 臨床轉譯與研究展望：\nMERIDIAN 試驗驗證了根治性治療後以高靈敏度 ctDNA 捕捉亞臨床微轉移病灶之預後價值，同時揭示在嚴格時間窗內執行 MRD 導向隨機分派試驗的操作挑戰，為未來頭頸癌術後輔助免疫精準升降階策略奠定關鍵實證基礎。\n\n■ 資料來源 (References)：\n1. Sanz-Garcia E, Spreafico A, Hosni A, de Almeida JR, McPartlin A, Eng L, et al. Molecular residual disease interception in locoregionally advanced head and neck squamous cell carcinoma: The MERIDIAN Phase II trial. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-3112\n2. AACR (美國癌症研究協會) / Cancer Discovery. Molecular residual disease interception in locoregionally advanced head and neck squamous cell carcinoma: The MERIDIAN Phase II trial.. https://doi.org/10.1158/1078-0432.CCR-26-3112\n\n#頭頸部鱗狀細胞癌 #液態切片 #分子殘存疾病 #雙特異性抗體 #AACR",
+      "caption": "【ASCO/ESMO 臨床數據統合分析：dMMR/MSI 大腸直腸癌術前前導免疫檢查點抑制劑誘導 61.8% 病理完全緩解率】\n\n針對非轉移性錯配修復基因缺陷或微衛星不穩定（dMMR/MSI）大腸直腸癌（CRC），術前前導免疫檢查點抑制劑（Neoadjuvant ICIs）近年展現顯著的臨床潛力。本研究系統性檢索 2020 年 1 月至 2026 年 2 月期間發表於 PubMed 以及美國臨床腫瘤學會（ASCO）與歐洲腫瘤內科學會（ESMO）之大型腫瘤醫學會議摘要，共納入 16 項前瞻性與回溯性世代研究（涵蓋 21 個治療組、797 名患者），全面量化術前前導免疫單藥或合併療法之病理反應與無疾病存活期（DFS）表現。\n\n■ 研究核心發現：\n1. 病理緩解指標：統合分析顯示，接受術前前導 ICIs 治療之非轉移性 dMMR/MSI CRC 患者，整體病理完全緩解率（pCR）達 61.8%（95% CI: 54.0%–69.0%），主要病理緩解率（MPR）高達 82.7%（95% CI: 70.3%–90.7%），臨床完全緩解率（cCR）亦達 61.7%。\n2. 存活效益評估：在中位追蹤時間 22.6 個月下，整體 18 個月無疾病存活率（18-month DFS rate）高達 94.4%（95% CI: 84.0%–98.2%），證實高度病理反應可轉化為穩定的中期疾病控制。\n3. 單藥與雙免比較：抗 PD-1 單一藥物治療與雙重免疫檢查點阻斷合併療法之 18 個月 DFS 率並無顯著差異（94.3% vs. 95.1%），為臨床處方強度與安全性權衡提供重要實證。\n\n■ 臨床轉譯與研究展望：\n此項大規模統合分析確立了術前前導免疫治療在局部晚期 dMMR/MSI 大腸直腸癌的高緩解率優勢，高比例的 cCR 與 pCR 數據亦為未來推進器官保留策略（Organ preservation）與免除手術之「觀察與等待（Watch-and-Wait）」臨床試驗奠定堅實基礎。\n\n■ 資料來源 (References)：\n1. Kuznetsova O, Kuzmin V, Lipatov D, Kosareva A, Murzakhanova K, Salkova L, et al. Neoadjuvant immune checkpoint inhibitors for dMMR/MSI colorectal cancer: literature review and meta-analysis. Clinics and research in hepatology and gastroenterology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1016/j.clinre.2026.102976\n2. ASCO (美國臨床腫瘤學會) / JCO. Neoadjuvant immune checkpoint inhibitors for dMMR/MSI colorectal cancer: literature review and meta-analysis.. https://doi.org/10.1016/j.clinre.2026.102976\n\n#大腸直腸癌 #dMMR #MSI #術前前導免疫治療 #免疫檢查點抑制劑 #病理完全緩解 #ASCO #ESMO #腫瘤學研究",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 臨床二期研究",
-          "headline": "外顯子知情 ctDNA 監測\n導引雙特異性抗體攔截\n局部晚期頭頸癌微殘存",
-          "subheadline": "MERIDIAN 二期試驗：以 Rilvegostomig 清除頭頸癌分子殘存疾病",
-          "meta_badge": "研究焦點：局部晚期頭頸癌 (LA-HNSCC) MRD",
-          "footer": "資料來源：Sanz-Garcia et al. AACR / Clinical cancer research : an o"
+          "tag": "ASCO/ESMO 統合分析",
+          "headline": "術前前導免疫檢查點抑制劑\n治療 dMMR/MSI 大腸直腸癌\n主要病理緩解率達 82.7%",
+          "subheadline": "涵蓋 16 項臨床研究共 797 名非轉移性患者之療效與安全性統合解析",
+          "meta_badge": "研究設計：系統性文獻回顧與臨床統合分析",
+          "footer": "資料來源：Kuznetsova et al. ASCO / Clinics and research in hepatolo"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "腫瘤知情液態切片如何結合\n雙特異性抗體精準攔截復發？",
+          "tag": "研究設計",
+          "headline": "系統性整合 ASCO 與 ESMO 世代\n如何評估術前免疫治療效益？",
           "points": [
-            "個人化外顯子：採用全外顯子基礎之腫瘤知情檢測技術，於根治治療後追蹤微量循環腫瘤 DNA",
-            "病毒基因定序：同步結合血漿人類乳突病毒（HPV）DNA 定序分析，提升口咽癌患者微小殘存偵測率",
-            "雙重免疫激活：Rilvegostomig 同時阻斷 PD-1 與 TIGIT 路徑，重塑耗竭 T 細胞對殘存癌細胞之清除力"
+            "表型篩選機制：聚焦非轉移性錯配修復缺陷或微衛星不穩定（dMMR/MSI）大腸直腸癌高免疫原性表型",
+            "世代資料整合：納入 2020 至 2026 年初共 16 項前瞻與回溯研究，涵蓋 21 個治療組與 797 名患者",
+            "多重終點評估：綜合分析病理完全緩解（pCR）、主要病理緩解（MPR）、臨床完全緩解（cCR）與第 3 級以上 irAEs"
           ],
-          "footer": "資料來源：Sanz-Garcia et al. AACR / Clinical cancer research : an o"
+          "footer": "資料來源：Kuznetsova et al. ASCO / Clinics and research in hepatolo"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "臨床數據",
-          "headline": "MERIDIAN 二期臨床試驗\n關鍵監測數據與分子清除成效",
+          "headline": "單藥與雙免疫檢查點阻斷\n病理反應與存活數據表現如何？",
           "points": [
-            "收案族群分布：共納入 52 名患者且 42 名可評估，其中 57% 為接受同步放化療之口咽部鱗狀細胞癌",
-            "殘存檢出比例：於治療後 8 至 12 週窗口，共 14%（6 名）檢出 ctDNA 陽性，其中 3 名已伴隨影像惡化",
-            "分子清除驗證：接受雙特異性抗體治療之 MRD 陽性患者於 10 週達成 ctDNA 清除，維持 23.4 個月無復發"
+            "深度病理反應：統合 pCR 率達 61.8%（95% CI: 54.0–69.0），MPR 率達 82.7%，cCR 率亦達 61.7%",
+            "疾病控制穩定：中位追蹤 22.6 個月之 18 個月無疾病存活率（DFS）高達 94.4%（95% CI: 84.0–98.2%）",
+            "單雙藥無差異：抗 PD-1 單藥治療與合併免疫療法之 18 個月 DFS 率相近（94.3% vs 95.1%），雙免未顯著拉開差距"
           ],
-          "footer": "資料來源：Sanz-Garcia et al. AACR / Clinical cancer research : an o"
+          "footer": "資料來源：Kuznetsova et al. ASCO / Clinics and research in hepatolo"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "從影像學復發被動救援邁向\n分子殘存階段主動免疫攔截",
-          "summary": "MERIDIAN 二期試驗首度於局部晚期頭頸癌確立全外顯子腫瘤知情 ctDNA 監測之可行性，證實雙特異性抗體 rilvegostomig 能於亞臨床階段有效清除分子殘存病灶，並為高風險患者在影像學復發前提供精準干預契機。",
-          "cta": "後續觀察：擴大頭頸癌 MRD 篩檢時程彈性與早期隨機介入試驗之無疾病存活期（DFS）終點",
-          "footer": "資料來源：Sanz-Garcia et al. AACR / Clinical cancer research : an o"
+          "headline": "高比例病理與臨床完全緩解\n推動器官保留與治療降階策略",
+          "summary": "本項統合分析證實術前前導免疫檢查點抑制劑在非轉移性 dMMR/MSI 大腸直腸癌中具備超過八成的主要病理緩解率與 94.4% 的 18 個月無疾病存活率。此外，抗 PD-1 單藥與雙免合併療法在 18 個月 DFS 上表現相當，有助於優化臨床治療安全性與效益比。",
+          "cta": "後續觀察：臨床完全緩解患者採取非手術器官保留策略之長期整體存活期（OS）與局部復發數據",
+          "footer": "資料來源：Kuznetsova et al. ASCO / Clinics and research in hepatolo"
         }
       ]
     },
     {
       "id": "post-2",
       "selected": true,
-      "category": "標靶抗藥解析",
-      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
-      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1388",
-      "original_title": "EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss.",
+      "category": "黏膜免疫防禦",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
+      "original_title": "Scientists discover a hidden gut defense that could prevent colon cancer",
       "theme_color": "#1D4ED8",
       "accent_color": "#3B82F6",
-      "caption": "【AACR 臨床三期試驗解析：EPIK-B3 評估 Alpelisib 合併化療於 PIK3CA 突變或 PTEN 缺失晚期三陰性乳癌之療效與 ctDNA 預後價值】\n\n發表於美國癌症研究協會（AACR）官方期刊《Clinical Cancer Research》的 EPIK-B3 全球隨機對照三期臨床試驗，針對帶有 PIK3CA 基因突變（Part A）或 PTEN 抑癌蛋白缺失且無已知 PIK3CA 突變（Part B1）之晚期三陰性乳癌（TNBC）患者，評估 PI3Kα 特異性抑制劑 alpelisib 合併白蛋白結合型紫杉醇（nab-paclitaxel）作為第一線或第二線治療之臨床效益。\n\n■ 研究核心發現：\n1. 訊息傳導抑制：PI3K/AKT/mTOR 路徑異常活化是驅動三陰性乳癌進展與化療抗藥性的重要機制，試驗設計旨在驗證雙重阻斷微管分裂與 PI3Kα 催化次單元之協同效應。\n2. 臨床存活分析：研究共納入 137 名患者（Part A 隨機組 102 名；Part B1 單臂組 35 名）。於 PIK3CA 突變隨機對照群體中，alpelisib 合併組相較安慰劑合併化療組並未顯現無惡化存活期（PFS）優勢（風險比 HR 1.49；95% CI: 0.92-2.41）。\n3. 液態生物標記：探索性分析證實，基線循環腫瘤 DNA（ctDNA）比例（tumor fraction）在各治療組別中均展現顯著預後價值，較高的基線 ctDNA 負荷與不良臨床預後高度相關。\n\n■ 臨床轉譯與研究展望：\nEPIK-B3 試驗結果顯示，單純依賴 PIK3CA 突變作為晚期三陰性乳癌給予 PI3Kα 抑制劑合併紫杉醇之生物標記仍具挑戰，未來需進一步釐清並存之旁路抗藥機制與代謝毒性管理，並整合基線 ctDNA 定量分層以優化精準標靶試驗設計。\n\n■ 資料來源 (References)：\n1. Sharma P, Lu YS, Yardley DA, Yusof MM, Xu B, Gumus M, et al. EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1388\n2. AACR (美國癌症研究協會) / Cancer Discovery. EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss.. https://doi.org/10.1158/1078-0432.CCR-26-1388\n\n#三陰性乳癌 #PIK3CA突變 #PTEN缺失 #Alpelisib #液態生物標記",
+      "caption": "【Nature 基礎腫瘤學突破：腸道免疫球蛋白 A（IgA）可直接抑制上皮細胞過度增殖並阻斷大腸癌腫瘤發生】\n\n多數腫瘤免疫學研究聚焦於如何清除已成型之惡性腫瘤，而洛克斐勒大學（Rockefeller University）黏膜免疫學實驗室發表於《Nature》的最新研究，則揭示了消化道天然防禦機制在「癌前階段」阻斷腫瘤發生（Tumorigenesis）的關鍵作用。研究團隊發現，廣泛存在於腸道黏膜的免疫球蛋白 A（Immunoglobulin A, IgA）除了抵禦病原體外，更能直接調控腸道上皮細胞的分裂速率，防止失控增殖演變為大腸腫瘤。\n\n■ 核心作用機制：\n1. 缺乏抗體致癌倍增：在動物模型實驗中，缺乏免疫球蛋白 A（IgA）基因表現的小鼠，其大腸腫瘤生成的數量超過具備正常 IgA 水準小鼠的兩倍以上，證實內源性 IgA 為抑制腸道腫瘤發生的核心防線。\n2. 上皮細胞增殖調控：分子機制解析顯示，IgA 能直接附著於腸道內壁的上皮細胞（Intestinal epithelial cells）表面，透過物理性與訊號交互作用限制上皮細胞過快分裂，從源頭遏止失控性細胞增殖。\n3. 口服補充逆轉風險：當研究團隊對先天缺乏 IgA 的小鼠進行口服投予（Oral administration）外源性 IgA 後，小鼠腸道上皮的異常增殖受到抑制，其大腸腫瘤發生風險完全回落至正常基準值。\n\n■ 臨床轉譯與研究展望：\n此項研究打破了黏膜抗體僅負責微生物屏障的傳統認知，證實 IgA 具備直接調控宿主上皮細胞週期與抑制腫瘤發生的生理功能，為高風險族群的大腸直腸癌化學預防（Chemoprevention）與口服黏膜免疫介入開闢全新研究方向。\n\n■ 資料來源 (References)：\n1. Donaldson GP, Lima dos Reis G, Saad M, Wichmann C, Mamede I, Chen G, et al. Suppression of epithelial proliferation and tumorigenesis by IgA. Nature. 2026. https://doi.org/10.1038/s41586-026-11264-2\n2. ScienceDaily Cancer News. Scientists discover a hidden gut defense that could prevent colon cancer. https://www.sciencedaily.com/releases/2026/11/261123005348.htm\n\n#大腸直腸癌 #黏膜免疫 #免疫球蛋白A #IgA #腫瘤發生 #上皮細胞增殖 #Nature #癌症預防機制",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "AACR 臨床三期研究",
-          "headline": "晚期三陰性乳癌標靶試驗\n解析 PI3Kα 抑制劑療效與\n基線 ctDNA 預後分層價值",
-          "subheadline": "EPIK-B3 三期試驗：Alpelisib 合併紫杉醇於 PIK3CA 突變或 PTEN 缺失族群之評估",
-          "meta_badge": "研究設計：隨機雙盲對照三期臨床試驗",
-          "footer": "資料來源：Sharma et al. AACR / Clinical cancer research : an offici"
+          "tag": "Nature 基礎腫瘤學",
+          "headline": "腸道免疫球蛋白 A (IgA)\n直接調控上皮細胞分裂速率\n阻斷大腸癌早期腫瘤發生",
+          "subheadline": "洛克斐勒大學揭示黏膜抗體抑制腸道上皮失控增殖之天然防禦機制",
+          "meta_badge": "研究焦點：黏膜免疫球蛋白 A 與大腸癌生成調控",
+          "footer": "資料來源：Donaldson et al. Nature (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
           "tag": "分子機制",
-          "headline": "PIK3CA 突變與 PTEN 缺失\n在晚期三陰性乳癌中的訊號特徵",
+          "headline": "腸道黏膜免疫球蛋白 A\n如何從源頭遏止癌前病變演進？",
           "points": [
-            "路徑異常活化：PIK3CA 致癌突變與 PTEN 功能缺失促使磷脂醯肌醇三磷酸累積，驅動腫瘤增殖與存活",
-            "精準分層設計：試驗區分為 PIK3CA 突變隨機雙盲組（Part A）與 PTEN 缺失開放標籤單臂組（Part B1）",
-            "液態腫瘤負荷：透過基線血漿檢體量化循環腫瘤 DNA 比例，動態反映全身腫瘤負荷與克隆侵略性"
+            "上皮細胞附著：IgA 直接結合於腸道內壁上皮細胞表面，建立超越傳統病原體防禦的宿主細胞調節介面",
+            "抑制異常分裂：透過抗體與上皮細胞的直接交互作用，限制腸道上皮細胞過度快速分裂與異常增殖",
+            "維持黏膜穩態：在腫瘤尚未形成前介入細胞週期動態，防止黏膜上皮因失控性增生而啟動腫瘤發生程序"
           ],
-          "footer": "資料來源：Sharma et al. AACR / Clinical cancer research : an offici"
+          "footer": "資料來源：Donaldson et al. Nature (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床數據",
-          "headline": "EPIK-B3 臨床試驗主要終點\n與生物標記關聯數據解析",
+          "tag": "實驗驗證",
+          "headline": "體內基因剔除與口服抗體回補\n對大腸腫瘤發生率有何影響？",
           "points": [
-            "收案規模統計：總計納入 137 名接受過 0 至 1 線轉移性化療之晚期三陰性乳癌患者進行療效分析",
-            "無惡化存活期：於 Part A 群體中，合併 Alpelisib 未能延長無惡化存活期（HR 1.49；95% CI: 0.92-2.41）",
-            "預後標記驗證：跨治療組別分析證實基線高 ctDNA 比例與病程快速惡化呈現顯著正相關"
+            "腫瘤數量倍增：缺乏 IgA 的基因改造小鼠模型中，其大腸腫瘤生成數量超過正常 IgA 水準小鼠的兩倍以上",
+            "口服回補逆轉：對缺乏 IgA 的小鼠口服投予外源性 IgA 後，成功消除其原本顯著升高的腫瘤發生風險",
+            "防線重心前移：實驗證實透過恢復腸道局部 IgA 濃度，即可在癌前階段有效阻斷上皮過度增生與腫瘤生成"
           ],
-          "footer": "資料來源：Sharma et al. AACR / Clinical cancer research : an offici"
+          "footer": "資料來源：Donaldson et al. Nature (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
           "tag": "學術意義與展望",
-          "headline": "突破單一基因突變框架\n探索三陰性乳癌複合抗藥機制",
-          "summary": "EPIK-B3 三期試驗呈現的重要陰性結果揭示，與荷爾蒙受體陽性乳癌不同，PIK3CA 突變晚期三陰性乳癌對 alpelisib 合併紫杉醇反應有限，突顯出三陰性乳癌複雜的旁路訊號補償機制，以及納入基線 ctDNA 負荷作為臨床試驗分層因子的必要性。",
-          "cta": "後續觀察：AKT 抑制劑或新一代突變選擇性 PI3Kα 抑制劑於三陰性乳癌次族群之生物標記探索",
-          "footer": "資料來源：Sharma et al. AACR / Clinical cancer research : an offici"
+          "headline": "從清除已成型惡性腫瘤\n邁向黏膜免疫早期癌變攔截",
+          "summary": "本研究首次於《Nature》闡明腸道免疫球蛋白 A（IgA）具備直接抑制腸道上皮細胞過度增殖與腫瘤發生的生理活性。透過口服補充 IgA 即可逆轉抗體缺失小鼠高達兩倍以上的腫瘤生成風險，將癌症免疫學的干預時點推進至腫瘤形成前的黏膜穩態維持。",
+          "cta": "後續觀察：IgA 與腸道上皮細胞結合之專一性受體鑑定及高風險大腸息肉世代之黏膜 IgA 生物標記驗證",
+          "footer": "資料來源：Donaldson et al. Nature (2026)"
         }
       ]
     },
     {
       "id": "post-3",
       "selected": true,
-      "category": "臨床試驗設計",
-      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
-      "source_url": "https://doi.org/10.1200/JCO-26-01504",
-      "original_title": "Randomized Phase II Clinical Trials in Rare Cancer Populations.",
+      "category": "同步放化療",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.esmoop.2026.108610",
+      "original_title": "Comparing paclitaxel plus cisplatin versus cisplatin in concurrent chemoradiotherapy for stage IV locoregionally advanced nasopharyngeal carcinoma: a phase II randomized trial.",
       "theme_color": "#6D28D9",
       "accent_color": "#8B5CF6",
-      "caption": "【ASCO 旗艦期刊 JCO 方法學突破：罕見癌症隨機二期臨床試驗相較於單臂歷史對照設計之統計效能評估】\n\n美國臨床腫瘤學會（ASCO）官方旗艦期刊《Journal of Clinical Oncology》（JCO）最新發表一項針對罕見癌症（Rare Cancers）二期臨床試驗設計的統計模擬研究。傳統上，罕見癌症因收案人數受限，普遍採用單臂二期試驗（single-arm phase II trials）並依賴歷史對照組（historical control）作為療效基準；然而歷史基準的不確定性常導致錯誤的臨床決策。本研究系統性評估樣本數 100 人以內之小型隨機設計與單臂設計在二元療效終點上的運作特徵。\n\n■ 研究核心發現：\n1. 歷史基準偏差：單臂試驗唯有在歷史對照反應率完全固定且精確指定時才具備良好校準度；一旦歷史基準存在不確定性或系統性低估，將大幅拉高將無效療法誤判為有潛力（偽陽性）的機率。\n2. 等量樣本比較：研究團隊在相同總樣本數（≤100 人）下比較小型隨機試驗與單臂試驗，並以評估 regorafenib 合併 nivolumab 治療肉瘤（sarcoma）之臨床試驗作為實證範例。\n3. 決策規則優化：設定實驗組成功人數必須超越對照組特定閾值之決策規則後，小型隨機二期設計能有效抵禦歷史對照偏差，在控制第一型錯誤率上展現顯著優勢。\n\n■ 臨床轉譯與研究展望：\n此項 JCO 研究打破「罕見癌症無法執行隨機試驗」的傳統迷思，證明在總樣本數不超過 100 人的限制下，導入小型隨機對照設計能避免因歷史對照失準而將無效藥物推進至昂貴的三期試驗，為肉瘤等罕見腫瘤的新藥開發提供更嚴謹的方法學準則。\n\n■ 資料來源 (References)：\n1. Ballman KV. Randomized Phase II Clinical Trials in Rare Cancer Populations. Journal of clinical oncology : official journal of the American Society of Clinical Oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1200/JCO-26-01504\n2. ASCO (美國臨床腫瘤學會) / JCO. Randomized Phase II Clinical Trials in Rare Cancer Populations.. https://doi.org/10.1200/JCO-26-01504\n\n#ASCO #JCO #罕見癌症 #臨床試驗設計 #生物統計學",
+      "caption": "【ESMO Open 二期隨機臨床試驗：第四期局部區域晚期鼻咽癌同步放化療中紫杉醇併順鉑與標準高劑量順鉑之療效比較】\n\n第四期局部區域晚期鼻咽癌（Stage IV LA-NPC）患者即便接受強度調控放射治療（IMRT）合併以順鉑（Cisplatin, DDP）為基礎的同步化學治療，仍面臨極高的局部復發與遠端轉移風險。發表於歐洲腫瘤內科學會旗下《ESMO Open》的隨機、開放標籤二期臨床試驗，旨在評估於同步放化療（CCRT）期間採用紫杉醇合併低累積劑量順鉑（TP 方案），是否能較標準高劑量單方順鉑（DDP 方案）進一步提升無惡化存活期（PFS）。\n\n■ 研究核心發現：\n1. 隨機對照設計：研究於 2017 年 2 月至 2019 年 9 月間納入 184 名第四期 LA-NPC 患者（1:1 隨機分配，每組 92 人），分別接受同步 TP 方案（每 4 週一次紫杉醇併順鉑共 2 療程，計畫累積順鉑劑量 160 mg/m²）或標準 DDP 方案（每 3 週一次順鉑共 3 療程，計畫累積順鉑劑量 300 mg/m²）。\n2. 主要終點數據：在意向治療群體（ITT）中，經過中位 47.6 個月的長期追蹤，TP 組的 3 年無惡化存活率（3-year PFS）為 68.2%（95% CI: 58.6%–77.8%），而標準高劑量 DDP 組則為 72.8%（95% CI: 63.8%–81.8%）。\n3. 劑量與療效權衡：數據顯示，在同步放化療階段加入紫杉醇並調降順鉑累積劑量（160 vs. 300 mg/m²）之 TP 雙藥方案，其 3 年 PFS 未能超越標準每三週一次的高劑量順鉑單藥方案。\n\n■ 臨床轉譯與研究展望：\n此項隨機二期試驗證實，針對第四期局部區域晚期鼻咽癌，累積劑量達 300 mg/m² 的標準順鉑同步放化療仍維持穩健的 3 年疾病控制表現（72.8%），為高風險鼻咽癌同步化療處方之鉑金累積劑量設定提供了嚴謹的隨機對照實證。\n\n■ 資料來源 (References)：\n1. Lu ZJ, Yang Q, Yang ZC, Chen QY, Liu LT, Sun R, et al. Comparing paclitaxel plus cisplatin versus cisplatin in concurrent chemoradiotherapy for stage IV locoregionally advanced nasopharyngeal carcinoma: a phase II randomized trial. ESMO open (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.esmoop.2026.108610\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Comparing paclitaxel plus cisplatin versus cisplatin in concurrent chemoradiotherapy for stage IV locoregionally advanced nasopharyngeal carcinoma: a phase II randomized trial.. https://doi.org/10.1016/j.esmoop.2026.108610\n\n#鼻咽癌 #局部晚期鼻咽癌 #同步放化療 #順鉑 #紫杉醇 #無惡化存活期 #ESMO #臨床二期試驗",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 臨床試驗方法學",
-          "headline": "破除罕見癌症收案迷思\n百人以下小型隨機二期試驗\n顯著降低歷史對照偽陽性",
-          "subheadline": "JCO 統計模擬解析：單臂歷史對照與小型隨機設計於肉瘤等罕見腫瘤之效能比較",
-          "meta_badge": "研究焦點：罕見癌症二期試驗統計運作特徵",
-          "footer": "資料來源：Ballman et al. ASCO / Journal of clinical oncology : offi"
+          "tag": "ESMO 隨機二期試驗",
+          "headline": "第四期局部晚期鼻咽癌\n同步放化療紫杉醇併順鉑\n與標準順鉑之三年 PFS 解析",
+          "subheadline": "184 名第四期 LA-NPC 患者接受雙藥減量順鉑對比標準高劑量順鉑之對照研究",
+          "meta_badge": "研究設計：開放標籤 1:1 隨機對照二期臨床試驗",
+          "footer": "資料來源：Lu et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "評估限制",
-          "headline": "為何傳統單臂歷史對照設計\n容易在罕見癌症產生偏差？",
+          "tag": "試驗設計",
+          "headline": "雙藥聯合減量鉑金與高劑量順鉑\n同步放化療處方如何設計？",
           "points": [
-            "歷史基準飄移：隨著支持性照護與診斷分期演進，過去文獻記載之歷史對照反應率常出現系統性低估",
-            "樣本變異放大：罕見癌症歷史世代樣本數通常極小，導致對照基準值本身帶有高度統計不確定性",
-            "偽陽性率攀升：模擬證實當歷史基準被低估時，單臂試驗極易在藥物無實際效益下錯誤宣告試驗成功"
+            "受試群體納入：招募 184 名第四期局部區域晚期鼻咽癌（Stage IV LA-NPC）患者，1:1 隨機分配至兩組（各 92 人）",
+            "雙藥 TP 處方：每 4 週施打紫杉醇合併順鉑共 2 個療程，同步放化療期間之計畫累積順鉑劑量為 160 mg/m²",
+            "標準 DDP 處方：每 3 週施打單方順鉑共 3 個療程，同步放化療期間之計畫累積順鉑劑量達 300 mg/m²"
           ],
-          "footer": "資料來源：Ballman et al. ASCO / Journal of clinical oncology : offi"
+          "footer": "資料來源：Lu et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "研究數據",
-          "headline": "百人規模統計模擬與\n肉瘤免疫標靶試驗實例驗證",
+          "tag": "臨床數據",
+          "headline": "中位追蹤近四年之主要終點\n三年無惡化存活率表現如何？",
           "points": [
-            "等量樣本模擬：於總收案人數不超過 100 名患者之條件下，直接對比單臂設計與隨機對照設計之檢定力",
-            "肉瘤實證範例：以評估 Regorafenib 合併 Nivolumab 治療肉瘤之二期臨床試驗作為實務模型進行參數校正",
-            "決策閾值控制：要求實驗組反應人數超越同期對照組預設數值，成功在不增加總人數下穩定控制偽陽性風險"
+            "長期追蹤時程：自 2017 年至 2019 年完成收案，全體意向治療族群（ITT）中位追蹤時間達 47.6 個月",
+            "三年 PFS 表現：TP 雙藥組之 3 年無惡化存活率為 68.2%（95% CI: 58.6–77.8），標準 DDP 組為 72.8%（95% CI: 63.8–81.8）",
+            "療效對比結論：於同步放化療期間以紫杉醇合併減量順鉑（TP），未能較標準高劑量順鉑（DDP）改善 3 年 PFS"
           ],
-          "footer": "資料來源：Ballman et al. ASCO / Journal of clinical oncology : offi"
+          "footer": "資料來源：Lu et al. ESMO / ESMO open (2026)"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "學術意義與展望",
-          "headline": "從依賴不確定歷史基準邁向\n小樣本同期隨機對照典範",
-          "summary": "本研究為罕見腫瘤臨床開發提供關鍵統計實證：即使在總收案人數低於 100 人的嚴苛限制下，小型隨機二期試驗仍優於容易受歷史對照誤差干擾的單臂設計，能更可靠地篩選出真正具備臨床活性的標靶與免疫新藥組合。",
-          "cta": "後續觀察：國際罕見癌症合作組織於新藥二期篩選階段導入小型隨機設計與調適性統計法則之成效",
-          "footer": "資料來源：Ballman et al. ASCO / Journal of clinical oncology : offi"
+          "tag": "臨床轉譯意義",
+          "headline": "標準高劑量順鉑同步放化療\n維持第四期鼻咽癌穩健疾病控制",
+          "summary": "本研究透過隨機對照設計驗證，在第四期局部區域晚期鼻咽癌的同步放化療中，採用紫杉醇合併累積劑量 160 mg/m² 順鉑之 3 年 PFS（68.2%）並未優於標準累積劑量 300 mg/m² 之順鉑單藥方案（72.8%），確立了足夠鉑金累積劑量在同步放化療階段的核心地位。",
+          "cta": "後續觀察：兩組患者之長期整體存活期（OS）、遠端轉移控制率及晚期放化療毒性反應之次群體分析",
+          "footer": "資料來源：Lu et al. ESMO / ESMO open (2026)"
         }
       ]
     },
     {
       "id": "post-4",
       "selected": true,
-      "category": "基因表現圖譜",
-      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZWFoc2MxWW5Iczg2N2lseDBQYldVMzVfX3NPU1BYVWZZMldsMkxQTWFmZVg4eWVuWWVDamJTLW1jNW40MEZuZlhaa3FOLVF6QXlKUFF2MWJUVkpNc252R1lwa2d4VU9MWjN6OGVjV0dyb0NHaVRnNjZLZmQ3aTZ1Qjc3LWlWWkt6RkpIQlI2VjJ6QXFOOFFFaEhFdHhycXdqeS1JTE1md210MTVXN1UzWEFucE8tQWIwaWk5akg2Rnc1R3FWTVNvM21YME5CTkRfSVdrZHZ2YUtmWTVDc1d0YTZZRDBVZE82bUZIQ3pfaU9IdUtpM2JGcm04MDJWSUhYOHZGU0phaFRzR1I4M19LYUFLZDZ6NTQx?oc=5",
-      "original_title": "Agendia to Present New MINDACT Data at SABCS 2026 on MammaPrint UltraLow Chemotherapy De-Escalation Regardless of Age and AI Digital Assay Validation - BioSpace",
+      "category": "臨床試驗設計",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-3390",
+      "original_title": "Accelerating Clinical Trial Activation: a National Imperative for U.S. Cancer Centers.",
       "theme_color": "#B45309",
       "accent_color": "#F59E0B",
-      "caption": "【SABCS 2026 乳癌研討會前瞻：MINDACT 試驗 MammaPrint 超低風險（UltraLow）跨年齡層化療降階與 AI 數位檢測驗證】\n\n即將登場的 2026 聖安東尼奧乳癌研討會（SABCS 2026）將公布具指標意義的 MINDACT 大型臨床試驗最新次族群分析數據。該研究聚焦於早期乳癌患者中，經由 70 基因表現圖譜（MammaPrint）鑑定為「超低風險（UltraLow Risk）」之群體，探討不論患者年齡高低進行輔助性化學治療降階（chemotherapy de-escalation）的長期安全性，並同步發表人工智慧（AI）數位病理檢測平台之臨床驗證成果。\n\n■ 核心作用機制與研究焦點：\n1. 多基因風險分層：MammaPrint 透過檢測腫瘤組織中 70 個與增殖、侵襲及轉移相關之基因表現量，精準識別出生物學行為極度惰性、遠端轉移風險極低的 UltraLow 早期乳癌亞群。\n2. 跨年齡化療降階：過去年輕早期乳癌患者常因年齡因素接受高強度輔助化療；最新 MINDACT 數據評估 UltraLow 基因特徵能否跨越年齡界線，作為免除細胞毒性化療之獨立分子依據。\n3. AI 數位病理驗證：研究同步展示將傳統分子基因組學特徵轉譯為 AI 數位病理演算法（AI Digital Assay）之驗證數據，加速風險評估流程並提升全球檢測可及性。\n\n■ 臨床轉譯與研究展望：\n結合 MINDACT 長期追蹤實證與 AI 數位病理驗證，早期乳癌的精準醫療正從傳統臨床病理參數與年齡限制，全面邁向以腫瘤內在基因組生物學與數位人工智慧雙重驅動的個人化降階治療時代。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Agendia to Present New MINDACT Data at SABCS 2026 on MammaPrint UltraLow Chemotherapy De-Escalation Regardless of Age and AI Digital Assay Validation - BioSpace. https://news.google.com/rss/articles/CBMimAJBVV95cUxOZWFoc2MxWW5Iczg2N2lseDBQYldVMzVfX3NPU1BYVWZZMldsMkxQTWFmZVg4eWVuWWVDamJTLW1jNW40MEZuZlhaa3FOLVF6QXlKUFF2MWJUVkpNc252R1lwa2d4VU9MWjN6OGVjV0dyb0NHaVRnNjZLZmQ3aTZ1Qjc3LWlWWkt6RkpIQlI2VjJ6QXFOOFFFaEhFdHhycXdqeS1JTE1md210MTVXN1UzWEFucE8tQWIwaWk5akg2Rnc1R3FWTVNvM21YME5CTkRfSVdrZHZ2YUtmWTVDc1d0YTZZRDBVZE82bUZIQ3pfaU9IdUtpM2JGcm04MDJWSUhYOHZGU0phaFRzR1I4M19LYUFLZDZ6NTQx?oc=5\n\n#SABCS2026 #早期乳癌 #MammaPrint #MINDACT試驗 #AI數位病理",
+      "caption": "【AACR / Clinical Cancer Research 全美癌症中心調查：早期臨床試驗啟動中位耗時達 135 天之制度瓶頸與改革策略】\n\n即時啟動腫瘤臨床試驗是加速創新抗癌藥物研發與擴展患者治療機會的核心關鍵。美國癌症研究所協會（Association of American Cancer Institutes, AACI）於美國癌症研究協會（AACR）官方期刊《Clinical Cancer Research》發表 2026 年臨床研究創新基準調查報告（反映 2025 年全美運作數據），涵蓋高達 88% 具資格之美國國家癌症研究所（NCI）指定癌症中心，深入剖析臨床試驗從審批到正式啟動（Trial Activation）的時程落差與結構性障礙。\n\n■ 研究核心發現：\n1. 各期別啟動時程：調查顯示全美癌症中心之臨床試驗啟動時間存在顯著變異，其中以第一期（Phase I）早期臨床試驗的中位啟動時間最長，達 135 天；其次為第二期（Phase II）試驗的 128 天，以及第三期（Phase III）試驗的 112 天。\n2. 贊助來源差異：由國家級機構贊助（Nationally-sponsored）之臨床試驗具備最快的啟動時程；相對地，由學術機構發起（Institutional）、外部同儕審查以及藥廠贊助之早期臨床試驗則面臨顯著的啟動延遲。\n3. 核心行政瓶頸：導致試驗啟動延宕的關鍵制度障礙，包含重複性的科學與倫理審查程序（Duplicative reviews）、冗長的合約與預算談判（Contract and budget negotiations），以及跨部門行政流程缺乏標準化。\n\n■ 臨床轉譯與研究展望：\n第一期與第二期腫瘤臨床試驗承載了眾多首創機制（First-in-class）標靶與免疫療法的概念驗證，縮短長達四個半月的試驗啟動延遲，將成為提升癌症中心轉譯研發效率與加速新藥進入臨床驗證的當務之急。\n\n■ 資料來源 (References)：\n1. George TJ, Kasner M, Litton JK, LoRusso P, Overby AM, Ptak K, et al. Accelerating Clinical Trial Activation: a National Imperative for U.S. Cancer Centers. Clinical cancer research : an official journal of the American Association for Cancer Research (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.1158/1078-0432.CCR-26-3390\n2. AACR (美國癌症研究協會) / Cancer Discovery. Accelerating Clinical Trial Activation: a National Imperative for U.S. Cancer Centers.. https://doi.org/10.1158/1078-0432.CCR-26-3390\n\n#臨床試驗設計 #早期臨床試驗 #一期臨床試驗 #藥物研發轉譯 #AACR #NCI癌症中心 #ClinicalCancerResearch #腫瘤臨床研究",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "SABCS 乳癌研究前瞻",
-          "headline": "70 基因圖譜超低風險分層\n實現跨年齡層早期乳癌\n輔助化療精準降階策略",
-          "subheadline": "SABCS 2026 焦點：MINDACT 試驗 MammaPrint UltraLow 數據與 AI 數位檢測驗證",
-          "meta_badge": "研究焦點：早期乳癌基因組降階與 AI 驗證",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "tag": "AACR 臨床研究政策",
+          "headline": "全美 NCI 癌症中心基準調查\n一期腫瘤臨床試驗啟動時程\n中位耗時長達 135 天",
+          "subheadline": "AACI 涵蓋 88% 國家級癌症中心之臨床試驗啟動效率與制度瓶頸解析",
+          "meta_badge": "研究焦點：美國 NCI 指定癌症中心試驗啟動分析",
+          "footer": "資料來源：George et al. AACR / Clinical cancer research : an offici"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "70 基因圖譜與 AI 數位病理\n如何重新定義早期乳癌風險？",
+          "tag": "評估架構",
+          "headline": "AACI 創新基準調查如何量化\n全美癌症中心之試驗啟動效率？",
           "points": [
-            "超低風險識別：透過 70 基因表現圖譜量化腫瘤轉移潛能，界定出生物學極度惰性之 UltraLow 亞群",
-            "突破年齡限制：驗證內在分子基因特徵優於傳統年齡指標，指導年輕與年長患者安全免除輔助化療",
-            "數位病理轉譯：結合人工智慧深度學習演算法解析病理切片，建立與分子檢測高度一致之數位風險模型"
+            "高代表性樣本：2026 年 AACI 臨床研究創新基準調查反映 2025 年實務運作，取得 88% 符合資格之 NCI 指定癌症中心參與",
+            "多維度分類比對：依試驗期別（Phase I/II/III）與贊助來源（國家級、學術機構發起、藥廠贊助）進行啟動時程基準化分析",
+            "結構性瓶頸識別：系統性盤點導致試驗延遲的行政關卡，包含重複性審查機制及漫長的法務合約與經費預算談判"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：George et al. AACR / Clinical cancer research : an offici"
         },
         {
           "slide_num": 3,
           "type": "points",
           "tag": "研究數據",
-          "headline": "SABCS 2026 大會即將揭曉之\nMINDACT 試驗兩大核心焦點",
+          "headline": "不同臨床試驗期別與贊助類型\n實際啟動中位天數差距為何？",
           "points": [
-            "跨年齡層分析：評估 MammaPrint UltraLow 早期乳癌患者在不同年齡區間免除化療後之遠端無轉移存活表現",
-            "長期預後追蹤：奠基於 MINDACT 前瞻性隨機試驗世代，提供超低風險族群長期單用內分泌或局部治療之實證",
-            "數位檢測驗證：發表 AI Digital Assay 與標準基因組檢測之臨床一致性驗證數據，縮短臨床決策等待時間"
+            "一期試驗最耗時：Phase I 臨床試驗中位啟動時間長達 135 天，高於 Phase II 的 128 天與 Phase III 的 112 天",
+            "早期試驗延遲重：機構自發性、外部同儕審查及藥廠贊助之早期試驗延遲最明顯，國家級贊助試驗則啟動最快",
+            "跨機構變異顯著：儘管各中心持續投入研究基礎建設與流程優化，跨院際的試驗啟動時程仍呈現高度落差"
           ],
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "footer": "資料來源：George et al. AACR / Clinical cancer research : an offici"
         },
         {
           "slide_num": 4,
           "type": "takeaway",
-          "tag": "臨床轉譯意義",
-          "headline": "融合基因組學與數位人工智慧\n引領早期乳癌免化療精準時代",
-          "summary": "SABCS 2026 即將發表的 MINDACT 最新分析，不僅確立 MammaPrint UltraLow 基因特徵在跨年齡層早期乳癌化療降階的臨床地位，更透過 AI 數位病理檢測驗證，展現多基因預後模型邁向數位化與普及化的重大典範轉移。",
-          "cta": "後續觀察：SABCS 2026 大會公布之各年齡層無遠端轉移存活率（DMFS）與 AI 檢測一致性指標",
-          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+          "tag": "學術意義與展望",
+          "headline": "破除重複審查與合約談判壁壘\n加速創新抗癌療法進入臨床",
+          "summary": "本項由 AACI 主導並發表於《Clinical Cancer Research》的全美調查指出，第一期腫瘤臨床試驗從籌備到啟動中位耗時達 135 天，反而較三期試驗（112 天）更為漫長。消除重複審查並標準化合約預算談判，是加速早期創新藥物臨床轉譯的核心關鍵。",
+          "cta": "後續觀察：NCI 指定癌症中心導入單一審查機制與標準化合約範本後之 Phase I 試驗啟動天數縮減幅度",
+          "footer": "資料來源：George et al. AACR / Clinical cancer research : an offici"
         }
       ]
     },
     {
       "id": "post-5",
       "selected": true,
-      "category": "圍術期免疫",
+      "category": "乳癌精準治療",
       "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbDlET09vYXh0NVh1YnZtMUwzbjVZMkVKOGMzVFI2RVV1VUpRLWFpMlYxRFU3UEVIREd4ejdRS3REaDBMUUxCdWpFbGtKbkZCNDdZN0xNOFA0RlV3anZBLTFDNjBUYktNa09ZVG9NV3QzLXAxc2lZMTZRN3N0Xzk1cW5ST3U0MXNjZkJfNkNMN0pZeXhGZmdwRThpTjFheHpoUTA2b19Cbm5CM2g3d2tBcW1fOFBoNE9NRG5UNWpMMkNsbXhhaHZFdEt0UXMyYk1yMFRZWmJTMA?oc=5",
-      "original_title": "Perioperative Chemoimmunotherapy Outperforms Surgery-Based Treatment in Head and Neck Cancer - The ASCO Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5",
+      "original_title": "New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer - The ASCO Post",
       "theme_color": "#BE123C",
       "accent_color": "#F43F5E",
-      "caption": "【ASCO Post 臨床焦點：頭頸癌圍術期化學免疫治療（Perioperative Chemoimmunotherapy）展現超越傳統手術基礎療法之臨床優勢】\n\n根據《The ASCO Post》最新報導之腫瘤醫學進展，針對可切除之局部晚期頭頸部癌症（Head and Neck Cancer），整合術前前導性（neoadjuvant）與術後輔助性（adjuvant）之「圍術期化學免疫治療（Perioperative Chemoimmunotherapy）」策略，在臨床療效上展現出優於傳統以手術為優先（surgery-based treatment）標準模式的重大突破。\n\n■ 核心作用機制與臨床策略：\n1. 原位腫瘤抗原釋放：在手術切除前給予化學治療合併免疫檢查點抑制劑，能利用完整原發腫瘤作為新抗原（neoantigen）儲庫，藉由化療誘導免疫原性細胞死亡，最大化擴增腫瘤特異性 T 細胞多樣性。\n2. 病理緩解與降期：術前化學免疫協同作用能顯著縮小原發腫瘤體積並清除區域淋巴結微轉移，提升病理完全緩解（pCR）與主要病理緩解（MPR）比例，降低高侵襲性手術造成之顏面與吞嚥功能損傷。\n3. 術後持續免疫監控：於手術切除後延續免疫檢查點抑制劑維持治療，能針對術後殘存之微量游離癌細胞維持長效免疫監視，降低局部復發與遠端轉移風險。\n\n■ 臨床轉譯與研究展望：\n圍術期化學免疫治療在頭頸癌的成功，呼應了非小細胞肺癌與黑色素瘤的前導免疫治療典範轉移，預示著局部晚期可切除頭頸癌將從「先手術後放化療」的傳統順序，演進為以術前免疫激活為核心的多專科整合模式。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). Perioperative Chemoimmunotherapy Outperforms Surgery-Based Treatment in Head and Neck Cancer - The ASCO Post. https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbDlET09vYXh0NVh1YnZtMUwzbjVZMkVKOGMzVFI2RVV1VUpRLWFpMlYxRFU3UEVIREd4ejdRS3REaDBMUUxCdWpFbGtKbkZCNDdZN0xNOFA0RlV3anZBLTFDNjBUYktNa09ZVG9NV3QzLXAxc2lZMTZRN3N0Xzk1cW5ST3U0MXNjZkJfNkNMN0pZeXhGZmdwRThpTjFheHpoUTA2b19Cbm5CM2g3d2tBcW1fOFBoNE9NRG5UNWpMMkNsbXhhaHZFdEt0UXMyYk1yMFRZWmJTMA?oc=5\n\n#ASCO #頭頸癌 #圍術期免疫治療 #前導性化免治療 #腫瘤免疫學",
+      "caption": "【ASCO 臨床指引動態更新：強調依個體化腫瘤生物學特性制定 HR 陽性、HER2 陰性乳癌治療策略】\n\n美國臨床腫瘤學會（ASCO）發布最新動態臨床實踐指引（Living Guideline）更新，針對荷爾蒙受體陽性、第二型人類表皮生長因子受體陰性（HR-Positive, HER2-Negative）乳癌，強調應超越傳統單一解剖學分期思維，全面將「個體化腫瘤生物學（Individual Tumor Biology）」置於治療決策的核心。隨著分子診斷與標靶治療實證的快速演進，ASCO 透過動態指引機制即時整合最新臨床試驗數據，確保臨床治療路徑與腫瘤分子特徵高度對齊。\n\n■ 研究核心發現：\n1. 個體化生物學導向：新指引明確指出，HR 陽性、HER2 陰性乳癌在生物學行為與治療反應上具高度異質性，必須依據個別患者的腫瘤生物學特徵（Tumor biology）量身制定治療計畫。\n2. 動態指引即時更新：採用 ASCO Living Guideline（動態指引）模式，由專家委員會定期審視新發表的隨機臨床試驗實證，即時修正內分泌治療與標靶聯合策略之建議等級。\n3. 精準醫療臨床落實：透過整合腫瘤分子標記與基因體特徵，精準區分高復發風險與特定標靶受惠族群，避免過度治療並強化高風險患者之系統性控制。\n\n■ 臨床轉譯與研究展望：\nASCO 此次動態指引更新再次確立了現代乳癌腫瘤學由「群體經驗處方」全面轉向「個體化生物學驅動」的典範轉移，為 HR+/HER2- 乳癌的精準分層治療提供權威依循。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). New ASCO Living Guideline Emphasizes Individual Tumor Biology in Treating HR-Positive, HER2-Negative Breast Cancer - The ASCO Post. https://news.google.com/rss/articles/CBMi8wFBVV95cUxQb2FpTGFrN0RacDhURnQyTC1DWDhmMVNDZHoyLW5qOGt0X1AwNFRwX0dqU19jM0J0SjBWZHBrRTRHbDdkZmhtblV4V1d6RjVfTnJWUWJIaVZqMkk4dExxVFNCQ2JkLWpjcDg0c3dEY3VkcC1Dd0pqY2RwdmxmNU9IUUVkekpJSTVfMkJWNkxGSXJ3NGxNSWRiM3QwUHRVRGJOWVZERi1YbUtlaE1EY1BWVkdHaHZyZWo1RF9sWHdCOVJlaW1MWnJib2JmaUUza0c3WXVERWNBTURmLXdDdlF2VVJnYVJnYnpDSGJnUnlDeHE4STQ?oc=5\n\n#乳癌 #HR陽性乳癌 #HER2陰性 #腫瘤生物學 #精準醫療 #ASCO #臨床指引更新 #個體化治療",
       "slides": [
         {
           "slide_num": 1,
           "type": "cover",
-          "tag": "ASCO 臨床治療進展",
-          "headline": "圍術期化學免疫整合治療\n於可切除局部晚期頭頸癌\n展現超越傳統手術模式效益",
-          "subheadline": "The ASCO Post 臨床解析：術前激活抗腫瘤免疫結合術後維持之典範轉移",
-          "meta_badge": "研究焦點：局部晚期頭頸癌圍術期治療策略",
+          "tag": "ASCO 臨床指引更新",
+          "headline": "ASCO 發布乳癌最新動態指引\n強調以個體化腫瘤生物學\n精準導引 HR+/HER2- 治療",
+          "subheadline": "整合最新分子生物學特徵與臨床實證之 HR 陽性、HER2 陰性乳癌治療準則",
+          "meta_badge": "研究焦點：HR+/HER2- 乳癌個體化生物學指引",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 2,
           "type": "points",
-          "tag": "分子機制",
-          "headline": "為何在手術切除前導入\n化學免疫治療能強化抗癌反應？",
+          "tag": "核心架構",
+          "headline": "ASCO 動態臨床實踐指引\n如何重塑乳癌治療決策邏輯？",
           "points": [
-            "完整抗原呈現：術前原發腫瘤仍保有完整新抗原譜系，有利於樹突細胞捕捉並廣泛激活多株 T 細胞",
-            "化免協同效應：細胞毒性化療破壞癌細胞釋放危險訊號，重塑免疫冷腫瘤微環境以強化檢查點阻斷效果",
-            "微轉移早清除：於手術創傷引發免疫抑制前即啟動全身性抗腫瘤免疫記憶，提前消滅亞臨床微轉移病灶"
+            "腫瘤生物學優先：強調在 HR 陽性、HER2 陰性乳癌中，個體化腫瘤生物學特性應作為決定治療策略的首要依據",
+            "異質性精準分層：針對 HR+/HER2- 亞型內部的生物學異質性進行細緻剖析，使系統性療法更貼合個別腫瘤特徵",
+            "動態實證整合：透過 Living Guideline 機制持續吸納最新臨床試驗成果，縮短重大科研突破轉化為臨床常規的時間差"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
         {
           "slide_num": 3,
           "type": "points",
-          "tag": "臨床成效",
-          "headline": "圍術期化學免疫治療相較\n傳統先手術模式之臨床優勢",
+          "tag": "指引焦點",
+          "headline": "針對 HR 陽性與 HER2 陰性亞型\n指引更新帶來哪些關鍵轉變？",
           "points": [
-            "超越傳統手術：臨床評估顯示圍術期化免整合方案在疾病控制與存活效益上優於傳統手術優先治療策略",
-            "腫瘤實質降期：術前系統性治療有效縮減腫瘤負荷，為複雜解剖位置之頭頸癌爭取更高之完整切除率",
-            "遠端復發防控：透過術前誘導與術後鞏固之雙階段免疫介入，強化全身性控制以降低術後復發風險"
+            "超越傳統分期：不再僅依賴解剖學腫瘤負荷，而是結合內在生物學驅動因子來衡量復發風險與治療強度",
+            "標靶與內分泌優化：依據個別腫瘤分子特性指導內分泌療法與標靶藥物之選擇，最大化臨床治療效益比",
+            "建立標準化路徑：為臨床腫瘤學界提供結構化的生物學評估框架，確保精準醫療原則一致落實於臨床實務"
           ],
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         },
@@ -270,9 +270,9 @@
           "slide_num": 4,
           "type": "takeaway",
           "tag": "臨床轉譯意義",
-          "headline": "翻轉先開刀後輔助傳統序列\n確立頭頸癌圍術期免疫新典範",
-          "summary": "圍術期化學免疫治療在局部晚期頭頸癌展現優於傳統手術優先策略之臨床成果，證實趁原發腫瘤尚存時啟動化學與免疫協同激活，不僅能提升局部病理緩解深度，更能建立長效全身性免疫記憶以改善長期預後。",
-          "cta": "後續觀察：依術前病理緩解深度（pCR/MPR）動態調整術後放化療強度與免疫維持時程之臨床指標",
+          "headline": "從亞型廣譜標準處方\n邁向個體化腫瘤生物學決策",
+          "summary": "ASCO 最新發布的 HR 陽性、HER2 陰性乳癌動態指引（Living Guideline），正式將個體化腫瘤生物學確立為治療決策的核心支柱。此舉不僅反映了分子腫瘤學對乳癌異質性的深刻理解，更藉由動態更新機制確保臨床實務能即時接軌最新的生物標記與標靶治療實證。",
+          "cta": "後續觀察：新一代生物標記與基因體檢測在 HR+/HER2- 乳癌輔助治療及晚期一線決策中之指引整合進程",
           "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
         }
       ]
