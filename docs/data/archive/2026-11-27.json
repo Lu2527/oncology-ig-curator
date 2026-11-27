@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T13:29:15.346097+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "PARP 標靶治療",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1016/j.annonc.2026.11.009",
+      "original_title": "Rucaparib versus docetaxel or second-generation androgen pathway inhibitor therapy for metastatic castration-resistant prostate cancer: final overall survival and safety from the phase III TRITON3 study.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【ESMO TRITON3 第三期臨床試驗最終總存活期分析：Rucaparib 於 BRCA/ATM 突變轉移性去勢抗性攝護腺癌之療效評估】\n\n發表於歐洲腫瘤內科學會（ESMO）官方旗艦期刊《Annals of Oncology》之第三期臨床試驗 TRITON3，公布最終整體存活期（Overall Survival, OS）與安全性數據。該研究納入先前接受過一種第二代雄性素受體路徑抑制劑（Androgen-Receptor Pathway Inhibitor, ARPI）治療後惡化、且未曾接受化療的 BRCA 或 ATM 基因突變轉移性去勢抗性攝護腺癌（mCRPC）患者，評估 PARP 抑制劑 Rucaparib 相較於醫師選擇之標準治療（Docetaxel 化療或另一種 ARPI）之長期臨床效益。先前報告已證實 Rucaparib 在 BRCA 突變亞群中能顯著延長影像學無惡化存活期（rPFS）。\n\n■ 研究核心發現：\n1. 臨床試驗設計：共納入 405 位 mCRPC 患者（其中 302 位具 BRCA 突變），以 2:1 比例隨機分派至 Rucaparib 組或對照組；對照組患者於確認影像學惡化後允許跨組（Crossover）接受 Rucaparib 治療。\n2. 最終存活數據：在中位追蹤 44 個月後，BRCA 突變亞群中 Rucaparib 組與對照組之中位 OS 分別為 23.2 個月與 21.2 個月（HR 0.91, 95% CI 0.68-1.20）；在意向治療（ITT）全體族群中則為 22.8 個月對比 21.7 個月（HR 0.99, 95% CI 0.78-1.26）。\n3. 生化反應優勢：在 BRCA 突變亞群中，Rucaparib 組的攝護腺特異抗原（PSA）反應率高達 54.7%，顯著優於醫師選擇對照組的 26.7%，展現明確的抗腫瘤活性。\n\n■ 臨床轉譯與研究展望：\n儘管對照組高比例的跨組治療稀釋了最終整體存活期的統計差異，TRITON3 試驗仍確立了 Rucaparib 在 BRCA 突變 mCRPC 患者中對比傳統 Docetaxel 化療或二線 ARPI 的疾病控制與 PSA 緩解優勢，為同源重組修復缺失（HRD）攝護腺癌的精準治療序列提供關鍵實證。\n\n■ 資料來源 (References)：\n1. Bryce AH, Chowdhury S, McDermott R, Piulats JM, Reaume MN, Ostler P, et al. Rucaparib versus docetaxel or second-generation androgen pathway inhibitor therapy for metastatic castration-resistant prostate cancer: final overall survival and safety from the phase III TRITON3 study. Annals of oncology : official journal of the European Society for Medical Oncology (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1016/j.annonc.2026.11.009\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Rucaparib versus docetaxel or second-generation androgen pathway inhibitor therapy for metastatic castration-resistant prostate cancer: final overall survival and safety from the phase III TRITON3 study.. https://doi.org/10.1016/j.annonc.2026.11.009\n\n#攝護腺癌 #mCRPC #PARP抑制劑 #Rucaparib #BRCA突變 #TRITON3 #ESMO #精準醫療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床三期最終分析",
+          "headline": "PARP 抑制劑治療攝護腺癌\nBRCA 突變亞群中位存活\n達 23.2 個月與高生化反應",
+          "subheadline": "TRITON3 第三期試驗：Rucaparib 對比化療或二線荷爾蒙治療之最終總存活期解析",
+          "meta_badge": "研究設計：405 例開放標籤隨機對照第三期試驗",
+          "footer": "資料來源：Bryce et al. ESMO / Annals of oncology : official journal"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "試驗設計機制",
+          "headline": "同源重組修復缺失標靶\n如何挑戰傳統標準二線療法？",
+          "points": [
+            "精準生物標記：鎖定具 BRCA 或 ATM 基因突變、且於第一線 ARPI 治療後惡化之未化療 mCRPC 患者",
+            "隨機分派對照：將 405 名受試者以 2:1 隨機分派至 Rucaparib 或醫師選擇之 Docetaxel 與 ARPI",
+            "跨組治療設計：對照組患者經影像學確認疾病惡化後，允許跨組接受 Rucaparib 作為後續挽救治療"
+          ],
+          "footer": "資料來源：Bryce et al. ESMO / Annals of oncology : official journal"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床存活數據",
+          "headline": "TRITON3 最終整體存活期\n與生化緩解率關鍵數據為何？",
+          "points": [
+            "BRCA 亞群存活：中位追蹤 44 個月，Rucaparib 組中位 OS 為 23.2 個月，對照組為 21.2 個月",
+            "全體意向分析：於 ITT 全體族群中，Rucaparib 組與對照組中位 OS 分別為 22.8 與 21.7 個月",
+            "PSA 反應翻倍：BRCA 突變亞群中 Rucaparib 組 PSA 反應率達 54.7%，對照組則為 26.7%"
+          ],
+          "footer": "資料來源：Bryce et al. ESMO / Annals of oncology : official journal"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "確立 BRCA 突變攝護腺癌\n早於化療介入之精準治療地位",
+          "summary": "TRITON3 最終分析顯示，在高比例對照組患者於疾病惡化後跨組接受 Rucaparib 的背景下，兩組最終整體存活期相當；然而 Rucaparib 在影像學無惡化存活期與高達 54.7% 的 PSA 反應率上具備顯著優勢，證實其在未化療 BRCA 突變 mCRPC 中的臨床價值。",
+          "cta": "後續觀察：跨組治療校正後之存活效益分析與不同 HRR 基因亞群之長期安全性評估",
+          "footer": "資料來源：Bryce et al. ESMO / Annals of oncology : official journal"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "細胞工程免疫",
+      "source_name": "ASCO (美國臨床腫瘤學會) / JCO",
+      "source_url": "https://doi.org/10.1186/s13045-026-01874-8",
+      "original_title": "Emerging advances in CAR-T therapy for solid tumors: latest clinical trial updates from the 2026 ASCO Annual Meeting.",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【ASCO 2026 實體腫瘤 CAR-T 細胞治療臨床進展：雙抗原標靶與裝甲化結構突破微環境障壁】\n\n根據發表於《Journal of Hematology & Oncology》針對 2026 年美國臨床腫瘤學會（ASCO）年會之最新臨床試驗綜述，嵌合抗原受體 T 細胞（CAR-T）療法在血液惡性腫瘤取得成功後，正積極拓展至標準治療難治型實體腫瘤。過去實體腫瘤 CAR-T 的臨床轉譯受限於腫瘤內抗原異質性（Intratumoral Antigen Heterogeneity）、T 細胞趨化與存留能力不足、免疫抑制性腫瘤微環境（TME），以及中靶但脫瘤毒性（On-target/Off-tumor Toxicity）等挑戰。\n\n■ 核心作用機制：\n1. 多元適應症驗證：該研究彙整 ASCO 2026 公布之 12 項具療效與安全性數據的實體腫瘤臨床試驗，涵蓋膠質母細胞瘤（GBM）、肝細胞癌（HCC）、胃腸道腫瘤、小細胞肺癌（SCLC）、大細胞神經內分泌癌（LCNEC）、非小細胞肺癌（NSCLC）及大腸直腸癌腹膜轉移。\n2. 雙抗原與邏輯閘：為克服單一抗原逃逸與腫瘤異質性，新一代自體與異體 CAR-T 採用雙抗原標靶（Dual-antigen Targeting）與邏輯閘控（Logic-gated）設計，提升腫瘤辨識精準度並降低脫瘤毒性。\n3. 裝甲化受體工程：透過裝甲化 CAR 結構（Armored CAR Constructs）改造 T 細胞，使其具備抵抗免疫抑制微環境之能力，強化在實體腫瘤組織內的浸潤深度與長期存留。\n\n■ 臨床轉譯與研究展望：\nASCO 2026 的早期臨床更新顯示，結合合成生物學的次世代 CAR-T 工程策略已能在多種難治型上皮與神經內分泌實體腫瘤中誘導臨床反應，同時維持可控的全身性免疫相關不良事件（irAEs）。\n\n■ 資料來源 (References)：\n1. Bao Y, Wang W, Shen H, Wang X, Miao J, Han W, et al. Emerging advances in CAR-T therapy for solid tumors: latest clinical trial updates from the 2026 ASCO Annual Meeting. Journal of hematology & oncology (ASCO (美國臨床腫瘤學會) / JCO). 2026. https://doi.org/10.1186/s13045-026-01874-8\n2. ASCO (美國臨床腫瘤學會) / JCO. Emerging advances in CAR-T therapy for solid tumors: latest clinical trial updates from the 2026 ASCO Annual Meeting.. https://doi.org/10.1186/s13045-026-01874-8\n\n#CART細胞治療 #實體腫瘤 #ASCO2026 #細胞免疫工程 #腫瘤微環境 #膠質母細胞瘤 #肝細胞癌 #小細胞肺癌",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ASCO 臨床研究更新",
+          "headline": "次世代實體腫瘤 CAR-T\n彙整 12 項早期臨床試驗\n突破免疫微環境與抗原異質",
+          "subheadline": "2026 ASCO 年會實體腫瘤自體與異體 CAR-T 細胞療法之工程策略與臨床成果解析",
+          "meta_badge": "研究焦點：涵蓋 GBM、HCC、SCLC 等難治型實體癌",
+          "footer": "資料來源：Bao et al. ASCO / Journal of hematology & oncology (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "細胞工程機制",
+          "headline": "實體腫瘤 CAR-T 療法\n如何克服微環境與脫瘤毒性？",
+          "points": [
+            "雙重抗原標靶：採用雙抗原結合設計克服腫瘤內抗原異質性，防止單一表面抗原喪失導致之免疫逃逸",
+            "裝甲化結構設計：建構 Armored CAR 強化 T 細胞於免疫抑制性腫瘤微環境中的趨化浸潤與持久存留能力",
+            "邏輯閘控迴路：運用邏輯閘控與自體或異體細胞平台，降低中靶脫瘤毒性與全身性免疫不良反應風險"
+          ],
+          "footer": "資料來源：Bao et al. ASCO / Journal of hematology & oncology (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床試驗版圖",
+          "headline": "ASCO 2026 實體癌臨床試驗\n涵蓋哪些高難度適應症？",
+          "points": [
+            "中樞與肝膽癌：納入高惡性度膠質母細胞瘤（GBM）與晚期肝細胞癌（HCC）之早期臨床安全性與療效評估",
+            "胸腔神經內分泌：涵蓋難治型小細胞肺癌（SCLC）、大細胞神經內分泌癌（LCNEC）與非小細胞肺癌（NSCLC）",
+            "消化道腹膜轉移：針對胃腸道惡性腫瘤及預後極差之大腸直腸癌腹膜轉移展開臨床概念驗證研究"
+          ],
+          "footer": "資料來源：Bao et al. ASCO / Journal of hematology & oncology (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從血液腫瘤邁向實體癌\n合成生物學重塑細胞治療邊界",
+          "summary": "2026 ASCO 年會公布的 12 項臨床研究證實，透過雙抗原標靶、裝甲化受體與邏輯閘控等次世代工程改造，CAR-T 療法已開始克服實體腫瘤的物理與免疫屏障，在多種缺乏後線標準選項的晚期實體癌中展現初步抗腫瘤活性。",
+          "cta": "後續觀察：第二期擴展世代之客觀緩解率（ORR）、細胞體內存留動力學與長期安全性數據",
+          "footer": "資料來源：Bao et al. ASCO / Journal of hematology & oncology (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "mRNA 癌症疫苗",
+      "source_name": "ESMO (歐洲腫瘤內科學會) / Annals of Oncology",
+      "source_url": "https://doi.org/10.1007/s00280-026-04987-6",
+      "original_title": "Clinical Pharmacology of Personalized mRNA Neoantigen Vaccines in Oncology: Molecular Design, Cellular Disposition and Combination Chemotherapy Strategy.",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【個人化 mRNA 新抗原癌症疫苗之臨床藥理學：分子設計、脂質奈米顆粒體內分布與化療聯合策略】\n\n發表於《Cancer Chemotherapy and Pharmacology》（列入 ESMO 相關學術文獻索引）之系統性藥理學評論，深入剖析個人化 mRNA 新抗原疫苗（Individualized mRNA Neoantigen Vaccines）作為全新抗癌生物製劑類別的分子設計與臨床藥動學特徵。此類療法針對每位患者腫瘤特有的體細胞突變（Somatic Mutations）重新設計藥物主成分，打破傳統抗癌藥物的固定分子模式。\n\n■ 核心作用機制：\n1. 非常規藥動學評估：由於個人化 mRNA 疫苗無法以傳統血漿濃度-時間曲線、清除率或暴露-反應關係衡量，其體內處置（Disposition）必須由脂質奈米顆粒（Lipid-Nanoparticle, LNP）生物分布、轉殖基因表現動力學（Transgene Expression Kinetics）及免疫藥效學三個層次定義。\n2. 分子與製劑工程：依據患者腫瘤突變圖譜設計多價新抗原序列，透過特定 LNP 載體遞送至淋巴組織與抗原呈現細胞，精準調控抗原轉譯效率與先天免疫活化強度。\n3. 化療與藥物交互作用：系統性評估個人化 mRNA 疫苗與細胞毒性化療或免疫檢查點抑制劑併用時的給藥時程、藥物交互作用與毒理學特徵，避免骨髓抑制削弱疫苗誘導之 T 細胞擴增。\n\n■ 臨床轉譯與研究展望：\n該研究註冊於開放科學框架（OSF），整合截至 2026 年 9 月之各大資料庫實證，建立個人化 mRNA 新抗原疫苗在分子藥理與聯合化療策略上的標準化評估架構，為後續大型隨機對照試驗提供給藥劑量與時序設計依據。\n\n■ 資料來源 (References)：\n1. Dabiry G, Imeri V, Farhin J, Nanisetty A, Nuretov M, Yılmazoğlu MA, et al. Clinical Pharmacology of Personalized mRNA Neoantigen Vaccines in Oncology: Molecular Design, Cellular Disposition and Combination Chemotherapy Strategy. Cancer chemotherapy and pharmacology (ESMO (歐洲腫瘤內科學會) / Annals of Oncology). 2026. https://doi.org/10.1007/s00280-026-04987-6\n2. ESMO (歐洲腫瘤內科學會) / Annals of Oncology. Clinical Pharmacology of Personalized mRNA Neoantigen Vaccines in Oncology: Molecular Design, Cellular Disposition and Combination Chemotherapy Strategy.. https://doi.org/10.1007/s00280-026-04987-6\n\n#mRNA癌症疫苗 #新抗原 #Neoantigen #臨床藥理學 #脂質奈米顆粒 #LNP #癌症免疫治療 #個人化醫療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "分子藥理與轉譯研究",
+          "headline": "個人化 mRNA 新抗原疫苗\n重塑抗癌生物製劑藥理框架\n解析 LNP 分布與化療協同",
+          "subheadline": "針對患者體細胞突變客製化之 mRNA 疫苗分子設計、細胞處置與聯合化療策略",
+          "meta_badge": "研究方法：OSF 註冊跨資料庫系統性藥理學評析",
+          "footer": "資料來源：Dabiry et al. ESMO / Cancer chemotherapy and pharmacology"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "藥理處置機制",
+          "headline": "客製化 mRNA 新抗原疫苗\n如何定義體內藥動與藥效學？",
+          "points": [
+            "LNP 生物分布：突破傳統血漿清除率指標，以脂質奈米顆粒於淋巴器官與脾臟之靶向遞送效率為核心",
+            "轉殖基因動力學：量化外源 mRNA 進入抗原呈現細胞後的轉譯持續時間、新抗原胜肽產量與 MHC 呈現效率",
+            "免疫藥效學指標：追蹤疫苗給藥後特異性 T 細胞克隆之擴增動力學、細胞激素釋放與免疫記憶維持時間"
+          ],
+          "footer": "資料來源：Dabiry et al. ESMO / Cancer chemotherapy and pharmacology"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床整合策略",
+          "headline": "新抗原疫苗併用傳統化療\n需克服哪些藥理與毒理挑戰？",
+          "points": [
+            "給藥時序最佳化：協調細胞毒性化療與 mRNA 疫苗之給藥間隔，避免化療誘導之淋巴球減少抑制免疫啟動",
+            "免疫原性微環境：利用特定化療藥物誘導腫瘤免疫原性細胞死亡（ICD），與疫苗產生的 T 細胞形成協同效應",
+            "毒理與交互作用：建立個體化批次生產製劑之劑量探索規範，監測全身性發炎反應與長期免疫相關毒性"
+          ],
+          "footer": "資料來源：Dabiry et al. ESMO / Cancer chemotherapy and pharmacology"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "建立客製化核酸抗癌藥物\n標準化臨床藥理學評估典範",
+          "summary": "個人化 mRNA 新抗原疫苗因「一人一藥」的特性，缺乏傳統藥物動力學參數。本研究透過定義 LNP 生物分布、轉殖基因表現動力學與免疫藥效學三維框架，為此類新興生物製劑與標準化療方案的臨床整合奠定藥理學基礎。",
+          "cta": "後續觀察：標準化免疫藥效學生物標記與多癌種術後輔助化療聯合方案之臨床驗證",
+          "footer": "資料來源：Dabiry et al. ESMO / Cancer chemotherapy and pharmacology"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "腫瘤基因體學",
+      "source_name": "AACR (美國癌症研究協會) / Cancer Discovery",
+      "source_url": "https://doi.org/10.3390/ijms272210442",
+      "original_title": "Divergent Driver Mutation Frequencies and an Exploratory Prognostic Genomic Score in Colorectal Cancer: A Cohort Study from Kazakhstan.",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【AACR GENIE 資料庫跨族群比對研究：哈薩克大腸直腸癌世代之驅動突變頻率差異與預後基因組評分】\n\n發表於《International Journal of Molecular Sciences》並整合美國癌症研究協會（AACR）GENIE 資料庫之基因體學研究，針對長期在大型癌症基因體計畫中代表性不足的中亞哈薩克大腸直腸癌（Colorectal Cancer, CRC）族群，利用次世代定序（NGS）描繪其體細胞突變圖譜，並開發探索性預後基因組評分模型。\n\n■ 研究核心發現：\n1. 高深度標靶定序：研究團隊採用 TruSight Oncology 500（TSO500）檢測平台，對 32 例哈薩克 CRC 患者腫瘤樣本進行全面基因體剖析，並與 AACR Project GENIE 資料庫中 770 例 CRC 參考世代進行突變頻率與共突變模式比對。\n2. 核心驅動基因圖譜：在哈薩克世代中，突變頻率最高的驅動基因依序為 TP53（53%）、APC（50%）以及 KRAS（44%）。\n3. 跨族群顯著差異：與 AACR GENIE 參考世代相比，哈薩克 CRC 患者表現出顯著較高的 GNAS 基因變異頻率（達 19%）以及相對較低的 APC 突變頻率；共突變分析亦揭示了特定反覆出現的驅動基因共發生（Co-occurrence）組合。\n\n■ 臨床轉譯與研究展望：\n此項跨族群比較證實大腸直腸癌具有顯著的地理與族裔基因體異質性。高達 19% 的 GNAS 突變率與獨特的共突變特徵，不僅凸顯擴展非歐美裔癌症基因體資料庫的必要性，亦為開發符合特定族群分子特徵的預後風險分層工具提供實證。\n\n■ 資料來源 (References)：\n1. Aitkulova A, Daniyarov A, Rakhimova S, Yerezhepov D, Akilzhanova A, Sarbassov D. Divergent Driver Mutation Frequencies and an Exploratory Prognostic Genomic Score in Colorectal Cancer: A Cohort Study from Kazakhstan. International journal of molecular sciences (AACR (美國癌症研究協會) / Cancer Discovery). 2026. https://doi.org/10.3390/ijms272210442\n2. AACR (美國癌症研究協會) / Cancer Discovery. Divergent Driver Mutation Frequencies and an Exploratory Prognostic Genomic Score in Colorectal Cancer: A Cohort Study from Kazakhstan.. https://doi.org/10.3390/ijms272210442\n\n#大腸直腸癌 #次世代定序 #NGS #AACR #GENIE資料庫 #驅動突變 #GNAS突變 #腫瘤基因體學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 基因體比對研究",
+          "headline": "跨族群大腸直腸癌定序\n揭示中亞世代 GNAS 突變\n高達 19% 之獨特基因圖譜",
+          "subheadline": "整合 TSO500 次世代定序與 AACR GENIE 資料庫之驅動突變頻率與預後評分解析",
+          "meta_badge": "研究設計：32 例中亞世代對比 770 例 GENIE 資料庫",
+          "footer": "資料來源：Aitkulova et al. AACR / International journal of molecula"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "定序分析方法",
+          "headline": "跨族群腫瘤基因體比對\n如何解析地域性分子異質性？",
+          "points": [
+            "廣譜標靶定序：運用 TruSight Oncology 500 平台針對大腸直腸癌組織進行高深度體細胞突變檢測",
+            "國際資料庫對標：將中亞臨床世代數據與 AACR Project GENIE 中 770 例標準大腸直腸癌世代進行統計比對",
+            "共突變網路分析：評估多個驅動基因在同一腫瘤內共同發生（Co-occurrence）之模式並建構預後基因組評分"
+          ],
+          "footer": "資料來源：Aitkulova et al. AACR / International journal of molecula"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "基因體學數據",
+          "headline": "中亞大腸直腸癌世代\n具備哪些獨特驅動突變特徵？",
+          "points": [
+            "三大核心突變：中亞世代最常發生變異之基因依序為 TP53（53%）、APC（50%）與 KRAS（44%）",
+            "GNAS 突變富集：GNAS 基因變異頻率高達 19%，顯著高於 AACR GENIE 參考世代之表現比例",
+            "APC 頻率差異：相較於西方為主的 GENIE 參考世代，該中亞世代呈現相對較低的 APC 突變發生率"
+          ],
+          "footer": "資料來源：Aitkulova et al. AACR / International journal of molecula"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "彌補中亞癌症基因體缺口\n推進族裔特異性精準預後模型",
+          "summary": "本研究透過對比 AACR GENIE 資料庫，證實大腸直腸癌驅動突變頻率在不同地域與族裔間存在顯著差異（如 GNAS 高突變率與 APC 比例下降）。這說明直接套用歐美基因體風險模型可能產生偏差，需建立涵蓋多元族裔的分子分層指標。",
+          "cta": "後續觀察：擴大中亞大腸直腸癌樣本數以驗證預後基因組評分與 GNAS 突變之標靶治療反應",
+          "footer": "資料來源：Aitkulova et al. AACR / International journal of molecula"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "實體癌臨床試驗",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmd6Umx2bXRZaVZwUExiRE91VjFiWmVBTFpjNG0wX0ZCdHR2QXV4RzhMVEVQX2xxcWRfXzQwNmNDaU1feVJPT1Y3NG1Obi1YaHllV3BmZVNEUEN5bTZTcTlpdmQwYm5SaFBWTmFmQkRpYWFQeDliT3NLVmpaUzV1ZjBtVVhDV09KRFMxYWpjenBhSTducTVYZVA1WXBaM1BNY3BTY0FB?oc=5",
+      "original_title": "ESMO 2026 Trials Demonstrate Major Survival Gains Across Diverse Solid Tumours - Bioengineer.org",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO 2026 跨癌種重大臨床試驗綜述：多元晚期實體腫瘤之整體存活期突破與治療典範轉移】\n\n於 2026 年歐洲腫瘤內科學會（ESMO）年會發表的系列臨床試驗中，多項針對晚期與轉移性實體腫瘤（Solid Tumours）的隨機對照試驗展現出顯著的存活效益提升。面對傳統化學治療與單一標靶藥物容易產生次發性抗藥性的臨床瓶頸，ESMO 2026 的研究核心聚焦於將新型精準生物製劑與免疫組合療法推進至更前線的治療階段。\n\n■ 研究核心發現：\n1. 跨癌種存活獲益：於 ESMO 2026 公布之多項指標性臨床試驗中，不同解剖部位與分子亞型之實體腫瘤在無惡化存活期（PFS）與整體存活期（OS）等關鍵臨床終點上皆取得統計學顯著改善。\n2. 生物標記導向分層：透過嚴格的分子生物標記（Biomarker-driven）篩選策略，識別出最能從特定標靶、抗體藥物複合體（ADC）或同源重組修復抑制劑中獲益的患者亞群。\n3. 聯合療法與前線推進：藉由最佳化給藥序列與跨機轉藥物協同作用，克服腫瘤內異質性並延緩抗藥性克隆的演化，同時維持可控的長期治療安全性與生活品質。\n\n■ 臨床轉譯與研究展望：\nESMO 2026 展示的跨癌種臨床試驗成果，反映出當代腫瘤內科學已從單一器官解剖分類，全面轉向以分子驅動機制與微環境特徵為核心的精準干預策略，多項突破性數據預計將直接改寫國際臨床實踐指南。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO 2026 Trials Demonstrate Major Survival Gains Across Diverse Solid Tumours - Bioengineer.org. https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmd6Umx2bXRZaVZwUExiRE91VjFiWmVBTFpjNG0wX0ZCdHR2QXV4RzhMVEVQX2xxcWRfXzQwNmNDaU1feVJPT1Y3NG1Obi1YaHllV3BmZVNEUEN5bTZTcTlpdmQwYm5SaFBWTmFmQkRpYWFQeDliT3NLVmpaUzV1ZjBtVVhDV09KRFMxYWpjenBhSTducTVYZVA1WXBaM1BNY3BTY0FB?oc=5\n\n#ESMO2026 #實體腫瘤 #整體存活期 #臨床試驗 #精準腫瘤學 #生物標記 #癌症標靶治療 #腫瘤內科",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 臨床研究焦點",
+          "headline": "ESMO 2026 實體癌突破\n多項跨癌種關鍵臨床試驗\n證實整體存活期顯著延長",
+          "subheadline": "歐洲腫瘤內科學會年會系列研究：精準生物標記分層與新型系統性療法之存活效益",
+          "meta_badge": "研究焦點：跨器官晚期實體腫瘤之長期存活終點",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "治療演進策略",
+          "headline": "新一代實體腫瘤臨床試驗\n如何突破傳統系統治療瓶頸？",
+          "points": [
+            "分子標記精準分層：依據驅動基因突變與蛋白質表現量進行前瞻性入組篩選，最大化標靶干預之治療指數",
+            "跨機轉協同抑制：結合不同作用路徑之抗癌藥物，阻斷癌細胞旁路活化訊號並延緩次發性抗藥性產生",
+            "前線治療時序推進：將具高反應率之精準療法由後線挽救階段推進至第一線或早期輔助治療，改善長期預後"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床終點表現",
+          "headline": "ESMO 2026 公布之試驗\n在核心臨床指標上有何進展？",
+          "points": [
+            "存活終點改善：於多種高致死率實體腫瘤試驗中，證實能帶來具臨床意義的整體存活期（OS）與疾病控制獲益",
+            "腫瘤緩解深度：相較於傳統標準對照組，新型干預方案展現更高的客觀緩解率與更持久的反應持續時間",
+            "安全性與耐受度：透過劑量最佳化與毒性管理規範，在延長治療暴露時間的同時維持患者整體生活品質"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "以分子分層與前線精準干預\n改寫晚期實體腫瘤治療標準",
+          "summary": "ESMO 2026 年會的多項臨床試驗結果顯示，透過精準生物標記篩選與跨機轉聯合策略，多種過往預後不佳的實體腫瘤在整體存活期上獲得實質突破。這些高證據等級的臨床數據將加速新一代抗癌療法納入全球標準治療指引。",
+          "cta": "後續觀察：各癌種完整亞群存活數據發表與真實世界臨床實踐之長期療效驗證",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
