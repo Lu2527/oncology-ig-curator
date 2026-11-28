@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T13:04:50.304726+08:00",
+  "posts": [
+    {
+      "id": "post-1",
+      "selected": true,
+      "category": "乳癌標靶試驗",
+      "source_name": "SABCS (聖安東尼奧乳癌研討會)",
+      "source_url": "https://doi.org/10.1158/1078-0432.CCR-26-1388",
+      "original_title": "EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss.",
+      "theme_color": "#0F766E",
+      "accent_color": "#14B8A6",
+      "caption": "【SABCS / Clinical Cancer Research 發表 EPIK-B3 三期試驗：Alpelisib 合併 Nab-paclitaxel 於 PIK3CA 突變或 PTEN 缺失晚期三陰性乳癌之臨床評估】\n根據聖安東尼奧乳癌研討會（SABCS）相關研究並發表於《Clinical Cancer Research》的第三期 EPIK-B3 臨床試驗（NCT04251533），研究團隊針對帶有 PIK3CA 基因突變（Part A）或具 PTEN 蛋白缺失且無已知 PIK3CA 突變（Part B1）的晚期三陰性乳癌（Triple-Negative Breast Cancer, TNBC）患者，評估了特異性 PI3Kα 抑制劑 alpelisib 合併白蛋白結合型太平洋紫杉醇（nab-paclitaxel）之臨床療效與生物標記預後價值。\n\n■ 研究核心發現：\n1. 試驗分組設計：Part A 為雙盲隨機對照試驗（n=102），將先前接受過 0 至 1 線轉移性化療的 PIK3CA 突變晚期 TNBC 患者，以 1:1 隨機分配至 alpelisib（每日口服 300 mg）或安慰劑合併 nab-paclitaxel；Part B1 則為針對 PTEN 缺失患者（n=35）之單臂開放標籤研究。\n2. 無惡化存活期：由於收案進度緩慢，Part A 提前終止招募並進行描述性療效分析；Kaplan-Meier 存活曲線顯示，alpelisib 合併 nab-paclitaxel 相較於對照組並未展現無惡化存活期（Progression-Free Survival, PFS）優勢，風險比（HR）為 1.49（95% CI: 0.92-2.41）。\n3. 液態切片預後：跨治療組別的生物標記分析證實，患者基線循環腫瘤 DNA（circulating tumor DNA, ctDNA）比例（fraction）具顯著預後價值，較高的基線 ctDNA 比例與不良臨床預後密切相關。\n\n■ 臨床轉譯與研究展望：\n儘管 PI3K/AKT/PTEN 訊息傳導路徑異常在三陰性乳癌的疾病惡化中扮演重要角色，EPIK-B3 試驗結果顯示單純以 PI3Kα 抑制劑合併紫杉醇類化療未能改善 PIK3CA 突變晚期 TNBC 的無惡化存活期，突顯了 TNBC 複雜的旁路代償機制，以及利用基線 ctDNA 腫瘤負荷進行精準風險分層的重要性。\n\n■ 資料來源 (References)：\n1. Sharma P, Lu YS, Yardley DA, Yusof MM, Xu B, Gumus M, et al. EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss. Clinical cancer research : an official journal of the American Association for Cancer Research (SABCS (聖安東尼奧乳癌研討會)). 2026. https://doi.org/10.1158/1078-0432.CCR-26-1388\n2. SABCS (聖安東尼奧乳癌研討會). EPIK-B3: A phase 3 randomized trial of alpelisib and nab-paclitaxel in patients with advanced triple-negative breast cancer with PIK3CA mutation or PTEN loss.. https://doi.org/10.1158/1078-0432.CCR-26-1388\n\n#SABCS #三陰性乳癌 #TNBC #PIK3CA #Alpelisib #液態切片 #ctDNA #腫瘤學研究",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "SABCS 三期臨床試驗",
+          "headline": "晚期三陰性乳癌標靶試驗\nEPIK-B3 揭示 PI3K 抑制劑\n與基線 ctDNA 之預後關聯",
+          "subheadline": "Alpelisib 合併 Nab-paclitaxel 治療 PIK3CA 突變或 PTEN 缺失亞群解析",
+          "meta_badge": "研究設計：EPIK-B3 隨機對照與單臂三期臨床試驗",
+          "footer": "資料來源：Sharma et al. SABCS / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "PI3K/PTEN 路徑異常在\n三陰性乳癌中扮演何種角色？",
+          "points": [
+            "路徑致癌驅動：PIK3CA 基因活化突變與 PTEN 抑癌蛋白缺失會過度激活下游訊號，促進三陰性乳癌惡化",
+            "精準標靶介入：Alpelisib 為口服特異性 PI3Kα 抑制劑，旨在阻斷異常磷酸化訊號並增強紫杉醇化療敏感性",
+            "生物標記分層：EPIK-B3 試驗依據腫瘤組織 PIK3CA 突變狀態與 PTEN 表現量，將晚期患者分為兩大獨立世代"
+          ],
+          "footer": "資料來源：Sharma et al. SABCS / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床數據",
+          "headline": "EPIK-B3 臨床試驗數據與\n液態切片分析揭示了什麼？",
+          "points": [
+            "收案規模分布：總計納入 137 名接受過 0 至 1 線化療之晚期患者，其中 Part A 佔 102 人、Part B1 佔 35 人",
+            "無惡化存活期：於 PIK3CA 突變組（Part A）中，合併療法未顯現 PFS 獲益（HR 1.49；95% CI: 0.92-2.41）",
+            "液態切片指標：跨治療組別分析證實基線循環腫瘤 DNA（ctDNA）比例具獨立預後價值，高負荷者預後較差"
+          ],
+          "footer": "資料來源：Sharma et al. SABCS / Clinical cancer research : an offic"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "釐清單一靶點抑制限制\n確立 ctDNA 風險分層價值",
+          "summary": "EPIK-B3 三期試驗顯示，在 PIK3CA 突變晚期三陰性乳癌中，alpelisib 合併 nab-paclitaxel 未能比單用化療延長無惡化存活期。此結果反映了三陰性乳癌高度的分子異質性與旁路抗藥機制，同時確立了基線 ctDNA 比例作為量化腫瘤負荷與預測存活預後的關鍵生物標記。",
+          "cta": "後續觀察：三陰性乳癌中 PI3K/AKT 路徑合併其他靶點或免疫檢查點抑制劑之協同策略與抗藥機制分析",
+          "footer": "資料來源：Sharma et al. SABCS / Clinical cancer research : an offic"
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "selected": true,
+      "category": "遺傳腫瘤基因",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+      "original_title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+      "theme_color": "#1D4ED8",
+      "accent_color": "#3B82F6",
+      "caption": "【AACR 旗艦期刊 Cancer Discovery 發表：鑑定出驅動早發高侵襲性攝護腺癌之罕見生殖細胞系 CDK12 基因突變】\n由英屬哥倫比亞大學（University of British Columbia, UBC）領銜並發表於美國癌症研究協會（AACR）官方旗艦期刊《Cancer Discovery》的最新研究中，科學家針對超過 4,500 名高侵襲性攝護腺癌（Aggressive Prostate Cancer）患者進行大規模基因體分析，首次確立了罕見的生殖細胞系（Germline）CDK12 基因變異為遺傳性高風險攝護腺癌的關鍵致病因子。\n\n■ 研究核心發現：\n1. 大規模世代篩檢：研究團隊剖析逾 4,500 例侵襲性攝護腺癌患者的遺傳基因體數據，在傳統已知的 BRCA1 與 BRCA2 同源重組修復基因之外，鑑定出罕見的先天遺傳性 CDK12 基因截斷或功能缺失突變。\n2. 早發轉移表型：在確認帶有此罕見生殖細胞系 CDK12 致病變異的 5 名帶因者中，所有患者（100%）皆在 44 歲至 62 歲之間（相對年輕的年齡層）發展為轉移性攝護腺癌（Metastatic Disease），展現極高的疾病穿透率與侵襲性。\n3. 基因體不穩定性：CDK12（細胞週期蛋白依賴性激酶 12）負責調控 DNA 損傷反應（DNA Damage Response, DDR）相關基因的轉錄延伸，其生殖細胞系缺失會誘發特徵性的串聯重複（Tandem Duplications）與基因體不穩定，加速惡性轉化。\n\n■ 臨床轉譯與研究展望：\n約 5% 至 10% 的癌症與遺傳性基因突變相關。此項發現證明 CDK12 除了作為體細胞突變（Somatic Mutation）生物標記外，亦是具高度臨床意義的遺傳性癌症易感基因，支持將 CDK12 納入高風險家族遺傳基因檢測面板（Gene Panel）。\n\n■ 資料來源 (References)：\n1. Tolmeijer SH, Maurice-Dror C, Sandhu S, de la Calle CM, Kollmannsberger C, Adil M, et al. Germline CDK12 Variants in Aggressive Prostate Cancer. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-26-0084\n2. ScienceDaily Cancer News. Scientists discover a hidden hereditary form of aggressive prostate cancer. https://www.sciencedaily.com/releases/2026/11/261117033911.htm\n\n#AACR #CancerDiscovery #攝護腺癌 #CDK12 #生殖細胞系突變 #遺傳性癌症 #基因體學 #精準腫瘤學",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 期刊遺傳學研究",
+          "headline": "解密早發高侵襲性攝護腺癌\n罕見生殖細胞系 CDK12 突變\n帶因者全數於壯年發生轉移",
+          "subheadline": "逾 4,500 例患者基因體剖析揭示超越 BRCA 之新型遺傳易感標記",
+          "meta_badge": "研究焦點：Cancer Discovery 生殖細胞系基因變異分析",
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分子機制",
+          "headline": "生殖細胞系 CDK12 基因變異\n如何驅動高侵襲性腫瘤演化？",
+          "points": [
+            "轉錄調控失能：CDK12 激酶負責維持長鏈 DNA 損傷修復基因之轉錄延伸，突變將導致修復機制崩潰",
+            "雙等位基因失活：先天攜帶單一缺陷等位基因之個體，於攝護腺組織發生二次打擊後引發基因體不穩定",
+            "早期惡性轉移：相較於偶發性腫瘤，先天性 CDK12 功能缺失會加速克隆演化，促使癌細胞於早年發生遠端轉移"
+          ],
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "逾四千五百例患者世代分析\n揭示了哪些關鍵臨床證據？",
+          "points": [
+            "大型世代規模：研究團隊系統性定序並檢視超過 4,500 名高侵襲性攝護腺癌患者的生殖細胞系基因資料",
+            "高穿透率表型：鑑定出之 5 名罕見遺傳性 CDK12 突變帶因者，全數於 44 至 62 歲間確診為轉移性攝護腺癌",
+            "遺傳佔比擴充：在佔比約 5% 至 10% 的遺傳性癌症中，證實 CDK12 為獨立於 BRCA1/2 之外的高風險因子"
+          ],
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "擴展遺傳性攝護腺癌圖譜\n推進高風險家族精準定序",
+          "summary": "本研究首次在大型臨床世代中證實生殖細胞系 CDK12 變異與早發、轉移性攝護腺癌的直接關聯。此發現不僅深化了對 CDK12 缺陷型腫瘤分子演化的理解，更為擴充臨床遺傳性癌症基因檢測組合（Germline Testing Panels）提供了關鍵分子證據。",
+          "cta": "後續觀察：生殖細胞系與體細胞系 CDK12 突變腫瘤對免疫檢查點抑制劑或標靶藥物之反應差異評估",
+          "footer": "資料來源：Tolmeijer et al. Cancer Discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "selected": true,
+      "category": "單細胞預後模型",
+      "source_name": "National Cancer Institute (NCI)",
+      "source_url": "https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival",
+      "original_title": "NIH-funded AI model predicts cancer survival from single-cell tumor data",
+      "theme_color": "#6D28D9",
+      "accent_color": "#8B5CF6",
+      "caption": "【AACR 旗艦期刊 Cancer Discovery 與 NCI 發表：開發單細胞解析度機器學習模型 scSurvival 精準預測癌症患者存活預後】\n由美國國家衛生院（NIH）與國家癌症研究所（NCI）資助，奧勒岡健康與科學大學（OHSU）團隊發表於 AACR 旗艦期刊《Cancer Discovery》的研究中，開發出一款名為「scSurvival」的機器學習運算框架。該工具能以單細胞解析度（Single-Cell Resolution）剖析大規模臨床腫瘤數據，不僅能精準識別高死亡風險患者，更能直接定位驅動不良預後的特定惡性或微環境細胞亞群。\n\n■ 核心作用機制：\n1. 單細胞特徵解構：傳統整體組織轉錄組（Bulk RNA-seq）會掩蓋腫瘤內部異質性；scSurvival 運用深度機器學習架構，直接處理大規模單細胞定序數據，保留腫瘤微環境中各細胞亞群的轉錄特徵。\n2. 致病亞群定位：模型不僅輸出患者層級的存活風險評分（Survival Risk Score），還能透過注意力權重機制反向追溯，精準指認出與高復發或高死亡風險直接相關的特定腫瘤細胞與免疫基質細胞群落。\n3. 臨床世代驗證：研究團隊在超過 150 名癌症患者的臨床單細胞數據集中測試 scSurvival，證實該模型能準確預測患者整體存活結果，並提供可解釋的細胞層級病理線索。\n\n■ 臨床轉譯與研究展望：\n正如 NCI 主任 Anthony Letai 博士所指出，能同時告知「誰處於高風險」以及「為何處於高風險（特定致病細胞亞群）」的評估工具，將有助於攻克高度異質性的難治型癌症，並引導開發針對高風險細胞亞群的精準靶向策略。\n\n■ 資料來源 (References)：\n1. Ren T, Zhao F, Chen C, Zhou L, Wu LY, Mills GB, et al. scSurvival: Single-Cell Survival Analysis of Clinical Cancer Cohort Data at Cellular Resolution. Cancer Discovery. 2026. https://doi.org/10.1158/2159-8290.cd-25-0965\n2. National Cancer Institute (NCI). NIH-funded AI model predicts cancer survival from single-cell tumor data. https://www.cancer.gov/news-events/press-releases/2026/ai-predicts-cancer-survival\n\n#AACR #CancerDiscovery #NCI #單細胞定序 #scSurvival #機器學習 #腫瘤異質性 #預後生物標記",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "AACR 期刊運算腫瘤學",
+          "headline": "單細胞解析度 AI 模型\nscSurvival 精準預測癌症存活\n並定位高風險致病細胞亞群",
+          "subheadline": "逾 150 例臨床患者數據驗證，突破傳統整體組織定序之異質性盲區",
+          "meta_badge": "研究機構：NCI 資助與 OHSU 發表於 Cancer Discovery",
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "演算法機制",
+          "headline": "scSurvival 如何從單細胞數據\n連結臨床患者的存活預後？",
+          "points": [
+            "突破平均效應：克服傳統整體組織定序將數百萬細胞訊號平均化之限制，保留稀有惡性亞群的單細胞特徵",
+            "多實例學習架構：透過機器學習框架整合單一患者體內數千個單細胞之基因表現譜，計算個體化存活風險",
+            "可解釋性回溯：模型在預測患者預後的同時，能定量標示出各個細胞亞群對不良存活結果的貢獻權重"
+          ],
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "實驗驗證",
+          "headline": "臨床癌症世代測試展現了\n哪些預後評估與生物學發現？",
+          "points": [
+            "臨床樣本驗證：於超過 150 名癌症患者之真實世界臨床單細胞世代數據中，展現高度穩健的存活預測能力",
+            "高危細胞指認：成功在複雜的腫瘤微環境中，分離並鑑定出直接導致治療抗性與高死亡風險的特定細胞群",
+            "跨癌種適用性：框架設計具備高度擴展性，可應用於不同實體腫瘤之大型單細胞圖譜與臨床預後關聯分析"
+          ],
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "學術意義與展望",
+          "headline": "從整體基因表現譜邁向\n單細胞解析度之精準預後學",
+          "summary": "scSurvival 的問世解決了單細胞轉錄組學與臨床存活終點之間難以直接建模的瓶頸。透過同時提供患者層級的風險分層與細胞層級的致病機轉線索，該模型為解析腫瘤內異質性（Intratumoral Heterogeneity）及發掘新型細胞靶點建立了標準化運算工具。",
+          "cta": "後續觀察：scSurvival 模型整合空間轉錄組學（Spatial Transcriptomics）與更大規模前瞻性臨床試驗世代之驗證",
+          "footer": "資料來源：Ren et al. Cancer Discovery (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "selected": true,
+      "category": "智慧早期檢測",
+      "source_name": "ScienceDaily Cancer News",
+      "source_url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+      "original_title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+      "theme_color": "#B45309",
+      "accent_color": "#F59E0B",
+      "caption": "【IEEE 生物醫學工程期刊發表：結合特徵工程與群體智慧優化之 AI 模型可於確診前 5 年識別 85% 膀胱癌隱藏警訊】\n由英國普利茅斯大學（University of Plymouth）研究團隊發表於《IEEE Transactions on Biomedical Engineering》的最新研究中，科學家開發出一套結合進階特徵工程（Advanced Feature Engineering）與群體智慧優化演算法（Swarm Intelligence Optimization）的人工智慧系統。該模型透過分析電子健康紀錄（Electronic Health Records, EHRs），能在臨床正式確診前長達 5 年，精準捕捉膀胱癌的早期微弱警訊。\n\n■ 核心作用機制：\n1. 突破症狀重疊困境：膀胱癌全球每年導致約 22 萬人死亡，其主要早期表徵為肉眼可見的血尿（Hematuria），但該症狀極易與腎結石或良性攝護腺疾患者混淆，導致常規轉診指引難以在早期精準區分。\n2. 進階特徵與群體優化：研究團隊利用進階特徵工程提取 EHR 中的縱向多維度資訊，並導入群體智慧優化演算法篩選最佳特徵組合，從看似無關的症狀、共病症、風險因子與就醫頻率中識別出高風險非線性模式。\n3. 大規模世代高敏感度：在涵蓋近 70,000 名患者的大型電子病歷研究中，該 AI 工具成功在確診前最高達 5 年的時間窗口內，識別出 85% 的膀胱癌病例。\n\n■ 臨床轉譯與研究展望：\n此項非侵入性數位生物標記技術展示了如何利用常規醫療數據進行癌症超早期風險分層，未來有望輔助臨床轉診決策，在提升早期膀胱癌檢出率的同時，減少低風險患者接受非必要的侵入性膀胱鏡檢查。\n\n■ 資料來源 (References)：\n1. Wang X, Preston A, Aning J, Loizou M, Zhou SM. Early Detection of Bladder Cancer Using Advanced Feature Engineering and Swarm Intelligence Optimization on EHRs. IEEE Transactions on Biomedical Engineering. 2026. https://doi.org/10.1109/tbme.2026.3658230\n2. ScienceDaily Cancer News. AI uncovers hidden bladder cancer warning signs years before diagnosis. https://www.sciencedaily.com/releases/2026/11/261120075604.htm\n\n#膀胱癌 #人工智慧 #早期癌症檢測 #電子健康紀錄 #群體智慧演算法 #生物醫學工程 #血尿鑑別 #精準醫療",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "生物醫學工程研究",
+          "headline": "AI 解析縱向電子健康紀錄\n於確診前五年精準捕捉\n達 85% 膀胱癌隱藏臨床警訊",
+          "subheadline": "近 7 萬名患者世代驗證，結合進階特徵工程與群體智慧優化演算法",
+          "meta_badge": "研究焦點：IEEE Trans Biomed Eng 早期風險預測模型",
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "演算法機制",
+          "headline": "群體智慧優化演算法如何\n突破膀胱癌早期鑑別瓶頸？",
+          "points": [
+            "臨床表徵重疊：早期膀胱癌之血尿症狀易與腎結石或良性泌尿道疾病混淆，常規篩檢難以精準鑑別",
+            "多維特徵工程：從縱向電子健康紀錄中提取症狀組合、慢性病史、危險因子及醫療照護活動頻率等時序特徵",
+            "群體智慧篩選：導入群體智慧優化演算法（Swarm Intelligence）進行高維度特徵選擇，鎖定高預測力訊號"
+          ],
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "研究數據",
+          "headline": "近七萬例患者電子病歷驗證\n展現了何種早期預測效能？",
+          "points": [
+            "大型世代規模：研究納入近 70,000 名患者的真實世界縱向電子健康紀錄進行模型訓練與獨立驗證",
+            "高檢出敏感度：模型成功在臨床常規診斷前，精準識別出高達 85% 最終確診為膀胱癌的高風險患者",
+            "五年超前預警：在部分無明顯特異性表徵的患者中，系統能捕捉到早於正式確診日達 5 年的微弱病理訊號"
+          ],
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "將常規病歷轉化為數位標記\n重塑泌尿腫瘤早期分流決策",
+          "summary": "面對全球每年奪走約 22 萬條人命的膀胱癌，本研究證實透過進階特徵工程與群體智慧優化解析常規電子病歷，可在不增加額外檢測成本下提前 5 年鎖定 85% 潛在病例。此技術不僅有助於把握早期根治契機，亦能降低良性疾病患者接受侵入性檢查的負擔。",
+          "cta": "後續觀察：該 AI 預警系統整合至基層醫療電子病歷系統之前瞻性臨床試驗與陽性預測值（PPV）評估",
+          "footer": "資料來源：Wang et al. IEEE Transactions on Biomedical Engineering (2026)"
+        }
+      ]
+    },
+    {
+      "id": "post-5",
+      "selected": true,
+      "category": "早期乳癌標準",
+      "source_name": "Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRS1ET3FRZlZNdnRSQjViQ3dHT2lfLUhpUC1BbDZmbVhGeElmbGdHZHVfQ0ZjNm1mSzVkOXBKQ0FxazhYdFJTNG9WR3pVS09kckp5N192M2E2REZ0QmxGZVlVV2NVc0pmREotaEg2OHZHU3EydWc?oc=5",
+      "original_title": "ESMO 2026 Redefines Early Breast Cancer Care: New Standards for HER2-Positive, Triple-Negative and HR-Positive Disease - Oncodaily",
+      "theme_color": "#BE123C",
+      "accent_color": "#F43F5E",
+      "caption": "【ESMO 歐洲腫瘤內科學會焦點：重新定義 HER2 陽性、三陰性與荷爾蒙受體陽性早期乳癌之臨床治療新標準】\n根據歐洲腫瘤內科學會（ESMO）公布之最新乳癌研究焦點，早期乳癌（Early Breast Cancer, EBC）的臨床照護正經歷重大典範轉移。針對人類表皮生長因子受體 2 陽性（HER2-Positive）、三陰性（Triple-Negative Breast Cancer, TNBC）以及荷爾蒙受體陽性（Hormone Receptor-Positive, HR+）三大分子亞型，多項前瞻性研究正在重新確立圍手術期（Perioperative）與術後輔助治療的新標準。\n\n■ 研究核心發現：\n1. HER2 陽性精準升降階：依據術前前導性治療（Neoadjuvant Therapy）後的病理完全緩解（pCR）狀態與生物標記風險分層，優化抗 HER2 標靶藥物與抗體藥物複合體（ADC）的給藥策略，兼顧遠端無復發存活與毒性管控。\n2. 三陰性乳癌免疫整合：確立早期高風險三陰性乳癌於圍手術期整合免疫檢查點抑制劑（Immune Checkpoint Inhibitors）與化療之標準地位，透過重塑抗腫瘤免疫微環境降低早期復發風險。\n3. HR 陽性高危強化輔助：針對具高復發風險臨床病理特徵之 HR+/HER2- 早期乳癌，強化內分泌治療合併細胞週期蛋白依賴性激酶 4/6（CDK4/6）抑制劑等標靶策略，延長無侵襲性疾病存活期（iDFS）。\n\n■ 臨床轉譯與研究展望：\nESMO 早期乳癌研究趨勢顯示，臨床決策已從傳統解剖學分期全面轉向「分子亞型結合動態治療反應」的個體化模式，為早期患者爭取更高的根治率。\n\n■ 資料來源 (References)：\n1. Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS). ESMO 2026 Redefines Early Breast Cancer Care: New Standards for HER2-Positive, Triple-Negative and HR-Positive Disease - Oncodaily. https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRS1ET3FRZlZNdnRSQjViQ3dHT2lfLUhpUC1BbDZmbVhGeElmbGdHZHVfQ0ZjNm1mSzVkOXBKQ0FxazhYdFJTNG9WR3pVS09kckp5N192M2E2REZ0QmxGZVlVV2NVc0pmREotaEg2OHZHU3EydWc?oc=5\n\n#ESMO #早期乳癌 #HER2陽性 #三陰性乳癌 #HR陽性乳癌 #圍手術期治療 #精準腫瘤學 #臨床指引",
+      "slides": [
+        {
+          "slide_num": 1,
+          "type": "cover",
+          "tag": "ESMO 早期乳癌焦點",
+          "headline": "ESMO 重塑早期乳癌治療標準\n針對 HER2 陽性、三陰性與\nHR 陽性亞型確立精準新策略",
+          "subheadline": "依分子亞型與治療反應動態調整圍手術期標靶與免疫輔助療法",
+          "meta_badge": "研究焦點：ESMO 早期乳癌三大分子亞型臨床進展",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 2,
+          "type": "points",
+          "tag": "分型策略",
+          "headline": "早期乳癌三大分子亞型\n如何實現個體化精準干預？",
+          "points": [
+            "HER2 陽性靶向：利用前導性抗 HER2 標靶治療評估病理緩解反應，做為術後輔助療法精準升降階之依據",
+            "三陰性免疫激活：於腫瘤原位存在時導入圍手術期免疫治療合併化療，最大化新抗原呈現與記憶 T 細胞反應",
+            "HR 陽性週期阻斷：針對荷爾蒙受體陽性高危亞群，合併長效內分泌阻斷與細胞週期抑制以清除休眠微轉移"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 3,
+          "type": "points",
+          "tag": "臨床意義",
+          "headline": "ESMO 早期乳癌治療新標準\n帶來了哪些核心臨床轉變？",
+          "points": [
+            "全亞型標準更新：同步刷新 HER2 陽性、三陰性及 HR 陽性三大早期乳癌亞型的臨床圍手術期照護框架",
+            "動態風險導向：從單純依賴基線解剖學分期（TNM），轉向結合基因體風險與前導性病理反應的雙重決策",
+            "預防遠端復發：透過早期強化系統性標靶與免疫干預，致力於消除微量殘存疾病（MRD）並提升長期治癒率"
+          ],
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        },
+        {
+          "slide_num": 4,
+          "type": "takeaway",
+          "tag": "臨床轉譯意義",
+          "headline": "從解剖分期走向分子反應\n全面提升早期乳癌根治契機",
+          "summary": "ESMO 針對早期乳癌的最新研究進展，凸顯了依據 HER2、三陰性與 HR 陽性不同生物學特性量身打造圍手術期療程的重要性。透過精準整合標靶、免疫與內分泌強化策略，早期乳癌的臨床管理正邁向更高治癒率與更低過度治療風險的新階段。",
+          "cta": "後續觀察：早期乳癌各亞型在導入新型輔助療法後的長期整體存活期（OS）與液態切片 MRD 監測數據",
+          "footer": "資料來源：Oncology Congress News (ASCO / ESMO / AACR / WCLC / SITC / SABCS)"
+        }
+      ]
+    }
+  ],
+  "curation_status": "new_curation"
+}
